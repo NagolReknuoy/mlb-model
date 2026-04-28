@@ -1,9 +1,5 @@
-# =============================================================================
-# odds.py — Fetch live sportsbook odds and identify value bets
-#
-# Uses The Odds API (the-odds-api.com) free tier
+# odds.py — live sportsbook odds and identify value bets Uses The Odds API (the-odds-api.com) free tier
 # Set your API key in the ODDS_API_KEY variable below
-# =============================================================================
 
 import requests
 import pandas as pd
@@ -13,11 +9,6 @@ from scipy.stats import poisson
 from modules.utils import clean_name
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
-# Key is read from environment variable ODDS_API_KEY (set in GitHub Secrets)
-# For local use, set it in your terminal:
-#   Windows: set ODDS_API_KEY=your_key_here
-#   Mac/Linux: export ODDS_API_KEY=your_key_here
-# OR paste directly below for local testing only (never commit to GitHub)
 import os as _os
 ODDS_API_KEY  = _os.environ.get("ODDS_API_KEY", "YOUR_API_KEY_HERE")
 ODDS_API_BASE = "https://api.the-odds-api.com/v4"
@@ -25,7 +16,7 @@ SPORT         = "baseball_mlb"
 REGIONS       = "us"          # us odds (American format)
 MARKETS       = "h2h,spreads,totals"
 ODDS_FORMAT   = "american"
-MIN_EDGE      = 0.07          # minimum edge to flag a bet (7%)
+MIN_EDGE      = 0.07        
 
 
 # ── American odds → implied probability (with vig removed) ───────────────────
@@ -52,7 +43,7 @@ def fetch_odds(target_date: date = None) -> pd.DataFrame:
     Returns a DataFrame with one row per game.
     """
     if ODDS_API_KEY == "YOUR_API_KEY_HERE":
-        print("[odds] ⚠️  No API key set — skipping odds fetch")
+        print("[odds] No API key set — skipping odds fetch")
         return pd.DataFrame()
 
     from datetime import datetime, timezone
@@ -243,7 +234,6 @@ def find_value_bets(predictions: pd.DataFrame,
         la = max(3.5, min(5.5, pred.get("Away_lambda", model_xruns / 2)))
 
         # ── Moneyline ────────────────────────────────────────────────────────
-        # Sanity check: MLB moneylines should be between -500 and +500
         ml_h_ok = (odds_row["ml_home"] and -500 <= odds_row["ml_home"] <= 500)
         ml_a_ok = (odds_row["ml_away"] and -500 <= odds_row["ml_away"] <= 500)
         if ml_h_ok and ml_a_ok:
@@ -361,7 +351,7 @@ def print_value_bets(bets_df: pd.DataFrame):
     bar   = "=" * total
 
     print(f"\n{bar}")
-    print(f"  💰 VALUE BETS — {len(bets_df)} found")
+    print(f" VALUE BETS — {len(bets_df)} found")
     print(f"{bar}")
     print(f"  {'GAME':<{W_GAME}} {'BET':<{W_BET}} {'ODDS':>{W_ODDS}} "
           f"{'BOOK%':>{W_BOOK}} {'MODEL%':>{W_MODEL}} {'EDGE':>{W_EDGE}}  RATING")
@@ -390,5 +380,4 @@ def print_value_bets(bets_df: pd.DataFrame):
         print(f"{'-' * total}")
 
     print(f"{bar}")
-    print(f"  ⚠️  For entertainment only. Please gamble responsibly.")
     print(f"{bar}\n")
