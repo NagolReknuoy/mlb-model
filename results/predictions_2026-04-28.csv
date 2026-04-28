@@ -1,16 +1,16 @@
 Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
-Cleveland Guardians,Tampa Bay Rays,Tanner Bibee,Nick Martinez,40.1,59.9,8.65,0.96,neutral,below-average HR park,"59°F, wind 11 mph",1.051,0-1 (home-away),4.046,4.626
-Baltimore Orioles,Houston Astros,Shane Baz,Kai-Wei Teng,49.2,50.8,11.05,0.959,hitter,short RF; warm summers,"57°F, wind 6 mph",1.027,no prior meetings,7.689,7.474
-Cincinnati Reds,Colorado Rockies,Chase Burns,Nan,73.7,26.3,9.23,1.092,hitter,one of the top HR parks in MLB,"67°F, wind 5 mph",1.024,no prior meetings,5.769,3.761
-Pittsburgh Pirates,St. Louis Cardinals,Nan,Kyle Leahy,62.2,37.8,8.01,0.922,pitcher,high RF wall; spacious,"70°F, wind 8 mph",1.042,0-1 (home-away),4.385,3.611
-Philadelphia Phillies,San Francisco Giants,Jesús Luzardo,Tyler Mahle,30.1,69.9,8.34,0.988,hitter,high HR rate historically,"57°F, wind 6 mph",0.971,1-2 (home-away),2.04,4.84
-Toronto Blue Jays,Boston Red Sox,Trey Yesavage,Payton Tolle,36.6,63.4,7.87,1.01,neutral,turf boosts groundball singles,dome,1.0,0-1 (home-away),3.458,4.405
-New York Mets,Washington Nationals,Clay Holmes,Zack Littell,24.3,75.7,9.07,0.912,pitcher,sea-level; large dimensions,"52°F, wind 7 mph",0.966,no prior meetings,3.588,5.705
-Atlanta Braves,Detroit Tigers,Martín Pérez,Casey Mize,67.4,32.6,9.73,1.04,hitter,warm humid air; June winds boost offense,"74°F, wind 6 mph",0.979,no prior meetings,7.765,4.226
-Minnesota Twins,Seattle Mariners,Joe Ryan,Logan Gilbert,43.2,56.8,7.97,0.92,neutral,cold Aprils suppress offense (-8 pts),"49°F, wind 9 mph",1.034,1-0 (home-away),3.774,4.211
-Chicago White Sox,Los Angeles Angels,Davis Martin,José Soriano,58.0,42.0,10.41,1.02,neutral,July is extreme hitter month (+12 pts),"56°F, wind 5 mph",0.975,1-0 (home-away),7.875,4.895
-Milwaukee Brewers,Arizona Diamondbacks,Chad Patrick,Nan,50.1,49.9,11.05,0.97,pitcher,large dimensions suppress HRs,dome,1.0,no prior meetings,5.737,5.693
-Texas Rangers,New York Yankees,Jacob Degrom,Cam Schlittler,34.7,65.3,8.0,0.958,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,0-1 (home-away),1.643,4.474
-Athletics,Kansas City Royals,Nan,Kris Bubic,50.0,50.0,11.07,0.931,pitcher,largest foul territory in MLB,"60°F, wind 7 mph",0.996,no prior meetings,6.049,5.723
-San Diego Padres,Chicago Cubs,Walker Buehler,Edward Cabrera,47.0,53.0,10.73,0.912,pitcher,marine layer; large dimensions,"63°F, wind 9 mph",1.041,1-0 (home-away),5.249,6.237
-Los Angeles Dodgers,Miami Marlins,Shohei Ohtani,Janson Junk,76.6,23.4,9.0,0.922,pitcher,marine layer suppresses carry; spacious foul territory,"62°F, wind 6 mph",0.971,1-0 (home-away),5.573,2.315
+Cleveland Guardians,Tampa Bay Rays,Tanner Bibee,Nick Martinez,41.4,58.6,8.63,0.96,neutral,below-average HR park,"57°F, wind 11 mph",1.052,0-1 (home-away),4.05,4.62
+Baltimore Orioles,Houston Astros,Shane Baz,Kai-Wei Teng,49.7,50.3,11.03,0.959,hitter,short RF; warm summers,"59°F, wind 6 mph",1.024,no prior meetings,7.663,7.432
+Cincinnati Reds,Colorado Rockies,Chase Burns,Nan,74.5,25.5,9.24,1.092,hitter,one of the top HR parks in MLB,"67°F, wind 6 mph",1.029,no prior meetings,5.816,3.775
+Pittsburgh Pirates,St. Louis Cardinals,Nan,Kyle Leahy,60.9,39.1,7.69,0.922,pitcher,high RF wall; spacious,unknown,1.0,0-1 (home-away),4.203,3.466
+Philadelphia Phillies,San Francisco Giants,Jesús Luzardo,Tyler Mahle,28.8,71.2,8.45,0.988,hitter,high HR rate historically,unknown,1.0,1-2 (home-away),2.102,4.975
+Toronto Blue Jays,Boston Red Sox,Trey Yesavage,Payton Tolle,36.0,64.0,7.84,1.01,neutral,turf boosts groundball singles,dome,1.0,0-1 (home-away),3.458,4.398
+New York Mets,Washington Nationals,Clay Holmes,Zack Littell,25.2,74.8,9.15,0.912,pitcher,sea-level; large dimensions,unknown,1.0,no prior meetings,3.705,5.903
+Atlanta Braves,Detroit Tigers,Martín Pérez,Casey Mize,67.2,32.8,9.84,1.04,hitter,warm humid air; June winds boost offense,unknown,1.0,no prior meetings,7.918,4.309
+Minnesota Twins,Seattle Mariners,Joe Ryan,Logan Gilbert,43.2,56.8,7.71,0.92,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,1-0 (home-away),3.65,4.063
+Chicago White Sox,Los Angeles Angels,Davis Martin,José Soriano,58.4,41.6,10.4,1.02,neutral,July is extreme hitter month (+12 pts),"58°F, wind 3 mph",0.982,1-0 (home-away),7.914,4.919
+Milwaukee Brewers,Arizona Diamondbacks,Chad Patrick,Merrill Kelly,50.5,49.5,10.98,0.97,pitcher,large dimensions suppress HRs,dome,1.0,no prior meetings,6.031,5.683
+Texas Rangers,New York Yankees,Jacob Degrom,Cam Schlittler,34.5,65.5,7.96,0.958,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,0-1 (home-away),1.639,4.474
+Athletics,Kansas City Royals,Nan,Kris Bubic,50.1,49.9,11.0,0.931,pitcher,largest foul territory in MLB,"60°F, wind 7 mph",0.996,no prior meetings,6.036,5.724
+San Diego Padres,Chicago Cubs,Walker Buehler,Edward Cabrera,45.0,55.0,10.69,0.912,pitcher,marine layer; large dimensions,"63°F, wind 8 mph",1.035,1-0 (home-away),5.203,6.196
+Los Angeles Dodgers,Miami Marlins,Shohei Ohtani,Janson Junk,77.1,22.9,8.99,0.922,pitcher,marine layer suppresses carry; spacious foul territory,unknown,1.0,1-0 (home-away),5.727,2.384

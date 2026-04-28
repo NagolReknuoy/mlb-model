@@ -1,10 +1,10 @@
 type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
-Total,UNDER 8.0,-105.0,0.1539,0.4892,0.6431,True,0.9524,2026-04-27,Cleveland Guardians vs Tampa Bay Rays
-Moneyline,Pittsburgh Pirates ML,-118.0,0.0766,0.5174,0.594,False,-1.0,2026-04-27,Pittsburgh Pirates vs St. Louis Cardinals
-Total,UNDER 8.0,-110.0,0.1294,0.5,0.6294,True,0.9091,2026-04-27,Pittsburgh Pirates vs St. Louis Cardinals
-Moneyline,Boston Red Sox ML,115.0,0.173,0.447,0.62,True,1.15,2026-04-27,Toronto Blue Jays vs Boston Red Sox
-Total,UNDER 9.0,-110.0,0.1129,0.5,0.6129,False,-1.0,2026-04-27,Minnesota Twins vs Seattle Mariners
-Moneyline,New York Yankees ML,-165.0,0.1499,0.5991,0.749,True,0.6061,2026-04-27,Texas Rangers vs New York Yankees
-Moneyline,Chicago Cubs ML,100.0,0.1607,0.4783,0.639,False,-1.0,2026-04-27,San Diego Padres vs Chicago Cubs
-Moneyline,Los Angeles Dodgers ML,-300.0,0.0567,0.7183,0.775,True,0.3333,2026-04-27,Los Angeles Dodgers vs Miami Marlins
-Total,UNDER 8.5,-111.0,0.0757,0.5022,0.5779,False,-1.0,2026-04-27,Los Angeles Dodgers vs Miami Marlins
+Total,UNDER 8.0,-105.0,0.1489,0.4892,0.6381,True,0.9524,2026-04-27,Cleveland Guardians vs Tampa Bay Rays
+Moneyline,Pittsburgh Pirates ML,-118.0,0.0916,0.5174,0.609,False,-1.0,2026-04-27,Pittsburgh Pirates vs St. Louis Cardinals
+Total,UNDER 8.0,-110.0,0.1257,0.5,0.6257,True,0.9091,2026-04-27,Pittsburgh Pirates vs St. Louis Cardinals
+Moneyline,Boston Red Sox ML,115.0,0.179,0.447,0.626,True,1.15,2026-04-27,Toronto Blue Jays vs Boston Red Sox
+Total,UNDER 9.0,-110.0,0.0917,0.5,0.5917,False,-1.0,2026-04-27,Minnesota Twins vs Seattle Mariners
+Moneyline,New York Yankees ML,-165.0,0.1579,0.5991,0.757,True,0.6061,2026-04-27,Texas Rangers vs New York Yankees
+Moneyline,Chicago Cubs ML,100.0,0.1547,0.4783,0.633,False,-1.0,2026-04-27,San Diego Padres vs Chicago Cubs
+Moneyline,Los Angeles Dodgers ML,-300.0,0.0617,0.7183,0.78,True,0.3333,2026-04-27,Los Angeles Dodgers vs Miami Marlins
+Total,UNDER 8.5,-111.0,0.0751,0.5022,0.5773,False,-1.0,2026-04-27,Los Angeles Dodgers vs Miami Marlins

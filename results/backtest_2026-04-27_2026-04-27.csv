@@ -1,9 +1,9 @@
 date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
-2026-04-27,Cleveland Guardians,Tampa Bay Rays,2,3,5,Tampa Bay Rays,Tampa Bay Rays,44.9,55.1,True,55.1,7.4,2.4000000000000004,False,HIGH,,
-2026-04-27,Pittsburgh Pirates,St. Louis Cardinals,2,4,6,St. Louis Cardinals,Pittsburgh Pirates,60.3,39.7,False,60.3,7.57,1.5700000000000003,False,HIGH,,
-2026-04-27,Toronto Blue Jays,Boston Red Sox,0,5,5,Boston Red Sox,Boston Red Sox,38.2,61.8,True,61.8,7.84,2.84,True,HIGH,,
-2026-04-27,Minnesota Twins,Seattle Mariners,11,4,15,Minnesota Twins,Seattle Mariners,46.9,53.1,False,53.1,9.0,6.0,False,LOW,,
-2026-04-27,Chicago White Sox,Los Angeles Angels,8,7,15,Chicago White Sox,Chicago White Sox,53.6,46.4,True,53.6,10.72,4.279999999999999,False,LOW,,
-2026-04-27,Texas Rangers,New York Yankees,2,4,6,New York Yankees,New York Yankees,24.5,75.5,True,75.5,8.81,2.8100000000000005,True,HIGH,,
-2026-04-27,San Diego Padres,Chicago Cubs,9,7,16,San Diego Padres,Chicago Cubs,36.4,63.6,False,63.6,10.06,5.9399999999999995,False,LOW,,
-2026-04-27,Los Angeles Dodgers,Miami Marlins,5,4,9,Los Angeles Dodgers,Los Angeles Dodgers,77.3,22.7,True,77.3,8.97,0.02999999999999936,False,LOW,,
+2026-04-27,Cleveland Guardians,Tampa Bay Rays,2,3,5,Tampa Bay Rays,Tampa Bay Rays,44.9,55.1,True,55.1,7.42,2.42,False,HIGH,8.0,UNDER
+2026-04-27,Pittsburgh Pirates,St. Louis Cardinals,2,4,6,St. Louis Cardinals,Pittsburgh Pirates,60.9,39.1,False,60.9,7.62,1.62,False,HIGH,8.0,UNDER
+2026-04-27,Toronto Blue Jays,Boston Red Sox,0,5,5,Boston Red Sox,Boston Red Sox,37.4,62.6,True,62.6,7.73,2.7300000000000004,True,HIGH,7.0,UNDER
+2026-04-27,Minnesota Twins,Seattle Mariners,11,4,15,Minnesota Twins,Seattle Mariners,42.4,57.6,False,57.6,9.37,5.630000000000001,False,LOW,9.0,OVER
+2026-04-27,Chicago White Sox,Los Angeles Angels,8,7,15,Chicago White Sox,Chicago White Sox,54.7,45.3,True,54.7,10.69,4.3100000000000005,False,LOW,9.0,OVER
+2026-04-27,Texas Rangers,New York Yankees,2,4,6,New York Yankees,New York Yankees,24.3,75.7,True,75.7,8.76,2.76,True,HIGH,8.0,UNDER
+2026-04-27,San Diego Padres,Chicago Cubs,9,7,16,San Diego Padres,Chicago Cubs,36.7,63.3,False,63.3,10.07,5.93,False,LOW,7.5,OVER
+2026-04-27,Los Angeles Dodgers,Miami Marlins,5,4,9,Los Angeles Dodgers,Los Angeles Dodgers,78.0,22.0,True,78.0,9.0,0.0,False,LOW,8.5,OVER
