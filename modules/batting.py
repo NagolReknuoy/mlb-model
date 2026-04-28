@@ -1,9 +1,4 @@
-# =============================================================================
-# batting.py — Team offensive metrics via MLB Stats API
-#
-# Uses the same statsapi.mlb.com endpoint as schedule.py and pitching.py
-# so it never gets blocked. Falls back to prior season if current is thin.
-# =============================================================================
+# batting.py — Team offensive metrics via MLB Stats API. Uses statsapi.mlb.com endpoint, falls back to prior season if current is thin.
 
 import requests
 import pandas as pd
