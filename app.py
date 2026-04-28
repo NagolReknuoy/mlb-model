@@ -1,8 +1,6 @@
 # =============================================================================
-# app.py — MLB Model Dashboard (Streamlit)
-#
+# app.py -- MLB Model Dashboard (Streamlit)
 # Run locally:  streamlit run app.py
-# Deployed at:  Streamlit Cloud (free)
 # =============================================================================
 
 import streamlit as st
@@ -14,15 +12,13 @@ from datetime import date, timedelta
 import plotly.graph_objects as go
 import plotly.express as px
 
-# ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="MLB Model Dashboard",
-    page_icon="⚾",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
-# ── Custom CSS ─────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&display=swap');
@@ -92,24 +88,20 @@ div[data-testid="stSidebar"] {
 }
 
 .stDataFrame { border: 1px solid #30363d; border-radius: 8px; }
-
 footer { display: none; }
 #MainMenu { display: none; }
 </style>
 """, unsafe_allow_html=True)
 
-
-# ── Data loaders ──────────────────────────────────────────────────────────────
-
 RESULTS_DIR = "results"
 
+
 @st.cache_data(ttl=300)
-def load_predictions(target_date: str = None) -> pd.DataFrame:
+def load_predictions(target_date=None):
     if target_date:
         path = os.path.join(RESULTS_DIR, f"predictions_{target_date}.csv")
         if os.path.exists(path):
             return pd.read_csv(path)
-    # Find most recent
     files = sorted(glob.glob(os.path.join(RESULTS_DIR, "predictions_*.csv")), reverse=True)
     if files:
         return pd.read_csv(files[0])
@@ -117,7 +109,7 @@ def load_predictions(target_date: str = None) -> pd.DataFrame:
 
 
 @st.cache_data(ttl=300)
-def load_value_bets(target_date: str = None) -> pd.DataFrame:
+def load_value_bets(target_date=None):
     if target_date:
         path = os.path.join(RESULTS_DIR, f"value_bets_{target_date}.csv")
         if os.path.exists(path):
@@ -129,37 +121,30 @@ def load_value_bets(target_date: str = None) -> pd.DataFrame:
 
 
 @st.cache_data(ttl=300)
-def load_all_backtest_bets() -> pd.DataFrame:
+def load_all_backtest_bets():
     files = glob.glob(os.path.join(RESULTS_DIR, "backtest_bets_*.csv"))
-    # Only load single-day backtest files (daily scoring)
-    single_day = [f for f in files if f.count("_") >= 4]
-    if not single_day:
-        # Fall back to any backtest bets file
-        single_day = files
     dfs = []
-    for f in single_day:
+    for f in files:
         try:
-            df = pd.read_csv(f)
-            dfs.append(df)
+            dfs.append(pd.read_csv(f))
         except Exception:
             pass
     if dfs:
         combined = pd.concat(dfs, ignore_index=True)
-        combined = combined.drop_duplicates(subset=["date", "game", "bet"]) if "date" in combined.columns else combined
+        if "date" in combined.columns and "game" in combined.columns and "bet" in combined.columns:
+            combined = combined.drop_duplicates(subset=["date", "game", "bet"])
         return combined
     return pd.DataFrame()
 
 
 @st.cache_data(ttl=300)
-def load_all_game_results() -> pd.DataFrame:
+def load_all_game_results():
     files = glob.glob(os.path.join(RESULTS_DIR, "backtest_*.csv"))
-    # Exclude bet files
     game_files = [f for f in files if "bets" not in f]
     dfs = []
     for f in game_files:
         try:
-            df = pd.read_csv(f)
-            dfs.append(df)
+            dfs.append(pd.read_csv(f))
         except Exception:
             pass
     if dfs:
@@ -170,23 +155,25 @@ def load_all_game_results() -> pd.DataFrame:
     return pd.DataFrame()
 
 
-# ── Helper functions ──────────────────────────────────────────────────────────
-
-def rating_color(rating: str) -> str:
+def rating_color(rating):
     r = str(rating).lower()
-    if "strong" in r: return "strong"
-    if "good"   in r: return "good"
+    if "strong" in r:
+        return "strong"
+    if "good" in r:
+        return "good"
     return "lean"
 
 
-def bet_type_tag(bet_type: str) -> str:
+def bet_type_tag(bet_type):
     t = str(bet_type).lower()
-    if "moneyline" in t: return '<span class="tag tag-ml">ML</span>'
-    if "run"       in t: return '<span class="tag tag-rl">RL</span>'
+    if "moneyline" in t:
+        return '<span class="tag tag-ml">ML</span>'
+    if "run" in t:
+        return '<span class="tag tag-rl">RL</span>'
     return '<span class="tag tag-tot">TOT</span>'
 
 
-def result_tag(won) -> str:
+def result_tag(won):
     if won is True or str(won).upper() == "TRUE":
         return '<span class="tag tag-win">WIN</span>'
     if won is False or str(won).upper() == "FALSE":
@@ -194,7 +181,7 @@ def result_tag(won) -> str:
     return ""
 
 
-def fmt_odds(odds) -> str:
+def fmt_odds(odds):
     try:
         o = int(float(odds))
         return f"+{o}" if o > 0 else str(o)
@@ -202,14 +189,14 @@ def fmt_odds(odds) -> str:
         return str(odds)
 
 
-def fmt_pct(val) -> str:
+def fmt_pct(val):
     try:
         return f"{float(val):.1f}%"
     except Exception:
         return str(val)
 
 
-def fmt_edge(val) -> str:
+def fmt_edge(val):
     try:
         v = float(val)
         if v < 1:
@@ -222,17 +209,16 @@ def fmt_edge(val) -> str:
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 
 with st.sidebar:
-    st.markdown("## ⚾ MLB MODEL")
+    st.markdown("## MLB MODEL")
     st.markdown("---")
 
-    # Date selector
     available_dates = []
     for f in sorted(glob.glob(os.path.join(RESULTS_DIR, "predictions_*.csv")), reverse=True):
         d = os.path.basename(f).replace("predictions_", "").replace(".csv", "")
         available_dates.append(d)
 
     if available_dates:
-        selected_date = st.selectbox("📅 Date", available_dates, index=0)
+        selected_date = st.selectbox("Date", available_dates, index=0)
     else:
         selected_date = str(date.today())
         st.info("No prediction files found yet. Run daily.py first.")
@@ -240,10 +226,10 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### Navigation")
     page = st.radio("", [
-        "📊 Today's Picks",
-        "📈 Performance",
-        "📋 Bet History",
-        "🎯 Accuracy",
+        "Today's Picks",
+        "Performance",
+        "Bet History",
+        "Accuracy",
     ], label_visibility="collapsed")
 
     st.markdown("---")
@@ -252,29 +238,25 @@ with st.sidebar:
         "Model updates daily at 10 AM ET<br>"
         "For entertainment purposes only"
         "</div>",
-        unsafe_allow_html=True
+        unsafe_allow_html=True,
     )
 
 
-# ── Load data ─────────────────────────────────────────────────────────────────
-
-preds    = load_predictions(selected_date)
-bets     = load_value_bets(selected_date)
-all_bets = load_all_backtest_bets()
+preds     = load_predictions(selected_date)
+bets      = load_value_bets(selected_date)
+all_bets  = load_all_backtest_bets()
 all_games = load_all_game_results()
 
 
-# ── Page: Today's Picks ───────────────────────────────────────────────────────
+# ── Today's Picks ─────────────────────────────────────────────────────────────
 
-if page == "📊 Today's Picks":
-
-    st.markdown(f"# TODAY'S PICKS — {selected_date}")
+if page == "Today's Picks":
+    st.markdown(f"# TODAY'S PICKS -- {selected_date}")
 
     if bets.empty and preds.empty:
         st.warning("No data found for this date. Run daily.py to generate predictions.")
         st.stop()
 
-    # Summary metrics
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         st.metric("Games Today", len(preds) if not preds.empty else 0)
@@ -282,8 +264,7 @@ if page == "📊 Today's Picks":
         st.metric("Value Bets", len(bets) if not bets.empty else 0)
     with col3:
         if not bets.empty and "Type" in bets.columns:
-            ml_bets = len(bets[bets["Type"] == "Moneyline"])
-            st.metric("ML Bets", ml_bets)
+            st.metric("ML Bets", len(bets[bets["Type"] == "Moneyline"]))
         else:
             st.metric("ML Bets", 0)
     with col4:
@@ -291,12 +272,10 @@ if page == "📊 Today's Picks":
             avg_edge = bets["Edge"].mean() * 100 if bets["Edge"].max() <= 1 else bets["Edge"].mean()
             st.metric("Avg Edge", f"{avg_edge:.1f}%")
         else:
-            st.metric("Avg Edge", "—")
+            st.metric("Avg Edge", "--")
 
-    # Value bets
     if not bets.empty:
-        st.markdown('<div class="section-header">💰 VALUE BETS</div>', unsafe_allow_html=True)
-
+        st.markdown('<div class="section-header">VALUE BETS</div>', unsafe_allow_html=True)
         for bet_type in ["Moneyline", "Run Line", "Total"]:
             type_col = "Type" if "Type" in bets.columns else "type"
             if type_col not in bets.columns:
@@ -304,20 +283,17 @@ if page == "📊 Today's Picks":
             subset = bets[bets[type_col] == bet_type]
             if subset.empty:
                 continue
-
             st.markdown(f"**{bet_type}**")
             for _, row in subset.iterrows():
-                game    = row.get("Game", row.get("game", ""))
-                bet     = row.get("Bet",  row.get("bet",  ""))
-                odds    = row.get("Odds", row.get("odds", ""))
-                book    = row.get("Book_Prob", row.get("book_prob", ""))
-                model   = row.get("Model_Prob", row.get("model_prob", ""))
-                edge    = row.get("Edge", row.get("edge", ""))
-                rating  = row.get("Rating", row.get("rating", "Lean"))
-
+                game   = row.get("Game", row.get("game", ""))
+                bet    = row.get("Bet",  row.get("bet",  ""))
+                odds   = row.get("Odds", row.get("odds", ""))
+                book   = row.get("Book_Prob", row.get("book_prob", ""))
+                model  = row.get("Model_Prob", row.get("model_prob", ""))
+                edge   = row.get("Edge", row.get("edge", ""))
+                rating = row.get("Rating", row.get("rating", "Lean"))
                 card_class = rating_color(str(rating))
                 type_tag   = bet_type_tag(bet_type)
-
                 st.markdown(f"""
                 <div class="bet-card {card_class}">
                     {type_tag}
@@ -327,9 +303,9 @@ if page == "📊 Today's Picks":
                     <span style="color:#8b949e;font-size:0.8rem">{game}</span>
                     <br>
                     <span style="font-size:0.78rem;color:#8b949e">
-                        Book: <strong style="color:#e6edf3">{fmt_pct(book) if float(str(book).replace('%','')) < 2 else book}</strong>
+                        Book: <strong style="color:#e6edf3">{book}</strong>
                         &nbsp;|&nbsp;
-                        Model: <strong style="color:#e6edf3">{fmt_pct(model) if float(str(model).replace('%','')) < 2 else model}</strong>
+                        Model: <strong style="color:#e6edf3">{model}</strong>
                         &nbsp;|&nbsp;
                         Edge: <strong style="color:#3fb950">{fmt_edge(edge)}</strong>
                         &nbsp;|&nbsp;
@@ -338,35 +314,29 @@ if page == "📊 Today's Picks":
                 </div>
                 """, unsafe_allow_html=True)
 
-    # Predictions table
     if not preds.empty:
-        st.markdown('<div class="section-header">📋 ALL PREDICTIONS</div>', unsafe_allow_html=True)
-
+        st.markdown('<div class="section-header">ALL PREDICTIONS</div>', unsafe_allow_html=True)
         display_cols = ["Home", "Away", "Home_Win_Pct", "Away_Win_Pct", "xTotal_Runs",
                         "Home_SP", "Away_SP", "Park_Type", "Weather", "H2H"]
         avail = [c for c in display_cols if c in preds.columns]
         df_show = preds[avail].copy()
-
         if "Home_Win_Pct" in df_show.columns:
             df_show["Home_Win_Pct"] = df_show["Home_Win_Pct"].apply(lambda x: f"{x:.1f}%")
         if "Away_Win_Pct" in df_show.columns:
             df_show["Away_Win_Pct"] = df_show["Away_Win_Pct"].apply(lambda x: f"{x:.1f}%")
         if "xTotal_Runs" in df_show.columns:
             df_show["xTotal_Runs"] = df_show["xTotal_Runs"].apply(lambda x: f"{x:.1f}")
-
-        rename = {
+        df_show = df_show.rename(columns={
             "Home_Win_Pct": "H%", "Away_Win_Pct": "A%",
             "xTotal_Runs": "xRuns", "Home_SP": "Home SP",
             "Away_SP": "Away SP", "Park_Type": "Park",
-        }
-        df_show = df_show.rename(columns=rename)
+        })
         st.dataframe(df_show, use_container_width=True, hide_index=True)
 
 
-# ── Page: Performance ─────────────────────────────────────────────────────────
+# ── Performance ───────────────────────────────────────────────────────────────
 
-elif page == "📈 Performance":
-
+elif page == "Performance":
     st.markdown("# PERFORMANCE TRACKER")
 
     if all_bets.empty:
@@ -374,8 +344,6 @@ elif page == "📈 Performance":
         st.stop()
 
     bets_df = all_bets.copy()
-
-    # Normalize columns
     if "won" in bets_df.columns:
         bets_df["won"] = bets_df["won"].astype(str).str.upper().map(
             {"TRUE": True, "FALSE": False, "1": True, "0": False}
@@ -396,7 +364,6 @@ elif page == "📈 Performance":
     profit = completed["profit"].sum()
     roi    = profit / len(completed) * 100
 
-    # Top metrics
     col1, col2, col3, col4, col5 = st.columns(5)
     with col1: st.metric("Total Bets", len(completed))
     with col2: st.metric("Record", f"{wins}-{losses}")
@@ -404,13 +371,10 @@ elif page == "📈 Performance":
     with col4: st.metric("Net Profit", f"${profit:+.2f}")
     with col5: st.metric("ROI", f"{roi:+.1f}%")
 
-    # Cumulative profit chart
-    st.markdown('<div class="section-header">📈 CUMULATIVE PROFIT</div>', unsafe_allow_html=True)
-
+    st.markdown('<div class="section-header">CUMULATIVE PROFIT</div>', unsafe_allow_html=True)
     completed_sorted = completed.sort_values("date").copy()
     completed_sorted["cumulative"] = completed_sorted["profit"].cumsum()
     completed_sorted["bet_num"]    = range(1, len(completed_sorted) + 1)
-
     fig = go.Figure()
     fig.add_trace(go.Scatter(
         x=completed_sorted["bet_num"],
@@ -423,59 +387,36 @@ elif page == "📈 Performance":
     ))
     fig.add_hline(y=0, line_color="#30363d", line_dash="dash")
     fig.update_layout(
-        paper_bgcolor="#0d1117",
-        plot_bgcolor="#0d1117",
+        paper_bgcolor="#0d1117", plot_bgcolor="#0d1117",
         font=dict(color="#8b949e", family="DM Sans"),
         xaxis=dict(showgrid=False, title="Bet #", color="#8b949e"),
         yaxis=dict(showgrid=True, gridcolor="#21262d", title="Profit ($1/bet)", color="#8b949e"),
-        margin=dict(l=10, r=10, t=10, b=10),
-        height=300,
+        margin=dict(l=10, r=10, t=10, b=10), height=300,
     )
     st.plotly_chart(fig, use_container_width=True)
 
-    # By type breakdown
     col1, col2 = st.columns(2)
-
     with col1:
         st.markdown('<div class="section-header">BY BET TYPE</div>', unsafe_allow_html=True)
-        if "type" in completed.columns:
-            type_col = "type"
-        elif "Type" in completed.columns:
-            type_col = "Type"
-        else:
-            type_col = None
-
+        type_col = "type" if "type" in completed.columns else ("Type" if "Type" in completed.columns else None)
         if type_col:
             type_stats = []
             for bt in completed[type_col].unique():
                 sub = completed[completed[type_col] == bt]
-                w   = int(sub["won"].sum())
-                l   = len(sub) - w
-                p   = sub["profit"].sum()
-                type_stats.append({
-                    "Type": bt,
-                    "W": w, "L": l,
-                    "Hit%": f"{w/len(sub)*100:.0f}%",
-                    "Profit": f"${p:+.2f}",
-                })
+                w = int(sub["won"].sum())
+                l = len(sub) - w
+                p = sub["profit"].sum()
+                type_stats.append({"Type": bt, "W": w, "L": l,
+                                   "Hit%": f"{w/len(sub)*100:.0f}%", "Profit": f"${p:+.2f}"})
             st.dataframe(pd.DataFrame(type_stats), use_container_width=True, hide_index=True)
 
     with col2:
         st.markdown('<div class="section-header">BY EDGE TIER</div>', unsafe_allow_html=True)
-        if "edge" in completed.columns:
-            edge_col = "edge"
-        elif "Edge" in completed.columns:
-            edge_col = "Edge"
-        else:
-            edge_col = None
-
+        edge_col = "edge" if "edge" in completed.columns else ("Edge" if "Edge" in completed.columns else None)
         if edge_col:
+            completed = completed.copy()
             completed["edge_float"] = pd.to_numeric(completed[edge_col], errors="coerce")
-            tiers = [
-                ("Strong (≥12%)", 0.12, 1.0),
-                ("Good (8-12%)",  0.08, 0.12),
-                ("Lean (5-8%)",   0.05, 0.08),
-            ]
+            tiers = [("Strong (>=12%)", 0.12, 1.0), ("Good (8-12%)", 0.08, 0.12), ("Lean (5-8%)", 0.05, 0.08)]
             tier_stats = []
             for label, lo, hi in tiers:
                 sub = completed[(completed["edge_float"] >= lo) & (completed["edge_float"] < hi)]
@@ -484,42 +425,30 @@ elif page == "📈 Performance":
                 w = int(sub["won"].sum())
                 l = len(sub) - w
                 p = sub["profit"].sum()
-                tier_stats.append({
-                    "Tier": label,
-                    "W": w, "L": l,
-                    "Hit%": f"{w/len(sub)*100:.0f}%",
-                    "Profit": f"${p:+.2f}",
-                })
+                tier_stats.append({"Tier": label, "W": w, "L": l,
+                                   "Hit%": f"{w/len(sub)*100:.0f}%", "Profit": f"${p:+.2f}"})
             st.dataframe(pd.DataFrame(tier_stats), use_container_width=True, hide_index=True)
 
-    # Daily profit chart
-    st.markdown('<div class="section-header">📅 DAILY PROFIT</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-header">DAILY PROFIT</div>', unsafe_allow_html=True)
     if "date" in completed.columns:
         daily = completed.groupby(completed["date"].dt.date)["profit"].sum().reset_index()
         daily.columns = ["date", "profit"]
         colors = ["#3fb950" if p >= 0 else "#f85149" for p in daily["profit"]]
-        fig2 = go.Figure(go.Bar(
-            x=daily["date"],
-            y=daily["profit"],
-            marker_color=colors,
-        ))
+        fig2 = go.Figure(go.Bar(x=daily["date"], y=daily["profit"], marker_color=colors))
+        fig2.add_hline(y=0, line_color="#30363d")
         fig2.update_layout(
-            paper_bgcolor="#0d1117",
-            plot_bgcolor="#0d1117",
+            paper_bgcolor="#0d1117", plot_bgcolor="#0d1117",
             font=dict(color="#8b949e", family="DM Sans"),
             xaxis=dict(showgrid=False, color="#8b949e"),
             yaxis=dict(showgrid=True, gridcolor="#21262d", color="#8b949e", title="Profit ($)"),
-            margin=dict(l=10, r=10, t=10, b=10),
-            height=250,
+            margin=dict(l=10, r=10, t=10, b=10), height=250,
         )
-        fig2.add_hline(y=0, line_color="#30363d")
         st.plotly_chart(fig2, use_container_width=True)
 
 
-# ── Page: Bet History ─────────────────────────────────────────────────────────
+# ── Bet History ───────────────────────────────────────────────────────────────
 
-elif page == "📋 Bet History":
-
+elif page == "Bet History":
     st.markdown("# BET HISTORY")
 
     if all_bets.empty:
@@ -536,14 +465,12 @@ elif page == "📋 Bet History":
     if "date" in bets_df.columns:
         bets_df["date"] = pd.to_datetime(bets_df["date"])
 
-    # Filters
     col1, col2, col3 = st.columns(3)
     with col1:
         type_options = ["All"] + sorted(bets_df["type"].dropna().unique().tolist()) if "type" in bets_df.columns else ["All"]
         type_filter  = st.selectbox("Bet Type", type_options)
     with col2:
-        result_options = ["All", "Wins", "Losses"]
-        result_filter  = st.selectbox("Result", result_options)
+        result_filter = st.selectbox("Result", ["All", "Wins", "Losses"])
     with col3:
         sort_by = st.selectbox("Sort By", ["Date (newest)", "Edge (highest)", "Profit"])
 
@@ -554,7 +481,6 @@ elif page == "📋 Bet History":
         filtered = filtered[filtered["won"] == True]
     elif result_filter == "Losses":
         filtered = filtered[filtered["won"] == False]
-
     if sort_by == "Date (newest)" and "date" in filtered.columns:
         filtered = filtered.sort_values("date", ascending=False)
     elif sort_by == "Edge (highest)" and "edge" in filtered.columns:
@@ -563,25 +489,21 @@ elif page == "📋 Bet History":
         filtered = filtered.sort_values("profit", ascending=False)
 
     st.markdown(f"**{len(filtered)} bets**")
-
-    # Display as cards
     for _, row in filtered.head(100).iterrows():
         won    = row.get("won")
         profit = row.get("profit", 0)
         game   = row.get("game", "")
-        bet    = row.get("bet",  "")
+        bet    = row.get("bet", "")
         odds   = row.get("odds", "")
         edge   = row.get("edge", "")
         dtype  = row.get("type", "")
         ddate  = str(row.get("date", ""))[:10]
-
-        res_tag  = result_tag(won)
-        type_tag = bet_type_tag(dtype)
+        res_tag      = result_tag(won)
+        type_tag_str = bet_type_tag(dtype)
         profit_color = "#3fb950" if float(profit) >= 0 else "#f85149"
-
         st.markdown(f"""
         <div class="bet-card">
-            {type_tag} {res_tag}
+            {type_tag_str} {res_tag}
             <strong class="mono">{bet}</strong>
             <span style="float:right;font-family:'DM Mono';color:{profit_color}">${float(profit):+.2f}</span>
             <br>
@@ -595,10 +517,9 @@ elif page == "📋 Bet History":
         """, unsafe_allow_html=True)
 
 
-# ── Page: Accuracy ────────────────────────────────────────────────────────────
+# ── Accuracy ──────────────────────────────────────────────────────────────────
 
-elif page == "🎯 Accuracy":
-
+elif page == "Accuracy":
     st.markdown("# MODEL ACCURACY")
 
     if all_games.empty:
@@ -611,7 +532,7 @@ elif page == "🎯 Accuracy":
             {"TRUE": True, "FALSE": False, "1": True, "0": False}
         )
 
-    total  = len(games_df)
+    total = len(games_df)
     if total == 0:
         st.warning("No games found.")
         st.stop()
@@ -625,17 +546,14 @@ elif page == "🎯 Accuracy":
     with col3: st.metric("ML Accuracy", f"{acc:.1f}%")
     with col4:
         if "runs_error" in games_df.columns:
-            avg_err = games_df["runs_error"].mean()
-            st.metric("Avg xRuns Error", f"{avg_err:.2f}")
+            st.metric("Avg xRuns Error", f"{games_df['runs_error'].mean():.2f}")
 
-    # Accuracy by confidence tier
     st.markdown('<div class="section-header">ACCURACY BY CONFIDENCE</div>', unsafe_allow_html=True)
-
     if "confidence" in games_df.columns and "ml_correct" in games_df.columns:
         tiers = [
-            ("High (≥65%)",   games_df[games_df["confidence"] >= 65]),
+            ("High (>=65%)",    games_df[games_df["confidence"] >= 65]),
             ("Medium (55-65%)", games_df[(games_df["confidence"] >= 55) & (games_df["confidence"] < 65)]),
-            ("Low (<55%)",    games_df[games_df["confidence"] < 55]),
+            ("Low (<55%)",      games_df[games_df["confidence"] < 55]),
         ]
         tier_data = []
         for label, sub in tiers:
@@ -643,18 +561,13 @@ elif page == "🎯 Accuracy":
                 continue
             w = int(sub["ml_correct"].sum())
             l = len(sub) - w
-            tier_data.append({
-                "Confidence Tier": label,
-                "W": w, "L": l,
-                "Games": len(sub),
-                "Accuracy": f"{w/len(sub)*100:.1f}%"
-            })
+            tier_data.append({"Confidence Tier": label, "W": w, "L": l,
+                               "Games": len(sub), "Accuracy": f"{w/len(sub)*100:.1f}%"})
         st.dataframe(pd.DataFrame(tier_data), use_container_width=True, hide_index=True)
 
-        # Accuracy bar chart
         fig = go.Figure(go.Bar(
             x=[t["Confidence Tier"] for t in tier_data],
-            y=[float(t["Accuracy"].replace("%","")) for t in tier_data],
+            y=[float(t["Accuracy"].replace("%", "")) for t in tier_data],
             marker_color=["#3fb950", "#d29922", "#58a6ff"],
             text=[t["Accuracy"] for t in tier_data],
             textposition="outside",
@@ -662,31 +575,26 @@ elif page == "🎯 Accuracy":
         fig.add_hline(y=50, line_color="#30363d", line_dash="dash",
                       annotation_text="50% baseline", annotation_font_color="#8b949e")
         fig.update_layout(
-            paper_bgcolor="#0d1117",
-            plot_bgcolor="#0d1117",
+            paper_bgcolor="#0d1117", plot_bgcolor="#0d1117",
             font=dict(color="#8b949e", family="DM Sans"),
             yaxis=dict(showgrid=True, gridcolor="#21262d", range=[0, 100], title="Accuracy %"),
             xaxis=dict(showgrid=False),
-            margin=dict(l=10, r=10, t=30, b=10),
-            height=300,
-            showlegend=False,
+            margin=dict(l=10, r=10, t=30, b=10), height=300, showlegend=False,
         )
         st.plotly_chart(fig, use_container_width=True)
 
-    # xRuns bias
     st.markdown('<div class="section-header">xRUNS CALIBRATION</div>', unsafe_allow_html=True)
     if "model_bias" in games_df.columns:
         high = len(games_df[games_df["model_bias"] == "HIGH"])
         low  = len(games_df[games_df["model_bias"] == "LOW"])
         col1, col2, col3 = st.columns(3)
-        with col1: st.metric("Model Overestimated", high, help="Model xRuns > actual")
-        with col2: st.metric("Model Underestimated", low, help="Model xRuns < actual")
+        with col1: st.metric("Model Overestimated", high)
+        with col2: st.metric("Model Underestimated", low)
         with col3:
-            bias_pct = (high - low) / total * 100
+            bias_pct  = (high - low) / total * 100
             direction = "HIGH" if bias_pct > 0 else "LOW"
             st.metric("Bias", f"{abs(bias_pct):.0f}% {direction}")
 
-    # O/U results if available
     if "ou_result" in games_df.columns:
         st.markdown('<div class="section-header">OVER/UNDER RESULTS</div>', unsafe_allow_html=True)
         ou_counts = games_df["ou_result"].value_counts()
