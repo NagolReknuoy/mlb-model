@@ -1,9 +1,3 @@
-# =============================================================================
-# historical_odds.py — Load scraped SportsBookReview odds into backtest
-#
-# Works with JSON files produced by mlb_odds_scraper/scraper.py
-# =============================================================================
-
 import json
 import os
 import numpy as np
@@ -281,9 +275,6 @@ def score_bet(bet_type: str, odds_row: dict,
         raw_o, raw_u   = american_to_prob(tot_o), american_to_prob(tot_u)
         book_o, book_u = remove_vig(raw_o, raw_u)
 
-        # Debias model xRuns — backtest shows model runs ~17% high
-        # Scale down toward the book line to get a fair comparison
-        # Use a blend: 60% model, 40% book line to correct for bias
         BIAS_CORRECTION = 0.83   # model is ~17% high on average
         debiased_xruns  = model_xruns * BIAS_CORRECTION
 
@@ -295,8 +286,7 @@ def score_bet(bet_type: str, odds_row: dict,
         edge_o = min(model_over  - book_o, 0.20)
         edge_u = min(model_under - book_u, 0.20)
 
-        # Only flag totals when debiased xRuns is at least 1 run from line
-        # This filters out marginal calls where the model is essentially guessing
+       
         if abs(distance) < 1.0:
             edge_o = 0
             edge_u = 0
