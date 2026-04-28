@@ -1,0 +1,12 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Diego Padres vs Chicago Cubs,Chicago Cubs ML,+100,48.1%,74.5%,0.26384700665188465,Strong,Moneyline
+Texas Rangers vs New York Yankees,New York Yankees ML,-120,52.8%,78.2%,0.2542411106768254,Strong,Moneyline
+San Diego Padres vs Chicago Cubs,OVER  7.5,-111,50.3%,69.8%,0.19461091763375993,Strong,Total
+Texas Rangers vs New York Yankees,OVER  7.5,-106,49.2%,67.6%,0.18368267851188602,Strong,Total
+Minnesota Twins vs Seattle Mariners,Seattle Mariners ML,-127,53.8%,71.6%,0.17817118657871167,Strong,Moneyline
+Texas Rangers vs New York Yankees,New York Yankees +1.5,+140,39.8%,56.2%,0.16410953282900648,Strong,Run Line
+San Diego Padres vs Chicago Cubs,Chicago Cubs +1.5,+157,37.2%,53.5%,0.16313879901077416,Strong,Run Line
+Chicago White Sox vs Los Angeles Angels,OVER  9.0,-109,49.9%,65.2%,0.1523848544827624,Strong,Total
+Minnesota Twins vs Seattle Mariners,OVER  7.5,+100,47.8%,61.6%,0.1374350224457883,Strong,Total
+Cleveland Guardians vs Tampa Bay Rays,Tampa Bay Rays ML,+115,44.7%,55.3%,0.10559400285578296,Good,Moneyline
+Minnesota Twins vs Seattle Mariners,Seattle Mariners +1.5,+135,40.6%,48.9%,0.08278843704973415,Good,Run Line

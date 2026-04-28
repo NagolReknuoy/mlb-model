@@ -1,0 +1,15 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-04-24,Cincinnati Reds,Detroit Tigers,9,8,17,Cincinnati Reds,Cincinnati Reds,64.0,36.0,True,64.0,9.76,7.24,False,LOW,9.0,OVER
+2026-04-24,Baltimore Orioles,Boston Red Sox,10,3,13,Baltimore Orioles,Baltimore Orioles,77.4,22.6,True,77.4,9.01,3.99,True,LOW,8.5,OVER
+2026-04-24,Toronto Blue Jays,Cleveland Guardians,6,8,14,Cleveland Guardians,Cleveland Guardians,46.4,53.6,True,53.6,9.48,4.52,True,LOW,8.0,OVER
+2026-04-24,New York Mets,Colorado Rockies,3,4,7,Colorado Rockies,Colorado Rockies,49.5,50.5,True,50.5,7.08,0.08000000000000007,False,HIGH,7.5,UNDER
+2026-04-24,Tampa Bay Rays,Minnesota Twins,6,2,8,Tampa Bay Rays,Minnesota Twins,49.7,50.3,False,50.3,11.04,3.039999999999999,False,HIGH,7.5,OVER
+2026-04-24,Atlanta Braves,Philadelphia Phillies,5,3,8,Atlanta Braves,Atlanta Braves,76.8,23.2,True,76.8,8.97,0.9700000000000006,True,HIGH,9.0,UNDER
+2026-04-24,Kansas City Royals,Los Angeles Angels,6,3,9,Kansas City Royals,Los Angeles Angels,22.1,77.9,False,77.9,8.98,0.019999999999999574,False,LOW,8.5,OVER
+2026-04-24,Chicago White Sox,Washington Nationals,5,4,9,Chicago White Sox,Washington Nationals,49.4,50.6,False,50.6,11.03,2.0299999999999994,False,HIGH,9.5,UNDER
+2026-04-24,Milwaukee Brewers,Pittsburgh Pirates,0,6,6,Pittsburgh Pirates,Pittsburgh Pirates,43.6,56.4,True,56.4,7.43,1.4299999999999997,True,HIGH,7.0,UNDER
+2026-04-24,Texas Rangers,Athletics,1,8,9,Athletics,Texas Rangers,60.5,39.5,False,60.5,8.49,0.5099999999999998,False,LOW,8.0,OVER
+2026-04-24,Houston Astros,New York Yankees,4,12,16,New York Yankees,New York Yankees,22.8,77.2,True,77.2,9.0,7.0,True,LOW,9.0,OVER
+2026-04-24,St. Louis Cardinals,Seattle Mariners,2,3,5,Seattle Mariners,Seattle Mariners,44.1,55.9,True,55.9,7.85,2.8499999999999996,False,HIGH,8.0,UNDER
+2026-04-24,Los Angeles Dodgers,Chicago Cubs,4,6,10,Chicago Cubs,Chicago Cubs,46.3,53.7,True,53.7,7.25,2.75,True,LOW,9.0,OVER
+2026-04-24,San Francisco Giants,Miami Marlins,4,9,13,Miami Marlins,Miami Marlins,41.4,58.6,True,58.6,7.46,5.54,True,LOW,7.5,OVER

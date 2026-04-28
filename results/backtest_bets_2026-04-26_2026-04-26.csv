@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Boston Red Sox ML,118.0,0.2088,0.4402,0.649,True,1.18,2026-04-26,Baltimore Orioles vs Boston Red Sox
+Moneyline,Atlanta Braves ML,-219.5,0.114,0.658,0.772,True,0.4556,2026-04-26,Atlanta Braves vs Philadelphia Phillies
+Moneyline,Toronto Blue Jays ML,-125.0,0.0965,0.5325,0.629,True,0.8,2026-04-26,Toronto Blue Jays vs Cleveland Guardians
+Total,UNDER 8.5,-115.0,0.1218,0.5108,0.6327,True,0.8696,2026-04-26,Toronto Blue Jays vs Cleveland Guardians
+Moneyline,Colorado Rockies ML,169.5,0.25,0.3553,0.615,True,1.695,2026-04-26,New York Mets vs Colorado Rockies
+Run Line,Colorado Rockies +1.0,257.5,0.0993,0.2697,0.369,True,2.575,2026-04-26,New York Mets vs Colorado Rockies
+Moneyline,Tampa Bay Rays ML,-145.0,0.2133,0.5667,0.78,True,0.6897,2026-04-26,Tampa Bay Rays vs Minnesota Twins
+Run Line,Tampa Bay Rays -1.5,140.0,0.0698,0.3982,0.468,True,1.4,2026-04-26,Tampa Bay Rays vs Minnesota Twins
+Total,UNDER 8.5,-105.0,0.0862,0.4892,0.5754,True,0.9524,2026-04-26,Tampa Bay Rays vs Minnesota Twins
+Total,OVER  7.5,-105.0,0.1337,0.4892,0.6229,False,-1.0,2026-04-26,Chicago White Sox vs Washington Nationals
+Moneyline,New York Yankees ML,-135.0,0.1771,0.5509,0.728,False,-1.0,2026-04-26,Houston Astros vs New York Yankees
+Total,UNDER 9.5,-110.0,0.1305,0.5,0.6305,False,-1.0,2026-04-26,Houston Astros vs New York Yankees
+Total,UNDER 7.5,-110.0,0.1075,0.5,0.6075,True,0.9091,2026-04-26,Milwaukee Brewers vs Pittsburgh Pirates
+Total,UNDER 8.5,-105.0,0.1136,0.4892,0.6028,True,0.9524,2026-04-26,St. Louis Cardinals vs Seattle Mariners
+Total,UNDER 8.5,-105.0,0.1584,0.4892,0.6476,True,0.9524,2026-04-26,Texas Rangers vs Athletics
+Total,UNDER 14.5,-110.5,0.2,0.4995,0.7,False,-1.0,2026-04-26,Arizona Diamondbacks vs San Diego Padres
+Total,UNDER 7.5,-115.0,0.1153,0.5108,0.6261,False,-1.0,2026-04-26,San Francisco Giants vs Miami Marlins
+Moneyline,Los Angeles Dodgers ML,-120.0,0.1433,0.5217,0.665,True,0.8333,2026-04-26,Los Angeles Dodgers vs Chicago Cubs
+Total,UNDER 8.5,100.0,0.1606,0.4783,0.6389,True,1.0,2026-04-26,Los Angeles Dodgers vs Chicago Cubs

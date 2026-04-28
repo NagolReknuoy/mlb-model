@@ -1,0 +1,395 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,xruns_vs_actual
+2026-03-25,San Francisco Giants,New York Yankees,0,7,7,New York Yankees,New York Yankees,30.3,69.7,True,69.7,8.27,1.2699999999999996,True,OVER
+2026-03-26,New York Mets,Pittsburgh Pirates,11,7,18,New York Mets,Pittsburgh Pirates,23.5,76.5,False,76.5,8.83,9.17,False,UNDER
+2026-03-26,Milwaukee Brewers,Chicago White Sox,14,2,16,Milwaukee Brewers,Milwaukee Brewers,53.6,46.4,True,53.6,10.72,5.279999999999999,True,UNDER
+2026-03-26,Chicago Cubs,Washington Nationals,4,10,14,Washington Nationals,Chicago Cubs,70.8,29.2,False,70.8,9.45,4.550000000000001,False,UNDER
+2026-03-26,Baltimore Orioles,Minnesota Twins,2,1,3,Baltimore Orioles,Minnesota Twins,49.7,50.3,False,50.3,11.04,8.04,False,OVER
+2026-03-26,Cincinnati Reds,Boston Red Sox,0,3,3,Boston Red Sox,Cincinnati Reds,73.3,26.7,False,73.3,8.57,5.57,False,OVER
+2026-03-26,Houston Astros,Los Angeles Angels,0,3,3,Los Angeles Angels,Los Angeles Angels,31.2,68.8,True,68.8,9.62,6.619999999999999,True,OVER
+2026-03-26,San Diego Padres,Detroit Tigers,2,8,10,Detroit Tigers,Detroit Tigers,49.2,50.8,True,50.8,7.86,2.1399999999999997,True,UNDER
+2026-03-26,St. Louis Cardinals,Tampa Bay Rays,9,7,16,St. Louis Cardinals,St. Louis Cardinals,50.1,49.9,True,50.1,10.97,5.029999999999999,True,UNDER
+2026-03-26,Philadelphia Phillies,Texas Rangers,5,3,8,Philadelphia Phillies,Texas Rangers,29.4,70.6,False,70.6,8.46,0.46000000000000085,False,OVER
+2026-03-26,Los Angeles Dodgers,Arizona Diamondbacks,8,2,10,Los Angeles Dodgers,Los Angeles Dodgers,76.9,23.1,True,76.9,9.01,0.9900000000000002,True,UNDER
+2026-03-26,Seattle Mariners,Cleveland Guardians,4,6,10,Cleveland Guardians,Seattle Mariners,51.3,48.7,False,51.3,7.05,2.95,False,UNDER
+2026-03-27,San Francisco Giants,New York Yankees,0,3,3,New York Yankees,New York Yankees,25.9,74.1,True,74.1,8.65,5.65,True,OVER
+2026-03-27,Toronto Blue Jays,Athletics,3,2,5,Toronto Blue Jays,Athletics,49.3,50.7,False,50.7,10.52,5.52,False,OVER
+2026-03-27,Miami Marlins,Colorado Rockies,2,1,3,Miami Marlins,Miami Marlins,75.8,24.2,True,75.8,9.13,6.130000000000001,False,OVER
+2026-03-27,Atlanta Braves,Kansas City Royals,6,0,6,Atlanta Braves,Atlanta Braves,78.3,21.7,True,78.3,9.07,3.0700000000000003,True,OVER
+2026-03-27,Houston Astros,Los Angeles Angels,2,6,8,Los Angeles Angels,Los Angeles Angels,30.9,69.1,True,69.1,9.65,1.6500000000000004,True,OVER
+2026-03-27,San Diego Padres,Detroit Tigers,2,5,7,Detroit Tigers,San Diego Padres,53.7,46.3,False,53.7,8.39,1.3900000000000006,False,OVER
+2026-03-27,Seattle Mariners,Cleveland Guardians,5,1,6,Seattle Mariners,Seattle Mariners,52.8,47.2,True,52.8,7.17,1.17,True,OVER
+2026-03-27,Los Angeles Dodgers,Arizona Diamondbacks,5,4,9,Los Angeles Dodgers,Los Angeles Dodgers,78.2,21.8,True,78.2,9.04,0.03999999999999915,False,OVER
+2026-03-28,St. Louis Cardinals,Tampa Bay Rays,6,5,11,St. Louis Cardinals,St. Louis Cardinals,54.5,45.5,True,54.5,10.72,0.27999999999999936,False,UNDER
+2026-03-28,Chicago Cubs,Washington Nationals,10,2,12,Chicago Cubs,Chicago Cubs,77.0,23.0,True,77.0,9.0,3.0,True,UNDER
+2026-03-28,Toronto Blue Jays,Athletics,8,7,15,Toronto Blue Jays,Athletics,49.6,50.4,False,50.4,10.3,4.699999999999999,False,UNDER
+2026-03-28,Baltimore Orioles,Minnesota Twins,1,4,5,Minnesota Twins,Baltimore Orioles,50.2,49.8,False,50.2,11.01,6.01,False,OVER
+2026-03-28,Philadelphia Phillies,Texas Rangers,4,5,9,Texas Rangers,Texas Rangers,21.7,78.3,True,78.3,9.02,0.019999999999999574,False,OVER
+2026-03-28,Cincinnati Reds,Boston Red Sox,6,5,11,Cincinnati Reds,Cincinnati Reds,73.4,26.6,True,73.4,8.58,2.42,False,UNDER
+2026-03-28,New York Mets,Pittsburgh Pirates,4,2,6,New York Mets,Pittsburgh Pirates,21.8,78.2,False,78.2,8.98,2.9800000000000004,False,OVER
+2026-03-28,Miami Marlins,Colorado Rockies,4,3,7,Miami Marlins,Miami Marlins,77.5,22.5,True,77.5,8.98,1.9800000000000004,False,OVER
+2026-03-28,Houston Astros,Los Angeles Angels,11,9,20,Houston Astros,Los Angeles Angels,22.4,77.6,False,77.6,8.99,11.01,False,UNDER
+2026-03-28,Milwaukee Brewers,Chicago White Sox,6,1,7,Milwaukee Brewers,Milwaukee Brewers,56.4,43.6,True,56.4,10.47,3.4700000000000006,True,OVER
+2026-03-28,Atlanta Braves,Kansas City Royals,6,2,8,Atlanta Braves,Atlanta Braves,77.8,22.2,True,77.8,9.03,1.0299999999999994,True,OVER
+2026-03-28,San Francisco Giants,New York Yankees,1,3,4,New York Yankees,New York Yankees,24.6,75.4,True,75.4,8.78,4.779999999999999,True,OVER
+2026-03-28,San Diego Padres,Detroit Tigers,3,0,3,San Diego Padres,San Diego Padres,52.5,47.5,True,52.5,8.5,5.5,True,OVER
+2026-03-28,Los Angeles Dodgers,Arizona Diamondbacks,3,2,5,Los Angeles Dodgers,Los Angeles Dodgers,77.8,22.2,True,77.8,9.02,4.02,False,OVER
+2026-03-28,Seattle Mariners,Cleveland Guardians,5,6,11,Cleveland Guardians,Seattle Mariners,50.6,49.4,False,50.6,6.99,4.01,False,UNDER
+2026-03-29,Baltimore Orioles,Minnesota Twins,8,6,14,Baltimore Orioles,Minnesota Twins,49.2,50.8,False,50.8,11.04,2.960000000000001,False,UNDER
+2026-03-29,Philadelphia Phillies,Texas Rangers,3,8,11,Texas Rangers,Texas Rangers,29.4,70.6,True,70.6,8.33,2.67,True,UNDER
+2026-03-29,Atlanta Braves,Kansas City Royals,1,4,5,Kansas City Royals,Atlanta Braves,77.7,22.3,False,77.7,9.0,4.0,False,OVER
+2026-03-29,Toronto Blue Jays,Athletics,5,2,7,Toronto Blue Jays,Toronto Blue Jays,51.7,48.3,True,51.7,10.68,3.6799999999999997,True,OVER
+2026-03-29,Cincinnati Reds,Boston Red Sox,3,2,5,Cincinnati Reds,Cincinnati Reds,72.5,27.5,True,72.5,8.51,3.51,False,OVER
+2026-03-29,New York Mets,Pittsburgh Pirates,3,4,7,Pittsburgh Pirates,Pittsburgh Pirates,35.4,64.6,True,64.6,8.01,1.0099999999999998,False,OVER
+2026-03-29,Miami Marlins,Colorado Rockies,4,3,7,Miami Marlins,Miami Marlins,77.6,22.4,True,77.6,9.04,2.039999999999999,False,OVER
+2026-03-29,Houston Astros,Los Angeles Angels,9,7,16,Houston Astros,Los Angeles Angels,30.5,69.5,False,69.5,9.6,6.4,False,UNDER
+2026-03-29,Milwaukee Brewers,Chicago White Sox,9,7,16,Milwaukee Brewers,Milwaukee Brewers,50.3,49.7,True,50.3,10.94,5.0600000000000005,True,UNDER
+2026-03-29,St. Louis Cardinals,Tampa Bay Rays,7,11,18,Tampa Bay Rays,Tampa Bay Rays,45.5,54.5,True,54.5,10.62,7.380000000000001,True,UNDER
+2026-03-29,Chicago Cubs,Washington Nationals,3,6,9,Washington Nationals,Chicago Cubs,77.7,22.3,False,77.7,9.02,0.019999999999999574,False,OVER
+2026-03-29,Seattle Mariners,Cleveland Guardians,8,0,8,Seattle Mariners,Cleveland Guardians,46.7,53.3,False,53.3,7.19,0.8099999999999996,False,UNDER
+2026-03-30,Kansas City Royals,Minnesota Twins,3,1,4,Kansas City Royals,Minnesota Twins,32.4,67.6,False,67.6,9.67,5.67,False,OVER
+2026-03-30,Baltimore Orioles,Texas Rangers,2,5,7,Texas Rangers,Baltimore Orioles,54.6,45.4,False,54.6,9.83,2.83,False,OVER
+2026-03-30,Cincinnati Reds,Pittsburgh Pirates,2,0,2,Cincinnati Reds,Cincinnati Reds,57.2,42.8,True,57.2,7.79,5.79,True,OVER
+2026-03-30,Philadelphia Phillies,Washington Nationals,2,13,15,Washington Nationals,Washington Nationals,26.9,73.1,True,73.1,9.36,5.640000000000001,True,UNDER
+2026-03-30,Miami Marlins,Chicago White Sox,4,9,13,Chicago White Sox,Miami Marlins,54.1,45.9,False,54.1,10.73,2.2699999999999996,False,UNDER
+2026-03-30,Toronto Blue Jays,Colorado Rockies,5,14,19,Colorado Rockies,Toronto Blue Jays,65.3,34.7,False,65.3,9.18,9.82,False,UNDER
+2026-03-30,Atlanta Braves,Athletics,4,0,4,Atlanta Braves,Atlanta Braves,72.4,27.6,True,72.4,9.41,5.41,True,OVER
+2026-03-30,Chicago Cubs,Los Angeles Angels,7,2,9,Chicago Cubs,Chicago Cubs,72.8,27.2,True,72.8,8.53,0.47000000000000064,True,UNDER
+2026-03-30,Milwaukee Brewers,Tampa Bay Rays,2,3,5,Tampa Bay Rays,Milwaukee Brewers,61.4,38.6,False,61.4,10.19,5.1899999999999995,False,OVER
+2026-03-30,St. Louis Cardinals,New York Mets,2,4,6,New York Mets,St. Louis Cardinals,77.1,22.9,False,77.1,9.02,3.0199999999999996,False,OVER
+2026-03-30,Houston Astros,Boston Red Sox,8,1,9,Houston Astros,Houston Astros,62.3,37.7,True,62.3,9.28,0.27999999999999936,True,OVER
+2026-03-30,San Diego Padres,San Francisco Giants,2,3,5,San Francisco Giants,San Francisco Giants,48.9,51.1,True,51.1,7.05,2.05,False,OVER
+2026-03-30,Seattle Mariners,New York Yankees,2,1,3,Seattle Mariners,New York Yankees,23.2,76.8,False,76.8,9.01,6.01,False,OVER
+2026-03-30,Arizona Diamondbacks,Detroit Tigers,9,6,15,Arizona Diamondbacks,Detroit Tigers,49.5,50.5,False,50.5,11.0,4.0,False,UNDER
+2026-03-30,Los Angeles Dodgers,Cleveland Guardians,2,4,6,Cleveland Guardians,Los Angeles Dodgers,67.5,32.5,False,67.5,8.09,2.09,False,OVER
+2026-03-31,Baltimore Orioles,Texas Rangers,5,8,13,Texas Rangers,Texas Rangers,48.5,51.5,True,51.5,8.85,4.15,True,UNDER
+2026-03-31,Cincinnati Reds,Pittsburgh Pirates,3,8,11,Pittsburgh Pirates,Cincinnati Reds,50.8,49.2,False,50.8,8.85,2.1500000000000004,False,UNDER
+2026-03-31,Philadelphia Phillies,Washington Nationals,3,2,5,Philadelphia Phillies,Washington Nationals,31.9,68.1,False,68.1,9.65,4.65,False,OVER
+2026-03-31,Miami Marlins,Chicago White Sox,9,2,11,Miami Marlins,Miami Marlins,57.9,42.1,True,57.9,10.35,0.6500000000000004,True,UNDER
+2026-03-31,Toronto Blue Jays,Colorado Rockies,5,1,6,Toronto Blue Jays,Toronto Blue Jays,65.1,34.9,True,65.1,9.49,3.49,True,OVER
+2026-03-31,Atlanta Braves,Athletics,2,5,7,Athletics,Atlanta Braves,73.4,26.6,False,73.4,9.36,2.3599999999999994,False,OVER
+2026-03-31,Chicago Cubs,Los Angeles Angels,0,2,2,Los Angeles Angels,Chicago Cubs,75.6,24.4,False,75.6,9.1,7.1,False,OVER
+2026-03-31,Milwaukee Brewers,Tampa Bay Rays,6,2,8,Milwaukee Brewers,Milwaukee Brewers,64.7,35.3,True,64.7,10.02,2.0199999999999996,True,OVER
+2026-03-31,St. Louis Cardinals,New York Mets,3,0,3,St. Louis Cardinals,St. Louis Cardinals,77.5,22.5,True,77.5,8.95,5.949999999999999,True,OVER
+2026-03-31,Houston Astros,Boston Red Sox,9,2,11,Houston Astros,Houston Astros,74.9,25.1,True,74.9,9.25,1.75,True,UNDER
+2026-03-31,Arizona Diamondbacks,Detroit Tigers,7,5,12,Arizona Diamondbacks,Arizona Diamondbacks,50.6,49.4,True,50.6,10.99,1.0099999999999998,True,UNDER
+2026-03-31,San Diego Padres,San Francisco Giants,3,9,12,San Francisco Giants,San Diego Padres,50.5,49.5,False,50.5,7.01,4.99,False,UNDER
+2026-03-31,Seattle Mariners,New York Yankees,0,5,5,New York Yankees,New York Yankees,26.4,73.6,True,73.6,8.61,3.6099999999999994,True,OVER
+2026-03-31,Los Angeles Dodgers,Cleveland Guardians,4,1,5,Los Angeles Dodgers,Los Angeles Dodgers,74.8,25.2,True,74.8,8.69,3.6899999999999995,True,OVER
+2026-04-01,Atlanta Braves,Athletics,5,1,6,Atlanta Braves,Atlanta Braves,76.8,23.2,True,76.8,9.03,3.0299999999999994,True,OVER
+2026-04-01,Baltimore Orioles,Texas Rangers,8,3,11,Baltimore Orioles,Texas Rangers,48.0,52.0,False,52.0,8.39,2.6099999999999994,False,UNDER
+2026-04-01,Cincinnati Reds,Pittsburgh Pirates,3,8,11,Pittsburgh Pirates,Pittsburgh Pirates,48.3,51.7,True,51.7,8.74,2.26,True,UNDER
+2026-04-01,Philadelphia Phillies,Washington Nationals,6,5,11,Philadelphia Phillies,Washington Nationals,37.2,62.8,False,62.8,10.05,0.9499999999999993,False,UNDER
+2026-04-01,Toronto Blue Jays,Colorado Rockies,1,2,3,Colorado Rockies,Toronto Blue Jays,65.3,34.7,False,65.3,8.89,5.890000000000001,False,OVER
+2026-04-01,Miami Marlins,Chicago White Sox,10,0,10,Miami Marlins,Chicago White Sox,50.0,50.0,False,50.0,11.0,1.0,False,OVER
+2026-04-01,St. Louis Cardinals,New York Mets,2,1,3,St. Louis Cardinals,St. Louis Cardinals,77.6,22.4,True,77.6,9.04,6.039999999999999,False,OVER
+2026-04-01,Milwaukee Brewers,Tampa Bay Rays,8,2,10,Milwaukee Brewers,Milwaukee Brewers,53.5,46.5,True,53.5,10.59,0.5899999999999999,True,OVER
+2026-04-01,Houston Astros,Boston Red Sox,6,4,10,Houston Astros,Houston Astros,61.0,39.0,True,61.0,8.99,1.0099999999999998,True,UNDER
+2026-04-01,Chicago Cubs,Los Angeles Angels,6,2,8,Chicago Cubs,Chicago Cubs,78.2,21.8,True,78.2,8.99,0.9900000000000002,True,OVER
+2026-04-01,Arizona Diamondbacks,Detroit Tigers,1,0,1,Arizona Diamondbacks,Detroit Tigers,49.1,50.9,False,50.9,10.89,9.89,False,OVER
+2026-04-01,San Diego Padres,San Francisco Giants,7,1,8,San Diego Padres,San Francisco Giants,49.9,50.1,False,50.1,7.08,0.9199999999999999,False,UNDER
+2026-04-01,Seattle Mariners,New York Yankees,3,5,8,New York Yankees,New York Yankees,22.4,77.6,True,77.6,9.02,1.0199999999999996,True,OVER
+2026-04-01,Kansas City Royals,Minnesota Twins,13,9,22,Kansas City Royals,Minnesota Twins,30.2,69.8,False,69.8,9.61,12.39,False,UNDER
+2026-04-01,Los Angeles Dodgers,Cleveland Guardians,1,4,5,Cleveland Guardians,Los Angeles Dodgers,76.9,23.1,False,76.9,8.87,3.869999999999999,False,OVER
+2026-04-02,Kansas City Royals,Minnesota Twins,1,5,6,Minnesota Twins,Minnesota Twins,32.0,68.0,True,68.0,9.75,3.75,True,OVER
+2026-04-02,Arizona Diamondbacks,Atlanta Braves,2,17,19,Atlanta Braves,Atlanta Braves,37.8,62.2,True,62.2,10.09,8.91,True,UNDER
+2026-04-02,San Francisco Giants,New York Mets,7,2,9,San Francisco Giants,New York Mets,49.8,50.2,False,50.2,7.02,1.9800000000000004,False,UNDER
+2026-04-02,Chicago White Sox,Toronto Blue Jays,0,0,0,Toronto Blue Jays,Toronto Blue Jays,44.9,55.1,True,55.1,10.68,10.68,False,OVER
+2026-04-03,Washington Nationals,Los Angeles Dodgers,6,13,19,Los Angeles Dodgers,Los Angeles Dodgers,22.9,77.1,True,77.1,9.01,9.99,True,UNDER
+2026-04-03,Detroit Tigers,St. Louis Cardinals,4,0,4,Detroit Tigers,Detroit Tigers,54.3,45.7,True,54.3,9.04,5.039999999999999,True,OVER
+2026-04-03,New York Yankees,Miami Marlins,8,2,10,New York Yankees,New York Yankees,77.6,22.4,True,77.6,8.94,1.0600000000000005,True,UNDER
+2026-04-03,Boston Red Sox,San Diego Padres,5,2,7,Boston Red Sox,San Diego Padres,38.9,61.1,False,61.1,7.7,0.7000000000000002,False,OVER
+2026-04-03,Chicago White Sox,Toronto Blue Jays,5,4,9,Chicago White Sox,Chicago White Sox,51.1,48.9,True,51.1,10.84,1.8399999999999999,False,OVER
+2026-04-03,Texas Rangers,Cincinnati Reds,3,5,8,Cincinnati Reds,Cincinnati Reds,39.2,60.8,True,60.8,7.63,0.3700000000000001,True,UNDER
+2026-04-03,Cleveland Guardians,Chicago Cubs,4,1,5,Cleveland Guardians,Chicago Cubs,22.0,78.0,False,78.0,9.02,4.02,False,OVER
+2026-04-03,Minnesota Twins,Tampa Bay Rays,10,4,14,Minnesota Twins,Tampa Bay Rays,50.0,50.0,False,50.0,10.91,3.09,False,UNDER
+2026-04-03,Colorado Rockies,Philadelphia Phillies,1,10,11,Philadelphia Phillies,Colorado Rockies,75.1,24.9,False,75.1,9.14,1.8599999999999994,False,UNDER
+2026-04-03,Pittsburgh Pirates,Baltimore Orioles,5,4,9,Pittsburgh Pirates,Pittsburgh Pirates,64.5,35.5,True,64.5,9.54,0.5399999999999991,False,OVER
+2026-04-03,Los Angeles Angels,Seattle Mariners,1,3,4,Seattle Mariners,Los Angeles Angels,52.1,47.9,False,52.1,7.11,3.1100000000000003,False,OVER
+2026-04-03,Athletics,Houston Astros,11,4,15,Athletics,Houston Astros,49.7,50.3,False,50.3,11.03,3.9700000000000006,False,UNDER
+2026-04-03,Arizona Diamondbacks,Atlanta Braves,0,2,2,Atlanta Braves,Atlanta Braves,36.4,63.6,True,63.6,10.08,8.08,True,OVER
+2026-04-03,San Francisco Giants,New York Mets,3,10,13,New York Mets,New York Mets,49.9,50.1,True,50.1,7.03,5.97,True,UNDER
+2026-04-03,Kansas City Royals,Milwaukee Brewers,0,0,0,Milwaukee Brewers,Milwaukee Brewers,22.2,77.8,True,77.8,9.01,9.01,False,OVER
+2026-04-04,Detroit Tigers,St. Louis Cardinals,11,6,17,Detroit Tigers,Detroit Tigers,63.5,36.5,True,63.5,9.65,7.35,True,UNDER
+2026-04-04,Chicago White Sox,Toronto Blue Jays,6,3,9,Chicago White Sox,Chicago White Sox,50.8,49.2,True,50.8,10.93,1.9299999999999997,True,OVER
+2026-04-04,Kansas City Royals (DH-1),Milwaukee Brewers,2,5,7,Milwaukee Brewers,Milwaukee Brewers,23.5,76.5,True,76.5,8.99,1.9900000000000002,True,OVER
+2026-04-04,Kansas City Royals (DH-2),Milwaukee Brewers,8,2,10,Kansas City Royals,Milwaukee Brewers,22.1,77.9,False,77.9,9.01,0.9900000000000002,False,UNDER
+2026-04-04,Washington Nationals,Los Angeles Dodgers,5,10,15,Los Angeles Dodgers,Los Angeles Dodgers,22.8,77.2,True,77.2,9.02,5.98,True,UNDER
+2026-04-04,Athletics,Houston Astros,0,11,11,Houston Astros,Houston Astros,49.4,50.6,True,50.6,10.99,0.009999999999999787,True,UNDER
+2026-04-04,Pittsburgh Pirates,Baltimore Orioles,3,2,5,Pittsburgh Pirates,Pittsburgh Pirates,69.1,30.9,True,69.1,8.71,3.710000000000001,False,OVER
+2026-04-04,Boston Red Sox,San Diego Padres,2,3,5,San Diego Padres,San Diego Padres,35.1,64.9,True,64.9,7.94,2.9400000000000004,False,OVER
+2026-04-04,Texas Rangers,Cincinnati Reds,0,2,2,Cincinnati Reds,Cincinnati Reds,38.6,61.4,True,61.4,7.76,5.76,True,OVER
+2026-04-04,New York Yankees,Miami Marlins,9,7,16,New York Yankees,New York Yankees,77.1,22.9,True,77.1,8.94,7.0600000000000005,True,UNDER
+2026-04-04,Minnesota Twins,Tampa Bay Rays,1,7,8,Tampa Bay Rays,Minnesota Twins,50.3,49.7,False,50.3,10.99,2.99,False,OVER
+2026-04-04,Arizona Diamondbacks,Atlanta Braves,2,1,3,Arizona Diamondbacks,Atlanta Braves,33.6,66.4,False,66.4,9.76,6.76,False,OVER
+2026-04-04,Colorado Rockies,Philadelphia Phillies,1,2,3,Philadelphia Phillies,Colorado Rockies,72.3,27.7,False,72.3,8.5,5.5,False,OVER
+2026-04-04,San Francisco Giants,New York Mets,0,9,9,New York Mets,New York Mets,49.9,50.1,True,50.1,6.98,2.0199999999999996,True,UNDER
+2026-04-04,Los Angeles Angels,Seattle Mariners,1,0,1,Los Angeles Angels,Los Angeles Angels,62.4,37.6,True,62.4,7.68,6.68,False,OVER
+2026-04-04,Cleveland Guardians,Chicago Cubs,0,0,0,Chicago Cubs,Chicago Cubs,22.2,77.8,True,77.8,8.99,8.99,False,OVER
+2026-04-05,Cleveland Guardians (DH-1),Chicago Cubs,0,1,1,Chicago Cubs,Chicago Cubs,22.5,77.5,True,77.5,8.99,7.99,False,OVER
+2026-04-05,Cleveland Guardians (DH-2),Chicago Cubs,6,5,11,Cleveland Guardians,Chicago Cubs,22.3,77.7,False,77.7,9.03,1.9700000000000006,False,UNDER
+2026-04-05,Washington Nationals,Los Angeles Dodgers,6,8,14,Los Angeles Dodgers,Los Angeles Dodgers,22.5,77.5,True,77.5,9.02,4.98,True,UNDER
+2026-04-05,Pittsburgh Pirates,Baltimore Orioles,8,2,10,Pittsburgh Pirates,Pittsburgh Pirates,71.3,28.7,True,71.3,9.53,0.47000000000000064,True,UNDER
+2026-04-05,Boston Red Sox,San Diego Padres,6,8,14,San Diego Padres,San Diego Padres,39.8,60.2,True,60.2,7.59,6.41,True,UNDER
+2026-04-05,New York Yankees,Miami Marlins,6,7,13,Miami Marlins,New York Yankees,77.4,22.6,False,77.4,8.97,4.029999999999999,False,UNDER
+2026-04-05,Minnesota Twins,Tampa Bay Rays,1,4,5,Tampa Bay Rays,Minnesota Twins,50.8,49.2,False,50.8,11.01,6.01,False,OVER
+2026-04-05,Chicago White Sox,Toronto Blue Jays,3,0,3,Chicago White Sox,Toronto Blue Jays,49.5,50.5,False,50.5,11.03,8.03,False,OVER
+2026-04-05,Kansas City Royals,Milwaukee Brewers,5,8,13,Milwaukee Brewers,Milwaukee Brewers,22.2,77.8,True,77.8,9.05,3.9499999999999993,True,UNDER
+2026-04-05,Texas Rangers,Cincinnati Reds,1,2,3,Cincinnati Reds,Cincinnati Reds,38.4,61.6,True,61.6,7.68,4.68,False,OVER
+2026-04-05,Colorado Rockies,Philadelphia Phillies,4,1,5,Colorado Rockies,Colorado Rockies,78.1,21.9,True,78.1,9.05,4.050000000000001,True,OVER
+2026-04-05,Athletics,Houston Astros,12,10,22,Athletics,Houston Astros,50.0,50.0,False,50.0,11.05,10.95,False,UNDER
+2026-04-05,San Francisco Giants,New York Mets,2,5,7,New York Mets,New York Mets,49.8,50.2,True,50.2,7.06,0.05999999999999961,True,OVER
+2026-04-05,Los Angeles Angels,Seattle Mariners,8,7,15,Los Angeles Angels,Los Angeles Angels,61.7,38.3,True,61.7,7.75,7.25,False,UNDER
+2026-04-05,Arizona Diamondbacks,Atlanta Braves,6,5,11,Arizona Diamondbacks,Atlanta Braves,33.7,66.3,False,66.3,9.79,1.2100000000000009,False,UNDER
+2026-04-05,Detroit Tigers,St. Louis Cardinals,3,5,8,St. Louis Cardinals,Detroit Tigers,54.4,45.6,False,54.4,9.56,1.5600000000000005,False,OVER
+2026-04-06,Tampa Bay Rays,Chicago Cubs,6,4,10,Tampa Bay Rays,Chicago Cubs,24.7,75.3,False,75.3,9.26,0.7400000000000002,False,UNDER
+2026-04-06,Cleveland Guardians,Kansas City Royals,2,4,6,Kansas City Royals,Cleveland Guardians,78.6,21.4,False,78.6,9.0,3.0,False,OVER
+2026-04-06,Pittsburgh Pirates,San Diego Padres,0,5,5,San Diego Padres,Pittsburgh Pirates,52.0,48.0,False,52.0,7.59,2.59,False,OVER
+2026-04-06,Miami Marlins,Cincinnati Reds,0,2,2,Cincinnati Reds,Cincinnati Reds,49.0,51.0,True,51.0,8.54,6.539999999999999,True,OVER
+2026-04-06,Washington Nationals,St. Louis Cardinals,9,6,15,Washington Nationals,St. Louis Cardinals,49.3,50.7,False,50.7,11.0,4.0,False,UNDER
+2026-04-06,Boston Red Sox,Milwaukee Brewers,6,8,14,Milwaukee Brewers,Milwaukee Brewers,23.9,76.1,True,76.1,8.89,5.109999999999999,True,UNDER
+2026-04-06,Toronto Blue Jays,Los Angeles Dodgers,2,14,16,Los Angeles Dodgers,Los Angeles Dodgers,22.3,77.7,True,77.7,9.05,6.949999999999999,True,UNDER
+2026-04-06,Minnesota Twins,Detroit Tigers,7,3,10,Minnesota Twins,Minnesota Twins,51.4,48.6,True,51.4,10.5,0.5,True,OVER
+2026-04-06,Chicago White Sox,Baltimore Orioles,1,2,3,Baltimore Orioles,Baltimore Orioles,50.0,50.0,True,50.0,10.96,7.960000000000001,False,OVER
+2026-04-06,Texas Rangers,Seattle Mariners,2,1,3,Texas Rangers,Seattle Mariners,49.2,50.8,False,50.8,7.01,4.01,False,OVER
+2026-04-06,Colorado Rockies,Houston Astros,9,7,16,Colorado Rockies,Colorado Rockies,50.6,49.4,True,50.6,10.98,5.02,True,UNDER
+2026-04-06,Los Angeles Angels,Atlanta Braves,6,2,8,Los Angeles Angels,Atlanta Braves,22.2,77.8,False,77.8,9.03,1.0299999999999994,False,OVER
+2026-04-06,San Francisco Giants,Philadelphia Phillies,4,6,10,Philadelphia Phillies,Philadelphia Phillies,49.7,50.3,True,50.3,7.04,2.96,True,UNDER
+2026-04-07,Cleveland Guardians,Kansas City Royals,2,1,3,Cleveland Guardians,Cleveland Guardians,75.6,24.4,True,75.6,9.23,6.23,False,OVER
+2026-04-07,Chicago White Sox,Baltimore Orioles,2,4,6,Baltimore Orioles,Baltimore Orioles,49.7,50.3,True,50.3,10.96,4.960000000000001,True,OVER
+2026-04-07,New York Mets,Arizona Diamondbacks,4,3,7,New York Mets,Arizona Diamondbacks,29.8,70.2,False,70.2,9.6,2.5999999999999996,False,OVER
+2026-04-07,Pittsburgh Pirates,San Diego Padres,7,1,8,Pittsburgh Pirates,San Diego Padres,50.0,50.0,False,50.0,6.97,1.0300000000000002,False,UNDER
+2026-04-07,Tampa Bay Rays,Chicago Cubs,2,9,11,Chicago Cubs,Chicago Cubs,25.9,74.1,True,74.1,9.21,1.7899999999999991,True,UNDER
+2026-04-07,Miami Marlins,Cincinnati Reds,3,6,9,Cincinnati Reds,Cincinnati Reds,42.8,57.2,True,57.2,9.11,0.10999999999999943,True,OVER
+2026-04-07,Washington Nationals,St. Louis Cardinals,6,7,13,St. Louis Cardinals,Washington Nationals,50.5,49.5,False,50.5,10.99,2.01,False,UNDER
+2026-04-07,Boston Red Sox,Milwaukee Brewers,3,2,5,Boston Red Sox,Milwaukee Brewers,39.2,60.8,False,60.8,7.66,2.66,False,OVER
+2026-04-07,New York Yankees,Athletics,5,3,8,New York Yankees,New York Yankees,77.5,22.5,True,77.5,8.99,0.9900000000000002,True,OVER
+2026-04-07,Toronto Blue Jays,Los Angeles Dodgers,1,4,5,Los Angeles Dodgers,Los Angeles Dodgers,22.3,77.7,True,77.7,8.93,3.9299999999999997,True,OVER
+2026-04-07,Minnesota Twins,Detroit Tigers,4,2,6,Minnesota Twins,Detroit Tigers,30.8,69.2,False,69.2,9.63,3.630000000000001,False,OVER
+2026-04-07,Texas Rangers,Seattle Mariners,3,2,5,Texas Rangers,Texas Rangers,50.1,49.9,True,50.1,6.99,1.9900000000000002,False,OVER
+2026-04-07,Colorado Rockies,Houston Astros,5,1,6,Colorado Rockies,Colorado Rockies,50.5,49.5,True,50.5,10.97,4.970000000000001,True,OVER
+2026-04-07,Los Angeles Angels,Atlanta Braves,2,7,9,Atlanta Braves,Atlanta Braves,28.3,71.7,True,71.7,9.44,0.4399999999999995,True,OVER
+2026-04-07,San Francisco Giants,Philadelphia Phillies,6,0,6,San Francisco Giants,Philadelphia Phillies,49.5,50.5,False,50.5,7.01,1.0099999999999998,False,OVER
+2026-04-08,Pittsburgh Pirates,San Diego Padres,2,8,10,San Diego Padres,Pittsburgh Pirates,51.1,48.9,False,51.1,7.13,2.87,False,UNDER
+2026-04-08,Cleveland Guardians,Kansas City Royals,10,2,12,Cleveland Guardians,Cleveland Guardians,72.9,27.1,True,72.9,8.92,3.08,True,UNDER
+2026-04-08,Boston Red Sox,Milwaukee Brewers,5,0,5,Boston Red Sox,Milwaukee Brewers,32.4,67.6,False,67.6,8.19,3.1899999999999995,False,OVER
+2026-04-08,Chicago White Sox,Baltimore Orioles,3,5,8,Baltimore Orioles,Baltimore Orioles,50.0,50.0,True,50.0,11.07,3.0700000000000003,True,OVER
+2026-04-08,Texas Rangers,Seattle Mariners,3,0,3,Texas Rangers,Seattle Mariners,49.8,50.2,False,50.2,7.01,4.01,False,OVER
+2026-04-08,Toronto Blue Jays,Los Angeles Dodgers,4,3,7,Toronto Blue Jays,Los Angeles Dodgers,22.3,77.7,False,77.7,8.97,1.9700000000000006,False,OVER
+2026-04-08,Colorado Rockies,Houston Astros,9,1,10,Colorado Rockies,Houston Astros,49.9,50.1,False,50.1,10.94,0.9399999999999995,False,OVER
+2026-04-08,San Francisco Giants,Philadelphia Phillies,5,0,5,San Francisco Giants,San Francisco Giants,52.1,47.9,True,52.1,7.03,2.0300000000000002,True,OVER
+2026-04-08,Washington Nationals,St. Louis Cardinals,1,6,7,St. Louis Cardinals,St. Louis Cardinals,37.4,62.6,True,62.6,10.04,3.039999999999999,True,OVER
+2026-04-08,Los Angeles Angels,Atlanta Braves,2,8,10,Atlanta Braves,Atlanta Braves,29.0,71.0,True,71.0,9.2,0.8000000000000007,True,UNDER
+2026-04-08,New York Mets,Arizona Diamondbacks,2,7,9,Arizona Diamondbacks,Arizona Diamondbacks,22.1,77.9,True,77.9,9.05,0.05000000000000071,True,OVER
+2026-04-08,Tampa Bay Rays,Chicago Cubs,2,6,8,Chicago Cubs,Chicago Cubs,23.1,76.9,True,76.9,9.03,1.0299999999999994,True,OVER
+2026-04-08,Miami Marlins,Cincinnati Reds,7,4,11,Miami Marlins,Cincinnati Reds,43.5,56.5,False,56.5,8.86,2.1400000000000006,False,UNDER
+2026-04-08,New York Yankees,Athletics,2,3,5,Athletics,New York Yankees,78.1,21.9,False,78.1,9.06,4.0600000000000005,False,OVER
+2026-04-08,Minnesota Twins,Detroit Tigers,8,6,14,Minnesota Twins,Detroit Tigers,43.6,56.4,False,56.4,10.58,3.42,False,UNDER
+2026-04-09,Miami Marlins,Cincinnati Reds,8,1,9,Miami Marlins,Cincinnati Reds,47.2,52.8,False,52.8,8.53,0.47000000000000064,False,UNDER
+2026-04-09,New York Yankees,Athletics,0,1,1,Athletics,New York Yankees,77.7,22.3,False,77.7,9.01,8.01,False,OVER
+2026-04-09,Minnesota Twins,Detroit Tigers,3,1,4,Minnesota Twins,Detroit Tigers,43.7,56.3,False,56.3,10.57,6.57,False,OVER
+2026-04-09,New York Mets,Arizona Diamondbacks,1,7,8,Arizona Diamondbacks,Arizona Diamondbacks,27.6,72.4,True,72.4,8.52,0.5199999999999996,True,OVER
+2026-04-09,Kansas City Royals,Chicago White Sox,0,2,2,Chicago White Sox,Chicago White Sox,39.5,60.5,True,60.5,10.19,8.19,True,OVER
+2026-04-09,San Diego Padres,Colorado Rockies,7,3,10,San Diego Padres,San Diego Padres,63.9,36.1,True,63.9,7.77,2.2300000000000004,True,UNDER
+2026-04-10,Chicago Cubs,Pittsburgh Pirates,0,2,2,Pittsburgh Pirates,Chicago Cubs,78.0,22.0,False,78.0,9.01,7.01,False,OVER
+2026-04-10,Philadelphia Phillies,Arizona Diamondbacks,4,5,9,Arizona Diamondbacks,Arizona Diamondbacks,22.8,77.2,True,77.2,8.96,0.03999999999999915,False,UNDER
+2026-04-10,Detroit Tigers,Miami Marlins,2,0,2,Detroit Tigers,Miami Marlins,41.9,58.1,False,58.1,9.59,7.59,False,OVER
+2026-04-10,Cincinnati Reds,Los Angeles Angels,2,10,12,Los Angeles Angels,Cincinnati Reds,61.9,38.1,False,61.9,8.0,4.0,False,UNDER
+2026-04-10,Toronto Blue Jays,Minnesota Twins,10,4,14,Toronto Blue Jays,Minnesota Twins,48.6,51.4,False,51.4,10.91,3.09,False,UNDER
+2026-04-10,New York Mets,Athletics,0,4,4,Athletics,Athletics,23.9,76.1,True,76.1,8.88,4.880000000000001,True,OVER
+2026-04-10,Tampa Bay Rays,New York Yankees,5,3,8,Tampa Bay Rays,New York Yankees,29.1,70.9,False,70.9,9.47,1.4700000000000006,False,OVER
+2026-04-10,Baltimore Orioles,San Francisco Giants,3,6,9,San Francisco Giants,Baltimore Orioles,62.0,38.0,False,62.0,7.73,1.2699999999999996,False,UNDER
+2026-04-10,Atlanta Braves,Cleveland Guardians,11,5,16,Atlanta Braves,Atlanta Braves,77.4,22.6,True,77.4,9.0,7.0,True,UNDER
+2026-04-10,Kansas City Royals,Chicago White Sox,2,0,2,Kansas City Royals,Chicago White Sox,43.5,56.5,False,56.5,10.53,8.53,False,OVER
+2026-04-10,Milwaukee Brewers,Washington Nationals,3,7,10,Washington Nationals,Milwaukee Brewers,59.0,41.0,False,59.0,10.33,0.33000000000000007,False,OVER
+2026-04-10,St. Louis Cardinals,Boston Red Sox,3,2,5,St. Louis Cardinals,St. Louis Cardinals,73.4,26.6,True,73.4,8.56,3.5600000000000005,False,OVER
+2026-04-10,San Diego Padres,Colorado Rockies,5,2,7,San Diego Padres,San Diego Padres,66.0,34.0,True,66.0,7.95,0.9500000000000002,True,OVER
+2026-04-10,Seattle Mariners,Houston Astros,9,6,15,Seattle Mariners,Seattle Mariners,62.8,37.2,True,62.8,9.5,5.5,True,UNDER
+2026-04-10,Los Angeles Dodgers,Texas Rangers,8,7,15,Los Angeles Dodgers,Los Angeles Dodgers,64.5,35.5,True,64.5,7.93,7.07,False,UNDER
+2026-04-11,Philadelphia Phillies,Arizona Diamondbacks,4,3,7,Philadelphia Phillies,Arizona Diamondbacks,22.7,77.3,False,77.3,9.02,2.0199999999999996,False,OVER
+2026-04-11,Detroit Tigers,Miami Marlins,6,1,7,Detroit Tigers,Miami Marlins,38.6,61.4,False,61.4,9.59,2.59,False,OVER
+2026-04-11,Chicago Cubs,Pittsburgh Pirates,3,4,7,Pittsburgh Pirates,Chicago Cubs,77.7,22.3,False,77.7,8.99,1.9900000000000002,False,OVER
+2026-04-11,Toronto Blue Jays,Minnesota Twins,4,7,11,Minnesota Twins,Minnesota Twins,35.9,64.1,True,64.1,9.92,1.08,True,UNDER
+2026-04-11,Cincinnati Reds,Los Angeles Angels,7,3,10,Cincinnati Reds,Cincinnati Reds,51.0,49.0,True,51.0,8.78,1.2200000000000006,True,UNDER
+2026-04-11,New York Mets,Athletics,6,11,17,Athletics,Athletics,22.2,77.8,True,77.8,8.92,8.08,True,UNDER
+2026-04-11,Kansas City Royals,Chicago White Sox,2,0,2,Kansas City Royals,Chicago White Sox,41.2,58.8,False,58.8,10.28,8.28,False,OVER
+2026-04-11,Tampa Bay Rays,New York Yankees,5,4,9,Tampa Bay Rays,New York Yankees,22.4,77.6,False,77.6,8.95,0.05000000000000071,False,UNDER
+2026-04-11,Milwaukee Brewers,Washington Nationals,1,3,4,Washington Nationals,Milwaukee Brewers,63.2,36.8,False,63.2,10.01,6.01,False,OVER
+2026-04-11,Baltimore Orioles,San Francisco Giants,6,2,8,Baltimore Orioles,Baltimore Orioles,52.6,47.4,True,52.6,7.12,0.8799999999999999,True,UNDER
+2026-04-11,St. Louis Cardinals,Boston Red Sox,1,7,8,Boston Red Sox,St. Louis Cardinals,70.0,30.0,False,70.0,8.24,0.2400000000000002,False,OVER
+2026-04-11,Atlanta Braves,Cleveland Guardians,0,6,6,Cleveland Guardians,Atlanta Braves,77.5,22.5,False,77.5,9.05,3.0500000000000007,False,OVER
+2026-04-11,San Diego Padres,Colorado Rockies,9,5,14,San Diego Padres,San Diego Padres,71.2,28.8,True,71.2,8.44,5.5600000000000005,True,UNDER
+2026-04-11,Los Angeles Dodgers,Texas Rangers,6,3,9,Los Angeles Dodgers,Los Angeles Dodgers,64.3,35.7,True,64.3,7.9,1.0999999999999996,True,UNDER
+2026-04-11,Seattle Mariners,Houston Astros,8,7,15,Seattle Mariners,Seattle Mariners,63.0,37.0,True,63.0,9.39,5.609999999999999,False,UNDER
+2026-04-12,Baltimore Orioles,San Francisco Giants,6,2,8,Baltimore Orioles,Baltimore Orioles,66.0,34.0,True,66.0,8.32,0.3200000000000003,True,OVER
+2026-04-12,Philadelphia Phillies,Arizona Diamondbacks,3,4,7,Arizona Diamondbacks,Arizona Diamondbacks,25.5,74.5,True,74.5,9.32,2.3200000000000003,False,OVER
+2026-04-12,Toronto Blue Jays,Minnesota Twins,2,8,10,Minnesota Twins,Minnesota Twins,47.8,52.2,True,52.2,10.96,0.9600000000000009,True,OVER
+2026-04-12,Cincinnati Reds,Los Angeles Angels,6,9,15,Los Angeles Angels,Cincinnati Reds,54.0,46.0,False,54.0,8.48,6.52,False,UNDER
+2026-04-12,New York Mets,Athletics,0,1,1,Athletics,Athletics,27.7,72.3,True,72.3,8.57,7.57,False,OVER
+2026-04-12,Detroit Tigers,Miami Marlins,8,2,10,Detroit Tigers,Detroit Tigers,53.7,46.3,True,53.7,9.4,0.5999999999999996,True,UNDER
+2026-04-12,Tampa Bay Rays,New York Yankees,5,4,9,Tampa Bay Rays,New York Yankees,22.3,77.7,False,77.7,8.96,0.03999999999999915,False,UNDER
+2026-04-12,Kansas City Royals,Chicago White Sox,5,6,11,Chicago White Sox,Chicago White Sox,31.5,68.5,True,68.5,9.63,1.3699999999999992,False,UNDER
+2026-04-12,Milwaukee Brewers,Washington Nationals,6,8,14,Washington Nationals,Milwaukee Brewers,65.9,34.1,False,65.9,9.9,4.1,False,UNDER
+2026-04-12,St. Louis Cardinals,Boston Red Sox,3,9,12,Boston Red Sox,St. Louis Cardinals,78.3,21.7,False,78.3,8.94,3.0600000000000005,False,UNDER
+2026-04-12,Chicago Cubs,Pittsburgh Pirates,7,6,13,Chicago Cubs,Chicago Cubs,77.9,22.1,True,77.9,8.98,4.02,False,UNDER
+2026-04-12,San Diego Padres,Colorado Rockies,7,2,9,San Diego Padres,San Diego Padres,64.2,35.8,True,64.2,7.91,1.0899999999999999,True,UNDER
+2026-04-12,Seattle Mariners,Houston Astros,6,1,7,Seattle Mariners,Seattle Mariners,66.7,33.3,True,66.7,8.97,1.9700000000000006,True,OVER
+2026-04-12,Los Angeles Dodgers,Texas Rangers,2,5,7,Texas Rangers,Los Angeles Dodgers,57.0,43.0,False,57.0,7.39,0.3899999999999997,False,OVER
+2026-04-12,Atlanta Braves,Cleveland Guardians,13,1,14,Atlanta Braves,Atlanta Braves,77.4,22.6,True,77.4,9.07,4.93,True,UNDER
+2026-04-13,Seattle Mariners,Houston Astros,6,2,8,Seattle Mariners,Seattle Mariners,62.9,37.1,True,62.9,8.78,0.7799999999999994,True,OVER
+2026-04-13,Baltimore Orioles,Arizona Diamondbacks,9,7,16,Baltimore Orioles,Arizona Diamondbacks,49.5,50.5,False,50.5,11.02,4.98,False,UNDER
+2026-04-13,Pittsburgh Pirates,Washington Nationals,16,5,21,Pittsburgh Pirates,Pittsburgh Pirates,75.1,24.9,True,75.1,9.25,11.75,True,UNDER
+2026-04-13,Philadelphia Phillies,Chicago Cubs,13,7,20,Philadelphia Phillies,Chicago Cubs,22.4,77.6,False,77.6,8.94,11.06,False,UNDER
+2026-04-13,New York Yankees,Los Angeles Angels,11,10,21,New York Yankees,New York Yankees,76.1,23.9,True,76.1,9.0,12.0,False,UNDER
+2026-04-13,Atlanta Braves,Miami Marlins,4,10,14,Miami Marlins,Atlanta Braves,68.3,31.7,False,68.3,9.72,4.279999999999999,False,UNDER
+2026-04-13,Minnesota Twins,Boston Red Sox,13,6,19,Minnesota Twins,Minnesota Twins,68.2,31.8,True,68.2,8.14,10.86,True,UNDER
+2026-04-13,St. Louis Cardinals,Cleveland Guardians,3,9,12,Cleveland Guardians,St. Louis Cardinals,55.9,44.1,False,55.9,9.96,2.039999999999999,False,UNDER
+2026-04-13,Athletics,Texas Rangers,1,8,9,Texas Rangers,Texas Rangers,40.9,59.1,True,59.1,8.21,0.7899999999999991,True,UNDER
+2026-04-13,Los Angeles Dodgers,New York Mets,4,0,4,Los Angeles Dodgers,Los Angeles Dodgers,77.8,22.2,True,77.8,9.0,5.0,True,OVER
+2026-04-14,Baltimore Orioles,Arizona Diamondbacks,3,4,7,Arizona Diamondbacks,Arizona Diamondbacks,49.6,50.4,True,50.4,10.99,3.99,False,OVER
+2026-04-14,Detroit Tigers,Kansas City Royals,2,1,3,Detroit Tigers,Detroit Tigers,76.3,23.7,True,76.3,9.17,6.17,False,OVER
+2026-04-14,Pittsburgh Pirates,Washington Nationals,4,5,9,Washington Nationals,Pittsburgh Pirates,64.5,35.5,False,64.5,9.84,0.8399999999999999,False,OVER
+2026-04-14,Cincinnati Reds,San Francisco Giants,2,1,3,Cincinnati Reds,Cincinnati Reds,64.9,35.1,True,64.9,7.92,4.92,False,OVER
+2026-04-14,Philadelphia Phillies,Chicago Cubs,4,10,14,Chicago Cubs,Chicago Cubs,22.7,77.3,True,77.3,9.01,4.99,True,UNDER
+2026-04-14,New York Yankees,Los Angeles Angels,1,7,8,Los Angeles Angels,New York Yankees,67.9,32.1,False,67.9,8.19,0.1899999999999995,False,OVER
+2026-04-14,Atlanta Braves,Miami Marlins,6,5,11,Atlanta Braves,Atlanta Braves,67.3,32.7,True,67.3,9.73,1.2699999999999996,False,UNDER
+2026-04-14,Minnesota Twins,Boston Red Sox,6,0,6,Minnesota Twins,Minnesota Twins,72.0,28.0,True,72.0,8.48,2.4800000000000004,True,OVER
+2026-04-14,Chicago White Sox,Tampa Bay Rays,5,8,13,Tampa Bay Rays,Tampa Bay Rays,49.8,50.2,True,50.2,10.98,2.0199999999999996,True,UNDER
+2026-04-14,Milwaukee Brewers,Toronto Blue Jays,7,9,16,Toronto Blue Jays,Milwaukee Brewers,62.4,37.6,False,62.4,8.36,7.640000000000001,False,UNDER
+2026-04-14,St. Louis Cardinals,Cleveland Guardians,6,5,11,St. Louis Cardinals,St. Louis Cardinals,59.6,40.4,True,59.6,9.03,1.9700000000000006,False,UNDER
+2026-04-14,Houston Astros,Colorado Rockies,7,6,13,Houston Astros,Colorado Rockies,50.0,50.0,False,50.0,11.02,1.9800000000000004,False,UNDER
+2026-04-14,San Diego Padres,Seattle Mariners,4,1,5,San Diego Padres,San Diego Padres,50.5,49.5,True,50.5,6.98,1.9800000000000004,True,OVER
+2026-04-14,Athletics,Texas Rangers,2,1,3,Athletics,Athletics,53.9,46.1,True,53.9,8.73,5.73,False,OVER
+2026-04-14,Los Angeles Dodgers,New York Mets,2,1,3,Los Angeles Dodgers,Los Angeles Dodgers,72.3,27.7,True,72.3,8.49,5.49,False,OVER
+2026-04-15,Baltimore Orioles,Arizona Diamondbacks,5,8,13,Arizona Diamondbacks,Baltimore Orioles,50.5,49.5,False,50.5,11.04,1.9600000000000009,False,UNDER
+2026-04-15,St. Louis Cardinals,Cleveland Guardians,5,3,8,St. Louis Cardinals,St. Louis Cardinals,50.4,49.6,True,50.4,9.43,1.4299999999999997,True,OVER
+2026-04-15,Minnesota Twins,Boston Red Sox,5,9,14,Boston Red Sox,Minnesota Twins,68.9,31.1,False,68.9,8.22,5.779999999999999,False,UNDER
+2026-04-15,Detroit Tigers,Kansas City Royals,2,1,3,Detroit Tigers,Detroit Tigers,77.8,22.2,True,77.8,8.99,5.99,False,OVER
+2026-04-15,Pittsburgh Pirates,Washington Nationals,2,0,2,Pittsburgh Pirates,Pittsburgh Pirates,71.5,28.5,True,71.5,9.47,7.470000000000001,True,OVER
+2026-04-15,Cincinnati Reds,San Francisco Giants,8,3,11,Cincinnati Reds,Cincinnati Reds,68.4,31.6,True,68.4,8.22,2.7799999999999994,True,UNDER
+2026-04-15,Philadelphia Phillies,Chicago Cubs,2,11,13,Chicago Cubs,Chicago Cubs,21.7,78.3,True,78.3,8.96,4.039999999999999,True,UNDER
+2026-04-15,New York Yankees,Los Angeles Angels,5,4,9,New York Yankees,New York Yankees,76.6,23.4,True,76.6,8.84,0.16000000000000014,False,UNDER
+2026-04-15,Atlanta Braves,Miami Marlins,6,3,9,Atlanta Braves,Atlanta Braves,73.4,26.6,True,73.4,9.29,0.28999999999999915,True,OVER
+2026-04-15,Chicago White Sox,Tampa Bay Rays,3,8,11,Tampa Bay Rays,Chicago White Sox,50.3,49.7,False,50.3,11.0,0.0,False,UNDER
+2026-04-15,Milwaukee Brewers,Toronto Blue Jays,2,1,3,Milwaukee Brewers,Milwaukee Brewers,59.4,40.6,True,59.4,8.42,5.42,False,OVER
+2026-04-15,Houston Astros,Colorado Rockies,3,1,4,Houston Astros,Colorado Rockies,49.7,50.3,False,50.3,10.92,6.92,False,OVER
+2026-04-15,San Diego Padres,Seattle Mariners,7,6,13,San Diego Padres,San Diego Padres,50.2,49.8,True,50.2,6.98,6.02,False,UNDER
+2026-04-15,Athletics,Texas Rangers,6,5,11,Athletics,Athletics,55.5,44.5,True,55.5,8.47,2.5299999999999994,False,UNDER
+2026-04-15,Los Angeles Dodgers,New York Mets,8,2,10,Los Angeles Dodgers,Los Angeles Dodgers,77.5,22.5,True,77.5,8.97,1.0299999999999994,True,UNDER
+2026-04-16,Pittsburgh Pirates,Washington Nationals,7,8,15,Washington Nationals,Pittsburgh Pirates,74.1,25.9,False,74.1,9.33,5.67,False,UNDER
+2026-04-16,Cincinnati Reds,San Francisco Giants,0,3,3,San Francisco Giants,Cincinnati Reds,63.4,36.6,False,63.4,7.84,4.84,False,OVER
+2026-04-16,Detroit Tigers,Kansas City Royals,10,9,19,Detroit Tigers,Detroit Tigers,77.6,22.4,True,77.6,8.96,10.04,False,UNDER
+2026-04-16,New York Yankees,Los Angeles Angels,4,11,15,Los Angeles Angels,New York Yankees,69.4,30.6,False,69.4,8.31,6.6899999999999995,False,UNDER
+2026-04-16,Milwaukee Brewers,Toronto Blue Jays,2,1,3,Milwaukee Brewers,Milwaukee Brewers,61.1,38.9,True,61.1,9.45,6.449999999999999,False,OVER
+2026-04-16,Chicago White Sox,Tampa Bay Rays,3,5,8,Tampa Bay Rays,Chicago White Sox,50.9,49.1,False,50.9,10.99,2.99,False,OVER
+2026-04-16,Athletics,Texas Rangers,6,9,15,Texas Rangers,Athletics,52.4,47.6,False,52.4,8.9,6.1,False,UNDER
+2026-04-16,Cleveland Guardians,Baltimore Orioles,4,2,6,Cleveland Guardians,Cleveland Guardians,56.7,43.3,True,56.7,9.92,3.92,True,OVER
+2026-04-16,Houston Astros,Colorado Rockies,2,3,5,Colorado Rockies,Colorado Rockies,49.9,50.1,True,50.1,10.95,5.949999999999999,False,OVER
+2026-04-16,San Diego Padres,Seattle Mariners,5,2,7,San Diego Padres,Seattle Mariners,49.9,50.1,False,50.1,6.98,0.019999999999999574,False,UNDER
+2026-04-17,Chicago Cubs,New York Mets,12,4,16,Chicago Cubs,Chicago Cubs,76.8,23.2,True,76.8,9.01,6.99,True,UNDER
+2026-04-17,Cleveland Guardians,Baltimore Orioles,4,6,10,Baltimore Orioles,Cleveland Guardians,52.1,47.9,False,52.1,10.2,0.1999999999999993,False,OVER
+2026-04-17,Philadelphia Phillies,Atlanta Braves,0,9,9,Atlanta Braves,Atlanta Braves,22.4,77.6,True,77.6,9.01,0.009999999999999787,True,OVER
+2026-04-17,Washington Nationals,San Francisco Giants,5,10,15,San Francisco Giants,San Francisco Giants,39.4,60.6,True,60.6,7.8,7.2,True,UNDER
+2026-04-17,Pittsburgh Pirates,Tampa Bay Rays,5,1,6,Pittsburgh Pirates,Pittsburgh Pirates,62.4,37.6,True,62.4,10.1,4.1,True,OVER
+2026-04-17,New York Yankees,Kansas City Royals,4,2,6,New York Yankees,New York Yankees,77.8,22.2,True,77.8,8.96,2.960000000000001,True,OVER
+2026-04-17,Miami Marlins,Milwaukee Brewers,5,7,12,Milwaukee Brewers,Miami Marlins,50.9,49.1,False,50.9,8.68,3.3200000000000003,False,UNDER
+2026-04-17,Boston Red Sox,Detroit Tigers,1,0,1,Boston Red Sox,Detroit Tigers,24.5,75.5,False,75.5,8.82,7.82,False,OVER
+2026-04-17,Houston Astros,St. Louis Cardinals,4,9,13,St. Louis Cardinals,Houston Astros,51.1,48.9,False,51.1,11.06,1.9399999999999995,False,UNDER
+2026-04-17,Minnesota Twins,Cincinnati Reds,1,2,3,Cincinnati Reds,Cincinnati Reds,43.1,56.9,True,56.9,9.05,6.050000000000001,False,OVER
+2026-04-17,Colorado Rockies,Los Angeles Dodgers,1,7,8,Los Angeles Dodgers,Los Angeles Dodgers,21.9,78.1,True,78.1,8.99,0.9900000000000002,True,OVER
+2026-04-17,Los Angeles Angels,San Diego Padres,8,0,8,Los Angeles Angels,Los Angeles Angels,57.8,42.2,True,57.8,7.87,0.1299999999999999,True,UNDER
+2026-04-17,Seattle Mariners,Texas Rangers,0,5,5,Texas Rangers,Seattle Mariners,50.9,49.1,False,50.9,6.97,1.9699999999999998,False,OVER
+2026-04-17,Arizona Diamondbacks,Toronto Blue Jays,6,3,9,Arizona Diamondbacks,Arizona Diamondbacks,50.1,49.9,True,50.1,11.01,2.01,True,OVER
+2026-04-17,Athletics,Chicago White Sox,2,9,11,Chicago White Sox,Chicago White Sox,48.8,51.2,True,51.2,11.01,0.009999999999999787,True,OVER
+2026-04-18,New York Yankees,Kansas City Royals,13,4,17,New York Yankees,New York Yankees,78.5,21.5,True,78.5,9.0,8.0,True,UNDER
+2026-04-18,Minnesota Twins,Cincinnati Reds,4,5,9,Cincinnati Reds,Cincinnati Reds,30.6,69.4,True,69.4,9.61,0.6099999999999994,False,OVER
+2026-04-18,Chicago Cubs,New York Mets,4,2,6,Chicago Cubs,Chicago Cubs,77.5,22.5,True,77.5,9.01,3.01,True,OVER
+2026-04-18,Pittsburgh Pirates,Tampa Bay Rays,7,8,15,Tampa Bay Rays,Pittsburgh Pirates,70.8,29.2,False,70.8,8.9,6.1,False,UNDER
+2026-04-18,Washington Nationals,San Francisco Giants,6,7,13,San Francisco Giants,Washington Nationals,50.5,49.5,False,50.5,8.09,4.91,False,UNDER
+2026-04-18,Athletics,Chicago White Sox,7,6,13,Athletics,Chicago White Sox,49.8,50.2,False,50.2,10.99,2.01,False,UNDER
+2026-04-18,Boston Red Sox,Detroit Tigers,1,4,5,Detroit Tigers,Detroit Tigers,22.7,77.3,True,77.3,8.97,3.9700000000000006,True,OVER
+2026-04-18,Miami Marlins,Milwaukee Brewers,2,5,7,Milwaukee Brewers,Milwaukee Brewers,44.1,55.9,True,55.9,9.21,2.210000000000001,True,OVER
+2026-04-18,Cleveland Guardians,Baltimore Orioles,4,2,6,Cleveland Guardians,Baltimore Orioles,43.7,56.3,False,56.3,10.54,4.539999999999999,False,OVER
+2026-04-18,Houston Astros,St. Louis Cardinals,5,7,12,St. Louis Cardinals,St. Louis Cardinals,48.9,51.1,True,51.1,10.95,1.0500000000000007,True,UNDER
+2026-04-18,Seattle Mariners,Texas Rangers,7,3,10,Seattle Mariners,Seattle Mariners,50.5,49.5,True,50.5,7.04,2.96,True,UNDER
+2026-04-18,Philadelphia Phillies,Atlanta Braves,1,3,4,Atlanta Braves,Atlanta Braves,22.8,77.2,True,77.2,9.02,5.02,True,OVER
+2026-04-18,Colorado Rockies,Los Angeles Dodgers,4,3,7,Colorado Rockies,Los Angeles Dodgers,22.1,77.9,False,77.9,9.06,2.0600000000000005,False,OVER
+2026-04-18,Arizona Diamondbacks,Toronto Blue Jays,6,2,8,Arizona Diamondbacks,Arizona Diamondbacks,50.1,49.9,True,50.1,11.01,3.01,True,OVER
+2026-04-18,Los Angeles Angels,San Diego Padres,1,4,5,San Diego Padres,Los Angeles Angels,55.6,44.4,False,55.6,7.94,2.9400000000000004,False,OVER
+2026-04-19,Washington Nationals,San Francisco Giants,3,0,3,Washington Nationals,San Francisco Giants,47.4,52.6,False,52.6,8.6,5.6,False,OVER
+2026-04-19,Pittsburgh Pirates,Tampa Bay Rays,6,3,9,Pittsburgh Pirates,Pittsburgh Pirates,63.1,36.9,True,63.1,10.12,1.1199999999999992,True,OVER
+2026-04-19,New York Yankees,Kansas City Royals,7,0,7,New York Yankees,New York Yankees,77.2,22.8,True,77.2,9.0,2.0,True,OVER
+2026-04-19,Cleveland Guardians,Baltimore Orioles,8,4,12,Cleveland Guardians,Baltimore Orioles,36.9,63.1,False,63.1,10.03,1.9700000000000006,False,UNDER
+2026-04-19,Miami Marlins,Milwaukee Brewers,5,3,8,Miami Marlins,Miami Marlins,54.3,45.7,True,54.3,9.16,1.1600000000000001,True,OVER
+2026-04-19,Houston Astros,St. Louis Cardinals,5,7,12,St. Louis Cardinals,St. Louis Cardinals,50.0,50.0,True,50.0,10.96,1.0399999999999991,True,UNDER
+2026-04-19,Minnesota Twins,Cincinnati Reds,4,7,11,Cincinnati Reds,Cincinnati Reds,31.0,69.0,True,69.0,9.54,1.4600000000000009,True,UNDER
+2026-04-19,Chicago Cubs,New York Mets,2,1,3,Chicago Cubs,Chicago Cubs,77.4,22.6,True,77.4,8.96,5.960000000000001,False,OVER
+2026-04-19,Colorado Rockies,Los Angeles Dodgers,9,6,15,Colorado Rockies,Los Angeles Dodgers,22.0,78.0,False,78.0,8.96,6.039999999999999,False,UNDER
+2026-04-19,Athletics,Chicago White Sox,4,7,11,Chicago White Sox,Chicago White Sox,50.0,50.0,True,50.0,11.05,0.05000000000000071,True,OVER
+2026-04-19,Los Angeles Angels,San Diego Padres,1,2,3,San Diego Padres,Los Angeles Angels,61.4,38.6,False,61.4,7.69,4.69,False,OVER
+2026-04-19,Seattle Mariners,Texas Rangers,5,2,7,Seattle Mariners,Texas Rangers,49.4,50.6,False,50.6,7.01,0.009999999999999787,False,OVER
+2026-04-19,Arizona Diamondbacks,Toronto Blue Jays,4,10,14,Toronto Blue Jays,Arizona Diamondbacks,50.4,49.6,False,50.4,10.95,3.0500000000000007,False,UNDER
+2026-04-19,Boston Red Sox,Detroit Tigers,2,6,8,Detroit Tigers,Detroit Tigers,34.2,65.8,True,65.8,7.99,0.009999999999999787,True,UNDER
+2026-04-19,Philadelphia Phillies,Atlanta Braves,2,4,6,Atlanta Braves,Atlanta Braves,22.1,77.9,True,77.9,8.96,2.960000000000001,True,OVER
+2026-04-20,Boston Red Sox,Detroit Tigers,8,6,14,Boston Red Sox,Detroit Tigers,30.2,69.8,False,69.8,8.31,5.6899999999999995,False,UNDER
+2026-04-20,Cleveland Guardians,Houston Astros,2,9,11,Houston Astros,Cleveland Guardians,55.2,44.8,False,55.2,10.56,0.4399999999999995,False,UNDER
+2026-04-20,Tampa Bay Rays,Cincinnati Reds,1,6,7,Cincinnati Reds,Cincinnati Reds,33.3,66.7,True,66.7,9.85,2.8499999999999996,True,OVER
+2026-04-20,Miami Marlins,St. Louis Cardinals,5,3,8,Miami Marlins,Miami Marlins,64.7,35.3,True,64.7,9.55,1.5500000000000007,True,OVER
+2026-04-20,Washington Nationals,Atlanta Braves,4,9,13,Atlanta Braves,Atlanta Braves,25.2,74.8,True,74.8,9.27,3.7300000000000004,True,UNDER
+2026-04-20,Kansas City Royals,Baltimore Orioles,5,7,12,Baltimore Orioles,Baltimore Orioles,26.8,73.2,True,73.2,9.4,2.5999999999999996,True,UNDER
+2026-04-20,Chicago Cubs,Philadelphia Phillies,5,1,6,Chicago Cubs,Chicago Cubs,77.4,22.6,True,77.4,9.01,3.01,True,OVER
+2026-04-20,Colorado Rockies,Los Angeles Dodgers,3,12,15,Los Angeles Dodgers,Los Angeles Dodgers,22.3,77.7,True,77.7,9.04,5.960000000000001,True,UNDER
+2026-04-20,Los Angeles Angels,Toronto Blue Jays,2,5,7,Toronto Blue Jays,Los Angeles Angels,72.8,27.2,False,72.8,8.51,1.5099999999999998,False,OVER
+2026-04-20,Seattle Mariners,Athletics,4,6,10,Athletics,Athletics,42.4,57.6,True,57.6,8.2,1.8000000000000007,True,UNDER
+2026-04-21,Cleveland Guardians,Houston Astros,8,5,13,Cleveland Guardians,Cleveland Guardians,61.5,38.5,True,61.5,10.08,2.92,True,UNDER
+2026-04-21,Tampa Bay Rays,Cincinnati Reds,6,12,18,Cincinnati Reds,Cincinnati Reds,26.8,73.2,True,73.2,9.28,8.72,True,UNDER
+2026-04-21,Miami Marlins,St. Louis Cardinals,3,5,8,St. Louis Cardinals,Miami Marlins,64.1,35.9,False,64.1,9.98,1.9800000000000004,False,OVER
+2026-04-21,Detroit Tigers,Milwaukee Brewers,4,12,16,Milwaukee Brewers,Milwaukee Brewers,46.6,53.4,True,53.4,9.12,6.880000000000001,True,UNDER
+2026-04-21,Washington Nationals,Atlanta Braves,11,4,15,Washington Nationals,Atlanta Braves,23.9,76.1,False,76.1,9.19,5.8100000000000005,False,UNDER
+2026-04-21,Boston Red Sox,New York Yankees,0,4,4,New York Yankees,New York Yankees,23.1,76.9,True,76.9,8.97,4.970000000000001,True,OVER
+2026-04-21,New York Mets,Minnesota Twins,3,5,8,Minnesota Twins,Minnesota Twins,34.4,65.6,True,65.6,7.9,0.09999999999999964,True,UNDER
+2026-04-21,Kansas City Royals,Baltimore Orioles,6,5,11,Kansas City Royals,Baltimore Orioles,27.7,72.3,False,72.3,9.4,1.5999999999999996,False,UNDER
+2026-04-21,Chicago Cubs,Philadelphia Phillies,7,4,11,Chicago Cubs,Chicago Cubs,77.1,22.9,True,77.1,8.97,2.0299999999999994,True,UNDER
+2026-04-21,Texas Rangers,Pittsburgh Pirates,5,1,6,Texas Rangers,Pittsburgh Pirates,37.6,62.4,False,62.4,7.76,1.7599999999999998,False,OVER
+2026-04-21,Colorado Rockies,San Diego Padres,0,1,1,San Diego Padres,San Diego Padres,31.1,68.9,True,68.9,8.22,7.220000000000001,False,OVER
+2026-04-21,Los Angeles Angels,Toronto Blue Jays,2,4,6,Toronto Blue Jays,Los Angeles Angels,73.3,26.7,False,73.3,9.35,3.3499999999999996,False,OVER
+2026-04-21,Seattle Mariners,Athletics,2,5,7,Athletics,Athletics,46.6,53.4,True,53.4,8.54,1.5399999999999991,True,OVER
+2026-04-21,Arizona Diamondbacks,Chicago White Sox,5,11,16,Chicago White Sox,Chicago White Sox,49.1,50.9,True,50.9,10.95,5.050000000000001,True,UNDER
+2026-04-21,San Francisco Giants,Los Angeles Dodgers,3,1,4,San Francisco Giants,Los Angeles Dodgers,41.6,58.4,False,58.4,7.47,3.4699999999999998,False,OVER
+2026-04-22,Miami Marlins,St. Louis Cardinals,4,1,5,Miami Marlins,Miami Marlins,66.1,33.9,True,66.1,9.91,4.91,True,OVER
+2026-04-22,Cleveland Guardians,Houston Astros,0,2,2,Houston Astros,Cleveland Guardians,59.4,40.6,False,59.4,10.35,8.35,False,OVER
+2026-04-22,Tampa Bay Rays,Cincinnati Reds,6,1,7,Tampa Bay Rays,Cincinnati Reds,37.6,62.4,False,62.4,10.1,3.0999999999999996,False,OVER
+2026-04-22,Kansas City Royals,Baltimore Orioles,6,8,14,Baltimore Orioles,Baltimore Orioles,33.2,66.8,True,66.8,9.82,4.18,True,UNDER
+2026-04-22,Los Angeles Angels,Toronto Blue Jays,7,3,10,Los Angeles Angels,Los Angeles Angels,76.5,23.5,True,76.5,9.16,0.8399999999999999,True,UNDER
+2026-04-22,Seattle Mariners,Athletics,5,4,9,Seattle Mariners,Athletics,43.8,56.2,False,56.2,7.42,1.58,False,UNDER
+2026-04-22,Detroit Tigers,Milwaukee Brewers,5,2,7,Detroit Tigers,Detroit Tigers,55.2,44.8,True,55.2,9.48,2.4800000000000004,True,OVER
+2026-04-22,Washington Nationals,Atlanta Braves,6,8,14,Atlanta Braves,Atlanta Braves,21.9,78.1,True,78.1,9.03,4.970000000000001,True,UNDER
+2026-04-22,Boston Red Sox,New York Yankees,1,4,5,New York Yankees,New York Yankees,23.1,76.9,True,76.9,9.0,4.0,True,OVER
+2026-04-22,New York Mets,Minnesota Twins,3,2,5,New York Mets,Minnesota Twins,22.6,77.4,False,77.4,8.98,3.9800000000000004,False,OVER
+2026-04-22,Chicago Cubs,Philadelphia Phillies,7,2,9,Chicago Cubs,Chicago Cubs,77.4,22.6,True,77.4,9.01,0.009999999999999787,True,OVER
+2026-04-22,Texas Rangers,Pittsburgh Pirates,4,8,12,Pittsburgh Pirates,Pittsburgh Pirates,36.4,63.6,True,63.6,7.87,4.13,True,UNDER
+2026-04-22,Colorado Rockies,San Diego Padres,8,3,11,Colorado Rockies,San Diego Padres,25.9,74.1,False,74.1,8.71,2.289999999999999,False,UNDER
+2026-04-22,Arizona Diamondbacks,Chicago White Sox,11,7,18,Arizona Diamondbacks,Arizona Diamondbacks,50.6,49.4,True,50.6,10.96,7.039999999999999,True,UNDER
+2026-04-22,San Francisco Giants,Los Angeles Dodgers,3,0,3,San Francisco Giants,Los Angeles Dodgers,36.6,63.4,False,63.4,7.82,4.82,False,OVER
+2026-04-23,Washington Nationals,Atlanta Braves,2,7,9,Atlanta Braves,Atlanta Braves,27.5,72.5,True,72.5,9.39,0.39000000000000057,True,OVER
+2026-04-23,Detroit Tigers,Milwaukee Brewers,5,4,9,Detroit Tigers,Detroit Tigers,64.9,35.1,True,64.9,9.52,0.5199999999999996,False,OVER
+2026-04-23,Chicago Cubs,Philadelphia Phillies,8,7,15,Chicago Cubs,Chicago Cubs,77.2,22.8,True,77.2,8.98,6.02,False,UNDER
+2026-04-23,Colorado Rockies,San Diego Padres,8,10,18,San Diego Padres,San Diego Padres,22.7,77.3,True,77.3,9.01,8.99,True,UNDER
+2026-04-23,Arizona Diamondbacks,Chicago White Sox,1,4,5,Chicago White Sox,Chicago White Sox,48.6,51.4,True,51.4,11.01,6.01,True,OVER
+2026-04-23,San Francisco Giants,Los Angeles Dodgers,0,3,3,Los Angeles Dodgers,Los Angeles Dodgers,48.8,51.2,True,51.2,7.0,4.0,True,OVER
+2026-04-23,Boston Red Sox,New York Yankees,2,4,6,New York Yankees,New York Yankees,22.6,77.4,True,77.4,8.99,2.99,True,OVER
+2026-04-23,New York Mets,Minnesota Twins,10,8,18,New York Mets,Minnesota Twins,22.1,77.9,False,77.9,9.0,9.0,False,UNDER
+2026-04-23,Texas Rangers,Pittsburgh Pirates,6,1,7,Texas Rangers,Pittsburgh Pirates,47.0,53.0,False,53.0,7.19,0.1900000000000004,False,OVER
+2026-04-24,Cincinnati Reds,Detroit Tigers,9,8,17,Cincinnati Reds,Cincinnati Reds,63.5,36.5,True,63.5,9.75,7.25,False,UNDER
+2026-04-24,Baltimore Orioles,Boston Red Sox,10,3,13,Baltimore Orioles,Baltimore Orioles,76.8,23.2,True,76.8,9.0,4.0,True,UNDER
+2026-04-24,Toronto Blue Jays,Cleveland Guardians,6,8,14,Cleveland Guardians,Cleveland Guardians,45.5,54.5,True,54.5,9.44,4.5600000000000005,True,UNDER
+2026-04-24,New York Mets,Colorado Rockies,3,4,7,Colorado Rockies,Colorado Rockies,49.3,50.7,True,50.7,7.06,0.05999999999999961,False,OVER
+2026-04-24,Tampa Bay Rays,Minnesota Twins,6,2,8,Tampa Bay Rays,Tampa Bay Rays,50.2,49.8,True,50.2,11.06,3.0600000000000005,True,OVER
+2026-04-24,Atlanta Braves,Philadelphia Phillies,5,3,8,Atlanta Braves,Atlanta Braves,77.9,22.1,True,77.9,9.01,1.0099999999999998,True,OVER
+2026-04-24,Kansas City Royals,Los Angeles Angels,6,3,9,Kansas City Royals,Los Angeles Angels,23.2,76.8,False,76.8,8.95,0.05000000000000071,False,UNDER
+2026-04-24,Chicago White Sox,Washington Nationals,5,4,9,Chicago White Sox,Washington Nationals,50.0,50.0,False,50.0,10.96,1.9600000000000009,False,OVER
+2026-04-24,Milwaukee Brewers,Pittsburgh Pirates,0,6,6,Pittsburgh Pirates,Pittsburgh Pirates,42.2,57.8,True,57.8,7.36,1.3600000000000003,True,OVER
+2026-04-24,Texas Rangers,Athletics,1,8,9,Athletics,Texas Rangers,60.7,39.3,False,60.7,8.48,0.5199999999999996,False,UNDER
+2026-04-24,Houston Astros,New York Yankees,4,12,16,New York Yankees,New York Yankees,22.2,77.8,True,77.8,8.99,7.01,True,UNDER
+2026-04-24,St. Louis Cardinals,Seattle Mariners,2,3,5,Seattle Mariners,Seattle Mariners,45.1,54.9,True,54.9,7.72,2.7199999999999998,False,OVER
+2026-04-24,Los Angeles Dodgers,Chicago Cubs,4,6,10,Chicago Cubs,Chicago Cubs,45.7,54.3,True,54.3,7.25,2.75,True,UNDER
+2026-04-24,San Francisco Giants,Miami Marlins,4,9,13,Miami Marlins,Miami Marlins,41.7,58.3,True,58.3,7.45,5.55,True,UNDER

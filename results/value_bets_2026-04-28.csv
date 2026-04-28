@@ -1,0 +1,16 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+New York Mets vs Washington Nationals,Washington Nationals ML,+158,37.3%,75.7%,0.38357335352796784,Strong,Moneyline
+Philadelphia Phillies vs San Francisco Giants,San Francisco Giants ML,+143,39.8%,69.9%,0.301072227644718,Strong,Moneyline
+San Diego Padres vs Chicago Cubs,OVER  8.0,-118,51.7%,74.3%,0.2257902974842937,Strong,Total
+Athletics vs Kansas City Royals,OVER  9.5,+100,47.8%,66.7%,0.18877348810891248,Strong,Total
+New York Mets vs Washington Nationals,OVER  7.5,-116,51.5%,68.4%,0.1688402116539468,Strong,Total
+Baltimore Orioles vs Houston Astros,OVER  9.0,-115,51.0%,66.5%,0.1552061857414937,Strong,Total
+Toronto Blue Jays vs Boston Red Sox,Boston Red Sox ML,+101,48.1%,63.4%,0.1531023243387657,Strong,Moneyline
+Cleveland Guardians vs Tampa Bay Rays,Tampa Bay Rays ML,+115,44.7%,59.9%,0.15159400285578295,Strong,Moneyline
+Atlanta Braves vs Detroit Tigers,Atlanta Braves ML,-123,53.1%,67.4%,0.14332547616542146,Strong,Moneyline
+Chicago White Sox vs Los Angeles Angels,Chicago White Sox ML,+119,43.8%,58.0%,0.14165081212826708,Strong,Moneyline
+Cleveland Guardians vs Tampa Bay Rays,OVER  7.5,-110,50.0%,63.4%,0.1335541774548077,Strong,Total
+Texas Rangers vs New York Yankees,New York Yankees ML,-120,52.7%,65.3%,0.12632185886402747,Strong,Moneyline
+Pittsburgh Pirates vs St. Louis Cardinals,UNDER 8.0,-104,48.6%,59.1%,0.10554014240793885,Good,Total
+Atlanta Braves vs Detroit Tigers,Atlanta Braves -1.5,+164,36.6%,46.8%,0.10129433646932284,Good,Run Line
+Cincinnati Reds vs Colorado Rockies,Cincinnati Reds ML,-205,64.5%,73.7%,0.09208804556285233,Good,Moneyline

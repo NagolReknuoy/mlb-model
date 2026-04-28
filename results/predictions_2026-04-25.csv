@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Baltimore Orioles,Boston Red Sox,Trevor Rogers,Garrett Crochet,73.6,26.4,8.57,0.959,hitter,short RF; warm summers,"52°F, wind 11 mph",1.023,1-0 (home-away),5.091,2.848
+St. Louis Cardinals,Seattle Mariners,Matthew Liberatore,Bryan Woo,50.6,49.4,7.51,1.01,neutral,natural grass; moderate dimensions,"74°F, wind 6 mph",1.002,0-1 (home-away),3.794,3.743
+Toronto Blue Jays,Cleveland Guardians,Kevin Gausman,Joey Cantillo,54.9,45.1,8.76,1.01,neutral,turf boosts groundball singles,dome,1.0,0-1 (home-away),4.537,4.231
+San Francisco Giants,Miami Marlins,Robbie Ray,Eury Pérez,47.3,52.7,7.2,0.902,pitcher,marine layer; bay wind tricky in RF,"53°F, wind 7 mph",0.993,0-1 (home-away),2.461,3.732
+Tampa Bay Rays,Minnesota Twins,Shane Mcclanahan,Bailey Ober,49.2,50.8,10.94,0.97,neutral,dome; artificial turf,dome,1.0,3-1 (home-away),6.26,6.424
+Chicago White Sox,Washington Nationals,Noah Schultz,Jake Irvin,50.2,49.8,11.0,1.02,neutral,July is extreme hitter month (+12 pts),"45°F, wind 13 mph",1.056,1-0 (home-away),9.994,8.23
+Arizona Diamondbacks,San Diego Padres,Zac Gallen,Germán Márquez,42.0,58.0,10.38,1.008,hitter,"high altitude (1,082 ft)",dome,1.0,no prior meetings,4.88,6.001
+Texas Rangers,Athletics,Mackenzie Gore,Jeffrey Springs,48.5,51.5,8.78,0.958,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,2-3 (home-away),4.307,4.446
+Kansas City Royals,Los Angeles Angels,Cole Ragans,Walbert Urena,22.6,77.4,9.01,0.99,pitcher,large dimensions; spray park,"75°F, wind 8 mph",1.002,1-0 (home-away),2.697,6.303
+Houston Astros,New York Yankees,Mike Burrows,Ryan Weathers,22.5,77.5,9.07,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,0-1 (home-away),3.223,8.982
+Milwaukee Brewers,Pittsburgh Pirates,Jacob Misiorowski,Mitch Keller,48.1,51.9,8.1,0.97,pitcher,large dimensions suppress HRs,dome,1.0,0-1 (home-away),3.979,4.122
+Cincinnati Reds,Detroit Tigers,Brady Singer,Jack Flaherty,61.8,38.2,10.13,1.092,hitter,one of the top HR parks in MLB,"73°F, wind 7 mph",1.036,1-0 (home-away),5.947,4.661
+Los Angeles Dodgers,Chicago Cubs,Roki Sasaki,Colin Rea,41.1,58.9,7.51,0.922,pitcher,marine layer suppresses carry; spacious foul territory,"58°F, wind 10 mph",0.956,0-1 (home-away),3.067,4.012
+Atlanta Braves,Philadelphia Phillies,Bryce Elder,Zack Wheeler,77.1,22.9,8.95,1.04,hitter,warm humid air; June winds boost offense,"67°F, wind 2 mph",0.987,4-0 (home-away),8.905,2.073
+New York Mets,Colorado Rockies,Kodai Senga,Jose Quintana,44.9,55.1,7.35,0.912,pitcher,sea-level; large dimensions,"42°F, wind 9 mph",0.934,0-1 (home-away),3.002,3.86

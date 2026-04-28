@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Secrets — NEVER commit these
+secrets.txt
+api_keys.txt
+
+# Pybaseball cache (large, regenerated automatically)
+.pybaseball/
+
+# Local only
+*.log

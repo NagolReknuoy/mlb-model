@@ -1,0 +1,9 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cleveland Guardians,Tampa Bay Rays,Parker Messick,Steven Matz,44.7,55.3,7.45,0.96,neutral,below-average HR park,"70°F, wind 8 mph",1.0,0-1 (home-away),3.561,3.862
+Pittsburgh Pirates,St. Louis Cardinals,Mason Montgomery,Dustin May,66.9,33.1,8.56,0.922,pitcher,high RF wall; spacious,"73°F, wind 12 mph",0.955,no prior meetings,4.818,3.694
+Toronto Blue Jays,Boston Red Sox,Dylan Cease,Ranger Suarez,54.0,46.0,7.46,1.01,neutral,turf boosts groundball singles,dome,1.0,no prior meetings,3.831,3.631
+Minnesota Twins,Seattle Mariners,Connor Prielipp,Luis Castillo,28.4,71.6,8.51,0.92,neutral,cold Aprils suppress offense (-8 pts),"49°F, wind 12 mph",1.038,no prior meetings,3.03,4.95
+Chicago White Sox,Los Angeles Angels,Anthony Kay,Jack Kochanowicz,51.2,48.8,10.93,1.02,neutral,July is extreme hitter month (+12 pts),"62°F, wind 10 mph",0.997,no prior meetings,7.089,5.44
+Texas Rangers,New York Yankees,Jack Leiter,Max Fried,21.8,78.2,9.0,0.958,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,no prior meetings,2.305,5.561
+San Diego Padres,Chicago Cubs,Randy Vásquez,Matthew Boyd,25.5,74.5,9.19,0.912,pitcher,marine layer; large dimensions,"63°F, wind 8 mph",1.038,no prior meetings,3.702,6.558
+Los Angeles Dodgers,Miami Marlins,Yoshinobu Yamamoto,Chris Paddack,77.2,22.8,8.99,0.922,pitcher,marine layer suppresses carry; spacious foul territory,"60°F, wind 8 mph",0.964,no prior meetings,5.968,2.03

@@ -1,0 +1,17 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-04-26,Baltimore Orioles,Boston Red Sox,3,5,8,Boston Red Sox,Boston Red Sox,35.1,64.9,True,64.9,9.63,1.6300000000000008,True,HIGH,7.5,OVER
+2026-04-26,Atlanta Braves,Philadelphia Phillies,6,2,8,Atlanta Braves,Atlanta Braves,77.2,22.8,True,77.2,8.96,0.9600000000000009,True,HIGH,8.0,PUSH
+2026-04-26,Toronto Blue Jays,Cleveland Guardians,4,2,6,Toronto Blue Jays,Toronto Blue Jays,62.9,37.1,True,62.9,8.11,2.1099999999999994,True,HIGH,8.5,UNDER
+2026-04-26,Cincinnati Reds,Detroit Tigers,3,8,11,Detroit Tigers,Cincinnati Reds,56.4,43.6,False,56.4,10.48,0.5199999999999996,False,LOW,9.0,OVER
+2026-04-26,New York Mets (DH-1),Colorado Rockies,1,3,4,Colorado Rockies,Colorado Rockies,49.6,50.4,True,50.4,6.98,2.9800000000000004,True,HIGH,6.0,UNDER
+2026-04-26,New York Mets (DH-2),Colorado Rockies,0,3,3,Colorado Rockies,Colorado Rockies,38.5,61.5,True,61.5,7.72,4.72,True,HIGH,6.0,UNDER
+2026-04-26,Tampa Bay Rays,Minnesota Twins,4,2,6,Tampa Bay Rays,Tampa Bay Rays,78.0,22.0,True,78.0,9.03,3.0299999999999994,True,HIGH,8.5,UNDER
+2026-04-26,Chicago White Sox,Washington Nationals,1,2,3,Washington Nationals,Washington Nationals,49.4,50.6,True,50.6,11.01,8.01,False,HIGH,7.5,UNDER
+2026-04-26,Houston Astros,New York Yankees,7,4,11,Houston Astros,New York Yankees,27.2,72.8,False,72.8,9.35,1.6500000000000004,False,LOW,9.5,OVER
+2026-04-26,Milwaukee Brewers,Pittsburgh Pirates,5,0,5,Milwaukee Brewers,Pittsburgh Pirates,49.2,50.8,False,50.8,7.31,2.3099999999999996,False,HIGH,7.5,UNDER
+2026-04-26,St. Louis Cardinals,Seattle Mariners,2,3,5,Seattle Mariners,St. Louis Cardinals,50.7,49.3,False,50.7,8.59,3.59,False,HIGH,8.5,UNDER
+2026-04-26,Texas Rangers,Athletics,1,2,3,Athletics,Texas Rangers,52.5,47.5,False,52.5,7.87,4.87,False,HIGH,8.5,UNDER
+2026-04-26,Arizona Diamondbacks,San Diego Padres,12,7,19,Arizona Diamondbacks,Arizona Diamondbacks,50.1,49.9,True,50.1,10.99,8.01,True,LOW,14.5,OVER
+2026-04-26,San Francisco Giants,Miami Marlins,6,3,9,San Francisco Giants,San Francisco Giants,51.1,48.9,True,51.1,7.01,1.9900000000000002,True,LOW,7.5,OVER
+2026-04-26,Kansas City Royals,Los Angeles Angels,11,9,20,Kansas City Royals,Kansas City Royals,50.9,49.1,True,50.9,10.95,9.05,True,LOW,8.5,OVER
+2026-04-26,Los Angeles Dodgers,Chicago Cubs,6,0,6,Los Angeles Dodgers,Los Angeles Dodgers,66.5,33.5,True,66.5,8.01,2.01,True,HIGH,8.5,UNDER
