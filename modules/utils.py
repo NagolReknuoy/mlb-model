@@ -1,6 +1,4 @@
-# =============================================================================
 # utils.py — Shared helpers used by all modules
-# =============================================================================
 
 import numpy as np
 from datetime import date
@@ -25,8 +23,6 @@ def simulate_game(lambda_home: float, lambda_away: float, sims: int = 10_000) ->
     League average is 4.49 R/team/game.
     3.5 = weak offense/great pitching environment
     5.5 = strong offense/weak pitching environment
-    This gives a max win probability of ~73% (5.5 vs 3.5 matchup).
-    Real MLB home favorites rarely exceed 65-70% so this is appropriate.
     """
     lh = max(3.5, min(5.5, lambda_home))
     la = max(3.5, min(5.5, lambda_away))
@@ -38,7 +34,7 @@ def simulate_game(lambda_home: float, lambda_away: float, sims: int = 10_000) ->
     away_wins = float(np.mean(a > h))
     ties      = float(np.mean(h == a))
 
-    # Redistribute ties — no ties in MLB (extra innings always produces winner)
+    # Redistribute ties
     total_decided = home_wins + away_wins
     if total_decided > 0:
         home_wins += ties * (home_wins / total_decided)
