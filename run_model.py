@@ -1,11 +1,8 @@
-# =============================================================================
-# run_model.py — Main entry point
-#
+# run_model.py — Main 
 # Usage:
 #   python run_model.py                  # today's games
 #   python run_model.py --date 2026-04-21
 #   python run_model.py --csv            # also saves results/predictions_DATE.csv
-# =============================================================================
 
 import argparse
 import os
