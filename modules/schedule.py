@@ -1,7 +1,5 @@
-# =============================================================================
 # schedule.py — MLB schedule + team offensive/defensive strength
-# Park-neutralized OS/DS so Coors doesn't inflate Rockies ratings
-# =============================================================================
+
 
 import requests
 import pandas as pd
@@ -101,8 +99,6 @@ def load_season_data(today: date = None, rolling_days: int = 30) -> dict:
         raise RuntimeError(f"[schedule] No completed games found for {season}")
 
     # ── Park-neutralize runs before computing team strength ───────────────────
-    # Divide each game's runs by the home park factor so Coors-inflated
-    # Rockies scores don't make them look like a great offensive team on the road.
     past["park_factor"] = past["home_team"].apply(_get_park_factor)
     past["home_runs_neutral"] = past["home_runs"] / past["park_factor"]
     past["away_runs_neutral"] = past["away_runs"] / past["park_factor"]
