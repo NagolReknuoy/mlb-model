@@ -1,6 +1,4 @@
-# =============================================================================
-# weather.py — Game-time weather via Open-Meteo (free, no API key)
-# =============================================================================
+# weather.py — Game-time weather via Open-Meteo
 
 import requests
 import pandas as pd
