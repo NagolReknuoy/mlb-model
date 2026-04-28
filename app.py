@@ -233,8 +233,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown(
         "<div style='font-size:0.7rem;color:#8b949e;text-align:center'>"
-        "Model updates daily at 10 AM ET<br>"
-        "For entertainment purposes only"
+        " Updates daily at 10 AM ET<br>"
         "</div>",
         unsafe_allow_html=True,
     )
