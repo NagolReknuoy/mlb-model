@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cleveland Guardians,Tampa Bay Rays,Gavin Williams,Drew Rasmussen,47.5,52.5,7.1,0.96,neutral,below-average HR park,"45°F, wind 8 mph",0.958,0-2 (home-away),2.485,3.613
+Chicago White Sox,Los Angeles Angels,Erick Fedde,Yusei Kikuchi,74.3,25.7,9.26,1.02,neutral,July is extreme hitter month (+12 pts),"43°F, wind 15 mph, rain 4.7mm",0.913,2-0 (home-away),7.452,3.744
+Minnesota Twins,Seattle Mariners,Taj Bradley,George Kirby,21.7,78.3,8.98,0.92,neutral,cold Aprils suppress offense (-8 pts),"48°F, wind 7 mph",1.025,1-1 (home-away),3.405,6.196
+Texas Rangers,New York Yankees,Nathan Eovaldi,Elmer Rodríguez,31.5,68.5,8.19,0.958,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,0-2 (home-away),1.727,4.718
+Toronto Blue Jays,Boston Red Sox,Eric Lauer,Brayan Bello,54.7,45.3,7.83,1.01,neutral,turf boosts groundball singles,dome,1.0,1-1 (home-away),4.064,3.763
+Los Angeles Dodgers,Miami Marlins,Tyler Glasnow,Sandy Alcantara,70.1,29.9,8.3,0.922,pitcher,marine layer suppresses carry; spacious foul territory,"63°F, wind 7 mph",0.969,1-1 (home-away),4.788,2.058
+San Diego Padres,Chicago Cubs,Matt Waldron,Jameson Taillon,43.1,56.9,10.52,0.912,pitcher,marine layer; large dimensions,"63°F, wind 6 mph",1.026,1-1 (home-away),4.985,7.907
+Baltimore Orioles,Houston Astros,Chris Bassitt,Peter Lambert,49.2,50.8,10.93,0.959,hitter,short RF; warm summers,"60°F, wind 6 mph",1.014,1-0 (home-away),7.244,7.331
+Cincinnati Reds,Colorado Rockies,Brandon Williamson,Tomoyuki Sugano,64.2,35.8,9.96,1.092,hitter,one of the top HR parks in MLB,"61°F, wind 11 mph",1.053,1-0 (home-away),6.893,4.46
+Pittsburgh Pirates,St. Louis Cardinals,Bubba Chandler,Andre Pallante,46.1,53.9,9.83,0.922,pitcher,high RF wall; spacious,"58°F, wind 7 mph, rain 2.5mm",0.952,0-2 (home-away),4.809,5.049
+Philadelphia Phillies,San Francisco Giants,Cristopher Sánchez,Logan Webb,50.6,49.4,6.98,0.988,hitter,high HR rate historically,"60°F, wind 11 mph",0.953,2-2 (home-away),2.388,3.426
+New York Mets,Washington Nationals,David Peterson,Cade Cavalli,43.8,56.2,7.42,0.912,pitcher,sea-level; large dimensions,"51°F, wind 9 mph",0.958,1-0 (home-away),3.542,3.872
+Atlanta Braves,Detroit Tigers,Jr Ritchie,Tarik Skubal,66.2,33.8,9.91,1.04,hitter,warm humid air; June winds boost offense,"76°F, wind 9 mph",1.003,1-0 (home-away),7.37,4.443
+Milwaukee Brewers,Arizona Diamondbacks,Brandon Sproat,Eduardo Rodriguez,50.2,49.8,11.05,0.97,pitcher,large dimensions suppress HRs,dome,1.0,1-0 (home-away),8.523,5.806
+Athletics,Kansas City Royals,Luis Severino,Michael Wacha,48.9,51.1,10.6,0.931,pitcher,largest foul territory in MLB,"62°F, wind 6 mph",0.997,0-1 (home-away),5.226,5.349

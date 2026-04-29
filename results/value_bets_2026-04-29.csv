@@ -1,0 +1,16 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Chicago White Sox vs Los Angeles Angels,Chicago White Sox ML,+102,47.7%,74.3%,0.26627049501502026,Strong,Moneyline
+Minnesota Twins vs Seattle Mariners,Seattle Mariners ML,-130,54.4%,78.3%,0.23907773150902248,Strong,Moneyline
+Atlanta Braves vs Detroit Tigers,Atlanta Braves ML,+124,43.1%,66.2%,0.2313306975430669,Strong,Moneyline
+Baltimore Orioles vs Houston Astros,OVER  9.0,-105,48.6%,65.2%,0.16564813557186747,Strong,Total
+Texas Rangers vs New York Yankees,New York Yankees ML,-118,52.0%,68.5%,0.16517621145374445,Strong,Moneyline
+Minnesota Twins vs Seattle Mariners,OVER  7.5,-115,51.1%,67.4%,0.16292114798670942,Strong,Total
+New York Mets vs Washington Nationals,Washington Nationals ML,+136,40.7%,56.2%,0.155369754159424,Strong,Moneyline
+Pittsburgh Pirates vs St. Louis Cardinals,OVER  8.5,-110,50.0%,64.8%,0.14771645335522776,Strong,Total
+Atlanta Braves vs Detroit Tigers,OVER  8.0,-115,51.1%,65.7%,0.14612093039795082,Strong,Total
+Minnesota Twins vs Seattle Mariners,Seattle Mariners +1.5,+129,41.9%,56.2%,0.14302808777137221,Strong,Run Line
+San Diego Padres vs Chicago Cubs,OVER  9.0,+100,47.6%,60.5%,0.12882207823993058,Strong,Total
+Toronto Blue Jays vs Boston Red Sox,UNDER 8.5,-110,50.0%,61.6%,0.11626263314979868,Good,Total
+Philadelphia Phillies vs San Francisco Giants,UNDER 7.0,-105,48.9%,60.2%,0.11252810103828731,Good,Total
+Pittsburgh Pirates vs St. Louis Cardinals,St. Louis Cardinals ML,+118,44.4%,53.9%,0.09501738144719435,Good,Moneyline
+Texas Rangers vs New York Yankees,UNDER 8.5,-105,48.9%,56.6%,0.07687986603099223,Lean,Total

@@ -1,0 +1,14 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 7.5,-105.0,0.1052,0.4892,0.5944,True,0.9524,2026-04-28,Cleveland Guardians vs Tampa Bay Rays
+Moneyline,Cincinnati Reds ML,-192.5,0.1549,0.6311,0.786,True,0.5195,2026-04-28,Cincinnati Reds vs Colorado Rockies
+Total,UNDER 8.0,-109.0,0.154,0.4978,0.6518,True,0.9174,2026-04-28,Philadelphia Phillies vs San Francisco Giants
+Total,UNDER 7.5,-105.0,0.1366,0.4877,0.6243,True,0.9524,2026-04-28,Toronto Blue Jays vs Boston Red Sox
+Total,UNDER 8.0,-104.5,0.1032,0.4876,0.5908,False,-1.0,2026-04-28,New York Mets vs Washington Nationals
+Moneyline,Atlanta Braves ML,-124.5,0.1,0.532,0.632,True,0.8032,2026-04-28,Atlanta Braves vs Detroit Tigers
+Moneyline,Seattle Mariners ML,-130.0,0.2403,0.5427,0.783,True,0.7692,2026-04-28,Minnesota Twins vs Seattle Mariners
+Run Line,Seattle Mariners +1.5,129.5,0.0526,0.4172,0.4698,True,1.295,2026-04-28,Minnesota Twins vs Seattle Mariners
+Moneyline,Chicago White Sox ML,110.0,0.25,0.4573,0.714,True,1.1,2026-04-28,Chicago White Sox vs Los Angeles Angels
+Total,OVER  8.0,-111.0,0.0851,0.5022,0.5872,True,0.9009,2026-04-28,Milwaukee Brewers vs Arizona Diamondbacks
+Moneyline,New York Yankees ML,-120.0,0.1693,0.5217,0.691,True,0.8333,2026-04-28,Texas Rangers vs New York Yankees
+Moneyline,Athletics ML,-110.0,0.081,0.5,0.581,False,-1.0,2026-04-28,Athletics vs Kansas City Royals
+Total,UNDER 9.5,-120.0,0.0676,0.5217,0.5894,True,0.8333,2026-04-28,Athletics vs Kansas City Royals
