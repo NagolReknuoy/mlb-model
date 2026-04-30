@@ -1,12 +1,12 @@
 type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
 Moneyline,Chicago White Sox ML,101.5,0.2432,0.4798,0.723,True,1.015,2026-04-29,Chicago White Sox vs Los Angeles Angels
-Total,UNDER 9.0,-120.0,0.0631,0.5217,0.5849,True,0.8333,2026-04-29,Chicago White Sox vs Los Angeles Angels
-Moneyline,Seattle Mariners ML,-135.0,0.2226,0.5514,0.774,True,0.7407,2026-04-29,Minnesota Twins vs Seattle Mariners
+Total,UNDER 9.0,-120.0,0.0656,0.5217,0.5874,True,0.8333,2026-04-29,Chicago White Sox vs Los Angeles Angels
+Moneyline,Seattle Mariners ML,-135.0,0.2216,0.5514,0.773,True,0.7407,2026-04-29,Minnesota Twins vs Seattle Mariners
 Total,UNDER 8.5,-110.0,0.2,0.5,0.7,True,0.9091,2026-04-29,Texas Rangers vs New York Yankees
-Moneyline,Toronto Blue Jays ML,-115.0,0.2132,0.5108,0.724,True,0.8696,2026-04-29,Toronto Blue Jays vs Boston Red Sox
-Total,UNDER 8.5,-105.0,0.1136,0.4892,0.6028,False,-1.0,2026-04-29,Toronto Blue Jays vs Boston Red Sox
-Total,UNDER 8.5,-106.5,0.1819,0.4924,0.6744,True,0.939,2026-04-29,Los Angeles Dodgers vs Miami Marlins
-Moneyline,Washington Nationals ML,135.5,0.25,0.4077,0.755,True,1.355,2026-04-29,New York Mets vs Washington Nationals
-Moneyline,Atlanta Braves ML,120.0,0.1798,0.4362,0.616,True,1.2,2026-04-29,Atlanta Braves vs Detroit Tigers
-Moneyline,Athletics ML,-120.0,0.1603,0.5217,0.682,True,0.8333,2026-04-29,Athletics vs Kansas City Royals
-Total,UNDER 9.5,-109.0,0.1071,0.4978,0.6049,True,0.9174,2026-04-29,Athletics vs Kansas City Royals
+Moneyline,Toronto Blue Jays ML,-115.0,0.2262,0.5108,0.737,True,0.8696,2026-04-29,Toronto Blue Jays vs Boston Red Sox
+Total,UNDER 8.5,-105.0,0.1167,0.4892,0.6059,False,-1.0,2026-04-29,Toronto Blue Jays vs Boston Red Sox
+Total,UNDER 8.5,-106.5,0.1857,0.4924,0.6781,True,0.939,2026-04-29,Los Angeles Dodgers vs Miami Marlins
+Moneyline,Washington Nationals ML,135.5,0.25,0.4077,0.749,True,1.355,2026-04-29,New York Mets vs Washington Nationals
+Moneyline,Atlanta Braves ML,120.0,0.1778,0.4362,0.614,True,1.2,2026-04-29,Atlanta Braves vs Detroit Tigers
+Moneyline,Athletics ML,-120.0,0.1513,0.5217,0.673,True,0.8333,2026-04-29,Athletics vs Kansas City Royals
+Total,UNDER 9.5,-109.0,0.1108,0.4978,0.6087,True,0.9174,2026-04-29,Athletics vs Kansas City Royals

@@ -1,16 +1,16 @@
 date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
-2026-04-29,Cleveland Guardians,Tampa Bay Rays,3,1,4,Cleveland Guardians,Cleveland Guardians,50.1,49.9,True,50.1,6.99,2.99,True,HIGH,6.5,UNDER
-2026-04-29,Chicago White Sox,Los Angeles Angels,3,2,5,Chicago White Sox,Chicago White Sox,72.3,27.7,True,72.3,9.48,4.48,False,HIGH,9.0,UNDER
-2026-04-29,Minnesota Twins,Seattle Mariners,3,5,8,Seattle Mariners,Seattle Mariners,22.6,77.4,True,77.4,8.99,0.9900000000000002,True,HIGH,8.0,PUSH
-2026-04-29,Texas Rangers,New York Yankees,3,0,3,Texas Rangers,Texas Rangers,51.5,48.5,True,51.5,7.0,4.0,True,HIGH,8.5,UNDER
-2026-04-29,Toronto Blue Jays,Boston Red Sox,8,1,9,Toronto Blue Jays,Toronto Blue Jays,72.4,27.6,True,72.4,8.59,0.41000000000000014,True,LOW,8.5,OVER
-2026-04-29,Los Angeles Dodgers,Miami Marlins,2,3,5,Miami Marlins,Los Angeles Dodgers,56.7,43.3,False,56.7,7.44,2.4400000000000004,False,HIGH,8.5,UNDER
-2026-04-29,San Diego Padres,Chicago Cubs,4,5,9,Chicago Cubs,San Diego Padres,50.4,49.6,False,50.4,11.0,2.0,False,HIGH,8.75,OVER
-2026-04-29,Cincinnati Reds,Colorado Rockies,2,13,15,Colorado Rockies,Colorado Rockies,49.6,50.4,True,50.4,11.02,3.9800000000000004,True,LOW,9.5,OVER
-2026-04-29,Pittsburgh Pirates,St. Louis Cardinals,4,5,9,St. Louis Cardinals,St. Louis Cardinals,45.1,54.9,True,54.9,9.87,0.8699999999999992,False,HIGH,8.5,OVER
-2026-04-29,New York Mets,Washington Nationals,2,14,16,Washington Nationals,Washington Nationals,24.5,75.5,True,75.5,8.83,7.17,True,LOW,7.5,OVER
-2026-04-29,Atlanta Braves,Detroit Tigers,4,3,7,Atlanta Braves,Atlanta Braves,61.6,38.4,True,61.6,10.16,3.16,False,HIGH,8.0,UNDER
-2026-04-29,Milwaukee Brewers,Arizona Diamondbacks,2,6,8,Arizona Diamondbacks,Arizona Diamondbacks,49.9,50.1,True,50.1,11.01,3.01,True,HIGH,8.5,UNDER
-2026-04-29,Athletics,Kansas City Royals,5,2,7,Athletics,Athletics,68.2,31.8,True,68.2,9.76,2.76,True,HIGH,9.5,UNDER
-2026-04-29,Philadelphia Phillies,San Francisco Giants,0,0,0,San Francisco Giants,San Francisco Giants,50.0,50.0,True,50.0,7.02,7.02,False,HIGH,,
-2026-04-29,Baltimore Orioles,Houston Astros,0,0,0,Houston Astros,Baltimore Orioles,50.4,49.6,False,50.4,11.04,11.04,False,HIGH,,
+2026-04-29,Cleveland Guardians,Tampa Bay Rays,3,1,4,Cleveland Guardians,Tampa Bay Rays,49.9,50.1,False,50.1,7.06,3.0599999999999996,False,HIGH,6.5,UNDER
+2026-04-29,Chicago White Sox,Los Angeles Angels,3,2,5,Chicago White Sox,Chicago White Sox,72.3,27.7,True,72.3,9.44,4.4399999999999995,False,HIGH,9.0,UNDER
+2026-04-29,Minnesota Twins,Seattle Mariners,3,5,8,Seattle Mariners,Seattle Mariners,22.7,77.3,True,77.3,9.05,1.0500000000000007,True,HIGH,8.0,PUSH
+2026-04-29,Texas Rangers,New York Yankees,3,0,3,Texas Rangers,Texas Rangers,50.2,49.8,True,50.2,6.94,3.9400000000000004,True,HIGH,8.5,UNDER
+2026-04-29,Toronto Blue Jays,Boston Red Sox,8,1,9,Toronto Blue Jays,Toronto Blue Jays,73.7,26.3,True,73.7,8.54,0.46000000000000085,True,LOW,8.5,OVER
+2026-04-29,Los Angeles Dodgers,Miami Marlins,2,3,5,Miami Marlins,Los Angeles Dodgers,57.1,42.9,False,57.1,7.38,2.38,False,HIGH,8.5,UNDER
+2026-04-29,San Diego Padres,Chicago Cubs,4,5,9,Chicago Cubs,Chicago Cubs,49.9,50.1,True,50.1,11.01,2.01,False,HIGH,8.75,OVER
+2026-04-29,Cincinnati Reds,Colorado Rockies,2,13,15,Colorado Rockies,Cincinnati Reds,50.1,49.9,False,50.1,10.95,4.050000000000001,False,LOW,9.5,OVER
+2026-04-29,Pittsburgh Pirates,St. Louis Cardinals,4,5,9,St. Louis Cardinals,St. Louis Cardinals,44.4,55.6,True,55.6,9.76,0.7599999999999998,False,HIGH,8.5,OVER
+2026-04-29,New York Mets,Washington Nationals,2,14,16,Washington Nationals,Washington Nationals,25.1,74.9,True,74.9,8.76,7.24,True,LOW,7.5,OVER
+2026-04-29,Atlanta Braves,Detroit Tigers,4,3,7,Atlanta Braves,Atlanta Braves,61.4,38.6,True,61.4,10.18,3.1799999999999997,False,HIGH,8.0,UNDER
+2026-04-29,Milwaukee Brewers,Arizona Diamondbacks,2,6,8,Arizona Diamondbacks,Arizona Diamondbacks,49.6,50.4,True,50.4,11.0,3.0,True,HIGH,8.5,UNDER
+2026-04-29,Athletics,Kansas City Royals,5,2,7,Athletics,Athletics,67.3,32.7,True,67.3,9.7,2.6999999999999993,True,HIGH,9.5,UNDER
+2026-04-29,Philadelphia Phillies,San Francisco Giants,0,0,0,San Francisco Giants,Philadelphia Phillies,50.3,49.7,False,50.3,7.03,7.03,False,HIGH,,
+2026-04-29,Baltimore Orioles,Houston Astros,0,0,0,Houston Astros,Baltimore Orioles,50.4,49.6,False,50.4,10.99,10.99,False,HIGH,,

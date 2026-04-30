@@ -1,12 +1,12 @@
 Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
-Atlanta Braves,Detroit Tigers,Bryce Elder,Framber Valdez,63.4,36.6,10.04,1.04,hitter,warm humid air; June winds boost offense,unknown,1.0,2-0 (home-away),9.005,4.559
-Baltimore Orioles,Houston Astros,Chris Bassitt,Lance Mccullers Jr.,49.9,50.1,11.03,0.959,hitter,short RF; warm summers,unknown,1.0,1-0 (home-away),8.33,7.307
-Baltimore Orioles,Houston Astros,Brandon Young,Nan,50.4,49.6,10.98,0.959,hitter,short RF; warm summers,unknown,1.0,1-0 (home-away),7.578,7.292
-Pittsburgh Pirates,St. Louis Cardinals,Paul Skenes,Hunter Dobbins,55.8,44.2,8.4,0.922,pitcher,high RF wall; spacious,unknown,1.0,0-3 (home-away),4.381,4.038
-Philadelphia Phillies,San Francisco Giants,Cristopher Sánchez,Logan Webb,49.0,51.0,7.01,0.988,hitter,high HR rate historically,unknown,1.0,2-2 (home-away),2.56,3.541
-Philadelphia Phillies,San Francisco Giants,Nan,Nan,39.8,60.2,7.67,0.988,hitter,high HR rate historically,"55°F, wind 7 mph",1.029,2-2 (home-away),3.004,4.129
-Cincinnati Reds,Colorado Rockies,Andrew Abbott,Michael Lorenzen,50.3,49.7,11.0,1.092,hitter,one of the top HR parks in MLB,"59°F, wind 8 mph",1.034,1-1 (home-away),6.678,6.814
-New York Mets,Washington Nationals,Freddy Peralta,Miles Mikolas,26.7,73.3,8.68,0.912,pitcher,sea-level; large dimensions,"54°F, wind 3 mph",1.011,1-1 (home-away),3.571,5.138
-Milwaukee Brewers,Arizona Diamondbacks,Brandon Woodruff,Michael Soroka,60.5,39.5,10.22,0.97,pitcher,large dimensions suppress HRs,dome,1.0,1-1 (home-away),6.875,4.727
-Athletics,Kansas City Royals,Jeffrey Springs,Noah Cameron,66.9,33.1,9.81,0.931,pitcher,largest foul territory in MLB,"59°F, wind 6 mph",0.996,1-1 (home-away),6.25,4.275
-Minnesota Twins,Toronto Blue Jays,Bailey Ober,Kevin Gausman,21.8,78.2,8.98,0.92,neutral,cold Aprils suppress offense (-8 pts),"47°F, wind 7 mph",1.025,2-1 (home-away),2.62,5.729
+Atlanta Braves,Detroit Tigers,Bryce Elder,Framber Valdez,62.2,37.8,10.1,1.04,hitter,warm humid air; June winds boost offense,unknown,1.0,2-0 (home-away),9.013,4.563
+Baltimore Orioles,Houston Astros,Chris Bassitt,Peter Lambert,50.3,49.7,11.03,0.959,hitter,short RF; warm summers,unknown,1.0,1-0 (home-away),7.418,7.312
+Baltimore Orioles,Houston Astros,Brandon Young,Lance Mccullers Jr.,49.9,50.1,10.98,0.959,hitter,short RF; warm summers,unknown,1.0,1-0 (home-away),8.33,7.292
+Pittsburgh Pirates,St. Louis Cardinals,Paul Skenes,Hunter Dobbins,55.4,44.6,8.41,0.922,pitcher,high RF wall; spacious,unknown,1.0,0-3 (home-away),4.383,4.038
+Philadelphia Phillies,San Francisco Giants,Cristopher Sánchez,Logan Webb,49.8,50.2,7.09,0.988,hitter,high HR rate historically,unknown,1.0,2-2 (home-away),2.56,3.541
+Philadelphia Phillies,San Francisco Giants,Nan,Nan,38.7,61.3,7.72,0.988,hitter,high HR rate historically,"57°F, wind 12 mph",1.055,2-2 (home-away),3.081,4.234
+Cincinnati Reds,Colorado Rockies,Andrew Abbott,Michael Lorenzen,49.3,50.7,10.99,1.092,hitter,one of the top HR parks in MLB,"59°F, wind 7 mph",1.029,1-1 (home-away),6.654,6.79
+New York Mets,Washington Nationals,Freddy Peralta,Miles Mikolas,27.7,72.3,8.73,0.912,pitcher,sea-level; large dimensions,"54°F, wind 4 mph",1.014,1-1 (home-away),3.582,5.157
+Milwaukee Brewers,Arizona Diamondbacks,Brandon Woodruff,Michael Soroka,61.7,38.3,10.24,0.97,pitcher,large dimensions suppress HRs,dome,1.0,1-1 (home-away),6.879,4.727
+Athletics,Kansas City Royals,Jeffrey Springs,Noah Cameron,66.9,33.1,9.79,0.931,pitcher,largest foul territory in MLB,"60°F, wind 6 mph",0.996,1-1 (home-away),6.257,4.28
+Minnesota Twins,Toronto Blue Jays,Bailey Ober,Kevin Gausman,22.3,77.7,9.04,0.92,neutral,cold Aprils suppress offense (-8 pts),"48°F, wind 6 mph",1.023,2-1 (home-away),2.619,5.726
