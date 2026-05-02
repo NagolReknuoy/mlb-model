@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-01,Chicago Cubs,Arizona Diamondbacks,6,5,11,Chicago Cubs,Arizona Diamondbacks,49.6,50.4,False,50.4,11.0,0.0,False,LOW,7.0,OVER
+2026-05-01,Detroit Tigers,Texas Rangers,4,5,9,Texas Rangers,Detroit Tigers,50.3,49.7,False,50.3,6.99,2.01,False,LOW,8.0,OVER
+2026-05-01,Pittsburgh Pirates,Cincinnati Reds,9,1,10,Pittsburgh Pirates,Pittsburgh Pirates,52.1,47.9,True,52.1,10.82,0.8200000000000003,True,HIGH,8.5,OVER
+2026-05-01,Washington Nationals,Milwaukee Brewers,1,6,7,Milwaukee Brewers,Milwaukee Brewers,24.1,75.9,True,75.9,9.11,2.1099999999999994,True,HIGH,8.0,UNDER
+2026-05-01,New York Yankees,Baltimore Orioles,7,2,9,New York Yankees,New York Yankees,77.3,22.7,True,77.3,8.99,0.009999999999999787,True,LOW,8.5,OVER
+2026-05-01,Boston Red Sox,Houston Astros,3,1,4,Boston Red Sox,Boston Red Sox,65.4,34.6,True,65.4,9.3,5.300000000000001,True,HIGH,9.5,UNDER
+2026-05-01,Tampa Bay Rays,San Francisco Giants,3,0,3,Tampa Bay Rays,San Francisco Giants,49.4,50.6,False,50.6,6.98,3.9800000000000004,False,HIGH,7.5,UNDER
+2026-05-01,Miami Marlins,Philadelphia Phillies,5,6,11,Philadelphia Phillies,Miami Marlins,54.3,45.7,False,54.3,7.43,3.5700000000000003,False,LOW,8.0,OVER
+2026-05-01,Minnesota Twins,Toronto Blue Jays,3,7,10,Toronto Blue Jays,Toronto Blue Jays,27.8,72.2,True,72.2,8.6,1.4000000000000004,True,LOW,8.5,OVER
+2026-05-01,St. Louis Cardinals,Los Angeles Dodgers,7,2,9,St. Louis Cardinals,Los Angeles Dodgers,38.4,61.6,False,61.6,8.0,1.0,False,LOW,8.0,OVER
+2026-05-01,Colorado Rockies,Atlanta Braves,6,8,14,Atlanta Braves,Colorado Rockies,50.2,49.8,False,50.2,10.92,3.08,False,LOW,11.0,OVER
+2026-05-01,Los Angeles Angels,New York Mets,3,4,7,New York Mets,New York Mets,49.3,50.7,True,50.7,9.29,2.289999999999999,False,HIGH,9.0,UNDER
+2026-05-01,Athletics,Cleveland Guardians,5,8,13,Cleveland Guardians,Athletics,60.5,39.5,False,60.5,7.63,5.37,False,LOW,9.5,OVER
+2026-05-01,San Diego Padres,Chicago White Sox,2,8,10,Chicago White Sox,Chicago White Sox,35.1,64.9,True,64.9,9.98,0.019999999999999574,True,LOW,8.0,OVER
+2026-05-01,Seattle Mariners,Kansas City Royals,6,7,13,Kansas City Royals,Seattle Mariners,51.3,48.7,False,51.3,10.98,2.0199999999999996,False,LOW,7.0,OVER

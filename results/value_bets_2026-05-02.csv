@@ -1,0 +1,20 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Diego Padres vs Chicago White Sox,Chicago White Sox ML,+154,38.2%,66.4%,0.2817901320361362,Strong,Moneyline
+San Diego Padres vs Chicago White Sox,OVER  7.5,-120,51.9%,76.9%,0.24949401648362135,Strong,Total
+Pittsburgh Pirates vs Cincinnati Reds,OVER  8.0,-115,51.1%,75.7%,0.24634839718775714,Strong,Total
+Detroit Tigers vs Texas Rangers,UNDER 8.5,-115,51.1%,72.6%,0.21564578506246257,Strong,Total
+Washington Nationals vs Milwaukee Brewers,OVER  7.5,-115,51.1%,72.6%,0.21528249987627734,Strong,Total
+New York Yankees vs Baltimore Orioles,New York Yankees ML,-170,60.7%,77.6%,0.16929934450109252,Strong,Moneyline
+Washington Nationals vs Milwaukee Brewers,Milwaukee Brewers ML,-130,54.4%,71.0%,0.1660777315090225,Strong,Moneyline
+Boston Red Sox vs Houston Astros,Boston Red Sox ML,-125,53.5%,70.0%,0.16511627906976734,Strong,Moneyline
+Miami Marlins vs Philadelphia Phillies,UNDER 8.5,-115,51.1%,66.3%,0.15250571491464615,Strong,Total
+Minnesota Twins vs Toronto Blue Jays,Toronto Blue Jays ML,-130,54.3%,69.1%,0.1482564612326044,Strong,Moneyline
+New York Yankees vs Baltimore Orioles,New York Yankees -1.5,+117,44.3%,56.2%,0.11951596933187525,Good,Run Line
+Boston Red Sox vs Houston Astros,Boston Red Sox -1.5,+159,37.2%,48.7%,0.11496023862683313,Good,Run Line
+Chicago Cubs vs Arizona Diamondbacks,Arizona Diamondbacks ML,+143,39.5%,50.9%,0.11374308300395253,Good,Moneyline
+Athletics vs Cleveland Guardians,Athletics ML,-135,55.3%,65.3%,0.10040599714421705,Good,Moneyline
+Tampa Bay Rays vs San Francisco Giants,UNDER 7.5,-113,50.5%,60.0%,0.09482844269633628,Good,Total
+Los Angeles Angels vs New York Mets,New York Mets ML,-130,54.3%,62.5%,0.08225646123260438,Good,Moneyline
+Washington Nationals vs Milwaukee Brewers,Milwaukee Brewers +1.5,+130,41.6%,49.6%,0.0795725519635046,Lean,Run Line
+Minnesota Twins vs Toronto Blue Jays,OVER  7.5,-115,51.1%,58.5%,0.07455967025586319,Lean,Total
+St. Louis Cardinals vs Los Angeles Dodgers,St. Louis Cardinals ML,+115,44.7%,51.8%,0.07059400285578299,Lean,Moneyline
