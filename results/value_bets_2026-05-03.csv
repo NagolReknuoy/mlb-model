@@ -1,0 +1,22 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Diego Padres vs Chicago White Sox,Chicago White Sox ML,+153,38.0%,77.7%,0.3971815586024836,Strong,Moneyline
+Minnesota Twins vs Toronto Blue Jays,Toronto Blue Jays ML,-108,50.0%,77.6%,0.276,Strong,Moneyline
+Miami Marlins vs Philadelphia Phillies,UNDER 8.0,-105,48.9%,73.3%,0.2438283638682423,Strong,Total
+Seattle Mariners vs Kansas City Royals,OVER  8.0,-105,48.9%,72.3%,0.2334329401324698,Strong,Total
+Detroit Tigers vs Texas Rangers,UNDER 8.0,-105,48.9%,71.9%,0.22943730463651052,Strong,Total
+Washington Nationals vs Milwaukee Brewers,Milwaukee Brewers ML,-145,56.8%,77.6%,0.20817498677015345,Strong,Moneyline
+St. Louis Cardinals vs Los Angeles Dodgers,UNDER 9.5,-115,51.1%,71.4%,0.20330542420867437,Strong,Total
+Athletics vs Cleveland Guardians,UNDER 9.5,-119,51.8%,70.4%,0.18581319061846768,Strong,Total
+Minnesota Twins vs Toronto Blue Jays,Toronto Blue Jays +1.5,+152,38.3%,55.9%,0.17561960957907935,Strong,Run Line
+Tampa Bay Rays vs San Francisco Giants,UNDER 8.0,-105,48.9%,65.4%,0.16454584881440076,Strong,Total
+Boston Red Sox vs Houston Astros,Boston Red Sox ML,-159,59.3%,74.8%,0.1553415850148625,Strong,Moneyline
+Chicago Cubs vs Arizona Diamondbacks,UNDER 11.5,-113,50.8%,66.2%,0.1545634000573497,Strong,Total
+Athletics vs Cleveland Guardians,Cleveland Guardians ML,-120,52.4%,66.6%,0.14177854671280282,Strong,Moneyline
+Washington Nationals vs Milwaukee Brewers,Milwaukee Brewers +1.5,+114,44.8%,56.2%,0.11455577190138805,Good,Run Line
+Boston Red Sox vs Houston Astros,Boston Red Sox -1.5,+130,42.0%,53.5%,0.11449228521909233,Good,Run Line
+New York Yankees vs Baltimore Orioles,New York Yankees ML,-235,67.3%,77.6%,0.10254254800662821,Good,Moneyline
+Seattle Mariners vs Kansas City Royals,Kansas City Royals ML,+105,47.0%,57.1%,0.10076064393137046,Good,Moneyline
+St. Louis Cardinals vs Los Angeles Dodgers,Los Angeles Dodgers ML,-146,57.2%,65.9%,0.08719843342036548,Good,Moneyline
+New York Yankees vs Baltimore Orioles,UNDER 9.0,-115,51.1%,58.9%,0.07789169410007091,Lean,Total
+Tampa Bay Rays vs San Francisco Giants,Tampa Bay Rays ML,-120,52.8%,60.0%,0.07210300429184546,Lean,Moneyline
+Miami Marlins vs Philadelphia Phillies,Miami Marlins ML,+122,43.5%,50.6%,0.07099765351431353,Lean,Moneyline
