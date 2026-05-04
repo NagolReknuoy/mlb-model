@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Toronto Blue Jays ML,-104.0,0.25,0.5,0.755,False,-1.0,2026-05-03,Minnesota Twins vs Toronto Blue Jays
+Run Line,Toronto Blue Jays +1.5,154.0,0.0683,0.3847,0.453,False,-1.0,2026-05-03,Minnesota Twins vs Toronto Blue Jays
+Total,UNDER 8.5,-115.0,0.0791,0.5181,0.5972,True,0.8696,2026-05-03,Minnesota Twins vs Toronto Blue Jays
+Moneyline,Boston Red Sox ML,-165.0,0.1393,0.6117,0.751,False,-1.0,2026-05-03,Boston Red Sox vs Houston Astros
+Total,UNDER 8.5,105.0,0.1157,0.479,0.5947,True,1.05,2026-05-03,Boston Red Sox vs Houston Astros
+Moneyline,Pittsburgh Pirates ML,-114.0,0.2178,0.5232,0.741,True,0.8772,2026-05-03,Pittsburgh Pirates vs Cincinnati Reds
+Moneyline,New York Yankees ML,-270.0,0.0514,0.7186,0.77,True,0.3704,2026-05-03,New York Yankees vs Baltimore Orioles
+Total,UNDER 8.5,114.0,0.121,0.4569,0.5779,False,-1.0,2026-05-03,New York Yankees vs Baltimore Orioles
+Moneyline,Milwaukee Brewers ML,-139.0,0.1968,0.5712,0.768,False,-1.0,2026-05-03,Washington Nationals vs Milwaukee Brewers
+Total,UNDER 8.5,-124.0,0.1478,0.5316,0.6793,True,0.8065,2026-05-03,Tampa Bay Rays vs San Francisco Giants
+Total,UNDER 8.5,-114.0,0.166,0.5196,0.6856,False,-1.0,2026-05-03,Miami Marlins vs Philadelphia Phillies
+Moneyline,Los Angeles Dodgers ML,-130.0,0.1833,0.5587,0.742,True,0.7692,2026-05-03,St. Louis Cardinals vs Los Angeles Dodgers
+Total,UNDER 9.5,105.0,0.1902,0.4801,0.6703,True,1.05,2026-05-03,St. Louis Cardinals vs Los Angeles Dodgers
+Total,UNDER 11.5,101.0,0.2,0.4839,0.7,False,-1.0,2026-05-03,Chicago Cubs vs Arizona Diamondbacks
+Total,UNDER 9.5,101.0,0.0942,0.4809,0.5751,False,-1.0,2026-05-03,Colorado Rockies vs Atlanta Braves
+Total,UNDER 9.5,-114.0,0.1756,0.5244,0.7,True,0.8772,2026-05-03,Athletics vs Cleveland Guardians
+Moneyline,New York Mets ML,-127.0,0.0963,0.5517,0.648,True,0.7874,2026-05-03,Los Angeles Angels vs New York Mets
+Moneyline,Kansas City Royals ML,-102.0,0.1636,0.4964,0.66,True,0.9804,2026-05-03,Seattle Mariners vs Kansas City Royals
+Moneyline,Chicago White Sox ML,147.0,0.25,0.3986,0.743,False,-1.0,2026-05-03,San Diego Padres vs Chicago White Sox
+Total,UNDER 8.5,-114.0,0.0745,0.5171,0.5916,True,0.8772,2026-05-03,San Diego Padres vs Chicago White Sox
+Total,UNDER 8.5,-112.0,0.1675,0.5162,0.6837,True,0.8929,2026-05-03,Detroit Tigers vs Texas Rangers
