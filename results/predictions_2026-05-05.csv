@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Boston Red Sox,Framber Valdez,Jovani Morán,58.7,41.3,7.53,0.941,pitcher,very deep CF historically,"57°F, wind 8 mph",0.962,2-3 (home-away),4.03,3.366
+Tampa Bay Rays,Toronto Blue Jays,Drew Rasmussen,Kevin Gausman,50.0,50.0,7.05,1.0,neutral,dome; artificial turf,dome,1.0,1-0 (home-away),2.46,2.369
+Philadelphia Phillies,Athletics,Cristopher Sánchez,Luis Severino,56.4,43.6,7.47,1.019,hitter,high HR rate historically,"80°F, wind 15 mph",0.942,no prior meetings,3.93,3.336
+Miami Marlins,Baltimore Orioles,Sandy Alcantara,Chris Bassitt,69.2,30.8,8.23,0.95,neutral,roof often closed; average park,dome,1.0,no prior meetings,4.755,3.346
+Washington Nationals,Minnesota Twins,Cade Cavalli,Taj Bradley,70.0,30.0,8.93,1.0,neutral,cold Aprils very suppressive (-9 pts),"81°F, wind 15 mph",1.004,no prior meetings,5.197,3.776
+New York Yankees,Texas Rangers,Elmer Rodríguez,Jacob Degrom,70.4,29.6,8.35,1.02,hitter,short porches both sides,"80°F, wind 16 mph",1.004,2-1 (home-away),4.843,1.93
+Chicago Cubs,Cincinnati Reds,Jameson Taillon,Andrew Abbott,53.8,46.2,10.68,0.988,variable,wind hugely variable; extreme hitter or pitcher park,"52°F, wind 7 mph",0.993,1-0 (home-away),8.446,5.198
+Kansas City Royals,Cleveland Guardians,Stephen Kolek,Gavin Williams,77.5,22.5,8.98,1.01,pitcher,large dimensions; spray park,"53°F, wind 4 mph",0.978,2-2 (home-away),5.605,3.326
+St. Louis Cardinals,Milwaukee Brewers,Andre Pallante,Brandon Sproat,39.6,60.4,10.28,1.03,neutral,natural grass; moderate dimensions,"49°F, wind 8 mph, rain 2.5mm",0.956,1-0 (home-away),4.761,5.712
+Houston Astros,Los Angeles Dodgers,Peter Lambert,Shohei Ohtani,22.5,77.5,8.99,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,0-1 (home-away),2.538,7.679
+Colorado Rockies,New York Mets,Michael Lorenzen,Freddy Peralta,49.5,50.5,8.29,1.175,hitter,"5,200 ft altitude; most extreme hitter park","36°F, wind 5 mph",0.99,3-1 (home-away),4.128,4.142
+Los Angeles Angels,Chicago White Sox,Sam Aldegheri,Erick Fedde,22.7,77.3,9.04,1.0,neutral,symmetrical; marine layer suppresses HRs,"64°F, wind 8 mph",1.036,0-4 (home-away),2.324,6.849
+Arizona Diamondbacks,Pittsburgh Pirates,Eduardo Rodriguez,Bubba Chandler,50.4,49.6,11.02,1.018,hitter,"high altitude (1,082 ft)",dome,1.0,no prior meetings,5.698,9.723
+Seattle Mariners,Atlanta Braves,George Kirby,Bryce Elder,32.9,67.1,9.76,0.98,pitcher,marine air; roof often closed,dome,1.0,1-0 (home-away),4.249,6.062
+San Francisco Giants,San Diego Padres,Logan Webb,Walker Buehler,55.5,44.5,7.67,1.034,pitcher,marine layer; bay wind tricky in RF,"55°F, wind 13 mph",0.994,3-1 (home-away),3.97,3.665

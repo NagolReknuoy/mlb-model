@@ -130600,5 +130600,3223 @@
         ]
       }
     }
+  ],
+  "2026-05-04": [
+    {
+      "gameView": {
+        "startDate": "2026-05-04T21:40:00+00:00",
+        "awayTeam": {
+          "name": "New York",
+          "fullName": "New York Mets",
+          "shortName": "NYM",
+          "displayName": "NY Mets",
+          "nickname": "Mets",
+          "rank": -1
+        },
+        "awayTeamScore": 4,
+        "homeTeam": {
+          "name": "Colorado",
+          "fullName": "Colorado Rockies",
+          "shortName": "COL",
+          "displayName": "Colorado",
+          "nickname": "Rockies",
+          "rank": -1
+        },
+        "homeTeamScore": 2,
+        "gameStatusText": "Final",
+        "venueName": "Coors Field",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -125,
+              "awayOdds": 105,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -135,
+              "awayOdds": 115,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -118,
+              "awayOdds": -108,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -142,
+              "awayOdds": 168,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -125,
+              "awayOdds": 105,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -125,
+              "awayOdds": 105,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -125,
+              "awayOdds": 105,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -120,
+              "awayOdds": 100,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -126,
+              "awayOdds": 104,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -126,
+              "awayOdds": 104,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -120,
+              "awayOdds": 100,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -125,
+              "awayOdds": 105,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 10.5
+            },
+            "currentLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 11
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -108,
+              "underOdds": -118,
+              "total": 10.5
+            },
+            "currentLine": {
+              "overOdds": 162,
+              "underOdds": -400,
+              "total": 12.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 10.5
+            },
+            "currentLine": {
+              "overOdds": -120,
+              "underOdds": 100,
+              "total": 10.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 10.5
+            },
+            "currentLine": {
+              "overOdds": -120,
+              "underOdds": 100,
+              "total": 10.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 10.5
+            },
+            "currentLine": {
+              "overOdds": -118,
+              "underOdds": -102,
+              "total": 10.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 10
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 10.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 125,
+              "awayOdds": -150
+            },
+            "currentLine": {
+              "homeOdds": 115,
+              "awayOdds": -135
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 138,
+              "awayOdds": -164
+            },
+            "currentLine": {
+              "homeOdds": 118,
+              "awayOdds": -138
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 130,
+              "awayOdds": -155
+            },
+            "currentLine": {
+              "homeOdds": 122,
+              "awayOdds": -145
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 125,
+              "awayOdds": -150
+            },
+            "currentLine": {
+              "homeOdds": 125,
+              "awayOdds": -150
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": 123,
+              "awayOdds": -149
+            },
+            "currentLine": {
+              "homeOdds": 123,
+              "awayOdds": -149
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": 130,
+              "awayOdds": -155
+            },
+            "currentLine": {
+              "homeOdds": 120,
+              "awayOdds": -145
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-04T22:10:00+00:00",
+        "awayTeam": {
+          "name": "Boston",
+          "fullName": "Boston Red Sox",
+          "shortName": "BOS",
+          "displayName": "Boston",
+          "nickname": "Red Sox",
+          "rank": -1
+        },
+        "awayTeamScore": 5,
+        "homeTeam": {
+          "name": "Detroit",
+          "fullName": "Detroit Tigers",
+          "shortName": "DET",
+          "displayName": "Detroit",
+          "nickname": "Tigers",
+          "rank": -1
+        },
+        "homeTeamScore": 4,
+        "gameStatusText": "Final",
+        "venueName": "Comerica Park",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 105,
+              "awayOdds": -130,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -285,
+              "awayOdds": 210,
+              "homeSpread": 2.5,
+              "awaySpread": -2.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -102,
+              "awayOdds": -118,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 200,
+              "awayOdds": 320,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 100,
+              "awayOdds": -120,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 262,
+              "awayOdds": 355,
+              "homeSpread": -2,
+              "awaySpread": 2
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 100,
+              "awayOdds": -120,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -165,
+              "awayOdds": 140,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": 102,
+              "awayOdds": -122,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 256,
+              "awayOdds": 367,
+              "homeSpread": -2,
+              "awaySpread": 2
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": 105,
+              "awayOdds": -125,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 200,
+              "awayOdds": 210,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 7
+            },
+            "currentLine": {
+              "overOdds": -210,
+              "underOdds": 155,
+              "total": 7
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -122,
+              "total": 7
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 7
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 7
+            },
+            "currentLine": {
+              "overOdds": -199,
+              "underOdds": 143,
+              "total": 7
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 7
+            },
+            "currentLine": {
+              "overOdds": -120,
+              "underOdds": 100,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -102,
+              "underOdds": -118,
+              "total": 7
+            },
+            "currentLine": {
+              "overOdds": -189,
+              "underOdds": 143,
+              "total": 7
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 7
+            },
+            "currentLine": {
+              "overOdds": -180,
+              "underOdds": 150,
+              "total": 7
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -225,
+              "awayOdds": 185
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -230,
+              "awayOdds": 190
+            },
+            "currentLine": {
+              "homeOdds": 102,
+              "awayOdds": -120
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -225,
+              "awayOdds": 185
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -230,
+              "awayOdds": 190
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -219,
+              "awayOdds": 179
+            },
+            "currentLine": {
+              "homeOdds": 104,
+              "awayOdds": -126
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -205,
+              "awayOdds": 170
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-04T22:40:00+00:00",
+        "awayTeam": {
+          "name": "Toronto",
+          "fullName": "Toronto Blue Jays",
+          "shortName": "TOR",
+          "displayName": "Toronto",
+          "nickname": "Blue Jays",
+          "rank": -1
+        },
+        "awayTeamScore": 1,
+        "homeTeam": {
+          "name": "Tampa Bay",
+          "fullName": "Tampa Bay Rays",
+          "shortName": "TB",
+          "displayName": "Tampa Bay",
+          "nickname": "Rays",
+          "rank": -1
+        },
+        "homeTeamScore": 5,
+        "gameStatusText": "Final",
+        "venueName": "Tropicana Field",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 165,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 165,
+              "awayOdds": -220,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -196,
+              "awayOdds": 162,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 168,
+              "awayOdds": -205,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -204,
+              "awayOdds": 146,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 170,
+              "awayOdds": -205,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 175,
+              "awayOdds": -210,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -220,
+              "awayOdds": 160,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -187,
+              "awayOdds": 153,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 163,
+              "awayOdds": -199,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 165,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 160,
+              "awayOdds": -195,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -108,
+              "underOdds": -112,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -115,
+              "awayOdds": -105
+            },
+            "currentLine": {
+              "homeOdds": -125,
+              "awayOdds": 105
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -112,
+              "awayOdds": -104
+            },
+            "currentLine": {
+              "homeOdds": -126,
+              "awayOdds": 108
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -115,
+              "awayOdds": -105
+            },
+            "currentLine": {
+              "homeOdds": -130,
+              "awayOdds": 110
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -115,
+              "awayOdds": -105
+            },
+            "currentLine": {
+              "homeOdds": -130,
+              "awayOdds": 110
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -115,
+              "awayOdds": -105
+            },
+            "currentLine": {
+              "homeOdds": -131,
+              "awayOdds": 109
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -120,
+              "awayOdds": 100
+            },
+            "currentLine": {
+              "homeOdds": -125,
+              "awayOdds": 105
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-04T22:40:00+00:00",
+        "awayTeam": {
+          "name": "Philadelphia",
+          "fullName": "Philadelphia Phillies",
+          "shortName": "PHI",
+          "displayName": "Philadelphia",
+          "nickname": "Phillies",
+          "rank": -1
+        },
+        "awayTeamScore": 1,
+        "homeTeam": {
+          "name": "Miami",
+          "fullName": "Miami Marlins",
+          "shortName": "MIA",
+          "displayName": "Miami",
+          "nickname": "Marlins",
+          "rank": -1
+        },
+        "homeTeamScore": 0,
+        "gameStatusText": "Final",
+        "venueName": "loanDepot park",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -170,
+              "awayOdds": 140,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -180,
+              "awayOdds": 145,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -170,
+              "awayOdds": 140,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -196,
+              "awayOdds": 152,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -160,
+              "awayOdds": 135,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -178,
+              "awayOdds": 150,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -160,
+              "awayOdds": 135,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -180,
+              "awayOdds": 150,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -156,
+              "awayOdds": 129,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -181,
+              "awayOdds": 149,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -175,
+              "awayOdds": 145,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -190,
+              "awayOdds": 155,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -122,
+              "underOdds": 100,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -120,
+              "underOdds": 100,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -118,
+              "underOdds": -102,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -112,
+              "underOdds": -108,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 100,
+              "awayOdds": -120
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -110
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 100,
+              "awayOdds": -118
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -106
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -110
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -110
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -102,
+              "awayOdds": -118
+            },
+            "currentLine": {
+              "homeOdds": -112,
+              "awayOdds": -108
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -110
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-04T23:05:00+00:00",
+        "awayTeam": {
+          "name": "Baltimore",
+          "fullName": "Baltimore Orioles",
+          "shortName": "BAL",
+          "displayName": "Baltimore",
+          "nickname": "Orioles",
+          "rank": -1
+        },
+        "awayTeamScore": 1,
+        "homeTeam": {
+          "name": "New York",
+          "fullName": "New York Yankees",
+          "shortName": "NYY",
+          "displayName": "NY Yankees",
+          "nickname": "Yankees",
+          "rank": -1
+        },
+        "homeTeamScore": 12,
+        "gameStatusText": "Final",
+        "venueName": "Yankee Stadium",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 110,
+              "awayOdds": -130,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -110,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 106,
+              "awayOdds": -128,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -104,
+              "awayOdds": -122,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 110,
+              "awayOdds": -130,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -110,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 110,
+              "awayOdds": -130,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -110,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": 109,
+              "awayOdds": -131,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -112,
+              "awayOdds": -108,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -110,
+              "awayOdds": -110,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -108,
+              "underOdds": -112,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 165
+            },
+            "currentLine": {
+              "homeOdds": -220,
+              "awayOdds": 180
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 168
+            },
+            "currentLine": {
+              "homeOdds": -215,
+              "awayOdds": 180
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -205,
+              "awayOdds": 170
+            },
+            "currentLine": {
+              "homeOdds": -235,
+              "awayOdds": 192
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 165
+            },
+            "currentLine": {
+              "homeOdds": -240,
+              "awayOdds": 195
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -199,
+              "awayOdds": 163
+            },
+            "currentLine": {
+              "homeOdds": -232,
+              "awayOdds": 189
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -215,
+              "awayOdds": 175
+            },
+            "currentLine": {
+              "homeOdds": -215,
+              "awayOdds": 175
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-04T23:10:00+00:00",
+        "awayTeam": {
+          "name": "Cincinnati",
+          "fullName": "Cincinnati Reds",
+          "shortName": "CIN",
+          "displayName": "Cincinnati",
+          "nickname": "Reds",
+          "rank": -1
+        },
+        "awayTeamScore": 4,
+        "homeTeam": {
+          "name": "Chicago",
+          "fullName": "Chicago Cubs",
+          "shortName": "CHC",
+          "displayName": "Chi. Cubs",
+          "nickname": "Cubs",
+          "rank": -1
+        },
+        "homeTeamScore": 5,
+        "gameStatusText": "Final",
+        "venueName": "Wrigley Field",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -118,
+              "awayOdds": -102,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -108,
+              "awayOdds": -111,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -769,
+              "awayOdds": -164,
+              "homeSpread": 3.5,
+              "awaySpread": -3.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -110,
+              "awayOdds": -110,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -806,
+              "awayOdds": -455,
+              "homeSpread": 3,
+              "awaySpread": -3
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -120,
+              "awayOdds": 100,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -110,
+              "awayOdds": -110,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 152,
+              "awayOdds": 404,
+              "homeSpread": -3,
+              "awaySpread": 3
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -110,
+              "awayOdds": -110,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 240,
+              "awayOdds": -300,
+              "homeSpread": -4.5,
+              "awaySpread": 4.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 11.5
+            },
+            "currentLine": {
+              "overOdds": -375,
+              "underOdds": -225,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -122,
+              "underOdds": 100,
+              "total": 11
+            },
+            "currentLine": {
+              "overOdds": -225,
+              "underOdds": -148,
+              "total": 9.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 11.5
+            },
+            "currentLine": {
+              "overOdds": 334,
+              "underOdds": -224,
+              "total": 16.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -120,
+              "underOdds": 100,
+              "total": 11
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 11.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 11.5
+            },
+            "currentLine": {
+              "overOdds": 141,
+              "underOdds": -112,
+              "total": 13
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 11.5
+            },
+            "currentLine": {
+              "overOdds": -275,
+              "underOdds": -200,
+              "total": 9
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 165
+            },
+            "currentLine": {
+              "homeOdds": -220,
+              "awayOdds": 180
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -196,
+              "awayOdds": 164
+            },
+            "currentLine": {
+              "homeOdds": -215,
+              "awayOdds": 180
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -195,
+              "awayOdds": 162
+            },
+            "currentLine": {
+              "homeOdds": -225,
+              "awayOdds": 185
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 165
+            },
+            "currentLine": {
+              "homeOdds": -225,
+              "awayOdds": 185
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -199,
+              "awayOdds": 163
+            },
+            "currentLine": {
+              "homeOdds": -209,
+              "awayOdds": 171
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 165
+            },
+            "currentLine": {
+              "homeOdds": -220,
+              "awayOdds": 180
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-04T23:40:00+00:00",
+        "awayTeam": {
+          "name": "Cleveland",
+          "fullName": "Cleveland Guardians",
+          "shortName": "CLE",
+          "displayName": "Cleveland",
+          "nickname": "Guardians",
+          "rank": -1
+        },
+        "awayTeamScore": 2,
+        "homeTeam": {
+          "name": "Kansas City",
+          "fullName": "Kansas City Royals",
+          "shortName": "KC",
+          "displayName": "Kansas City",
+          "nickname": "Royals",
+          "rank": -1
+        },
+        "homeTeamScore": 6,
+        "gameStatusText": "Final",
+        "venueName": "Kauffman Stadium",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 165,
+              "awayOdds": -220,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -325,
+              "awayOdds": 155,
+              "homeSpread": 2.5,
+              "awaySpread": -2.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 168,
+              "awayOdds": -205,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -215,
+              "awayOdds": 164,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 146,
+              "awayOdds": -204,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -194,
+              "awayOdds": 139,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 170,
+              "awayOdds": -205,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -190,
+              "awayOdds": 140,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 164,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -183,
+              "awayOdds": 150,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -200,
+              "awayOdds": 165,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -180,
+              "awayOdds": 150,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": 185,
+              "underOdds": -250,
+              "total": 11
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -122,
+              "underOdds": 100,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -112,
+              "underOdds": -108,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 9
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 9
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -125,
+              "awayOdds": 105
+            },
+            "currentLine": {
+              "homeOdds": -118,
+              "awayOdds": -102
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -124,
+              "awayOdds": 106
+            },
+            "currentLine": {
+              "homeOdds": -122,
+              "awayOdds": 104
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -125,
+              "awayOdds": 105
+            },
+            "currentLine": {
+              "homeOdds": -115,
+              "awayOdds": -105
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -125,
+              "awayOdds": 105
+            },
+            "currentLine": {
+              "homeOdds": -115,
+              "awayOdds": -105
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -126,
+              "awayOdds": 104
+            },
+            "currentLine": {
+              "homeOdds": -118,
+              "awayOdds": -102
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -125,
+              "awayOdds": 105
+            },
+            "currentLine": {
+              "homeOdds": -115,
+              "awayOdds": -105
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-04T23:45:00+00:00",
+        "awayTeam": {
+          "name": "Milwaukee",
+          "fullName": "Milwaukee Brewers",
+          "shortName": "MIL",
+          "displayName": "Milwaukee",
+          "nickname": "Brewers",
+          "rank": -1
+        },
+        "awayTeamScore": 3,
+        "homeTeam": {
+          "name": "St. Louis",
+          "fullName": "St. Louis Cardinals",
+          "shortName": "STL",
+          "displayName": "St. Louis",
+          "nickname": "Cardinals",
+          "rank": -1
+        },
+        "homeTeamScore": 6,
+        "gameStatusText": "Final",
+        "venueName": "Busch Stadium",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -185,
+              "awayOdds": 150,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -150,
+              "awayOdds": 125,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -184,
+              "awayOdds": 152,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -146,
+              "awayOdds": 122,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -170,
+              "awayOdds": 143,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -155,
+              "awayOdds": 130,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -170,
+              "awayOdds": 145,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -150,
+              "awayOdds": 125,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -168,
+              "awayOdds": 139,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -161,
+              "awayOdds": 133,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -180,
+              "awayOdds": 150,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -155,
+              "awayOdds": 130,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -120,
+              "underOdds": 100,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -101,
+              "underOdds": -119,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -108,
+              "underOdds": -112,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 9
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115
+            },
+            "currentLine": {
+              "homeOdds": 110,
+              "awayOdds": -130
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -106,
+              "awayOdds": -110
+            },
+            "currentLine": {
+              "homeOdds": 110,
+              "awayOdds": -130
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -110,
+              "awayOdds": -110
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -126
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -110,
+              "awayOdds": -110
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-05T00:10:00+00:00",
+        "awayTeam": {
+          "name": "Los Angeles",
+          "fullName": "Los Angeles Dodgers",
+          "shortName": "LAD",
+          "displayName": "LA Dodgers",
+          "nickname": "Dodgers",
+          "rank": -1
+        },
+        "awayTeamScore": 8,
+        "homeTeam": {
+          "name": "Houston",
+          "fullName": "Houston Astros",
+          "shortName": "HOU",
+          "displayName": "Houston",
+          "nickname": "Astros",
+          "rank": -1
+        },
+        "homeTeamScore": 3,
+        "gameStatusText": "Final",
+        "venueName": "Daikin Park",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 105,
+              "awayOdds": -125,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 450,
+              "awayOdds": -752,
+              "homeSpread": -2.5,
+              "awaySpread": 2.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 100,
+              "awayOdds": -120,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 102,
+              "awayOdds": -122,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 100,
+              "awayOdds": -120,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -105,
+              "awayOdds": -115,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": 102,
+              "awayOdds": -122,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -123,
+              "awayOdds": -106,
+              "homeSpread": 2,
+              "awaySpread": -2
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": 100,
+              "awayOdds": -120,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 9
+            },
+            "currentLine": {
+              "overOdds": 130,
+              "underOdds": -400,
+              "total": 10
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -122,
+              "total": 9
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 9
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 9
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -102,
+              "underOdds": -118,
+              "total": 9
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 9
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 9
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 9
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 170,
+              "awayOdds": -210
+            },
+            "currentLine": {
+              "homeOdds": 170,
+              "awayOdds": -210
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 168,
+              "awayOdds": -200
+            },
+            "currentLine": {
+              "homeOdds": 168,
+              "awayOdds": -200
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 170,
+              "awayOdds": -205
+            },
+            "currentLine": {
+              "homeOdds": 170,
+              "awayOdds": -205
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 165,
+              "awayOdds": -200
+            },
+            "currentLine": {
+              "homeOdds": 170,
+              "awayOdds": -205
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": 163,
+              "awayOdds": -199
+            },
+            "currentLine": {
+              "homeOdds": 163,
+              "awayOdds": -199
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": 165,
+              "awayOdds": -200
+            },
+            "currentLine": {
+              "homeOdds": 165,
+              "awayOdds": -200
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-05T01:38:00+00:00",
+        "awayTeam": {
+          "name": "Chicago",
+          "fullName": "Chicago White Sox",
+          "shortName": "CHW",
+          "displayName": "Chi. White Sox",
+          "nickname": "White Sox",
+          "rank": -1
+        },
+        "awayTeamScore": 6,
+        "homeTeam": {
+          "name": "Los Angeles",
+          "fullName": "Los Angeles Angels",
+          "shortName": "LAA",
+          "displayName": "LA Angels",
+          "nickname": "Angels",
+          "rank": -1
+        },
+        "homeTeamScore": 0,
+        "gameStatusText": "Final",
+        "venueName": "Angel Stadium",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 135,
+              "awayOdds": -160,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 135,
+              "awayOdds": -165,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 126,
+              "awayOdds": -152,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 134,
+              "awayOdds": -172,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 122,
+              "awayOdds": -145,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 143,
+              "awayOdds": -170,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 125,
+              "awayOdds": -150,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 145,
+              "awayOdds": -170,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": 123,
+              "awayOdds": -149,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 135,
+              "awayOdds": -163,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": 125,
+              "awayOdds": -150,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 145,
+              "awayOdds": -175,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -120,
+              "underOdds": -102,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -125,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -112,
+              "underOdds": -108,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -118,
+              "underOdds": -102,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 7.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -170,
+              "awayOdds": 140
+            },
+            "currentLine": {
+              "homeOdds": -150,
+              "awayOdds": 125
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -166,
+              "awayOdds": 140
+            },
+            "currentLine": {
+              "homeOdds": -154,
+              "awayOdds": 130
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -160,
+              "awayOdds": 135
+            },
+            "currentLine": {
+              "homeOdds": -155,
+              "awayOdds": 130
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -165,
+              "awayOdds": 140
+            },
+            "currentLine": {
+              "homeOdds": -150,
+              "awayOdds": 125
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -156,
+              "awayOdds": 129
+            },
+            "currentLine": {
+              "homeOdds": -161,
+              "awayOdds": 133
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -165,
+              "awayOdds": 135
+            },
+            "currentLine": {
+              "homeOdds": -150,
+              "awayOdds": 125
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-05T01:40:00+00:00",
+        "awayTeam": {
+          "name": "Atlanta",
+          "fullName": "Atlanta Braves",
+          "shortName": "ATL",
+          "displayName": "Atlanta",
+          "nickname": "Braves",
+          "rank": -1
+        },
+        "awayTeamScore": 4,
+        "homeTeam": {
+          "name": "Seattle",
+          "fullName": "Seattle Mariners",
+          "shortName": "SEA",
+          "displayName": "Seattle",
+          "nickname": "Mariners",
+          "rank": -1
+        },
+        "homeTeamScore": 5,
+        "gameStatusText": "Final",
+        "venueName": "T-Mobile Park",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 135,
+              "awayOdds": -160,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 150,
+              "awayOdds": -185,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 132,
+              "awayOdds": -160,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 158,
+              "awayOdds": -205,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 122,
+              "awayOdds": -145,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 150,
+              "awayOdds": -178,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 125,
+              "awayOdds": -150,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 145,
+              "awayOdds": -170,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": 119,
+              "awayOdds": -143,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 149,
+              "awayOdds": -181,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": 125,
+              "awayOdds": -150,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 150,
+              "awayOdds": -180,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -120,
+              "underOdds": 100,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -122,
+              "underOdds": 100,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -108,
+              "underOdds": -112,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -115,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -175,
+              "awayOdds": 145
+            },
+            "currentLine": {
+              "homeOdds": -135,
+              "awayOdds": 110
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -172,
+              "awayOdds": 144
+            },
+            "currentLine": {
+              "homeOdds": -136,
+              "awayOdds": 116
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -178,
+              "awayOdds": 150
+            },
+            "currentLine": {
+              "homeOdds": -140,
+              "awayOdds": 118
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -170,
+              "awayOdds": 145
+            },
+            "currentLine": {
+              "homeOdds": -140,
+              "awayOdds": 120
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -181,
+              "awayOdds": 149
+            },
+            "currentLine": {
+              "homeOdds": -143,
+              "awayOdds": 119
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -175,
+              "awayOdds": 145
+            },
+            "currentLine": {
+              "homeOdds": -140,
+              "awayOdds": 115
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-05-05T01:45:00+00:00",
+        "awayTeam": {
+          "name": "San Diego",
+          "fullName": "San Diego Padres",
+          "shortName": "SD",
+          "displayName": "San Diego",
+          "nickname": "Padres",
+          "rank": -1
+        },
+        "awayTeamScore": 2,
+        "homeTeam": {
+          "name": "San Francisco",
+          "fullName": "San Francisco Giants",
+          "shortName": "SF",
+          "displayName": "San Francisco",
+          "nickname": "Giants",
+          "rank": -1
+        },
+        "homeTeamScore": 3,
+        "gameStatusText": "Final",
+        "venueName": "Oracle Park",
+        "gameType": "R"
+      },
+      "odds": {
+        "pointspread": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": -145,
+              "awayOdds": 118,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -250,
+              "awayOdds": 185,
+              "homeSpread": 2.5,
+              "awaySpread": -2.5
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": -144,
+              "awayOdds": 120,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 220,
+              "awayOdds": 200,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": -130,
+              "awayOdds": 110,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -629,
+              "awayOdds": 366,
+              "homeSpread": 4,
+              "awaySpread": -4
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": -130,
+              "awayOdds": 110,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -150,
+              "awayOdds": 125,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": -136,
+              "awayOdds": 113,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 600,
+              "awayOdds": -1176,
+              "homeSpread": -4,
+              "awaySpread": 4
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": -145,
+              "awayOdds": 120,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -235,
+              "awayOdds": 420,
+              "homeSpread": 2.5,
+              "awaySpread": -2.5
+            }
+          }
+        ],
+        "totals": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -325,
+              "underOdds": 240,
+              "total": 6
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "overOdds": -102,
+              "underOdds": -120,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": 320,
+              "underOdds": 104,
+              "total": 11.5
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -214,
+              "underOdds": 522,
+              "total": 6.5
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -110,
+              "underOdds": -110,
+              "total": 8
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "overOdds": -115,
+              "underOdds": -105,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": 105,
+              "underOdds": 224,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "overOdds": 100,
+              "underOdds": -120,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": 155,
+              "underOdds": -474,
+              "total": 9.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "betmgm",
+            "openingLine": {
+              "homeOdds": 125,
+              "awayOdds": -150
+            },
+            "currentLine": {
+              "homeOdds": 110,
+              "awayOdds": -135
+            }
+          },
+          {
+            "sportsbook": "fanduel",
+            "openingLine": {
+              "homeOdds": 120,
+              "awayOdds": -142
+            },
+            "currentLine": {
+              "homeOdds": 114,
+              "awayOdds": -134
+            }
+          },
+          {
+            "sportsbook": "caesars",
+            "openingLine": {
+              "homeOdds": 122,
+              "awayOdds": -145
+            },
+            "currentLine": {
+              "homeOdds": 105,
+              "awayOdds": -125
+            }
+          },
+          {
+            "sportsbook": "bet365",
+            "openingLine": {
+              "homeOdds": 125,
+              "awayOdds": -150
+            },
+            "currentLine": {
+              "homeOdds": 110,
+              "awayOdds": -130
+            }
+          },
+          {
+            "sportsbook": "draftkings",
+            "openingLine": {
+              "homeOdds": 123,
+              "awayOdds": -149
+            },
+            "currentLine": {
+              "homeOdds": 108,
+              "awayOdds": -130
+            }
+          },
+          {
+            "sportsbook": "fanatics",
+            "openingLine": {
+              "homeOdds": 120,
+              "awayOdds": -145
+            },
+            "currentLine": {
+              "homeOdds": 110,
+              "awayOdds": -130
+            }
+          }
+        ]
+      }
+    }
   ]
 }

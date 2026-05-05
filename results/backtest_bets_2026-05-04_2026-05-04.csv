@@ -1,0 +1,15 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 10.5,-103.5,0.2,0.4859,0.7,True,0.9662,2026-05-04,Colorado Rockies vs New York Mets
+Total,UNDER 8.0,-110.0,0.1636,0.5,0.6636,True,0.9091,2026-05-04,Tampa Bay Rays vs Toronto Blue Jays
+Total,UNDER 8.5,-110.0,0.2,0.5,0.7,True,0.9091,2026-05-04,Miami Marlins vs Philadelphia Phillies
+Moneyline,New York Yankees ML,-226.0,0.1174,0.6636,0.781,True,0.4425,2026-05-04,New York Yankees vs Baltimore Orioles
+Total,UNDER 8.5,-115.0,0.0652,0.5108,0.576,False,-1.0,2026-05-04,New York Yankees vs Baltimore Orioles
+Total,UNDER 10.5,-174.0,0.136,0.5035,0.6395,True,0.5747,2026-05-04,Chicago Cubs vs Cincinnati Reds
+Moneyline,Kansas City Royals ML,-116.5,0.25,0.5141,0.781,True,0.8584,2026-05-04,Kansas City Royals vs Cleveland Guardians
+Total,UNDER 9.0,-109.0,0.12,0.4978,0.6179,True,0.9174,2026-05-04,Kansas City Royals vs Cleveland Guardians
+Moneyline,Milwaukee Brewers ML,-125.5,0.0601,0.5329,0.593,False,-1.0,2026-05-04,St. Louis Cardinals vs Milwaukee Brewers
+Moneyline,Los Angeles Dodgers ML,-202.5,0.132,0.643,0.775,True,0.4938,2026-05-04,Houston Astros vs Los Angeles Dodgers
+Total,UNDER 9.0,-105.0,0.1262,0.4892,0.6154,False,-1.0,2026-05-04,Houston Astros vs Los Angeles Dodgers
+Moneyline,Chicago White Sox ML,127.5,0.25,0.4215,0.77,True,1.275,2026-05-04,Los Angeles Angels vs Chicago White Sox
+Moneyline,Atlanta Braves ML,117.0,0.2037,0.4413,0.645,False,-1.0,2026-05-04,Seattle Mariners vs Atlanta Braves
+Total,OVER  8.25,-2.5,0.2,0.0605,0.368,False,-1.0,2026-05-04,San Francisco Giants vs San Diego Padres
