@@ -1,0 +1,11 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+New York Yankees,Texas Rangers,Paul Blackburn,Mackenzie Gore,73.3,26.7,8.62,1.02,hitter,short porches both sides,unknown,1.0,3-2 (home-away),5.137,2.069
+Washington Nationals,Minnesota Twins,Jake Irvin,Simeon Woods Richardson,50.3,49.7,11.0,1.0,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,1-1 (home-away),8.356,5.625
+Kansas City Royals,Cleveland Guardians,Seth Lugo,Slade Cecconi,55.8,44.2,7.39,1.01,pitcher,large dimensions; spray park,unknown,1.0,3-3 (home-away),3.875,3.181
+Chicago Cubs,Cincinnati Reds,Shota Imanaga,Rhett Lowder,77.2,22.8,9.02,0.988,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,3-0 (home-away),9.098,2.979
+Colorado Rockies,New York Mets,Jose Quintana,Christian Scott,47.5,52.5,10.81,1.175,hitter,"5,200 ft altitude; most extreme hitter park","69°F, wind 6 mph",1.032,3-2 (home-away),5.263,6.593
+Arizona Diamondbacks,Pittsburgh Pirates,Zac Gallen,Mitch Keller,49.2,50.8,10.86,1.018,hitter,"high altitude (1,082 ft)",dome,1.0,1-1 (home-away),5.379,6.884
+Philadelphia Phillies,Athletics,Andrew Painter,J.T. Ginn,78.0,22.0,8.99,1.019,hitter,high HR rate historically,"63°F, wind 8 mph",1.035,2-0 (home-away),5.84,2.658
+Miami Marlins,Baltimore Orioles,Max Meyer,Cade Povich,57.5,42.5,8.95,0.95,neutral,roof often closed; average park,dome,1.0,0-2 (home-away),4.736,4.227
+Boston Red Sox,Tampa Bay Rays,Jake Bennett,Griffin Jax,49.8,50.2,6.99,1.02,hitter,Green Monster 37ft LF wall,"58°F, wind 12 mph",0.949,no prior meetings,2.085,1.933
+San Diego Padres,St. Louis Cardinals,Michael King,Matthew Liberatore,27.5,72.5,9.39,0.902,pitcher,marine layer; large dimensions,"64°F, wind 4 mph",1.017,no prior meetings,3.867,6.419

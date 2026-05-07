@@ -1,0 +1,15 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Diego Padres vs St. Louis Cardinals,St. Louis Cardinals ML,+140,40.1%,72.5%,0.3240922844175491,Strong,Moneyline
+Boston Red Sox vs Tampa Bay Rays,UNDER 8.5,-102,48.3%,73.0%,0.2477582356154957,Strong,Total
+Arizona Diamondbacks vs Pittsburgh Pirates,OVER  8.5,-120,52.2%,75.5%,0.23360464126829417,Strong,Total
+Philadelphia Phillies vs Athletics,Philadelphia Phillies ML,-132,54.7%,78.0%,0.23326664582682088,Strong,Moneyline
+Philadelphia Phillies vs Athletics,Philadelphia Phillies -1.5,+155,37.9%,56.2%,0.18344922890238957,Strong,Run Line
+New York Yankees vs Texas Rangers,New York Yankees ML,-158,59.0%,73.3%,0.14297934212617192,Strong,Moneyline
+Washington Nationals vs Minnesota Twins,OVER  9.0,-118,51.7%,65.9%,0.14212232707125239,Strong,Total
+Chicago Cubs vs Cincinnati Reds,Chicago Cubs ML,-196,63.7%,77.2%,0.13501201864115775,Strong,Moneyline
+Philadelphia Phillies vs Athletics,UNDER 9.0,-102,48.3%,58.9%,0.10609005600268995,Good,Total
+Chicago Cubs vs Cincinnati Reds,Chicago Cubs -1.5,+105,46.8%,56.2%,0.09480715379211418,Good,Run Line
+San Diego Padres vs St. Louis Cardinals,OVER  8.0,-110,50.0%,59.5%,0.09451275607769449,Good,Total
+New York Yankees vs Texas Rangers,New York Yankees -1.5,+128,42.0%,51.4%,0.09397621531227701,Good,Run Line
+Colorado Rockies vs New York Mets,UNDER 11.0,-115,51.1%,60.2%,0.0911040910333839,Good,Total
+Chicago Cubs vs Cincinnati Reds,UNDER 9.0,-110,50.0%,58.5%,0.08477329014160784,Good,Total
