@@ -1,0 +1,22 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Diego Padres vs St. Louis Cardinals,St. Louis Cardinals ML,+126,42.6%,74.9%,0.3225644487414109,Strong,Moneyline
+San Francisco Giants vs Pittsburgh Pirates,Pittsburgh Pirates ML,-102,48.7%,73.5%,0.2483761369716425,Strong,Moneyline
+Cleveland Guardians vs Minnesota Twins,OVER  7.5,-104,48.5%,73.1%,0.24631168912057272,Strong,Total
+Boston Red Sox vs Tampa Bay Rays,UNDER 8.5,-108,49.6%,73.2%,0.2360248227243028,Strong,Total
+Chicago White Sox vs Seattle Mariners,UNDER 8.0,-110,50.0%,72.6%,0.2264800212488114,Strong,Total
+Kansas City Royals vs Detroit Tigers,UNDER 8.5,-108,49.8%,72.4%,0.22605637942069173,Strong,Total
+Texas Rangers vs Chicago Cubs,Chicago Cubs ML,-136,55.6%,77.1%,0.21534402771501732,Strong,Moneyline
+Los Angeles Dodgers vs Atlanta Braves,UNDER 8.0,-115,51.1%,71.3%,0.20248302547401165,Strong,Total
+Philadelphia Phillies vs Colorado Rockies,OVER  7.5,+105,46.9%,67.0%,0.20088919039779107,Strong,Total
+Baltimore Orioles vs Athletics,OVER  9.5,-105,48.9%,66.5%,0.17572200540460686,Strong,Total
+Cincinnati Reds vs Houston Astros,OVER  9.0,-110,50.0%,66.2%,0.16165293129753255,Strong,Total
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians ML,-148,57.3%,71.1%,0.1378502581755594,Strong,Moneyline
+San Francisco Giants vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,+152,37.9%,51.5%,0.13604325805617984,Strong,Run Line
+San Francisco Giants vs Pittsburgh Pirates,OVER  7.5,-115,51.1%,64.0%,0.12898490012229713,Strong,Total
+Texas Rangers vs Chicago Cubs,Chicago Cubs +1.5,+120,43.6%,56.2%,0.12654335159717855,Strong,Run Line
+Arizona Diamondbacks vs New York Mets,New York Mets ML,-131,54.8%,66.6%,0.11775421441702194,Good,Moneyline
+Philadelphia Phillies vs Colorado Rockies,Philadelphia Phillies ML,-219,65.9%,77.4%,0.11460090969271175,Good,Moneyline
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians -1.5,+148,38.9%,50.2%,0.11378114671144374,Good,Run Line
+Miami Marlins vs Washington Nationals,Washington Nationals ML,+119,44.0%,53.8%,0.09818475920575626,Good,Moneyline
+Philadelphia Phillies vs Colorado Rockies,Philadelphia Phillies -1.5,+104,46.9%,56.2%,0.09358962132458176,Good,Run Line
+Miami Marlins vs Washington Nationals,UNDER 8.5,-119,51.7%,60.8%,0.09077249267701559,Good,Total

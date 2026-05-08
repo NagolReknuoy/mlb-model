@@ -1,0 +1,16 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,New York Yankees ML,-150.0,0.1935,0.5745,0.768,True,0.6667,2026-05-07,New York Yankees vs Texas Rangers
+Run Line,New York Yankees -1.5,135.5,0.0551,0.4057,0.4608,True,1.355,2026-05-07,New York Yankees vs Texas Rangers
+Total,UNDER 8.5,-105.0,0.0937,0.4892,0.5829,False,-1.0,2026-05-07,New York Yankees vs Texas Rangers
+Run Line,Kansas City Royals -4.0,353.0,0.0851,0.2113,0.2964,False,-1.0,2026-05-07,Kansas City Royals vs Cleveland Guardians
+Total,UNDER 10.5,-130.0,0.148,0.552,0.7,False,-1.0,2026-05-07,Kansas City Royals vs Cleveland Guardians
+Moneyline,Chicago Cubs ML,-200.0,0.1354,0.6386,0.774,True,0.5,2026-05-07,Chicago Cubs vs Cincinnati Reds
+Total,UNDER 9.0,-120.0,0.0949,0.5217,0.6166,False,-1.0,2026-05-07,Chicago Cubs vs Cincinnati Reds
+Total,UNDER 11.0,-115.0,0.1307,0.5108,0.6415,True,0.8696,2026-05-07,Colorado Rockies vs New York Mets
+Moneyline,Pittsburgh Pirates ML,-105.0,0.1238,0.4892,0.613,True,0.9524,2026-05-07,Arizona Diamondbacks vs Pittsburgh Pirates
+Moneyline,Philadelphia Phillies ML,-130.0,0.0913,0.5427,0.634,False,-1.0,2026-05-07,Philadelphia Phillies vs Athletics
+Total,UNDER 9.0,-103.5,0.1264,0.4859,0.6123,False,-1.0,2026-05-07,Philadelphia Phillies vs Athletics
+Moneyline,Miami Marlins ML,-125.5,0.1391,0.5329,0.672,True,0.7968,2026-05-07,Miami Marlins vs Baltimore Orioles
+Total,UNDER 8.5,-115.0,0.0838,0.5108,0.5947,True,0.8696,2026-05-07,Miami Marlins vs Baltimore Orioles
+Total,UNDER 8.5,-111.0,0.1989,0.5011,0.7,False,-1.0,2026-05-07,Boston Red Sox vs Tampa Bay Rays
+Moneyline,St. Louis Cardinals ML,139.5,0.25,0.4014,0.731,True,1.395,2026-05-07,San Diego Padres vs St. Louis Cardinals
