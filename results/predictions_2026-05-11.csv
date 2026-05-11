@@ -1,0 +1,7 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cleveland Guardians,Los Angeles Angels,Joey Cantillo,Nan,69.4,30.6,8.22,0.941,neutral,below-average HR park,unknown,1.0,no prior meetings,4.765,3.121
+Baltimore Orioles,New York Yankees,Brandon Young,Ryan Weathers,22.6,77.4,9.06,1.0,hitter,short RF; warm summers,unknown,1.0,0-4 (home-away),2.779,11.218
+Toronto Blue Jays,Tampa Bay Rays,Kevin Gausman,Drew Rasmussen,50.5,49.5,6.96,0.949,neutral,turf boosts groundball singles,dome,1.0,0-3 (home-away),2.393,2.434
+Texas Rangers,Arizona Diamondbacks,Nathan Eovaldi,Michael Soroka,50.4,49.6,7.0,1.051,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,no prior meetings,2.935,2.439
+Houston Astros,Seattle Mariners,Peter Lambert,George Kirby,31.7,68.3,8.23,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,0-4 (home-away),2.569,4.712
+Los Angeles Dodgers,San Francisco Giants,Roki Sasaki,Trevor Mcdonald,64.8,35.2,7.99,1.008,pitcher,marine layer suppresses carry; spacious foul territory,unknown,1.0,1-2 (home-away),4.445,1.988

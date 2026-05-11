@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Athletics ML,-102.0,0.1394,0.4976,0.637,False,-1.0,2026-05-10,Baltimore Orioles vs Athletics
+Total,UNDER 10.5,-114.0,0.1448,0.5171,0.6619,True,0.8772,2026-05-10,Baltimore Orioles vs Athletics
+Moneyline,Philadelphia Phillies ML,-281.0,0.0524,0.7236,0.776,True,0.3559,2026-05-10,Philadelphia Phillies vs Colorado Rockies
+Total,UNDER 8.5,-104.0,0.079,0.4977,0.5766,True,0.9615,2026-05-10,Philadelphia Phillies vs Colorado Rockies
+Moneyline,Toronto Blue Jays ML,-110.0,0.1549,0.5141,0.669,False,-1.0,2026-05-10,Toronto Blue Jays vs Los Angeles Angels
+Total,UNDER 8.0,-103.0,0.0999,0.4965,0.5964,True,0.9709,2026-05-10,Toronto Blue Jays vs Los Angeles Angels
+Moneyline,Houston Astros ML,-101.0,0.1129,0.4941,0.607,False,-1.0,2026-05-10,Cincinnati Reds vs Houston Astros
+Total,UNDER 9.5,-116.0,0.0934,0.524,0.6174,True,0.8621,2026-05-10,Cincinnati Reds vs Houston Astros
+Total,OVER  7.5,112.0,0.121,0.4676,0.5886,True,1.12,2026-05-10,Cleveland Guardians vs Minnesota Twins
+Total,UNDER 7.5,101.0,0.1283,0.4829,0.6112,True,1.01,2026-05-10,Chicago White Sox vs Seattle Mariners
+Moneyline,Milwaukee Brewers ML,-109.0,0.0687,0.5143,0.583,True,0.9174,2026-05-10,Milwaukee Brewers vs New York Yankees
+Total,UNDER 8.5,-115.0,0.0928,0.5206,0.6134,True,0.8696,2026-05-10,Milwaukee Brewers vs New York Yankees
+Moneyline,Chicago Cubs ML,109.0,0.1428,0.4712,0.614,False,-1.0,2026-05-10,Texas Rangers vs Chicago Cubs
+Total,UNDER 7.5,-107.0,0.0833,0.5011,0.5844,True,0.9346,2026-05-10,Texas Rangers vs Chicago Cubs
+Moneyline,Pittsburgh Pirates ML,111.0,0.25,0.4659,0.778,False,-1.0,2026-05-10,San Francisco Giants vs Pittsburgh Pirates
+Total,UNDER 8.5,-116.0,0.0637,0.5142,0.5779,False,-1.0,2026-05-10,San Francisco Giants vs Pittsburgh Pirates
+Total,UNDER 8.5,105.0,0.2,0.476,0.7,True,1.05,2026-05-10,Arizona Diamondbacks vs New York Mets
+Total,UNDER 8.5,-112.0,0.185,0.515,0.7,True,0.8929,2026-05-10,San Diego Padres vs St. Louis Cardinals
+Moneyline,Atlanta Braves ML,127.0,0.1505,0.4325,0.583,True,1.27,2026-05-10,Los Angeles Dodgers vs Atlanta Braves
+Total,UNDER 9.5,-120.0,0.1721,0.5279,0.7,True,0.8333,2026-05-10,Los Angeles Dodgers vs Atlanta Braves
+Total,UNDER 8.5,-107.0,0.1779,0.5083,0.6862,False,-1.0,2026-05-10,Kansas City Royals vs Detroit Tigers
