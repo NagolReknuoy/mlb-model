@@ -1,0 +1,20 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Chicago White Sox vs Kansas City Royals,UNDER 9.5,-116,51.4%,74.8%,0.23471685358757577,Strong,Total
+Houston Astros vs Seattle Mariners,UNDER 8.5,+100,47.8%,71.1%,0.23240358909336634,Strong,Total
+Toronto Blue Jays vs Tampa Bay Rays,UNDER 8.0,-112,50.4%,72.8%,0.22345681350134228,Strong,Total
+Texas Rangers vs Arizona Diamondbacks,UNDER 8.0,-115,51.1%,72.8%,0.21695233138496228,Strong,Total
+Cleveland Guardians vs Los Angeles Angels,Cleveland Guardians ML,-136,55.6%,77.1%,0.21477585558480627,Strong,Moneyline
+Baltimore Orioles vs New York Yankees,New York Yankees ML,-146,57.2%,78.3%,0.2111984334203655,Strong,Moneyline
+Milwaukee Brewers vs San Diego Padres,Milwaukee Brewers ML,-128,54.1%,73.5%,0.19393719806763288,Strong,Moneyline
+Cincinnati Reds vs Washington Nationals,Washington Nationals ML,+121,43.5%,62.5%,0.19031849811280255,Strong,Moneyline
+Athletics vs St. Louis Cardinals,UNDER 10.0,-114,51.0%,69.9%,0.1885232145162412,Strong,Total
+Cleveland Guardians vs Los Angeles Angels,Cleveland Guardians -1.5,+153,38.0%,56.2%,0.182756219165069,Strong,Run Line
+Pittsburgh Pirates vs Colorado Rockies,OVER  7.5,-111,50.3%,68.0%,0.17688943965351833,Strong,Total
+Athletics vs St. Louis Cardinals,St. Louis Cardinals ML,+129,42.2%,59.7%,0.17531861973587642,Strong,Moneyline
+Minnesota Twins vs Miami Marlins,OVER  9.0,+100,47.8%,64.5%,0.16695270760450698,Strong,Total
+Milwaukee Brewers vs San Diego Padres,Milwaukee Brewers -1.5,+156,37.6%,51.7%,0.1406987025678308,Strong,Run Line
+Baltimore Orioles vs New York Yankees,New York Yankees +1.5,+109,45.8%,56.2%,0.10449150745974645,Good,Run Line
+New York Mets vs Detroit Tigers,UNDER 7.5,-108,49.6%,59.4%,0.09801914461696237,Good,Total
+Chicago White Sox vs Kansas City Royals,Chicago White Sox ML,+106,46.8%,55.1%,0.08257639313822723,Good,Moneyline
+New York Mets vs Detroit Tigers,Detroit Tigers ML,+128,42.5%,49.9%,0.07404145936981754,Lean,Moneyline
+Cincinnati Reds vs Washington Nationals,UNDER 10.0,-106,49.3%,56.6%,0.07259317959009215,Lean,Total
