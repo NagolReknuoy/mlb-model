@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Baltimore Orioles,New York Yankees,Kyle Bradish,Max Fried,22.8,77.2,9.04,1.0,hitter,short RF; warm summers,"74°F, wind 10 mph",1.001,1-5 (home-away),2.377,10.07
+Cleveland Guardians,Los Angeles Angels,Parker Messick,Reid Detmers,55.1,44.9,7.29,0.941,neutral,below-average HR park,"51°F, wind 12 mph",0.992,2-0 (home-away),3.809,2.004
+Cincinnati Reds,Washington Nationals,Nick Lodolo,Jake Irvin,49.1,50.9,11.0,1.102,hitter,one of the top HR parks in MLB,"65°F, wind 16 mph",1.077,0-1 (home-away),5.45,8.376
+Pittsburgh Pirates,Colorado Rockies,Mitch Keller,Jose Quintana,77.7,22.3,9.01,0.95,pitcher,high RF wall; spacious,"59°F, wind 12 mph",1.058,1-0 (home-away),9.578,2.913
+Boston Red Sox,Philadelphia Phillies,Sonny Gray,Andrew Painter,50.8,49.2,6.97,1.02,hitter,Green Monster 37ft LF wall,"65°F, wind 11 mph",0.998,0-1 (home-away),2.733,3.024
+Toronto Blue Jays,Tampa Bay Rays,Dylan Cease,Griffin Jax,46.4,53.6,7.14,0.949,neutral,turf boosts groundball singles,dome,1.0,0-5 (home-away),2.554,3.648
+New York Mets,Detroit Tigers,Christian Scott,Framber Valdez,58.7,41.3,7.48,0.989,pitcher,sea-level; large dimensions,"62°F, wind 18 mph",0.925,1-0 (home-away),3.95,2.357
+Atlanta Braves,Chicago Cubs,Jr Ritchie,Shota Imanaga,63.8,36.2,8.15,1.02,hitter,warm humid air; June winds boost offense,unknown,1.0,1-0 (home-away),4.502,3.618
+Chicago White Sox,Kansas City Royals,Noah Schultz,Seth Lugo,61.5,38.5,8.53,1.01,neutral,July is extreme hitter month (+12 pts),unknown,1.0,3-2 (home-away),4.648,3.874
+Minnesota Twins,Miami Marlins,Simeon Woods Richardson,Max Meyer,29.8,70.2,8.81,0.96,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,1-0 (home-away),3.698,5.104
+Milwaukee Brewers,San Diego Padres,Jacob Misiorowski,Michael King,75.6,24.4,8.81,1.008,pitcher,large dimensions suppress HRs,dome,1.0,1-0 (home-away),5.29,1.738
+Texas Rangers,Arizona Diamondbacks,Kumar Rocker,Ryne Nelson,51.2,48.8,7.0,1.051,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,1-1 (home-away),2.081,2.935
+Houston Astros,Seattle Mariners,Lance Mccullers Jr.,Bryce Miller,28.0,72.0,8.55,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,0-6 (home-away),2.34,4.99
+Athletics,St. Louis Cardinals,J.T. Ginn,Matthew Liberatore,29.3,70.7,8.8,1.018,pitcher,largest foul territory in MLB,unknown,1.0,0-1 (home-away),3.712,5.098
+Los Angeles Dodgers,San Francisco Giants,Shohei Ohtani,Robbie Ray,69.2,30.8,8.23,1.008,pitcher,marine layer suppresses carry; spacious foul territory,unknown,1.0,1-4 (home-away),4.747,2.703
