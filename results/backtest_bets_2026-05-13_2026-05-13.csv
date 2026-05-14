@@ -1,0 +1,15 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,New York Yankees ML,-165.5,0.1736,0.5994,0.773,False,-1.0,2026-05-13,Baltimore Orioles vs New York Yankees
+Total,UNDER 8.75,-120.0,0.0997,0.5,0.5997,True,0.8333,2026-05-13,Baltimore Orioles vs New York Yankees
+Total,UNDER 9.0,-110.0,0.2,0.5,0.7,True,0.9091,2026-05-13,Boston Red Sox vs Philadelphia Phillies
+Total,UNDER 7.5,-110.0,0.1261,0.5,0.6261,False,-1.0,2026-05-13,Toronto Blue Jays vs Tampa Bay Rays
+Total,UNDER 8.0,-115.0,0.1453,0.5108,0.6562,True,0.8696,2026-05-13,New York Mets vs Detroit Tigers
+Moneyline,Atlanta Braves ML,115.0,0.2166,0.4474,0.664,True,1.15,2026-05-13,Atlanta Braves vs Chicago Cubs
+Total,UNDER 8.5,-115.0,0.1303,0.5005,0.6308,True,0.8696,2026-05-13,Atlanta Braves vs Chicago Cubs
+Moneyline,Chicago White Sox ML,-105.0,0.1018,0.4892,0.591,True,0.9524,2026-05-13,Chicago White Sox vs Kansas City Royals
+Moneyline,Miami Marlins ML,-130.0,0.1193,0.5427,0.662,True,0.7692,2026-05-13,Minnesota Twins vs Miami Marlins
+Total,UNDER 7.0,-121.5,0.0624,0.5244,0.5868,True,0.823,2026-05-13,Milwaukee Brewers vs San Diego Padres
+Total,UNDER 8.0,-109.0,0.1683,0.4978,0.6661,False,-1.0,2026-05-13,Texas Rangers vs Arizona Diamondbacks
+Moneyline,Seattle Mariners ML,-140.0,0.1682,0.5598,0.728,False,-1.0,2026-05-13,Houston Astros vs Seattle Mariners
+Total,UNDER 9.0,-2.5,0.2,0.0432,0.6428,True,10.0,2026-05-13,Houston Astros vs Seattle Mariners
+Total,UNDER 10.0,-113.5,0.1952,0.5048,0.7,True,0.8811,2026-05-13,Athletics vs St. Louis Cardinals

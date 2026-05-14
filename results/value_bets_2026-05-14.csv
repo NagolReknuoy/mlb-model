@@ -1,0 +1,14 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Pittsburgh Pirates vs Colorado Rockies,OVER  7.5,-116,51.5%,72.7%,0.21176934538659065,Strong,Total
+Milwaukee Brewers vs San Diego Padres,UNDER 8.0,-117,51.5%,72.6%,0.2112962981999198,Strong,Total
+Houston Astros vs Seattle Mariners,UNDER 9.0,-110,50.0%,70.8%,0.20790178794140413,Strong,Total
+Cincinnati Reds vs Washington Nationals,Washington Nationals ML,+132,41.5%,62.2%,0.20709599739668078,Strong,Moneyline
+Atlanta Braves vs Chicago Cubs,OVER  7.5,-104,48.6%,65.0%,0.1637137958218906,Strong,Total
+Houston Astros vs Seattle Mariners,Seattle Mariners ML,-118,52.0%,66.4%,0.14417621145374443,Strong,Moneyline
+Atlanta Braves vs Chicago Cubs,Atlanta Braves ML,-178,61.5%,75.7%,0.14150899031811892,Strong,Moneyline
+Minnesota Twins vs Miami Marlins,OVER  8.5,-113,50.6%,63.6%,0.12947743704480474,Strong,Total
+Chicago White Sox vs Kansas City Royals,Chicago White Sox ML,+117,44.5%,56.4%,0.1188820911071124,Good,Moneyline
+Boston Red Sox vs Philadelphia Phillies,UNDER 7.0,-105,48.9%,59.4%,0.10507808633034238,Good,Total
+Atlanta Braves vs Chicago Cubs,Atlanta Braves -1.5,+121,43.5%,53.6%,0.10085093649349997,Good,Run Line
+Pittsburgh Pirates vs Colorado Rockies,Pittsburgh Pirates ML,-172,61.0%,70.9%,0.09933350553929177,Good,Moneyline
+Los Angeles Dodgers vs San Francisco Giants,Los Angeles Dodgers ML,-178,61.5%,71.3%,0.09750899031811888,Good,Moneyline
