@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Pittsburgh Pirates,Philadelphia Phillies,Braxton Ashcraft,Aaron Nola,49.8,50.2,7.01,0.95,pitcher,high RF wall; spacious,"69°F, wind 6 mph",1.031,no prior meetings,3.22,3.403
+Washington Nationals,Baltimore Orioles,Zack Littell,Shane Baz,50.5,49.5,10.99,1.0,neutral,cold Aprils very suppressive (-9 pts),"72°F, wind 6 mph",1.033,no prior meetings,8.084,6.186
+Detroit Tigers,Toronto Blue Jays,Brenan Hanifee,Trey Yesavage,31.1,68.9,8.23,0.941,pitcher,very deep CF historically,"71°F, wind 10 mph",1.052,no prior meetings,2.542,4.733
+Cleveland Guardians,Cincinnati Reds,Tanner Bibee,Andrew Abbott,72.5,27.5,8.57,0.941,neutral,below-average HR park,"65°F, wind 3 mph",0.987,no prior meetings,5.102,3.341
+Tampa Bay Rays,Miami Marlins,Jesse Scholtens,Janson Junk,66.1,33.9,8.03,1.0,neutral,dome; artificial turf,dome,1.0,no prior meetings,4.545,2.484
+Minnesota Twins,Milwaukee Brewers,Joe Ryan,Nan,27.6,72.4,8.57,0.96,neutral,cold Aprils suppress offense (-8 pts),"84°F, wind 10 mph",1.057,no prior meetings,3.155,5.057
+Atlanta Braves,Boston Red Sox,Spencer Strider,Connelly Early,50.2,49.8,7.02,1.02,hitter,warm humid air; June winds boost offense,"79°F, wind 6 mph",0.979,no prior meetings,2.974,1.762
+New York Mets,New York Yankees,Clay Holmes,Cam Schlittler,46.9,53.1,7.21,0.989,pitcher,sea-level; large dimensions,"66°F, wind 9 mph",1.043,no prior meetings,3.31,3.725
+Chicago White Sox,Chicago Cubs,Sean Burke,Edward Cabrera,51.5,48.5,7.46,1.01,neutral,July is extreme hitter month (+12 pts),"74°F, wind 11 mph",0.959,no prior meetings,3.734,3.688
+Houston Astros,Texas Rangers,Spencer Arrighetti,Jack Leiter,34.7,65.3,7.94,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,no prior meetings,2.67,4.429
+St. Louis Cardinals,Kansas City Royals,Dustin May,Michael Wacha,58.2,41.8,7.44,1.03,neutral,natural grass; moderate dimensions,"82°F, wind 9 mph",0.969,no prior meetings,3.919,3.278
+Colorado Rockies,Arizona Diamondbacks,Kyle Freeland,Merrill Kelly,33.7,66.3,8.42,1.175,hitter,"5,200 ft altitude; most extreme hitter park","80°F, wind 14 mph",0.949,no prior meetings,3.69,4.728
+Los Angeles Angels,Los Angeles Dodgers,Jack Kochanowicz,Blake Snell,22.7,77.3,9.0,1.0,neutral,symmetrical; marine layer suppresses HRs,"65°F, wind 8 mph",1.036,no prior meetings,2.172,5.689
+Seattle Mariners,San Diego Padres,Emerson Hancock,Randy Vásquez,63.7,36.3,7.94,0.98,pitcher,marine air; roof often closed,dome,1.0,0-3 (home-away),4.445,2.108
+Athletics,San Francisco Giants,Aaron Civale,Tyler Mahle,77.4,22.6,8.96,1.018,pitcher,largest foul territory in MLB,unknown,1.0,no prior meetings,7.124,2.96

@@ -1,0 +1,16 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Pittsburgh Pirates ML,-170.0,0.1763,0.6057,0.782,True,0.5882,2026-05-14,Pittsburgh Pirates vs Colorado Rockies
+Total,OVER  7.5,-114.5,0.1193,0.5042,0.6235,True,0.8734,2026-05-14,Cincinnati Reds vs Washington Nationals
+Moneyline,New York Mets ML,-160.0,0.1878,0.5912,0.779,True,0.625,2026-05-14,New York Mets vs Detroit Tigers
+Run Line,New York Mets -1.5,140.0,0.0681,0.3993,0.4674,True,1.4,2026-05-14,New York Mets vs Detroit Tigers
+Moneyline,Minnesota Twins ML,-105.0,0.2218,0.4892,0.711,True,0.9524,2026-05-14,Minnesota Twins vs Miami Marlins
+Moneyline,Milwaukee Brewers ML,-141.0,0.0763,0.5617,0.638,True,0.7092,2026-05-14,Milwaukee Brewers vs San Diego Padres
+Total,UNDER 7.5,-105.0,0.089,0.4892,0.5782,False,-1.0,2026-05-14,Milwaukee Brewers vs San Diego Padres
+Moneyline,Seattle Mariners ML,-115.0,0.25,0.5108,0.777,True,0.8696,2026-05-14,Houston Astros vs Seattle Mariners
+Run Line,Seattle Mariners +1.5,140.5,0.0658,0.4004,0.4662,True,1.405,2026-05-14,Houston Astros vs Seattle Mariners
+Total,UNDER 10.25,-142.0,0.1147,0.5853,0.7,False,-1.0,2026-05-14,Houston Astros vs Seattle Mariners
+Total,UNDER 9.5,-104.5,0.2,0.4871,0.7,True,0.9569,2026-05-14,Athletics vs St. Louis Cardinals
+Total,UNDER 7.0,-105.0,0.0971,0.4897,0.5868,True,0.9524,2026-05-14,Boston Red Sox vs Philadelphia Phillies
+Total,UNDER 7.5,-115.0,0.1172,0.5108,0.628,True,0.8696,2026-05-14,Atlanta Braves vs Chicago Cubs
+Moneyline,Chicago White Sox ML,110.0,0.2336,0.4564,0.69,True,1.1,2026-05-14,Chicago White Sox vs Kansas City Royals
+Moneyline,Los Angeles Dodgers ML,-180.0,0.1516,0.6164,0.768,True,0.5556,2026-05-14,Los Angeles Dodgers vs San Francisco Giants
