@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-15,Pittsburgh Pirates,Philadelphia Phillies,9,11,20,Philadelphia Phillies,Philadelphia Phillies,45.3,54.7,True,54.7,10.61,9.39,True,LOW,8.5,OVER
+2026-05-15,Washington Nationals,Baltimore Orioles,3,2,5,Washington Nationals,Washington Nationals,50.2,49.8,True,50.2,11.04,6.039999999999999,False,HIGH,9.5,UNDER
+2026-05-15,Detroit Tigers,Toronto Blue Jays,3,2,5,Detroit Tigers,Toronto Blue Jays,33.0,67.0,False,67.0,8.08,3.08,False,HIGH,7.5,UNDER
+2026-05-15,Cleveland Guardians,Cincinnati Reds,6,7,13,Cincinnati Reds,Cleveland Guardians,73.1,26.9,False,73.1,9.41,3.59,False,LOW,7.5,OVER
+2026-05-15,Tampa Bay Rays,Miami Marlins,7,2,9,Tampa Bay Rays,Tampa Bay Rays,78.0,22.0,True,78.0,9.0,0.0,True,LOW,7.5,OVER
+2026-05-15,Minnesota Twins,Milwaukee Brewers,2,3,5,Milwaukee Brewers,Milwaukee Brewers,28.5,71.5,True,71.5,8.41,3.41,False,HIGH,8.5,UNDER
+2026-05-15,Atlanta Braves,Boston Red Sox,3,2,5,Atlanta Braves,Atlanta Braves,50.8,49.2,True,50.8,7.01,2.01,False,HIGH,7.5,UNDER
+2026-05-15,New York Mets,New York Yankees,2,5,7,New York Yankees,New York Yankees,49.3,50.7,True,50.7,7.05,0.04999999999999982,True,HIGH,6.5,OVER
+2026-05-15,Chicago White Sox,Chicago Cubs,5,10,15,Chicago Cubs,Chicago Cubs,35.9,64.1,True,64.1,9.26,5.74,True,LOW,8.5,OVER
+2026-05-15,Houston Astros,Texas Rangers,2,0,2,Houston Astros,Houston Astros,50.4,49.6,True,50.4,7.02,5.02,True,HIGH,8.5,UNDER
+2026-05-15,St. Louis Cardinals,Kansas City Royals,5,4,9,St. Louis Cardinals,St. Louis Cardinals,71.3,28.7,True,71.3,8.37,0.6300000000000008,False,LOW,8.5,OVER
+2026-05-15,Colorado Rockies,Arizona Diamondbacks,1,9,10,Arizona Diamondbacks,Arizona Diamondbacks,22.0,78.0,True,78.0,9.01,0.9900000000000002,True,LOW,11.5,UNDER
+2026-05-15,Los Angeles Angels,Los Angeles Dodgers,0,6,6,Los Angeles Dodgers,Los Angeles Dodgers,22.7,77.3,True,77.3,9.02,3.0199999999999996,True,HIGH,9.5,UNDER
+2026-05-15,Seattle Mariners,San Diego Padres,0,2,2,San Diego Padres,Seattle Mariners,50.5,49.5,False,50.5,7.02,5.02,False,HIGH,7.5,UNDER
+2026-05-15,Athletics,San Francisco Giants,5,2,7,Athletics,Athletics,78.4,21.6,True,78.4,8.99,1.9900000000000002,True,HIGH,9.5,UNDER
