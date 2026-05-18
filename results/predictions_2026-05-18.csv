@@ -1,0 +1,15 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Cleveland Guardians,Framber Valdez,Slade Cecconi,23.1,76.9,9.0,0.941,pitcher,very deep CF historically,"71°F, wind 14 mph",1.001,no prior meetings,2.184,5.614
+Tampa Bay Rays,Baltimore Orioles,Shane Mcclanahan,Trevor Rogers,76.6,23.4,8.89,1.0,neutral,dome; artificial turf,dome,1.0,no prior meetings,5.382,2.331
+Philadelphia Phillies,Cincinnati Reds,Andrew Painter,Nick Lodolo,69.3,30.7,9.66,1.019,hitter,high HR rate historically,"90°F, wind 8 mph",0.975,no prior meetings,7.366,4.154
+Miami Marlins,Atlanta Braves,Max Meyer,Jr Ritchie,42.2,57.8,7.52,0.95,neutral,roof often closed; average park,dome,1.0,1-2 (home-away),2.73,3.977
+Washington Nationals,New York Mets,Jake Irvin,Christian Scott,43.2,56.8,10.55,1.0,neutral,cold Aprils very suppressive (-9 pts),"94°F, wind 7 mph",0.981,2-1 (home-away),4.983,6.526
+New York Yankees,Toronto Blue Jays,Ryan Weathers,Patrick Corbin,50.6,49.4,7.04,1.02,hitter,short porches both sides,"73°F, wind 9 mph",0.965,no prior meetings,3.037,3.187
+Kansas City Royals,Boston Red Sox,Seth Lugo,Sonny Gray,50.8,49.2,6.97,1.01,pitcher,large dimensions; spray park,"79°F, wind 17 mph",1.003,no prior meetings,2.184,2.991
+Minnesota Twins,Houston Astros,Kendry Rojas,Tatsuya Imai,65.5,34.5,7.9,0.96,neutral,cold Aprils suppress offense (-8 pts),"56°F, wind 4 mph",1.013,no prior meetings,4.461,2.765
+Chicago Cubs,Milwaukee Brewers,Shota Imanaga,Brandon Sproat,45.5,54.5,7.25,0.988,variable,wind hugely variable; extreme hitter or pitcher park,"74°F, wind 7 mph",0.974,no prior meetings,2.868,3.792
+Colorado Rockies,Texas Rangers,Jose Quintana,Mackenzie Gore,24.5,75.5,8.79,1.175,hitter,"5,200 ft altitude; most extreme hitter park","43°F, wind 6 mph",1.018,no prior meetings,3.251,5.283
+Los Angeles Angels,Athletics,Walbert Ureña,J.T. Ginn,21.6,78.4,9.02,1.0,neutral,symmetrical; marine layer suppresses HRs,"67°F, wind 9 mph",1.045,no prior meetings,2.538,8.44
+San Diego Padres,Los Angeles Dodgers,Michael King,Yoshinobu Yamamoto,38.6,61.4,7.61,0.902,pitcher,marine layer; large dimensions,"63°F, wind 6 mph",0.997,no prior meetings,1.762,4.138
+Arizona Diamondbacks,San Francisco Giants,Zac Gallen,Robbie Ray,55.9,44.1,7.88,1.018,hitter,"high altitude (1,082 ft)",dome,1.0,no prior meetings,4.101,3.762
+Seattle Mariners,Chicago White Sox,Bryan Woo,Noah Schultz,53.5,46.5,10.72,0.98,pitcher,marine air; roof often closed,dome,1.0,1-2 (home-away),6.331,5.196
