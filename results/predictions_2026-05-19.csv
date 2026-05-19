@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Miami Marlins,Atlanta Braves,Braxton Garrett,Martín Pérez,37.1,62.9,7.76,0.95,neutral,roof often closed; average park,dome,1.0,2-2 (home-away),3.424,4.299
+Detroit Tigers,Cleveland Guardians,Keider Montero,Parker Messick,21.7,78.3,9.03,0.941,pitcher,very deep CF historically,"73°F, wind 11 mph",0.98,0-1 (home-away),1.683,6.747
+Tampa Bay Rays,Baltimore Orioles,Griffin Jax,Kyle Bradish,77.3,22.7,9.0,1.0,neutral,dome; artificial turf,dome,1.0,1-0 (home-away),9.235,3.092
+Philadelphia Phillies,Cincinnati Reds,Jesús Luzardo,Chase Burns,77.0,23.0,9.0,1.019,hitter,high HR rate historically,"94°F, wind 9 mph",1.01,1-0 (home-away),8.575,3.164
+Washington Nationals,New York Mets,Foster Griffin,Nolan Mclean,35.8,64.2,9.98,1.0,neutral,cold Aprils very suppressive (-9 pts),"90°F, wind 4 mph",1.008,2-2 (home-away),4.439,8.796
+New York Yankees,Toronto Blue Jays,Will Warren,Dylan Cease,35.6,64.4,7.9,1.02,hitter,short porches both sides,"92°F, wind 11 mph",1.009,1-0 (home-away),2.995,4.379
+Kansas City Royals,Boston Red Sox,Bailey Falter,Ranger Suarez,50.0,50.0,7.02,1.01,pitcher,large dimensions; spray park,"55°F, wind 10 mph",1.046,0-1 (home-away),2.028,2.749
+Minnesota Twins,Houston Astros,Zebby Matthews,Lance Mccullers Jr.,75.9,24.1,8.88,0.96,neutral,cold Aprils suppress offense (-8 pts),"48°F, wind 9 mph",1.035,1-0 (home-away),5.349,2.07
+Chicago Cubs,Milwaukee Brewers,Ben Brown,Jacob Misiorowski,23.3,76.7,8.87,0.988,variable,wind hugely variable; extreme hitter or pitcher park,"66°F, wind 9 mph",0.998,0-1 (home-away),2.073,5.365
+St. Louis Cardinals,Pittsburgh Pirates,Matthew Liberatore,Mitch Keller,70.2,29.8,8.46,1.03,neutral,natural grass; moderate dimensions,"70°F, wind 12 mph",1.058,4-0 (home-away),4.896,3.601
+Colorado Rockies,Texas Rangers,Sammy Peralta,Tyler Alexander,27.5,72.5,8.51,1.175,hitter,"5,200 ft altitude; most extreme hitter park","44°F, wind 3 mph",1.004,1-0 (home-away),3.309,5.052
+Los Angeles Angels,Athletics,Reid Detmers,Jacob Lopez,24.8,75.2,8.75,1.0,neutral,symmetrical; marine layer suppresses HRs,"76°F, wind 7 mph",1.002,1-0 (home-away),2.682,5.216
+San Diego Padres,Los Angeles Dodgers,Griffin Canning,Emmet Sheehan,47.7,52.3,7.12,0.902,pitcher,marine layer; large dimensions,unknown,1.0,1-0 (home-away),1.846,3.634
+Arizona Diamondbacks,San Francisco Giants,Ryne Nelson,Landen Roupp,77.4,22.6,8.96,1.018,hitter,"high altitude (1,082 ft)",dome,1.0,1-0 (home-away),6.798,2.867
+Seattle Mariners,Chicago White Sox,Bryce Miller,Anthony Kay,55.3,44.7,10.23,0.98,pitcher,marine air; roof often closed,dome,1.0,2-2 (home-away),5.274,4.977
