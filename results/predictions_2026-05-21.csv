@@ -1,0 +1,8 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Cleveland Guardians,Casey Mize,Joey Cantillo,22.5,77.5,8.99,0.941,pitcher,very deep CF historically,unknown,1.0,0-3 (home-away),1.802,5.885
+St. Louis Cardinals,Pittsburgh Pirates,Dustin May,Braxton Ashcraft,34.1,65.9,9.78,1.03,neutral,natural grass; moderate dimensions,unknown,1.0,5-1 (home-away),4.332,5.578
+Washington Nationals,New York Mets,Cade Cavalli,David Peterson,50.6,49.4,11.02,1.0,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,4-2 (home-away),7.681,8.141
+Miami Marlins,Atlanta Braves,Sandy Alcantara,Spencer Strider,22.5,77.5,9.07,0.95,neutral,roof often closed; average park,dome,1.0,2-4 (home-away),2.833,6.025
+New York Yankees,Toronto Blue Jays,Carlos Rodón,Braydon Fisher,53.4,46.6,7.18,1.02,hitter,short porches both sides,unknown,1.0,2-1 (home-away),3.688,3.286
+Los Angeles Angels,Athletics,José Soriano,Luis Severino,23.4,76.6,9.04,1.0,neutral,symmetrical; marine layer suppresses HRs,unknown,1.0,1-2 (home-away),2.936,7.786
+Arizona Diamondbacks,Colorado Rockies,Eduardo Rodriguez,Zach Agnos,77.5,22.5,8.99,1.018,hitter,"high altitude (1,082 ft)",dome,1.0,2-1 (home-away),9.268,2.649

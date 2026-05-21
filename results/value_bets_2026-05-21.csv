@@ -1,0 +1,12 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Detroit Tigers vs Cleveland Guardians,Cleveland Guardians ML,+102,47.6%,77.5%,0.2992214532871973,Strong,Moneyline
+Los Angeles Angels vs Athletics,Athletics ML,+100,48.2%,76.6%,0.2838571428571428,Strong,Moneyline
+New York Yankees vs Toronto Blue Jays,UNDER 8.0,-103,48.4%,70.5%,0.22150081605155708,Strong,Total
+Miami Marlins vs Atlanta Braves,Atlanta Braves ML,-140,56.2%,77.5%,0.21295620437956206,Strong,Moneyline
+Miami Marlins vs Atlanta Braves,OVER  7.5,-105,48.9%,68.4%,0.19507124530642267,Strong,Total
+Los Angeles Angels vs Athletics,Athletics +1.5,+145,38.7%,56.2%,0.17492376749850674,Strong,Run Line
+Detroit Tigers vs Cleveland Guardians,OVER  7.0,-120,51.9%,67.5%,0.1556502362272748,Strong,Total
+Miami Marlins vs Atlanta Braves,Atlanta Braves +1.5,+125,42.9%,56.2%,0.13345559506637605,Strong,Run Line
+St. Louis Cardinals vs Pittsburgh Pirates,Pittsburgh Pirates ML,-119,52.6%,65.9%,0.1332723492723492,Strong,Moneyline
+Arizona Diamondbacks vs Colorado Rockies,Arizona Diamondbacks ML,-204,64.6%,77.5%,0.12894932935916548,Strong,Moneyline
+Arizona Diamondbacks vs Colorado Rockies,UNDER 9.0,+100,48.0%,58.9%,0.10854971883267528,Good,Total
