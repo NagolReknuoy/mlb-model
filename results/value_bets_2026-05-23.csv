@@ -1,0 +1,17 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Francisco Giants vs Chicago White Sox,Chicago White Sox ML,+103,47.5%,75.7%,0.2824529767040552,Strong,Moneyline
+Boston Red Sox vs Minnesota Twins,UNDER 8.0,-105,48.9%,72.4%,0.23469570779316878,Strong,Total
+Los Angeles Angels vs Texas Rangers,Texas Rangers ML,-139,55.9%,77.2%,0.2129431386295709,Strong,Moneyline
+Toronto Blue Jays vs Pittsburgh Pirates,Toronto Blue Jays ML,+132,41.6%,61.7%,0.2014784714042665,Strong,Moneyline
+Atlanta Braves vs Washington Nationals,OVER  8.5,-110,50.2%,68.4%,0.18161865216595308,Strong,Total
+San Diego Padres vs Athletics,UNDER 8.0,-110,50.1%,67.6%,0.174561249958321,Strong,Total
+Arizona Diamondbacks vs Colorado Rockies,Arizona Diamondbacks ML,-181,61.9%,78.1%,0.1619820268514507,Strong,Moneyline
+Miami Marlins vs New York Mets,New York Mets ML,-102,48.6%,64.3%,0.15739326837909645,Strong,Moneyline
+Kansas City Royals vs Seattle Mariners,UNDER 8.5,-110,50.0%,65.5%,0.15508964719898288,Strong,Total
+Cincinnati Reds vs St. Louis Cardinals,OVER  9.5,-115,51.1%,66.3%,0.15189896275721326,Strong,Total
+Los Angeles Angels vs Texas Rangers,Texas Rangers +1.5,+125,42.9%,56.2%,0.13345559506637605,Strong,Run Line
+Cincinnati Reds vs St. Louis Cardinals,OVER  9.5,-115,51.1%,62.5%,0.11408649879411237,Good,Total
+Philadelphia Phillies vs Cleveland Guardians,Cleveland Guardians ML,+156,37.4%,48.8%,0.11362396006655584,Good,Moneyline
+Arizona Diamondbacks vs Colorado Rockies,Arizona Diamondbacks -1.5,+110,45.3%,56.2%,0.10891276062738947,Good,Run Line
+Philadelphia Phillies vs Cleveland Guardians,UNDER 7.0,-107,49.4%,60.2%,0.10818990226911396,Good,Total
+Arizona Diamondbacks vs Colorado Rockies,UNDER 9.0,-101,48.2%,58.6%,0.10406311706871824,Good,Total

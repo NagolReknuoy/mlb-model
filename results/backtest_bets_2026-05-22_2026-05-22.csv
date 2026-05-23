@@ -1,0 +1,14 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Tampa Bay Rays ML,125.0,0.25,0.4255,0.771,True,1.25,2026-05-22,New York Yankees vs Tampa Bay Rays
+Moneyline,Toronto Blue Jays ML,-165.0,0.1514,0.5976,0.749,True,0.6061,2026-05-22,Toronto Blue Jays vs Pittsburgh Pirates
+Total,OVER  7.25,-9.0,0.2,0.1357,0.3945,True,10.0,2026-05-22,Boston Red Sox vs Minnesota Twins
+Moneyline,New York Mets ML,-104.5,0.1204,0.4886,0.609,False,-1.0,2026-05-22,Miami Marlins vs New York Mets
+Moneyline,Seattle Mariners ML,-115.0,0.1192,0.5108,0.63,True,0.8696,2026-05-22,Kansas City Royals vs Seattle Mariners
+Total,UNDER 8.0,-105.0,0.1254,0.4897,0.6151,True,0.9524,2026-05-22,Kansas City Royals vs Seattle Mariners
+Total,UNDER 8.0,-115.0,0.1653,0.499,0.6643,True,0.8696,2026-05-22,Milwaukee Brewers vs Los Angeles Dodgers
+Moneyline,Texas Rangers ML,-165.0,0.1815,0.5945,0.776,False,-1.0,2026-05-22,Los Angeles Angels vs Texas Rangers
+Moneyline,Arizona Diamondbacks ML,-235.0,0.1048,0.6712,0.776,False,-1.0,2026-05-22,Arizona Diamondbacks vs Colorado Rockies
+Total,UNDER 9.0,100.0,0.1371,0.4783,0.6154,True,1.0,2026-05-22,Arizona Diamondbacks vs Colorado Rockies
+Total,UNDER 7.5,-105.0,0.0934,0.4892,0.5826,False,-1.0,2026-05-22,San Diego Padres vs Athletics
+Moneyline,Chicago White Sox ML,-120.0,0.2373,0.5217,0.759,True,0.8333,2026-05-22,San Francisco Giants vs Chicago White Sox
+Run Line,Chicago White Sox +1.5,144.0,0.0622,0.3932,0.4554,True,1.44,2026-05-22,San Francisco Giants vs Chicago White Sox
