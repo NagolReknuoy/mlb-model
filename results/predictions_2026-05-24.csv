@@ -1,0 +1,17 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Toronto Blue Jays,Pittsburgh Pirates,Dylan Cease,Mitch Keller,74.9,25.1,8.7,0.949,neutral,turf boosts groundball singles,dome,1.0,2-0 (home-away),5.199,2.376
+Baltimore Orioles,Detroit Tigers,Brandon Young,Framber Valdez,50.6,49.4,8.62,1.0,hitter,short RF; warm summers,unknown,1.0,1-0 (home-away),4.37,4.334
+Baltimore Orioles,Detroit Tigers,Trevor Rogers,Nan,60.8,39.2,8.13,1.0,hitter,short RF; warm summers,unknown,1.0,1-0 (home-away),4.372,3.723
+Boston Red Sox,Minnesota Twins,Sonny Gray,Bailey Ober,50.1,49.9,7.0,1.02,hitter,Green Monster 37ft LF wall,"52°F, wind 10 mph, rain 1.4mm",0.997,1-4 (home-away),2.411,2.756
+Philadelphia Phillies,Cleveland Guardians,Andrew Painter,Parker Messick,50.2,49.8,7.0,1.019,hitter,high HR rate historically,"61°F, wind 6 mph",0.996,1-1 (home-away),2.338,2.896
+New York Yankees,Tampa Bay Rays,Ryan Weathers,Drew Rasmussen,25.4,74.6,8.56,1.02,hitter,short porches both sides,"56°F, wind 10 mph",0.995,0-4 (home-away),3.1,5.086
+Cincinnati Reds,St. Louis Cardinals,Brady Singer,Matthew Liberatore,49.6,50.4,11.0,1.102,hitter,one of the top HR parks in MLB,"73°F, wind 2 mph",1.009,1-1 (home-away),6.701,7.214
+Miami Marlins,New York Mets,Tyler Phillips,Christian Scott,37.8,62.2,10.16,0.95,neutral,roof often closed; average park,dome,1.0,2-0 (home-away),4.627,7.16
+Kansas City Royals,Seattle Mariners,Seth Lugo,Bryan Woo,49.1,50.9,7.01,1.01,pitcher,large dimensions; spray park,"78°F, wind 9 mph",1.003,4-1 (home-away),2.08,2.701
+Milwaukee Brewers,Los Angeles Dodgers,Brandon Sproat,Yoshinobu Yamamoto,35.1,64.9,7.9,1.008,pitcher,large dimensions suppress HRs,dome,1.0,1-1 (home-away),2.577,4.419
+Chicago Cubs,Houston Astros,Shota Imanaga,Peter Lambert,50.3,49.7,7.04,0.988,variable,wind hugely variable; extreme hitter or pitcher park,"63°F, wind 5 mph",0.976,0-2 (home-away),2.411,2.889
+San Francisco Giants,Chicago White Sox,Robbie Ray,Noah Schultz,50.4,49.6,10.98,1.034,pitcher,marine layer; bay wind tricky in RF,"58°F, wind 12 mph",0.995,1-1 (home-away),5.676,7.855
+Arizona Diamondbacks,Colorado Rockies,Ryne Nelson,Jose Quintana,77.8,22.2,8.95,1.018,hitter,"high altitude (1,082 ft)",dome,1.0,4-2 (home-away),8.831,2.01
+San Diego Padres,Athletics,Michael King,Luis Medina,51.1,48.9,7.04,0.902,pitcher,marine layer; large dimensions,"64°F, wind 8 mph",1.039,2-0 (home-away),3.559,2.901
+Atlanta Braves,Washington Nationals,Martín Pérez,Foster Griffin,72.5,27.5,9.45,1.02,hitter,warm humid air; June winds boost offense,"75°F, wind 4 mph",1.002,4-2 (home-away),6.626,3.927
+Los Angeles Angels,Texas Rangers,Reid Detmers,Mackenzie Gore,21.9,78.1,9.03,1.0,neutral,symmetrical; marine layer suppresses HRs,"67°F, wind 7 mph",1.035,2-0 (home-away),2.68,6.67
