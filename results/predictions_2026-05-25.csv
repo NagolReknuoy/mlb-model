@@ -1,0 +1,14 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Pittsburgh Pirates,Chicago Cubs,Carmen Mlodzinski,Ben Brown,73.1,26.9,9.36,0.95,pitcher,high RF wall; spacious,"75°F, wind 6 mph",1.031,2-1 (home-away),5.758,3.848
+Baltimore Orioles,Tampa Bay Rays,Kyle Bradish,Shane Mcclanahan,23.1,76.9,9.05,1.0,hitter,short RF; warm summers,"72°F, wind 2 mph",1.009,0-3 (home-away),3.117,9.264
+Chicago White Sox,Minnesota Twins,Anthony Kay,Zebby Matthews,22.4,77.6,8.97,1.01,neutral,July is extreme hitter month (+12 pts),"74°F, wind 9 mph",0.965,no prior meetings,3.453,6.765
+Milwaukee Brewers,St. Louis Cardinals,Jacob Misiorowski,Matthew Liberatore,72.8,27.2,8.61,1.008,pitcher,large dimensions suppress HRs,dome,1.0,1-1 (home-away),5.075,2.305
+Kansas City Royals,New York Yankees,Michael Wacha,Will Warren,49.5,50.5,6.96,1.01,pitcher,large dimensions; spray park,"82°F, wind 10 mph",1.005,0-3 (home-away),2.478,2.807
+New York Mets,Cincinnati Reds,Nolan Mclean,Nick Lodolo,49.0,51.0,11.03,0.989,pitcher,sea-level; large dimensions,"69°F, wind 6 mph",0.999,no prior meetings,6.312,5.609
+San Francisco Giants,Arizona Diamondbacks,Landen Roupp,Merrill Kelly,22.5,77.5,9.06,1.034,pitcher,marine layer; bay wind tricky in RF,"56°F, wind 13 mph",0.994,0-3 (home-away),3.542,8.411
+Cleveland Guardians,Washington Nationals,Tanner Bibee,Zack Littell,73.5,26.5,8.5,0.941,neutral,below-average HR park,"63°F, wind 5 mph",0.977,no prior meetings,5.024,3.203
+San Diego Padres,Philadelphia Phillies,Randy Vásquez,Jesús Luzardo,49.9,50.1,6.97,0.902,pitcher,marine layer; large dimensions,"64°F, wind 8 mph",1.038,no prior meetings,1.63,2.949
+Texas Rangers,Houston Astros,Kumar Rocker,Tatsuya Imai,52.5,47.5,7.18,1.051,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,1-2 (home-away),3.699,2.523
+Toronto Blue Jays,Miami Marlins,Trey Yesavage,Janson Junk,49.8,50.2,7.0,0.949,neutral,turf boosts groundball singles,dome,1.0,no prior meetings,3.288,2.273
+Los Angeles Dodgers,Colorado Rockies,Emmet Sheehan,Tanner Gordon,78.0,22.0,8.97,1.008,pitcher,marine layer suppresses carry; spacious foul territory,"63°F, wind 8 mph",0.964,2-2 (home-away),8.305,1.564
+Athletics,Seattle Mariners,Aaron Civale,Luis Castillo,58.7,41.3,7.78,1.018,pitcher,largest foul territory in MLB,"57°F, wind 10 mph",0.995,2-1 (home-away),4.127,3.624
