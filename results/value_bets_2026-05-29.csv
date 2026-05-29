@@ -1,0 +1,24 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Chicago White Sox vs Detroit Tigers,Chicago White Sox ML,+100,48.3%,77.9%,0.29585393258426973,Strong,Moneyline
+Los Angeles Dodgers vs Philadelphia Phillies,UNDER 8.0,-105,48.9%,73.6%,0.2464207085459446,Strong,Total
+Cleveland Guardians vs Boston Red Sox,UNDER 8.0,-114,51.0%,73.0%,0.22057735597252393,Strong,Total
+Athletics vs New York Yankees,New York Yankees ML,-142,56.3%,77.4%,0.21050793650793645,Strong,Moneyline
+Houston Astros vs Milwaukee Brewers,UNDER 8.5,-115,51.1%,71.9%,0.20776883226381282,Strong,Total
+Tampa Bay Rays vs Los Angeles Angels,OVER  8.0,-108,49.6%,69.8%,0.20213908592485674,Strong,Total
+Pittsburgh Pirates vs Minnesota Twins,Pittsburgh Pirates ML,-136,55.3%,74.0%,0.1866313398940196,Strong,Moneyline
+New York Mets vs Miami Marlins,Miami Marlins ML,-103,48.7%,65.5%,0.16818971202462074,Strong,Moneyline
+Texas Rangers vs Kansas City Royals,Texas Rangers ML,-129,54.2%,70.0%,0.1580916183236647,Strong,Moneyline
+Cincinnati Reds vs Atlanta Braves,OVER  9.5,-102,48.3%,64.0%,0.1570015512600451,Strong,Total
+Pittsburgh Pirates vs Minnesota Twins,Pittsburgh Pirates -1.5,+152,38.3%,52.6%,0.14296261311234093,Strong,Run Line
+Colorado Rockies vs San Francisco Giants,UNDER 10.5,-102,48.3%,61.3%,0.13040160916695143,Strong,Total
+Athletics vs New York Yankees,New York Yankees +1.5,+119,43.9%,56.2%,0.12326168499088247,Strong,Run Line
+Seattle Mariners vs Arizona Diamondbacks,UNDER 7.0,-102,48.3%,60.2%,0.11905799056820865,Good,Total
+St. Louis Cardinals vs Chicago Cubs,UNDER 7.5,-105,48.9%,60.2%,0.11252810103828731,Good,Total
+Texas Rangers vs Kansas City Royals,Texas Rangers -1.5,+168,35.9%,47.1%,0.1119971053279687,Good,Run Line
+Texas Rangers vs Kansas City Royals,OVER  7.5,-103,48.5%,59.3%,0.1085932198419915,Good,Total
+Colorado Rockies vs San Francisco Giants,San Francisco Giants ML,-155,58.5%,69.0%,0.10490400260331922,Good,Moneyline
+Baltimore Orioles vs Toronto Blue Jays,Toronto Blue Jays ML,-102,48.5%,58.4%,0.09939679746612695,Good,Moneyline
+Athletics vs New York Yankees,UNDER 9.5,-110,50.2%,58.7%,0.08521347084784037,Good,Total
+Washington Nationals vs San Diego Padres,Washington Nationals ML,-115,51.7%,59.7%,0.08014606741573038,Good,Moneyline
+Pittsburgh Pirates vs Minnesota Twins,OVER  8.0,-110,50.1%,57.9%,0.07826200915656945,Lean,Total
+New York Mets vs Miami Marlins,OVER  7.5,-101,47.9%,55.1%,0.07171950186460102,Lean,Total
