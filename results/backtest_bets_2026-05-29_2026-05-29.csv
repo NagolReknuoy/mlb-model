@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Atlanta Braves ML,-138.0,0.1601,0.5549,0.715,True,0.7246,2026-05-29,Cincinnati Reds vs Atlanta Braves
+Total,UNDER 9.5,-110.0,0.1267,0.5,0.6267,False,-1.0,2026-05-29,Cincinnati Reds vs Atlanta Braves
+Total,UNDER 9.5,-115.0,0.1892,0.5108,0.7,False,-1.0,2026-05-29,Washington Nationals vs San Diego Padres
+Moneyline,Pittsburgh Pirates ML,-135.0,0.2206,0.5514,0.772,True,0.7407,2026-05-29,Pittsburgh Pirates vs Minnesota Twins
+Run Line,Pittsburgh Pirates -1.5,154.5,0.0877,0.3755,0.4632,False,-1.0,2026-05-29,Pittsburgh Pirates vs Minnesota Twins
+Total,UNDER 8.5,-110.0,0.0797,0.5,0.5797,False,-1.0,2026-05-29,Pittsburgh Pirates vs Minnesota Twins
+Total,OVER  9.5,-1.0,0.2,0.0179,0.3,True,10.0,2026-05-29,Baltimore Orioles vs Toronto Blue Jays
+Total,UNDER 8.0,-110.0,0.1661,0.5,0.6661,True,0.9091,2026-05-29,Cleveland Guardians vs Boston Red Sox
+Total,UNDER 7.5,-105.0,0.1195,0.4892,0.6087,False,-1.0,2026-05-29,New York Mets vs Miami Marlins
+Total,UNDER 7.5,-107.0,0.1158,0.4935,0.6093,False,-1.0,2026-05-29,St. Louis Cardinals vs Chicago Cubs
+Moneyline,Chicago White Sox ML,-110.0,0.25,0.5011,0.773,True,0.9091,2026-05-29,Chicago White Sox vs Detroit Tigers
+Total,UNDER 8.75,-10.0,0.2,0.144,0.5985,True,10.0,2026-05-29,Chicago White Sox vs Detroit Tigers
+Moneyline,Texas Rangers ML,-125.0,0.2375,0.5325,0.77,True,0.8,2026-05-29,Texas Rangers vs Kansas City Royals
+Run Line,Texas Rangers -1.5,164.0,0.0993,0.3627,0.462,True,1.64,2026-05-29,Texas Rangers vs Kansas City Royals
+Total,UNDER 8.5,-110.0,0.2,0.5,0.7,False,-1.0,2026-05-29,Houston Astros vs Milwaukee Brewers
+Moneyline,San Francisco Giants ML,-150.0,0.0885,0.5745,0.663,False,-1.0,2026-05-29,Colorado Rockies vs San Francisco Giants
+Total,UNDER 10.5,-110.0,0.1737,0.5,0.6737,False,-1.0,2026-05-29,Colorado Rockies vs San Francisco Giants
+Moneyline,New York Yankees ML,-141.0,0.2169,0.5611,0.778,True,0.7092,2026-05-29,Athletics vs New York Yankees
+Total,UNDER 9.5,-110.0,0.1535,0.5,0.6535,False,-1.0,2026-05-29,Athletics vs New York Yankees
+Total,UNDER 7.0,-115.0,0.0784,0.5108,0.5893,False,-1.0,2026-05-29,Seattle Mariners vs Arizona Diamondbacks
+Total,UNDER 8.0,-110.0,0.1649,0.5,0.6649,True,0.9091,2026-05-29,Los Angeles Dodgers vs Philadelphia Phillies
