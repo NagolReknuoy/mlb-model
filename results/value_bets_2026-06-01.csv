@@ -1,0 +1,15 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Minnesota Twins vs Chicago White Sox,Chicago White Sox ML,+128,42.2%,73.6%,0.31370270270270273,Strong,Moneyline
+Washington Nationals vs Miami Marlins,Washington Nationals ML,-142,56.5%,77.8%,0.2133927530495484,Strong,Moneyline
+Cincinnati Reds vs Kansas City Royals,Cincinnati Reds ML,-140,56.1%,76.9%,0.2080779363336992,Strong,Moneyline
+Milwaukee Brewers vs San Francisco Giants,Milwaukee Brewers ML,-147,57.2%,75.7%,0.18452055387278232,Strong,Moneyline
+Washington Nationals vs Miami Marlins,Washington Nationals -1.5,+144,39.5%,56.2%,0.1670127390965902,Strong,Run Line
+Cincinnati Reds vs Kansas City Royals,Cincinnati Reds -1.5,+143,39.8%,56.2%,0.16441184896929978,Strong,Run Line
+Arizona Diamondbacks vs Los Angeles Dodgers,Los Angeles Dodgers ML,-160,59.2%,75.5%,0.16277917189460472,Strong,Moneyline
+Milwaukee Brewers vs San Francisco Giants,OVER  7.5,+100,47.8%,63.4%,0.15529330788959028,Strong,Total
+Milwaukee Brewers vs San Francisco Giants,Milwaukee Brewers -1.5,+150,38.4%,51.7%,0.13248464532881304,Strong,Run Line
+Tampa Bay Rays vs Detroit Tigers,Tampa Bay Rays ML,-160,59.5%,69.2%,0.09673225404732255,Good,Moneyline
+Minnesota Twins vs Chicago White Sox,OVER  8.0,-106,49.1%,58.4%,0.09309818561652428,Good,Total
+Los Angeles Angels vs Colorado Rockies,OVER  8.0,-115,51.1%,59.1%,0.07991271706862535,Lean,Total
+Los Angeles Angels vs Colorado Rockies,Los Angeles Angels ML,-200,64.3%,72.1%,0.07814285714285707,Lean,Moneyline
+Cincinnati Reds vs Kansas City Royals,UNDER 9.5,-115,51.1%,58.7%,0.07657414247536332,Lean,Total
