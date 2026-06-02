@@ -1,0 +1,13 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Tampa Bay Rays ML,-159.0,0.1054,0.5896,0.695,False,-1.0,2026-06-01,Tampa Bay Rays vs Detroit Tigers
+Moneyline,Washington Nationals ML,-141.0,0.2073,0.5617,0.769,False,-1.0,2026-06-01,Washington Nationals vs Miami Marlins
+Run Line,Washington Nationals -1.5,142.5,0.0657,0.3957,0.4614,False,-1.0,2026-06-01,Washington Nationals vs Miami Marlins
+Total,OVER  8.5,-7.5,0.2,0.1134,0.4196,True,10.0,2026-06-01,Washington Nationals vs Miami Marlins
+Moneyline,Cincinnati Reds ML,-130.0,0.0553,0.5427,0.598,False,-1.0,2026-06-01,Cincinnati Reds vs Kansas City Royals
+Total,UNDER 9.5,-115.0,0.0642,0.5108,0.5751,False,-1.0,2026-06-01,Cincinnati Reds vs Kansas City Royals
+Moneyline,Milwaukee Brewers ML,-165.0,0.1814,0.5956,0.777,True,0.6061,2026-06-01,Milwaukee Brewers vs San Francisco Giants
+Run Line,Milwaukee Brewers -1.5,141.5,0.0695,0.3967,0.4662,True,1.415,2026-06-01,Milwaukee Brewers vs San Francisco Giants
+Total,UNDER 7.5,-120.0,0.1044,0.5217,0.6261,True,0.8333,2026-06-01,St. Louis Cardinals vs Texas Rangers
+Moneyline,Los Angeles Dodgers ML,-161.0,0.1372,0.5918,0.729,False,-1.0,2026-06-01,Arizona Diamondbacks vs Los Angeles Dodgers
+Total,UNDER 8.5,-104.5,0.1138,0.4871,0.6009,True,0.9569,2026-06-01,Arizona Diamondbacks vs Los Angeles Dodgers
+Moneyline,Seattle Mariners ML,-125.5,0.0671,0.5329,0.6,True,0.7968,2026-06-01,Seattle Mariners vs New York Mets
