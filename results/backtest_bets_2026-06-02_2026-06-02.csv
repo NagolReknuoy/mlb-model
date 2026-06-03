@@ -1,0 +1,17 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 8.25,-110.0,0.1876,0.4948,0.6824,True,0.9091,2026-06-02,Philadelphia Phillies vs San Diego Padres
+Moneyline,Baltimore Orioles ML,114.0,0.1344,0.4486,0.583,True,1.14,2026-06-02,Boston Red Sox vs Baltimore Orioles
+Moneyline,Washington Nationals ML,-115.0,0.2172,0.5108,0.728,False,-1.0,2026-06-02,Washington Nationals vs Miami Marlins
+Moneyline,New York Yankees ML,-200.0,0.1294,0.6386,0.768,False,-1.0,2026-06-02,New York Yankees vs Cleveland Guardians
+Moneyline,Cincinnati Reds ML,-125.5,0.0661,0.5329,0.599,True,0.7968,2026-06-02,Cincinnati Reds vs Kansas City Royals
+Moneyline,Atlanta Braves ML,-115.0,0.0852,0.5108,0.596,True,0.8696,2026-06-02,Atlanta Braves vs Toronto Blue Jays
+Total,UNDER 7.5,-112.0,0.0833,0.5049,0.5882,True,0.8929,2026-06-02,Atlanta Braves vs Toronto Blue Jays
+Moneyline,Chicago White Sox ML,-125.0,0.1265,0.5325,0.659,False,-1.0,2026-06-02,Minnesota Twins vs Chicago White Sox
+Moneyline,Milwaukee Brewers ML,-268.5,0.0745,0.6975,0.772,True,0.3724,2026-06-02,Milwaukee Brewers vs San Francisco Giants
+Moneyline,Texas Rangers ML,-110.0,0.0989,0.5011,0.6,True,0.9091,2026-06-02,St. Louis Cardinals vs Texas Rangers
+Moneyline,Chicago Cubs ML,-130.0,0.1108,0.5422,0.653,False,-1.0,2026-06-02,Chicago Cubs vs Athletics
+Run Line,Chicago Cubs -0.0,-33.0,0.1222,0.2696,0.3918,False,-1.0,2026-06-02,Chicago Cubs vs Athletics
+Moneyline,Los Angeles Dodgers ML,-115.0,0.2112,0.5108,0.722,True,0.8696,2026-06-02,Arizona Diamondbacks vs Los Angeles Dodgers
+Total,UNDER 9.0,-103.5,0.1623,0.4854,0.6477,False,-1.0,2026-06-02,Arizona Diamondbacks vs Los Angeles Dodgers
+Moneyline,Seattle Mariners ML,-150.0,0.2015,0.5745,0.776,True,0.6667,2026-06-02,Seattle Mariners vs New York Mets
+Run Line,Seattle Mariners -1.5,142.0,0.0694,0.3962,0.4656,True,1.42,2026-06-02,Seattle Mariners vs New York Mets

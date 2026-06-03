@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Washington Nationals,Miami Marlins,Andrew Alvarez,Max Meyer,72.9,27.1,8.66,1.01,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,1-4 (home-away),5.166,3.541
+Tampa Bay Rays,Detroit Tigers,Nick Martinez,Troy Melton,46.9,53.1,9.88,1.0,neutral,dome; artificial turf,dome,1.0,0-2 (home-away),4.815,5.089
+Minnesota Twins,Chicago White Sox,Taj Bradley,Erick Fedde,43.7,56.3,10.49,1.05,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,3-3 (home-away),5.024,8.992
+Seattle Mariners,New York Mets,George Kirby,Freddy Peralta,77.6,22.4,8.96,0.98,pitcher,marine air; roof often closed,dome,1.0,2-0 (home-away),5.543,2.145
+Philadelphia Phillies,San Diego Padres,Cristopher Sánchez,Walker Buehler,50.5,49.5,7.01,1.05,hitter,high HR rate historically,unknown,1.0,4-0 (home-away),2.752,1.463
+Boston Red Sox,Baltimore Orioles,Payton Tolle,Chris Bassitt,47.2,52.8,9.94,1.02,hitter,Green Monster 37ft LF wall,unknown,1.0,2-2 (home-away),4.859,5.112
+New York Yankees,Cleveland Guardians,Gerrit Cole,Gavin Williams,78.0,22.0,9.02,1.03,hitter,short porches both sides,unknown,1.0,0-1 (home-away),6.666,2.027
+Cincinnati Reds,Kansas City Royals,Chase Burns,Stephen Kolek,71.9,28.1,9.47,1.081,hitter,one of the top HR parks in MLB,"81°F, wind 1 mph",0.999,1-1 (home-away),6.319,3.991
+Atlanta Braves,Toronto Blue Jays,Grant Holmes,Patrick Corbin,66.9,33.1,8.3,1.132,hitter,warm humid air; June winds boost offense,"76°F, wind 9 mph",1.047,1-0 (home-away),4.719,3.577
+Milwaukee Brewers,San Francisco Giants,Nan,Logan Webb,71.7,28.3,9.51,0.96,pitcher,large dimensions suppress HRs,dome,1.0,2-0 (home-away),6.985,4.013
+St. Louis Cardinals,Texas Rangers,Andre Pallante,Mackenzie Gore,37.1,62.9,7.81,0.98,neutral,natural grass; moderate dimensions,"80°F, wind 6 mph",0.98,0-2 (home-away),2.553,4.342
+Chicago Cubs,Athletics,Colin Rea,Jeffrey Springs,74.6,25.4,9.21,1.113,variable,wind hugely variable; extreme hitter or pitcher park,"71°F, wind 8 mph",1.001,0-1 (home-away),5.707,3.736
+Houston Astros,Pittsburgh Pirates,Spencer Arrighetti,Paul Skenes,42.2,57.8,10.44,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,0-1 (home-away),4.965,5.632
+Los Angeles Angels,Colorado Rockies,Walbert Ureña,Michael Lorenzen,49.0,51.0,10.96,0.97,neutral,symmetrical; marine layer suppresses HRs,"70°F, wind 7 mph",1.035,0-2 (home-away),8.627,6.835
+Arizona Diamondbacks,Los Angeles Dodgers,Zac Gallen,Shohei Ohtani,22.1,77.9,9.0,1.071,hitter,"high altitude (1,082 ft)",dome,1.0,1-4 (home-away),2.804,5.676
