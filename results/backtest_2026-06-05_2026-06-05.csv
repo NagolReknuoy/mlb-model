@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-06-05,Chicago Cubs,San Francisco Giants,3,18,21,San Francisco Giants,San Francisco Giants,50.0,50.0,True,50.0,11.02,9.98,True,LOW,10.5,OVER
+2026-06-05,Detroit Tigers,Seattle Mariners,7,3,10,Detroit Tigers,Seattle Mariners,23.2,76.8,False,76.8,8.89,1.1099999999999994,False,LOW,7.5,OVER
+2026-06-05,Philadelphia Phillies,Chicago White Sox,8,6,14,Philadelphia Phillies,Chicago White Sox,45.9,54.1,False,54.1,7.55,6.45,False,LOW,8.5,OVER
+2026-06-05,New York Yankees,Boston Red Sox,3,5,8,Boston Red Sox,New York Yankees,57.7,42.3,False,57.7,8.83,0.8300000000000001,False,HIGH,8.0,PUSH
+2026-06-05,Toronto Blue Jays,Baltimore Orioles,3,13,16,Baltimore Orioles,Baltimore Orioles,29.0,71.0,True,71.0,9.59,6.41,True,LOW,8.5,OVER
+2026-06-05,Miami Marlins,Tampa Bay Rays,0,6,6,Tampa Bay Rays,Tampa Bay Rays,33.5,66.5,True,66.5,9.8,3.8000000000000007,True,HIGH,7.75,UNDER
+2026-06-05,Atlanta Braves,Pittsburgh Pirates,6,3,9,Atlanta Braves,Pittsburgh Pirates,49.5,50.5,False,50.5,11.01,2.01,False,HIGH,8.5,OVER
+2026-06-05,Houston Astros,Athletics,5,1,6,Houston Astros,Houston Astros,72.2,27.8,True,72.2,9.3,3.3000000000000007,True,HIGH,9.0,UNDER
+2026-06-05,St. Louis Cardinals,Cincinnati Reds,10,3,13,St. Louis Cardinals,St. Louis Cardinals,57.8,42.2,True,57.8,7.55,5.45,True,LOW,9.0,OVER
+2026-06-05,Texas Rangers,Cleveland Guardians,3,2,5,Texas Rangers,Texas Rangers,63.5,36.5,True,63.5,7.85,2.8499999999999996,False,HIGH,7.5,UNDER
+2026-06-05,Minnesota Twins,Kansas City Royals,5,3,8,Minnesota Twins,Minnesota Twins,58.3,41.7,True,58.3,10.32,2.3200000000000003,True,HIGH,8.5,UNDER
+2026-06-05,Colorado Rockies,Milwaukee Brewers,7,9,16,Milwaukee Brewers,Milwaukee Brewers,47.7,52.3,True,52.3,10.89,5.109999999999999,True,LOW,12.0,OVER
+2026-06-05,Arizona Diamondbacks,Washington Nationals,1,14,15,Washington Nationals,Washington Nationals,23.1,76.9,True,76.9,9.01,5.99,True,LOW,9.0,OVER
+2026-06-05,San Diego Padres,New York Mets,0,5,5,New York Mets,New York Mets,25.2,74.8,True,74.8,8.65,3.6500000000000004,True,HIGH,7.0,UNDER
+2026-06-05,Los Angeles Dodgers,Los Angeles Angels,1,0,1,Los Angeles Dodgers,Los Angeles Dodgers,77.8,22.2,True,77.8,9.0,8.0,False,HIGH,8.5,UNDER

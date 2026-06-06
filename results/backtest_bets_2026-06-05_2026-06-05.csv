@@ -1,0 +1,18 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 10.5,-0.5,0.2,0.009,0.6015,False,-1.0,2026-06-05,Chicago Cubs vs San Francisco Giants
+Moneyline,Seattle Mariners ML,-124.5,0.236,0.532,0.768,False,-1.0,2026-06-05,Detroit Tigers vs Seattle Mariners
+Run Line,Seattle Mariners +1.5,140.0,0.0599,0.4009,0.4608,False,-1.0,2026-06-05,Detroit Tigers vs Seattle Mariners
+Total,OVER  8.5,-5.0,0.2,0.0817,0.3325,True,10.0,2026-06-05,Philadelphia Phillies vs Chicago White Sox
+Moneyline,Baltimore Orioles ML,120.0,0.25,0.4344,0.71,True,1.2,2026-06-05,Toronto Blue Jays vs Baltimore Orioles
+Moneyline,Tampa Bay Rays ML,-130.5,0.1218,0.5432,0.665,True,0.7663,2026-06-05,Miami Marlins vs Tampa Bay Rays
+Moneyline,Houston Astros ML,-110.0,0.222,0.5,0.722,True,0.9091,2026-06-05,Houston Astros vs Athletics
+Total,UNDER 9.0,-115.0,0.0852,0.5108,0.5961,True,0.8696,2026-06-05,Houston Astros vs Athletics
+Total,UNDER 9.0,100.0,0.2,0.4783,0.7,False,-1.0,2026-06-05,St. Louis Cardinals vs Cincinnati Reds
+Moneyline,Texas Rangers ML,109.0,0.1766,0.4584,0.635,True,1.09,2026-06-05,Texas Rangers vs Cleveland Guardians
+Moneyline,Minnesota Twins ML,-115.0,0.0722,0.5108,0.583,True,0.8696,2026-06-05,Minnesota Twins vs Kansas City Royals
+Total,UNDER 12.0,-109.0,0.2,0.4978,0.7,False,-1.0,2026-06-05,Colorado Rockies vs Milwaukee Brewers
+Moneyline,Washington Nationals ML,110.0,0.25,0.4573,0.769,True,1.1,2026-06-05,Arizona Diamondbacks vs Washington Nationals
+Total,UNDER 9.0,-118.0,0.098,0.5162,0.6141,False,-1.0,2026-06-05,Arizona Diamondbacks vs Washington Nationals
+Moneyline,New York Mets ML,109.0,0.25,0.4584,0.748,True,1.09,2026-06-05,San Diego Padres vs New York Mets
+Moneyline,Los Angeles Dodgers ML,-202.5,0.1359,0.6421,0.778,True,0.4938,2026-06-05,Los Angeles Dodgers vs Los Angeles Angels
+Total,UNDER 8.5,-107.5,0.0827,0.4946,0.5773,True,0.9302,2026-06-05,Los Angeles Dodgers vs Los Angeles Angels
