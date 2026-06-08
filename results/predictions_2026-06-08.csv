@@ -1,0 +1,9 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Baltimore Orioles,Seattle Mariners,Nan,Emerson Hancock,31.7,68.3,9.13,1.061,hitter,short RF; warm summers,unknown,1.0,no prior meetings,3.928,5.193
+Tampa Bay Rays,Boston Red Sox,Ian Seymour,Connelly Early,23.0,77.0,9.0,1.0,neutral,dome; artificial turf,dome,1.0,2-1 (home-away),3.441,6.271
+Cleveland Guardians,New York Yankees,Gavin Williams,Will Warren,22.0,78.0,9.02,1.039,neutral,below-average HR park,unknown,1.0,2-1 (home-away),2.541,6.235
+Toronto Blue Jays,Philadelphia Phillies,Patrick Corbin,Cristopher Sánchez,23.3,76.7,9.04,1.071,neutral,turf boosts groundball singles,dome,1.0,no prior meetings,3.529,5.602
+Los Angeles Angels,Houston Astros,Grayson Rodriguez,Spencer Arrighetti,50.0,50.0,11.05,0.97,neutral,symmetrical; marine layer suppresses HRs,unknown,1.0,2-2 (home-away),5.703,7.714
+San Diego Padres,Cincinnati Reds,Walker Buehler,Andrew Abbott,58.1,41.9,7.57,1.007,pitcher,marine layer; large dimensions,unknown,1.0,no prior meetings,4.0,3.546
+San Francisco Giants,Washington Nationals,Logan Webb,Miles Mikolas,50.3,49.7,11.04,0.996,pitcher,marine layer; bay wind tricky in RF,unknown,1.0,2-1 (home-away),6.732,6.864
+Athletics,Milwaukee Brewers,Jeffrey Springs,Kyle Harrison,22.0,78.0,8.94,0.921,pitcher,largest foul territory in MLB,unknown,1.0,no prior meetings,2.497,9.073
