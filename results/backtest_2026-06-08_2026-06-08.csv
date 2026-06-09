@@ -1,0 +1,9 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-06-08,Baltimore Orioles,Seattle Mariners,3,6,9,Seattle Mariners,Seattle Mariners,33.2,66.8,True,66.8,9.79,0.7899999999999991,True,HIGH,9.5,UNDER
+2026-06-08,Tampa Bay Rays,Boston Red Sox,3,1,4,Tampa Bay Rays,Boston Red Sox,33.5,66.5,False,66.5,8.62,4.619999999999999,False,HIGH,8.0,UNDER
+2026-06-08,Cleveland Guardians,New York Yankees,5,7,12,New York Yankees,New York Yankees,23.1,76.9,True,76.9,9.02,2.9800000000000004,True,LOW,7.5,OVER
+2026-06-08,Toronto Blue Jays,Philadelphia Phillies,2,5,7,Philadelphia Phillies,Philadelphia Phillies,24.0,76.0,True,76.0,9.09,2.09,True,HIGH,7.5,UNDER
+2026-06-08,Los Angeles Angels,Houston Astros,4,5,9,Houston Astros,Houston Astros,49.4,50.6,True,50.6,11.01,2.01,False,HIGH,9.25,UNDER
+2026-06-08,San Diego Padres,Cincinnati Reds,6,2,8,San Diego Padres,San Diego Padres,61.6,38.4,True,61.6,7.73,0.2699999999999996,True,LOW,7.5,OVER
+2026-06-08,San Francisco Giants,Washington Nationals,3,4,7,Washington Nationals,Washington Nationals,48.8,51.2,True,51.2,11.05,4.050000000000001,False,HIGH,8.0,UNDER
+2026-06-08,Athletics,Milwaukee Brewers,14,15,29,Milwaukee Brewers,Milwaukee Brewers,37.4,62.6,True,62.6,10.0,19.0,False,LOW,11.0,OVER
