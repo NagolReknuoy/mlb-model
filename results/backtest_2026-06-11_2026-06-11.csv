@@ -1,0 +1,9 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-06-11,New York Mets,St. Louis Cardinals,5,4,9,New York Mets,St. Louis Cardinals,30.9,69.1,False,69.1,8.19,0.8100000000000005,False,LOW,8.5,OVER
+2026-06-11,Detroit Tigers,Minnesota Twins,11,0,11,Detroit Tigers,Detroit Tigers,77.3,22.7,True,77.3,8.98,2.0199999999999996,True,LOW,9.5,OVER
+2026-06-11,Miami Marlins,Arizona Diamondbacks,2,0,2,Miami Marlins,Miami Marlins,77.8,22.2,True,77.8,8.95,6.949999999999999,True,HIGH,8.5,UNDER
+2026-06-11,Kansas City Royals,Texas Rangers,2,4,6,Texas Rangers,Texas Rangers,45.4,54.6,True,54.6,7.3,1.2999999999999998,True,HIGH,10.5,UNDER
+2026-06-11,Colorado Rockies,Chicago Cubs,3,9,12,Chicago Cubs,Colorado Rockies,50.6,49.4,False,50.6,11.01,0.9900000000000002,False,LOW,11.5,OVER
+2026-06-11,Pittsburgh Pirates,Los Angeles Dodgers,6,8,14,Los Angeles Dodgers,Los Angeles Dodgers,41.8,58.2,True,58.2,10.4,3.5999999999999996,True,LOW,9.5,OVER
+2026-06-11,Baltimore Orioles,Seattle Mariners,7,5,12,Baltimore Orioles,Baltimore Orioles,52.0,48.0,True,52.0,10.75,1.25,True,LOW,8.5,OVER
+2026-06-11,Chicago White Sox,Atlanta Braves,0,0,0,Atlanta Braves,Atlanta Braves,44.1,55.9,True,55.9,7.66,7.66,False,HIGH,,
