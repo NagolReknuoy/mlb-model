@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-06-13,Minnesota Twins,St. Louis Cardinals,6,9,15,St. Louis Cardinals,St. Louis Cardinals,39.3,60.7,True,60.7,10.2,4.800000000000001,True,LOW,9.25,OVER
+2026-06-13,Toronto Blue Jays,New York Yankees,1,3,4,New York Yankees,New York Yankees,23.2,76.8,True,76.8,8.9,4.9,True,HIGH,7.5,UNDER
+2026-06-13,Baltimore Orioles,San Diego Padres,3,9,12,San Diego Padres,Baltimore Orioles,67.8,32.2,False,67.8,9.79,2.210000000000001,False,LOW,10.0,OVER
+2026-06-13,Washington Nationals,Seattle Mariners,8,3,11,Washington Nationals,Washington Nationals,54.7,45.3,True,54.7,10.62,0.3800000000000008,True,LOW,9.0,OVER
+2026-06-13,Pittsburgh Pirates,Miami Marlins,3,2,5,Pittsburgh Pirates,Miami Marlins,23.0,77.0,False,77.0,8.96,3.960000000000001,False,HIGH,9.5,UNDER
+2026-06-13,Cincinnati Reds,Arizona Diamondbacks,2,1,3,Cincinnati Reds,Arizona Diamondbacks,43.1,56.9,False,56.9,7.88,4.88,False,HIGH,9.5,UNDER
+2026-06-13,Cleveland Guardians,Detroit Tigers,3,1,4,Cleveland Guardians,Detroit Tigers,23.3,76.7,False,76.7,8.82,4.82,False,HIGH,7.5,UNDER
+2026-06-13,Boston Red Sox,Texas Rangers,6,3,9,Boston Red Sox,Boston Red Sox,51.2,48.8,True,51.2,7.04,1.96,True,LOW,7.75,OVER
+2026-06-13,New York Mets,Atlanta Braves,1,3,4,Atlanta Braves,Atlanta Braves,44.0,56.0,True,56.0,7.3,3.3,True,HIGH,8.5,UNDER
+2026-06-13,Chicago White Sox,Los Angeles Dodgers,1,7,8,Los Angeles Dodgers,Los Angeles Dodgers,33.1,66.9,True,66.9,9.81,1.8100000000000005,True,HIGH,8.5,UNDER
+2026-06-13,Kansas City Royals,Houston Astros,7,8,15,Houston Astros,Kansas City Royals,50.5,49.5,False,50.5,11.02,3.9800000000000004,False,LOW,9.5,OVER
+2026-06-13,Milwaukee Brewers,Philadelphia Phillies,8,9,17,Philadelphia Phillies,Milwaukee Brewers,50.4,49.6,False,50.4,11.05,5.949999999999999,False,LOW,8.5,OVER
+2026-06-13,Athletics,Colorado Rockies,7,5,12,Athletics,Athletics,50.4,49.6,True,50.4,10.98,1.0199999999999996,True,LOW,14.5,UNDER
+2026-06-13,San Francisco Giants,Chicago Cubs,1,6,7,Chicago Cubs,San Francisco Giants,55.6,44.4,False,55.6,10.57,3.5700000000000003,False,HIGH,8.0,UNDER
+2026-06-13,Los Angeles Angels,Tampa Bay Rays,8,0,8,Los Angeles Angels,Los Angeles Angels,77.1,22.9,True,77.1,8.99,0.9900000000000002,True,HIGH,8.5,UNDER
