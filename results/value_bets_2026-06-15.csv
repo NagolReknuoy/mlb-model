@@ -1,0 +1,16 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Cincinnati Reds vs New York Mets,New York Mets ML,+119,43.9%,75.7%,0.3179220636663008,Strong,Moneyline
+Arizona Diamondbacks vs Los Angeles Angels,Los Angeles Angels ML,+110,45.8%,77.6%,0.3179083816763353,Strong,Moneyline
+Houston Astros vs Detroit Tigers,Detroit Tigers ML,+106,46.9%,76.9%,0.29997270345643545,Strong,Moneyline
+Philadelphia Phillies vs Miami Marlins,Miami Marlins ML,+162,36.8%,61.1%,0.24288626554963189,Strong,Moneyline
+Chicago Cubs vs Colorado Rockies,OVER  9.5,-104,48.8%,65.9%,0.17148994471244616,Strong,Total
+St. Louis Cardinals vs San Diego Padres,St. Louis Cardinals ML,-155,58.4%,75.2%,0.16795302177636418,Strong,Moneyline
+Chicago Cubs vs Colorado Rockies,Colorado Rockies ML,+178,34.6%,50.7%,0.1608563947812195,Strong,Moneyline
+Texas Rangers vs Minnesota Twins,OVER  8.0,-115,51.1%,66.7%,0.15634539463588515,Strong,Total
+Los Angeles Dodgers vs Tampa Bay Rays,Los Angeles Dodgers ML,-181,62.0%,77.5%,0.15527959346622822,Strong,Moneyline
+Philadelphia Phillies vs Miami Marlins,UNDER 8.0,-110,50.0%,65.2%,0.1523327757931,Strong,Total
+St. Louis Cardinals vs San Diego Padres,St. Louis Cardinals -1.5,+135,40.9%,52.7%,0.11806669714666895,Good,Run Line
+Los Angeles Dodgers vs Tampa Bay Rays,Los Angeles Dodgers -1.5,+113,45.0%,56.2%,0.11262189096385067,Good,Run Line
+Arizona Diamondbacks vs Los Angeles Angels,UNDER 9.0,-102,48.3%,58.9%,0.10609005600268995,Good,Total
+Washington Nationals vs Kansas City Royals,Washington Nationals ML,-132,54.7%,64.5%,0.09826664582682088,Good,Moneyline
+Houston Astros vs Detroit Tigers,UNDER 9.0,-115,51.1%,58.3%,0.07262154627438744,Lean,Total
