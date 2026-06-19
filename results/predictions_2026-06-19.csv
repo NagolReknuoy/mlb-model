@@ -1,0 +1,15 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Chicago Cubs,Toronto Blue Jays,Ben Brown,Kevin Gausman,49.9,50.1,7.01,1.113,variable,wind hugely variable; extreme hitter or pitcher park,"70°F, wind 7 mph",0.973,no prior meetings,3.06,3.35
+Detroit Tigers,Chicago White Sox,Tarik Skubal,Erick Fedde,77.5,22.5,9.01,0.989,pitcher,very deep CF historically,"75°F, wind 11 mph",0.957,0-3 (home-away),5.961,3.041
+New York Yankees,Cincinnati Reds,Cam Schlittler,Rhett Lowder,77.5,22.5,8.97,1.03,hitter,short porches both sides,"81°F, wind 13 mph",1.071,no prior meetings,8.198,2.526
+Tampa Bay Rays,Washington Nationals,Griffin Jax,Cade Cavalli,23.7,76.3,8.8,1.0,neutral,dome; artificial turf,dome,1.0,no prior meetings,2.934,5.331
+Miami Marlins,San Francisco Giants,Lake Bachar,Landen Roupp,72.0,28.0,9.26,0.99,neutral,roof often closed; average park,dome,1.0,1-2 (home-away),5.426,3.881
+Atlanta Braves,Milwaukee Brewers,Martín Pérez,Jacob Misiorowski,22.3,77.7,9.0,1.132,hitter,warm humid air; June winds boost offense,"84°F, wind 5 mph",1.005,no prior meetings,3.297,8.972
+Texas Rangers,San Diego Padres,Jacob Degrom,Randy Vásquez,42.8,57.2,7.39,0.968,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,no prior meetings,3.038,3.928
+Houston Astros,Cleveland Guardians,Tatsuya Imai,Tanner Bibee,52.5,47.5,7.12,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,2-1 (home-away),3.646,3.49
+Kansas City Royals,St. Louis Cardinals,Seth Lugo,Michael Mcgreevy,50.0,50.0,11.0,0.96,pitcher,large dimensions; spray park,"86°F, wind 7 mph",0.978,2-2 (home-away),5.956,6.729
+Colorado Rockies,Pittsburgh Pirates,Kyle Freeland,Bubba Chandler,49.8,50.2,11.01,1.198,hitter,"5,200 ft altitude; most extreme hitter park","83°F, wind 9 mph",1.005,1-2 (home-away),11.887,9.598
+Athletics,Los Angeles Angels,Jeffrey Springs,José Soriano,45.6,54.4,10.75,0.921,pitcher,largest foul territory in MLB,"64°F, wind 10 mph",0.998,4-1 (home-away),5.184,6.87
+Arizona Diamondbacks,Minnesota Twins,Michael Soroka,Connor Prielipp,48.8,51.2,10.64,1.071,hitter,"high altitude (1,082 ft)",dome,1.0,no prior meetings,5.291,5.343
+Los Angeles Dodgers,Baltimore Orioles,Roki Sasaki,Trey Gibson,66.5,33.5,9.86,0.912,pitcher,marine layer suppresses carry; spacious foul territory,"65°F, wind 9 mph",0.963,no prior meetings,6.464,4.346
+Seattle Mariners,Boston Red Sox,Bryce Miller,Ranger Suarez,51.9,48.1,7.17,0.98,pitcher,marine air; roof often closed,dome,1.0,no prior meetings,3.627,3.184

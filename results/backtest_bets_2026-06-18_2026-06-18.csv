@@ -1,0 +1,10 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 9.5,-112.5,0.1963,0.5037,0.7,True,0.8889,2026-06-18,Boston Red Sox vs Toronto Blue Jays
+Moneyline,Milwaukee Brewers ML,-146.5,0.2035,0.5655,0.769,False,-1.0,2026-06-18,Milwaukee Brewers vs Cleveland Guardians
+Run Line,Milwaukee Brewers -1.5,154.0,0.0852,0.3762,0.4614,False,-1.0,2026-06-18,Milwaukee Brewers vs Cleveland Guardians
+Moneyline,Minnesota Twins ML,-125.0,0.0881,0.5319,0.62,True,0.8,2026-06-18,Texas Rangers vs Minnesota Twins
+Moneyline,Seattle Mariners ML,-128.0,0.0929,0.5351,0.628,True,0.7812,2026-06-18,Seattle Mariners vs Baltimore Orioles
+Total,UNDER 10.0,-105.0,0.1925,0.4892,0.6817,False,-1.0,2026-06-18,Philadelphia Phillies vs New York Mets
+Moneyline,New York Yankees ML,-170.0,0.1532,0.6018,0.755,False,-1.0,2026-06-18,New York Yankees vs Chicago White Sox
+Total,UNDER 10.75,-156.0,0.2,0.4183,0.7,True,0.641,2026-06-18,New York Yankees vs Chicago White Sox
+Total,UNDER 10.0,-105.0,0.0867,0.4892,0.5758,True,0.9524,2026-06-18,Athletics vs Los Angeles Angels
