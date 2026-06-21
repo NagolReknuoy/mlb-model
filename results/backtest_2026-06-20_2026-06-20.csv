@@ -1,0 +1,15 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-06-20,Detroit Tigers,Chicago White Sox,4,1,5,Detroit Tigers,Detroit Tigers,74.1,25.9,True,74.1,8.62,3.619999999999999,True,HIGH,8.5,UNDER
+2026-06-20,New York Yankees,Cincinnati Reds,2,10,12,Cincinnati Reds,New York Yankees,76.1,23.9,False,76.1,9.14,2.8599999999999994,False,LOW,9.5,OVER
+2026-06-20,Chicago Cubs,Toronto Blue Jays,6,8,14,Toronto Blue Jays,Chicago Cubs,68.4,31.6,False,68.4,9.69,4.3100000000000005,False,LOW,9.5,OVER
+2026-06-20,Texas Rangers,San Diego Padres,4,6,10,San Diego Padres,San Diego Padres,22.2,77.8,True,77.8,9.05,0.9499999999999993,True,LOW,7.5,OVER
+2026-06-20,Tampa Bay Rays,Washington Nationals,3,4,7,Washington Nationals,Washington Nationals,23.7,76.3,True,76.3,8.8,1.8000000000000007,False,HIGH,8.5,UNDER
+2026-06-20,Miami Marlins,San Francisco Giants,6,3,9,Miami Marlins,Miami Marlins,78.3,21.7,True,78.3,8.96,0.03999999999999915,True,LOW,8.5,OVER
+2026-06-20,Atlanta Braves,Milwaukee Brewers,4,3,7,Atlanta Braves,Milwaukee Brewers,24.0,76.0,False,76.0,8.84,1.8399999999999999,False,HIGH,7.5,UNDER
+2026-06-20,Houston Astros,Cleveland Guardians,1,8,9,Cleveland Guardians,Houston Astros,55.7,44.3,False,55.7,8.69,0.3100000000000005,False,LOW,8.5,OVER
+2026-06-20,Philadelphia Phillies,New York Mets,15,3,18,Philadelphia Phillies,Philadelphia Phillies,72.2,27.8,True,72.2,9.35,8.65,True,LOW,7.5,OVER
+2026-06-20,Colorado Rockies,Pittsburgh Pirates,2,1,3,Colorado Rockies,Pittsburgh Pirates,49.6,50.4,False,50.4,10.99,7.99,False,HIGH,10.5,UNDER
+2026-06-20,Athletics,Los Angeles Angels,0,7,7,Los Angeles Angels,Los Angeles Angels,49.0,51.0,True,51.0,10.98,3.9800000000000004,True,HIGH,9.5,UNDER
+2026-06-20,Los Angeles Dodgers,Baltimore Orioles,2,3,5,Baltimore Orioles,Los Angeles Dodgers,62.9,37.1,False,62.9,7.87,2.87,False,HIGH,8.5,UNDER
+2026-06-20,Seattle Mariners,Boston Red Sox,1,5,6,Boston Red Sox,Boston Red Sox,34.8,65.2,True,65.2,7.92,1.92,True,HIGH,7.5,UNDER
+2026-06-20,Arizona Diamondbacks,Minnesota Twins,8,16,24,Minnesota Twins,Minnesota Twins,50.0,50.0,True,50.0,10.99,13.01,True,LOW,9.5,OVER
