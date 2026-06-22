@@ -1,0 +1,21 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+New York Mets vs Chicago Cubs,Chicago Cubs ML,-123,53.2%,77.3%,0.24111369075108108,Strong,Moneyline
+Miami Marlins vs Texas Rangers,Miami Marlins ML,-130,54.3%,77.6%,0.23325646123260424,Strong,Moneyline
+San Diego Padres vs Atlanta Braves,San Diego Padres ML,-110,50.3%,73.1%,0.227684350132626,Strong,Moneyline
+Miami Marlins vs Texas Rangers,Miami Marlins -1.5,+162,36.8%,56.2%,0.19422588687421355,Strong,Run Line
+Cincinnati Reds vs Milwaukee Brewers,Milwaukee Brewers ML,-149,57.6%,77.0%,0.19402465814076256,Strong,Moneyline
+Toronto Blue Jays vs Houston Astros,OVER  7.0,-125,53.2%,70.8%,0.17539365249796313,Strong,Total
+Toronto Blue Jays vs Houston Astros,Houston Astros ML,+110,45.9%,63.3%,0.17406280193236706,Strong,Moneyline
+Minnesota Twins vs Los Angeles Dodgers,OVER  9.5,-114,51.0%,66.8%,0.15828789431320145,Strong,Total
+New York Mets vs Chicago Cubs,Chicago Cubs +1.5,+135,41.1%,56.2%,0.15116069424459455,Strong,Run Line
+Tampa Bay Rays vs Kansas City Royals,Kansas City Royals ML,+160,37.0%,51.8%,0.14810204081632655,Strong,Moneyline
+San Diego Padres vs Atlanta Braves,OVER  7.5,+100,47.8%,62.6%,0.14769618984931288,Strong,Total
+Colorado Rockies vs Boston Red Sox,UNDER 11.5,-105,48.9%,63.6%,0.14720010091934171,Strong,Total
+Los Angeles Angels vs Baltimore Orioles,OVER  9.0,-105,48.9%,63.2%,0.14258606855610628,Strong,Total
+Detroit Tigers vs New York Yankees,UNDER 8.5,-106,49.1%,62.3%,0.13188903221712955,Strong,Total
+Chicago White Sox vs Cleveland Guardians,UNDER 7.5,-105,48.9%,58.4%,0.09465131842013025,Good,Total
+Cincinnati Reds vs Milwaukee Brewers,UNDER 9.5,-115,51.1%,60.2%,0.0910639723067539,Good,Total
+Cincinnati Reds vs Milwaukee Brewers,Milwaukee Brewers +1.5,+105,46.8%,55.4%,0.08639340716436078,Good,Run Line
+Minnesota Twins vs Los Angeles Dodgers,Minnesota Twins ML,+130,41.9%,49.7%,0.07811702127659581,Lean,Moneyline
+St. Louis Cardinals vs Arizona Diamondbacks,Arizona Diamondbacks ML,+123,43.2%,50.4%,0.07223329558323899,Lean,Moneyline
+Los Angeles Angels vs Baltimore Orioles,Los Angeles Angels ML,+136,40.8%,48.0%,0.07222082810539526,Lean,Moneyline
