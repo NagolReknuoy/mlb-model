@@ -1,0 +1,16 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Francisco Giants vs Atlanta Braves,San Francisco Giants ML,+100,48.2%,77.9%,0.296857142857143,Strong,Moneyline
+St. Louis Cardinals vs Miami Marlins,Miami Marlins ML,-107,49.7%,75.7%,0.260315649867374,Strong,Moneyline
+Toronto Blue Jays vs Texas Rangers,OVER  8.5,-114,51.0%,73.4%,0.22465868818973567,Strong,Total
+New York Mets vs Philadelphia Phillies,Philadelphia Phillies ML,-160,59.2%,78.2%,0.18977917189460472,Strong,Moneyline
+Milwaukee Brewers vs Chicago Cubs,OVER  7.0,-115,51.1%,67.4%,0.16292114798670942,Strong,Total
+Baltimore Orioles vs Washington Nationals,Baltimore Orioles ML,-139,56.0%,71.6%,0.1558152407942437,Strong,Moneyline
+St. Louis Cardinals vs Miami Marlins,Miami Marlins +1.5,+150,38.3%,53.4%,0.15137578961298653,Strong,Run Line
+Minnesota Twins vs Colorado Rockies,OVER  9.0,-120,52.2%,65.8%,0.13666112036429312,Strong,Total
+Cleveland Guardians vs Seattle Mariners,UNDER 7.5,+100,47.8%,59.7%,0.11896294402364804,Good,Total
+Minnesota Twins vs Colorado Rockies,Colorado Rockies ML,+146,39.0%,50.2%,0.11170884849866103,Good,Moneyline
+Baltimore Orioles vs Washington Nationals,Baltimore Orioles -1.5,+140,39.8%,49.8%,0.09992816301509733,Good,Run Line
+New York Mets vs Philadelphia Phillies,Philadelphia Phillies +1.5,+105,46.8%,56.2%,0.09480715379211418,Good,Run Line
+Tampa Bay Rays vs Arizona Diamondbacks,OVER  8.5,-120,52.2%,60.3%,0.08149520914023334,Good,Total
+Tampa Bay Rays vs Arizona Diamondbacks,Tampa Bay Rays ML,-136,55.6%,63.2%,0.07634402771501736,Lean,Moneyline
+Chicago White Sox vs Kansas City Royals,Kansas City Royals ML,+114,44.9%,51.9%,0.07044111471654896,Lean,Moneyline
