@@ -1,0 +1,19 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Seattle Mariners vs Los Angeles Angels,Los Angeles Angels ML,+172,35.3%,68.0%,0.3267817896389325,Strong,Moneyline
+Arizona Diamondbacks vs San Francisco Giants,San Francisco Giants ML,+117,44.3%,72.8%,0.28517634800729363,Strong,Moneyline
+Philadelphia Phillies vs Pittsburgh Pirates,OVER  8.5,-120,52.2%,76.4%,0.242701860138561,Strong,Total
+Toronto Blue Jays vs New York Mets,OVER  8.5,-120,52.2%,76.3%,0.24090182862115972,Strong,Total
+Milwaukee Brewers vs Cincinnati Reds,UNDER 9.0,-115,51.1%,74.7%,0.23628456619901606,Strong,Total
+Baltimore Orioles vs Chicago White Sox,Chicago White Sox ML,+115,44.7%,68.3%,0.23559400285578297,Strong,Moneyline
+Chicago Cubs vs San Diego Padres,UNDER 11.0,-104,48.6%,71.8%,0.23216610943426053,Strong,Total
+New York Yankees vs Detroit Tigers,Detroit Tigers ML,+112,45.4%,65.4%,0.19991916968076734,Strong,Moneyline
+Boston Red Sox vs Washington Nationals,Boston Red Sox ML,-175,61.2%,78.1%,0.1688702397743299,Strong,Moneyline
+Houston Astros vs Minnesota Twins,OVER  9.0,-105,48.9%,65.5%,0.16596408443430039,Strong,Total
+Baltimore Orioles vs Chicago White Sox,UNDER 9.5,-118,51.3%,67.4%,0.16099017715439334,Strong,Total
+Arizona Diamondbacks vs San Francisco Giants,UNDER 9.0,-105,49.0%,64.6%,0.15628781908947587,Strong,Total
+Colorado Rockies vs Miami Marlins,Miami Marlins ML,-140,56.2%,71.6%,0.1539562043795621,Strong,Moneyline
+Boston Red Sox vs Washington Nationals,Boston Red Sox -1.5,+120,43.8%,56.2%,0.12438341694501964,Strong,Run Line
+Cleveland Guardians vs Texas Rangers,UNDER 7.5,-105,48.9%,59.6%,0.10656804682988236,Good,Total
+New York Yankees vs Detroit Tigers,UNDER 8.0,-113,50.6%,60.9%,0.10279664204442207,Good,Total
+Chicago Cubs vs San Diego Padres,Chicago Cubs ML,-154,58.2%,66.0%,0.07762578099309436,Lean,Moneyline
+Cleveland Guardians vs Texas Rangers,Texas Rangers ML,+126,42.6%,50.0%,0.07423430847411061,Lean,Moneyline
