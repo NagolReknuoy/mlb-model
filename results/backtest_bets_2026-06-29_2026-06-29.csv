@@ -1,0 +1,18 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Chicago White Sox ML,120.0,0.25,0.4474,0.757,True,1.2,2026-06-29,Baltimore Orioles vs Chicago White Sox
+Total,UNDER 9.5,-113.0,0.1244,0.5198,0.6442,False,-1.0,2026-06-29,Baltimore Orioles vs Chicago White Sox
+Moneyline,Detroit Tigers ML,125.0,0.25,0.4347,0.773,True,1.25,2026-06-29,New York Yankees vs Detroit Tigers
+Moneyline,Boston Red Sox ML,-165.0,0.1653,0.6117,0.777,True,0.6061,2026-06-29,Boston Red Sox vs Washington Nationals
+Total,UNDER 8.5,-111.0,0.0621,0.5139,0.576,False,-1.0,2026-06-29,Boston Red Sox vs Washington Nationals
+Total,UNDER 7.5,-102.0,0.1323,0.4919,0.6243,False,-1.0,2026-06-29,Cleveland Guardians vs Texas Rangers
+Moneyline,Milwaukee Brewers ML,-128.0,0.0822,0.5548,0.637,True,0.7812,2026-06-29,Milwaukee Brewers vs Cincinnati Reds
+Total,UNDER 9.5,-117.0,0.175,0.525,0.7,True,0.8547,2026-06-29,Milwaukee Brewers vs Cincinnati Reds
+Moneyline,Chicago Cubs ML,-155.0,0.1787,0.5943,0.773,True,0.6452,2026-06-29,Chicago Cubs vs San Diego Padres
+Total,UNDER 11.5,-115.0,0.177,0.523,0.7,True,0.8696,2026-06-29,Chicago Cubs vs San Diego Padres
+Moneyline,Miami Marlins ML,-149.0,0.1146,0.5844,0.699,True,0.6711,2026-06-29,Colorado Rockies vs Miami Marlins
+Total,UNDER 11.5,101.0,0.2,0.4893,0.7,False,-1.0,2026-06-29,Colorado Rockies vs Miami Marlins
+Moneyline,Los Angeles Dodgers ML,-112.0,0.0679,0.5211,0.589,True,0.8929,2026-06-29,Athletics vs Los Angeles Dodgers
+Total,UNDER 10.5,-107.0,0.1405,0.5059,0.6463,False,-1.0,2026-06-29,Athletics vs Los Angeles Dodgers
+Moneyline,Los Angeles Angels ML,174.0,0.25,0.3578,0.701,False,-1.0,2026-06-29,Seattle Mariners vs Los Angeles Angels
+Moneyline,San Francisco Giants ML,122.0,0.25,0.4435,0.699,False,-1.0,2026-06-29,Arizona Diamondbacks vs San Francisco Giants
+Total,UNDER 9.0,-105.0,0.1553,0.5012,0.6565,False,-1.0,2026-06-29,Arizona Diamondbacks vs San Francisco Giants
