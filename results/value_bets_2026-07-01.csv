@@ -1,0 +1,25 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Baltimore Orioles vs Chicago White Sox,Chicago White Sox ML,+129,42.0%,77.2%,0.35205599253432873,Strong,Moneyline
+New York Yankees vs Detroit Tigers,Detroit Tigers ML,+117,44.1%,77.3%,0.33166127252666433,Strong,Moneyline
+Kansas City Royals vs Tampa Bay Rays,Tampa Bay Rays ML,-132,54.7%,76.5%,0.21826664582682087,Strong,Moneyline
+Kansas City Royals vs Tampa Bay Rays,UNDER 10.5,-110,50.0%,71.2%,0.2119007036159204,Strong,Total
+Baltimore Orioles vs Chicago White Sox,UNDER 10.0,-105,48.9%,69.8%,0.20849057743807603,Strong,Total
+Colorado Rockies vs Miami Marlins,Miami Marlins ML,-149,57.6%,78.3%,0.20702465814076257,Strong,Moneyline
+Atlanta Braves vs St. Louis Cardinals,UNDER 9.0,-107,49.5%,69.9%,0.20455906734299778,Strong,Total
+Toronto Blue Jays vs New York Mets,UNDER 8.5,+100,47.8%,67.6%,0.19739017986999985,Strong,Total
+Atlanta Braves vs St. Louis Cardinals,St. Louis Cardinals ML,+114,44.9%,63.8%,0.18944111471654895,Strong,Moneyline
+Milwaukee Brewers vs Cincinnati Reds,Milwaukee Brewers ML,-160,59.2%,77.4%,0.1817791718946048,Strong,Moneyline
+Boston Red Sox vs Washington Nationals,UNDER 9.5,-110,50.1%,66.3%,0.16224760469428434,Strong,Total
+Athletics vs Los Angeles Dodgers,Los Angeles Dodgers ML,-166,60.1%,75.9%,0.15836342071284867,Strong,Moneyline
+Milwaukee Brewers vs Cincinnati Reds,Milwaukee Brewers -1.5,+130,41.9%,56.2%,0.14345664260117746,Strong,Run Line
+Chicago Cubs vs San Diego Padres,Chicago Cubs ML,-122,53.1%,67.4%,0.1430272965435646,Strong,Moneyline
+Boston Red Sox vs Washington Nationals,Boston Red Sox ML,-148,57.5%,71.3%,0.13768662237139528,Strong,Moneyline
+Arizona Diamondbacks vs San Francisco Giants,San Francisco Giants ML,+110,46.1%,59.6%,0.13533958418263364,Strong,Moneyline
+Kansas City Royals vs Tampa Bay Rays,Tampa Bay Rays +1.5,+115,44.7%,56.2%,0.11493362418036468,Good,Run Line
+Cleveland Guardians vs Texas Rangers,UNDER 7.5,-110,50.0%,60.2%,0.10169386485193843,Good,Total
+New York Yankees vs Detroit Tigers,UNDER 9.5,-110,50.0%,58.7%,0.08740837866171214,Good,Total
+Chicago Cubs vs San Diego Padres,Chicago Cubs -1.5,+146,39.0%,46.5%,0.07509739129198373,Lean,Run Line
+Toronto Blue Jays vs New York Mets,Toronto Blue Jays ML,-110,50.6%,58.0%,0.0743946188340806,Lean,Moneyline
+Colorado Rockies vs Miami Marlins,Miami Marlins +1.5,-105,48.9%,56.2%,0.07317385751093058,Lean,Run Line
+Milwaukee Brewers vs Cincinnati Reds,UNDER 9.0,-114,51.0%,58.2%,0.07232156466042217,Lean,Total
+Boston Red Sox vs Washington Nationals,Boston Red Sox -1.5,+135,41.1%,48.2%,0.07181270212615937,Lean,Run Line
