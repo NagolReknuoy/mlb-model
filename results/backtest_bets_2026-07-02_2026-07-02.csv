@@ -1,0 +1,14 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 10.5,-107.5,0.1098,0.4935,0.6034,True,0.9302,2026-07-02,Philadelphia Phillies vs Pittsburgh Pirates
+Total,UNDER 12.25,-115.5,0.1943,0.5057,0.7,False,-1.0,2026-07-02,Colorado Rockies vs Miami Marlins
+Moneyline,Chicago White Sox ML,-101.5,0.25,0.4801,0.776,False,-1.0,2026-07-02,Cleveland Guardians vs Chicago White Sox
+Run Line,Chicago White Sox +1.5,155.0,0.0907,0.3749,0.4656,False,-1.0,2026-07-02,Cleveland Guardians vs Chicago White Sox
+Total,UNDER 8.5,-112.5,0.0759,0.5032,0.5791,False,-1.0,2026-07-02,Cleveland Guardians vs Chicago White Sox
+Moneyline,St. Louis Cardinals ML,-102.0,0.25,0.4817,0.752,True,0.9804,2026-07-02,Atlanta Braves vs St. Louis Cardinals
+Run Line,St. Louis Cardinals +1.5,155.0,0.0798,0.3714,0.4512,True,1.55,2026-07-02,Atlanta Braves vs St. Louis Cardinals
+Total,UNDER 9.0,-115.0,0.1238,0.5103,0.634,False,-1.0,2026-07-02,Atlanta Braves vs St. Louis Cardinals
+Moneyline,Tampa Bay Rays ML,-121.0,0.2483,0.5227,0.771,True,0.8264,2026-07-02,Kansas City Royals vs Tampa Bay Rays
+Total,UNDER 10.0,-114.5,0.1828,0.5069,0.6897,True,0.8734,2026-07-02,Kansas City Royals vs Tampa Bay Rays
+Total,UNDER 7.0,-104.5,0.0964,0.4866,0.583,True,0.9569,2026-07-02,Seattle Mariners vs Los Angeles Angels
+Moneyline,Los Angeles Dodgers ML,-219.5,0.0859,0.6551,0.741,True,0.4556,2026-07-02,Los Angeles Dodgers vs San Diego Padres
+Total,UNDER 9.5,-118.5,0.1194,0.5155,0.6348,False,-1.0,2026-07-02,Los Angeles Dodgers vs San Diego Padres
