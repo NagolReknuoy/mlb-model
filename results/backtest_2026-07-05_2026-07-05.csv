@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-07-05,Atlanta Braves,New York Mets,9,10,19,New York Mets,Atlanta Braves,66.1,33.9,False,66.1,9.83,9.17,False,LOW,8.5,OVER
+2026-07-05,Washington Nationals,Pittsburgh Pirates,5,11,16,Pittsburgh Pirates,Washington Nationals,50.6,49.4,False,50.6,10.99,5.01,False,LOW,10.0,OVER
+2026-07-05,Cincinnati Reds,Baltimore Orioles,3,2,5,Cincinnati Reds,Baltimore Orioles,39.9,60.1,False,60.1,9.02,4.02,False,HIGH,9.5,UNDER
+2026-07-05,New York Yankees,Minnesota Twins,1,6,7,Minnesota Twins,Minnesota Twins,22.4,77.6,True,77.6,9.0,2.0,True,HIGH,8.0,UNDER
+2026-07-05,Cleveland Guardians,Chicago White Sox,6,7,13,Chicago White Sox,Chicago White Sox,24.3,75.7,True,75.7,8.9,4.1,False,LOW,8.0,OVER
+2026-07-05,Chicago Cubs,St. Louis Cardinals,6,4,10,Chicago Cubs,Chicago Cubs,50.4,49.6,True,50.4,11.05,1.0500000000000007,True,HIGH,8.0,OVER
+2026-07-05,Kansas City Royals,Philadelphia Phillies,5,2,7,Kansas City Royals,Philadelphia Phillies,22.0,78.0,False,78.0,8.99,1.9900000000000002,False,HIGH,10.0,UNDER
+2026-07-05,Houston Astros,Tampa Bay Rays,2,0,2,Houston Astros,Tampa Bay Rays,21.9,78.1,False,78.1,8.99,6.99,False,HIGH,9.0,UNDER
+2026-07-05,Texas Rangers,Detroit Tigers,3,6,9,Detroit Tigers,Detroit Tigers,23.1,76.9,True,76.9,8.96,0.03999999999999915,True,LOW,7.75,OVER
+2026-07-05,Colorado Rockies,San Francisco Giants,7,6,13,Colorado Rockies,San Francisco Giants,50.0,50.0,False,50.0,10.96,2.039999999999999,False,LOW,13.0,PUSH
+2026-07-05,Arizona Diamondbacks,Milwaukee Brewers,2,3,5,Milwaukee Brewers,Milwaukee Brewers,23.7,76.3,True,76.3,8.88,3.880000000000001,False,HIGH,8.75,UNDER
+2026-07-05,Athletics,Miami Marlins,8,9,17,Miami Marlins,Miami Marlins,49.4,50.6,True,50.6,10.91,6.09,False,LOW,10.0,OVER
+2026-07-05,Seattle Mariners,Toronto Blue Jays,4,0,4,Seattle Mariners,Seattle Mariners,58.3,41.7,True,58.3,7.47,3.4699999999999998,True,HIGH,7.5,UNDER
+2026-07-05,Los Angeles Dodgers,San Diego Padres,2,5,7,San Diego Padres,Los Angeles Dodgers,77.4,22.6,False,77.4,9.0,2.0,False,HIGH,10.0,UNDER
+2026-07-05,Los Angeles Angels,Boston Red Sox,5,7,12,Boston Red Sox,Boston Red Sox,22.8,77.2,True,77.2,9.0,3.0,True,LOW,8.0,OVER
