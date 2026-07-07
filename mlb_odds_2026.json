@@ -331795,5 +331795,1215 @@
         ]
       }
     }
+  ],
+  "2026-07-06": [
+    {
+      "gameView": {
+        "startDate": "2026-07-06T18:10:00+00:00",
+        "awayTeam": {
+          "name": "Philadelphia",
+          "fullName": "Philadelphia Phillies",
+          "shortName": "PHI",
+          "displayName": "Philadelphia",
+          "nickname": "Phillies",
+          "rank": -1
+        },
+        "awayTeamScore": 1,
+        "homeTeam": {
+          "name": "Kansas City",
+          "fullName": "Kansas City Royals",
+          "shortName": "KC",
+          "displayName": "Kansas City",
+          "nickname": "Royals",
+          "rank": -1
+        },
+        "homeTeamScore": 15,
+        "gameStatusText": "Final",
+        "venueName": "Kauffman Stadium",
+        "gameType": "R"
+      },
+      "odds": {
+        "totals": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "overOdds": -107,
+              "underOdds": -137,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -108,
+              "underOdds": -111,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "overOdds": -125,
+              "underOdds": -125,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": 100,
+              "underOdds": -106,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "overOdds": -114,
+              "underOdds": -149,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -101,
+              "underOdds": -106,
+              "total": 8.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -2000,
+              "awayOdds": -2000
+            },
+            "currentLine": {
+              "homeOdds": 173,
+              "awayOdds": -217
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": 133,
+              "awayOdds": -194
+            },
+            "currentLine": {
+              "homeOdds": 194,
+              "awayOdds": -199
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": 126,
+              "awayOdds": -200
+            },
+            "currentLine": {
+              "homeOdds": 186,
+              "awayOdds": -204
+            }
+          }
+        ],
+        "pointspread": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -137,
+              "awayOdds": -107,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 119,
+              "awayOdds": -143,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -133,
+              "awayOdds": -108,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 122,
+              "awayOdds": -127,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -131,
+              "awayOdds": -118,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 119,
+              "awayOdds": -129,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-07-06T22:40:00+00:00",
+        "awayTeam": {
+          "name": "New York",
+          "fullName": "New York Yankees",
+          "shortName": "NYY",
+          "displayName": "NY Yankees",
+          "nickname": "Yankees",
+          "rank": -1
+        },
+        "awayTeamScore": 5,
+        "homeTeam": {
+          "name": "Tampa Bay",
+          "fullName": "Tampa Bay Rays",
+          "shortName": "TB",
+          "displayName": "Tampa Bay",
+          "nickname": "Rays",
+          "rank": -1
+        },
+        "homeTeamScore": 1,
+        "gameStatusText": "Final",
+        "venueName": "Tropicana Field",
+        "gameType": "R"
+      },
+      "odds": {
+        "totals": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "overOdds": -5263,
+              "underOdds": -5263,
+              "total": 2.5
+            },
+            "currentLine": {
+              "overOdds": 109,
+              "underOdds": -132,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "overOdds": 127,
+              "underOdds": -190,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": 117,
+              "underOdds": -122,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "overOdds": -120,
+              "underOdds": -143,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -111,
+              "underOdds": 103,
+              "total": 7
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -1429,
+              "awayOdds": -2041
+            },
+            "currentLine": {
+              "homeOdds": 101,
+              "awayOdds": -127
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -135,
+              "awayOdds": -111
+            },
+            "currentLine": {
+              "homeOdds": 113,
+              "awayOdds": -115
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -147,
+              "awayOdds": -116
+            },
+            "currentLine": {
+              "homeOdds": 111,
+              "awayOdds": -120
+            }
+          }
+        ],
+        "pointspread": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -263,
+              "awayOdds": 146,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -167,
+              "awayOdds": 140,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": 174,
+              "awayOdds": -251,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -156,
+              "awayOdds": 153,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -255,
+              "awayOdds": 143,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -161,
+              "awayOdds": 147,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-07-06T22:45:00+00:00",
+        "awayTeam": {
+          "name": "Houston",
+          "fullName": "Houston Astros",
+          "shortName": "HOU",
+          "displayName": "Houston",
+          "nickname": "Astros",
+          "rank": -1
+        },
+        "awayTeamScore": 11,
+        "homeTeam": {
+          "name": "Washington",
+          "fullName": "Washington Nationals",
+          "shortName": "WAS",
+          "displayName": "Washington",
+          "nickname": "Nationals",
+          "rank": -1
+        },
+        "homeTeamScore": 12,
+        "gameStatusText": "Final",
+        "venueName": "Nationals Park",
+        "gameType": "R"
+      },
+      "odds": {
+        "totals": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "overOdds": -5263,
+              "underOdds": -5263,
+              "total": 5.5
+            },
+            "currentLine": {
+              "overOdds": -120,
+              "underOdds": 101,
+              "total": 9.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "overOdds": -127,
+              "underOdds": -104,
+              "total": 9.5
+            },
+            "currentLine": {
+              "overOdds": -117,
+              "underOdds": 111,
+              "total": 9.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "overOdds": -121,
+              "underOdds": -137,
+              "total": 10
+            },
+            "currentLine": {
+              "overOdds": 100,
+              "underOdds": -109,
+              "total": 10
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -5263,
+              "awayOdds": -2041
+            },
+            "currentLine": {
+              "homeOdds": -116,
+              "awayOdds": -103
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -144,
+              "awayOdds": 127
+            },
+            "currentLine": {
+              "homeOdds": -106,
+              "awayOdds": 102
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -163,
+              "awayOdds": -105
+            },
+            "currentLine": {
+              "homeOdds": -106,
+              "awayOdds": 101
+            }
+          }
+        ],
+        "pointspread": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": 124,
+              "awayOdds": -218,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -192,
+              "awayOdds": 152,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": 133,
+              "awayOdds": -194,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -174,
+              "awayOdds": 160,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": 124,
+              "awayOdds": -204,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -176,
+              "awayOdds": 161,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-07-06T23:15:00+00:00",
+        "awayTeam": {
+          "name": "New York",
+          "fullName": "New York Mets",
+          "shortName": "NYM",
+          "displayName": "NY Mets",
+          "nickname": "Mets",
+          "rank": -1
+        },
+        "awayTeamScore": 7,
+        "homeTeam": {
+          "name": "Atlanta",
+          "fullName": "Atlanta Braves",
+          "shortName": "ATL",
+          "displayName": "Atlanta",
+          "nickname": "Braves",
+          "rank": -1
+        },
+        "homeTeamScore": 6,
+        "gameStatusText": "Final (10)",
+        "venueName": "Truist Park",
+        "gameType": "R"
+      },
+      "odds": {
+        "totals": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "overOdds": -5263,
+              "underOdds": -11111,
+              "total": 3.5
+            },
+            "currentLine": {
+              "overOdds": -137,
+              "underOdds": 114,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "overOdds": -120,
+              "underOdds": -111,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -130,
+              "underOdds": 120,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "overOdds": -135,
+              "underOdds": -126,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": -105,
+              "underOdds": -101,
+              "total": 9
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -1429,
+              "awayOdds": -2041
+            },
+            "currentLine": {
+              "homeOdds": -132,
+              "awayOdds": 105
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -141,
+              "awayOdds": -106
+            },
+            "currentLine": {
+              "homeOdds": -120,
+              "awayOdds": 113
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -147,
+              "awayOdds": 111
+            },
+            "currentLine": {
+              "homeOdds": -121,
+              "awayOdds": 113
+            }
+          }
+        ],
+        "pointspread": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": 146,
+              "awayOdds": -263,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 146,
+              "awayOdds": -182,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": 156,
+              "awayOdds": -212,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 163,
+              "awayOdds": -167,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": 163,
+              "awayOdds": -225,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": 510,
+              "awayOdds": -602,
+              "homeSpread": -4.5,
+              "awaySpread": 4.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-07-06T23:45:00+00:00",
+        "awayTeam": {
+          "name": "Milwaukee",
+          "fullName": "Milwaukee Brewers",
+          "shortName": "MIL",
+          "displayName": "Milwaukee",
+          "nickname": "Brewers",
+          "rank": -1
+        },
+        "awayTeamScore": 4,
+        "homeTeam": {
+          "name": "St. Louis",
+          "fullName": "St. Louis Cardinals",
+          "shortName": "STL",
+          "displayName": "St. Louis",
+          "nickname": "Cardinals",
+          "rank": -1
+        },
+        "homeTeamScore": 3,
+        "gameStatusText": "Final",
+        "venueName": "Busch Stadium",
+        "gameType": "R"
+      },
+      "odds": {
+        "totals": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "overOdds": -5263,
+              "underOdds": -5263,
+              "total": 2.5
+            },
+            "currentLine": {
+              "overOdds": 105,
+              "underOdds": -132,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "overOdds": -130,
+              "underOdds": -104,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": 113,
+              "underOdds": -117,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "overOdds": -123,
+              "underOdds": -135,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -633,
+              "underOdds": 100,
+              "total": 4.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -1429,
+              "awayOdds": -2041
+            },
+            "currentLine": {
+              "homeOdds": -103,
+              "awayOdds": -120
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -117,
+              "awayOdds": -133
+            },
+            "currentLine": {
+              "homeOdds": 108,
+              "awayOdds": -113
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -115,
+              "awayOdds": -135
+            },
+            "currentLine": {
+              "homeOdds": 108,
+              "awayOdds": -116
+            }
+          }
+        ],
+        "pointspread": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -218,
+              "awayOdds": 129,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -161,
+              "awayOdds": 134,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -170,
+              "awayOdds": 150,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -153,
+              "awayOdds": 144,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -202,
+              "awayOdds": 123,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 764,
+              "awayOdds": 466,
+              "homeSpread": -4.5,
+              "awaySpread": 4.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-07-07T01:40:00+00:00",
+        "awayTeam": {
+          "name": "Arizona",
+          "fullName": "Arizona Diamondbacks",
+          "shortName": "AZ",
+          "displayName": "Arizona",
+          "nickname": "Diamondbacks",
+          "rank": -1
+        },
+        "awayTeamScore": 8,
+        "homeTeam": {
+          "name": "San Diego",
+          "fullName": "San Diego Padres",
+          "shortName": "SD",
+          "displayName": "San Diego",
+          "nickname": "Padres",
+          "rank": -1
+        },
+        "homeTeamScore": 0,
+        "gameStatusText": "Final",
+        "venueName": "Petco Park",
+        "gameType": "R"
+      },
+      "odds": {
+        "totals": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "overOdds": -5263,
+              "underOdds": -5263,
+              "total": 3.5
+            },
+            "currentLine": {
+              "overOdds": -108,
+              "underOdds": -111,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "overOdds": -138,
+              "underOdds": -104,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": 104,
+              "underOdds": -108,
+              "total": 8.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "overOdds": -108,
+              "underOdds": 120,
+              "total": 8.5
+            },
+            "currentLine": {
+              "overOdds": 100,
+              "underOdds": -108,
+              "total": 8.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -1429,
+              "awayOdds": -2041
+            },
+            "currentLine": {
+              "homeOdds": -132,
+              "awayOdds": 105
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -117,
+              "awayOdds": -122
+            },
+            "currentLine": {
+              "homeOdds": -122,
+              "awayOdds": 115
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -135,
+              "awayOdds": -122
+            },
+            "currentLine": {
+              "homeOdds": -122,
+              "awayOdds": 114
+            }
+          }
+        ],
+        "pointspread": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -182,
+              "awayOdds": 129,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 159,
+              "awayOdds": -192,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -194,
+              "awayOdds": 133,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 170,
+              "awayOdds": -182,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -198,
+              "awayOdds": 133,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": 169,
+              "awayOdds": -184,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-07-07T01:45:00+00:00",
+        "awayTeam": {
+          "name": "Toronto",
+          "fullName": "Toronto Blue Jays",
+          "shortName": "TOR",
+          "displayName": "Toronto",
+          "nickname": "Blue Jays",
+          "rank": -1
+        },
+        "awayTeamScore": 1,
+        "homeTeam": {
+          "name": "San Francisco",
+          "fullName": "San Francisco Giants",
+          "shortName": "SF",
+          "displayName": "San Francisco",
+          "nickname": "Giants",
+          "rank": -1
+        },
+        "homeTeamScore": 10,
+        "gameStatusText": "Final",
+        "venueName": "Oracle Park",
+        "gameType": "R"
+      },
+      "odds": {
+        "totals": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "overOdds": -131,
+              "underOdds": -103,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": -111,
+              "underOdds": -108,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "overOdds": -127,
+              "underOdds": -104,
+              "total": 7.5
+            },
+            "currentLine": {
+              "overOdds": 102,
+              "underOdds": -104,
+              "total": 7.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "overOdds": -122,
+              "underOdds": -135,
+              "total": 8
+            },
+            "currentLine": {
+              "overOdds": -106,
+              "underOdds": -105,
+              "total": 7.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -1429,
+              "awayOdds": -2041
+            },
+            "currentLine": {
+              "homeOdds": -108,
+              "awayOdds": -116
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -108,
+              "awayOdds": 100
+            },
+            "currentLine": {
+              "homeOdds": 104,
+              "awayOdds": -106
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -124,
+              "awayOdds": -131
+            },
+            "currentLine": {
+              "homeOdds": 101,
+              "awayOdds": -109
+            }
+          }
+        ],
+        "pointspread": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -199,
+              "awayOdds": 140,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -175,
+              "awayOdds": 146,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -208,
+              "awayOdds": 147,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -163,
+              "awayOdds": 153,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -209,
+              "awayOdds": 127,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            },
+            "currentLine": {
+              "homeOdds": -165,
+              "awayOdds": 153,
+              "homeSpread": 1.5,
+              "awaySpread": -1.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "gameView": {
+        "startDate": "2026-07-07T02:10:00+00:00",
+        "awayTeam": {
+          "name": "Colorado",
+          "fullName": "Colorado Rockies",
+          "shortName": "COL",
+          "displayName": "Colorado",
+          "nickname": "Rockies",
+          "rank": -1
+        },
+        "awayTeamScore": 7,
+        "homeTeam": {
+          "name": "Los Angeles",
+          "fullName": "Los Angeles Dodgers",
+          "shortName": "LAD",
+          "displayName": "LA Dodgers",
+          "nickname": "Dodgers",
+          "rank": -1
+        },
+        "homeTeamScore": 8,
+        "gameStatusText": "Final (11)",
+        "venueName": "UNIQLO Field at Dodger Stadium",
+        "gameType": "R"
+      },
+      "odds": {
+        "totals": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "overOdds": -121,
+              "underOdds": -116,
+              "total": 10.5
+            },
+            "currentLine": {
+              "overOdds": -120,
+              "underOdds": 101,
+              "total": 9.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "overOdds": -125,
+              "underOdds": -115,
+              "total": 10.5
+            },
+            "currentLine": {
+              "overOdds": -106,
+              "underOdds": 104,
+              "total": 9.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "overOdds": -119,
+              "underOdds": -114,
+              "total": 10.5
+            },
+            "currentLine": {
+              "overOdds": -111,
+              "underOdds": 102,
+              "total": 9.5
+            }
+          }
+        ],
+        "moneyline": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -1429,
+              "awayOdds": -2041
+            },
+            "currentLine": {
+              "homeOdds": -250,
+              "awayOdds": 208
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": -208,
+              "awayOdds": 141
+            },
+            "currentLine": {
+              "homeOdds": -223,
+              "awayOdds": 217
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -235,
+              "awayOdds": 131
+            },
+            "currentLine": {
+              "homeOdds": -230,
+              "awayOdds": 216
+            }
+          }
+        ],
+        "pointspread": [
+          {
+            "sportsbook": "kalshi",
+            "openingLine": {
+              "homeOdds": -103,
+              "awayOdds": -137,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -132,
+              "awayOdds": 109,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "novig",
+            "openingLine": {
+              "homeOdds": 102,
+              "awayOdds": -147,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -122,
+              "awayOdds": 117,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          },
+          {
+            "sportsbook": "prophetx",
+            "openingLine": {
+              "homeOdds": -110,
+              "awayOdds": -145,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            },
+            "currentLine": {
+              "homeOdds": -118,
+              "awayOdds": 117,
+              "homeSpread": -1.5,
+              "awaySpread": 1.5
+            }
+          }
+        ]
+      }
+    }
   ]
 }
