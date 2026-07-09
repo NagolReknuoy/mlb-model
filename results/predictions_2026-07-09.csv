@@ -1,0 +1,14 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Pittsburgh Pirates,Atlanta Braves,Mitch Keller,Bryce Elder,49.5,50.5,10.98,0.97,pitcher,high RF wall; spacious,unknown,1.0,1-4 (home-away),8.77,6.871
+New York Mets,Kansas City Royals,Sean Manaea,Michael Wacha,51.3,48.7,10.97,0.951,pitcher,sea-level; large dimensions,unknown,1.0,1-1 (home-away),6.567,7.419
+Tampa Bay Rays,New York Yankees,Drew Rasmussen,Paul Blackburn,77.6,22.4,8.95,0.98,neutral,dome; artificial turf,dome,1.0,6-2 (home-away),5.973,1.614
+Baltimore Orioles,Chicago Cubs,Trevor Rogers,David Peterson,40.5,59.5,10.38,1.051,hitter,short RF; warm summers,unknown,1.0,0-2 (home-away),4.806,8.057
+Minnesota Twins,Cleveland Guardians,Bailey Ober,Gavin Williams,73.0,27.0,9.36,1.06,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,4-1 (home-away),6.256,3.811
+Chicago White Sox,Boston Red Sox,Anthony Kay,Patrick Sandoval,22.2,77.8,8.98,1.131,neutral,July is extreme hitter month (+12 pts),unknown,1.0,0-2 (home-away),3.093,6.526
+Detroit Tigers,Athletics,Framber Valdez,Jack Perkins,76.9,23.1,8.98,1.018,pitcher,very deep CF historically,unknown,1.0,2-0 (home-away),9.936,2.998
+Miami Marlins,Seattle Mariners,Janson Junk,Bryce Miller,52.7,47.3,7.41,0.98,neutral,roof often closed; average park,dome,1.0,2-0 (home-away),3.759,3.615
+Cincinnati Reds,Philadelphia Phillies,Brady Singer,Jesús Luzardo,38.6,61.4,10.09,1.06,hitter,one of the top HR parks in MLB,unknown,1.0,3-2 (home-away),4.626,6.394
+St. Louis Cardinals,Milwaukee Brewers,Andre Pallante,Logan Henderson,35.2,64.8,7.94,0.99,neutral,natural grass; moderate dimensions,"84°F, wind 3 mph",1.006,2-7 (home-away),3.274,4.4
+Texas Rangers,Los Angeles Angels,Nathan Eovaldi,Reid Detmers,57.7,42.3,8.6,1.04,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,1-4 (home-away),4.567,4.045
+San Diego Padres,Arizona Diamondbacks,Griffin Canning,Merrill Kelly,32.8,67.2,9.78,0.988,pitcher,marine layer; large dimensions,"68°F, wind 6 mph",0.999,3-2 (home-away),4.244,5.88
+San Francisco Giants,Colorado Rockies,Nan,Ryan Feltner,49.5,50.5,11.02,0.931,pitcher,marine layer; bay wind tricky in RF,"61°F, wind 17 mph",0.996,2-4 (home-away),5.885,8.438

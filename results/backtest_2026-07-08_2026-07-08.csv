@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-07-08,San Francisco Giants,Toronto Blue Jays,0,10,10,Toronto Blue Jays,Toronto Blue Jays,48.5,51.5,True,51.5,7.07,2.9299999999999997,True,LOW,7.5,OVER
+2026-07-08,Baltimore Orioles,Chicago Cubs,7,9,16,Chicago Cubs,Chicago Cubs,43.5,56.5,True,56.5,10.48,5.52,True,LOW,10.5,OVER
+2026-07-08,Detroit Tigers,Athletics,6,1,7,Detroit Tigers,Detroit Tigers,77.5,22.5,True,77.5,9.01,2.01,True,HIGH,9.5,UNDER
+2026-07-08,Pittsburgh Pirates,Atlanta Braves,0,3,3,Atlanta Braves,Pittsburgh Pirates,50.4,49.6,False,50.4,11.05,8.05,False,HIGH,9.5,UNDER
+2026-07-08,Miami Marlins,Seattle Mariners,2,0,2,Miami Marlins,Seattle Mariners,40.8,59.2,False,59.2,8.0,6.0,False,HIGH,8.5,UNDER
+2026-07-08,Tampa Bay Rays,New York Yankees,3,0,3,Tampa Bay Rays,Tampa Bay Rays,71.3,28.7,True,71.3,8.33,5.33,True,HIGH,7.5,UNDER
+2026-07-08,Washington Nationals,Houston Astros,8,2,10,Washington Nationals,Houston Astros,49.4,50.6,False,50.6,11.01,1.0099999999999998,False,HIGH,10.0,PUSH
+2026-07-08,New York Mets,Kansas City Royals,6,2,8,New York Mets,Kansas City Royals,49.6,50.4,False,50.4,11.0,3.0,False,HIGH,9.5,UNDER
+2026-07-08,Cincinnati Reds,Philadelphia Phillies,11,5,16,Cincinnati Reds,Cincinnati Reds,50.7,49.3,True,50.7,10.96,5.039999999999999,True,LOW,8.5,OVER
+2026-07-08,Minnesota Twins,Cleveland Guardians,6,5,11,Minnesota Twins,Minnesota Twins,73.8,26.2,True,73.8,9.31,1.6899999999999995,False,LOW,8.5,OVER
+2026-07-08,Chicago White Sox,Boston Red Sox,0,5,5,Boston Red Sox,Boston Red Sox,22.4,77.6,True,77.6,9.06,4.0600000000000005,True,HIGH,8.5,UNDER
+2026-07-08,St. Louis Cardinals,Milwaukee Brewers,5,1,6,St. Louis Cardinals,Milwaukee Brewers,43.5,56.5,False,56.5,7.41,1.4100000000000001,False,HIGH,8.5,UNDER
+2026-07-08,Texas Rangers,Los Angeles Angels,1,13,14,Los Angeles Angels,Texas Rangers,59.2,40.8,False,59.2,9.86,4.140000000000001,False,LOW,7.5,OVER
+2026-07-08,Los Angeles Dodgers,Colorado Rockies,4,3,7,Los Angeles Dodgers,Colorado Rockies,49.7,50.3,False,50.3,10.99,3.99,False,HIGH,10.5,UNDER
+2026-07-08,San Diego Padres,Arizona Diamondbacks,10,4,14,San Diego Padres,Arizona Diamondbacks,34.9,65.1,False,65.1,9.95,4.050000000000001,False,LOW,8.5,OVER
