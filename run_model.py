@@ -36,6 +36,9 @@ def run_model(today: date = None, output_csv: bool = False, fetch_odds_data: boo
     if today is None:
         today = date.today()
 
+    if output_csv:
+        os.makedirs("results", exist_ok=True)
+
     print(f"\n{'='*60}")
     print(f"  MLB Run Model | {today}")
     print(f"{'='*60}\n")
@@ -216,7 +219,6 @@ def run_model(today: date = None, output_csv: bool = False, fetch_odds_data: boo
         print("\n[odds] skipped (--no-odds flag set)")
 
     if output_csv:
-        os.makedirs("results", exist_ok=True)
         path = f"results/predictions_{today}.csv"
         df.to_csv(path, index=False)
         print(f"\n[model] saved → {path}")
