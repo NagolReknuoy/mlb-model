@@ -1,8 +1,0 @@
-type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
-Total,OVER  8.0,-113.5,0.0782,0.5053,0.5835,True,0.8811,2026-06-25,Tampa Bay Rays vs Kansas City Royals
-Moneyline,Pittsburgh Pirates ML,127.5,0.25,0.4197,0.728,True,1.275,2026-06-25,Pittsburgh Pirates vs Seattle Mariners
-Total,UNDER 8.5,-115.0,0.0969,0.5108,0.6078,True,0.8696,2026-06-25,Pittsburgh Pirates vs Seattle Mariners
-Total,UNDER 9.0,-105.5,0.2,0.4873,0.7,True,0.9479,2026-06-25,Detroit Tigers vs Houston Astros
-Moneyline,Chicago Cubs ML,-110.0,0.239,0.5,0.739,True,0.9091,2026-06-25,New York Mets vs Chicago Cubs
-Run Line,Chicago Cubs +1.5,145.5,0.0567,0.3867,0.4434,False,-1.0,2026-06-25,New York Mets vs Chicago Cubs
-Total,UNDER 8.0,-110.0,0.1331,0.5,0.6331,False,-1.0,2026-06-25,Boston Red Sox vs New York Yankees

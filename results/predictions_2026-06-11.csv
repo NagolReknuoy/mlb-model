@@ -1,9 +1,0 @@
-Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
-New York Mets,St. Louis Cardinals,Christian Scott,Hunter Dobbins,38.0,62.0,7.72,0.97,pitcher,sea-level; large dimensions,unknown,1.0,1-4 (home-away),3.136,4.253
-Detroit Tigers,Minnesota Twins,Keider Montero,Zebby Matthews,65.2,34.8,9.92,0.989,pitcher,very deep CF historically,unknown,1.0,1-5 (home-away),6.186,4.446
-Miami Marlins,Arizona Diamondbacks,Tyler Phillips,Merrill Kelly,76.5,23.5,8.98,0.99,neutral,roof often closed; average park,dome,1.0,2-0 (home-away),6.175,2.908
-Kansas City Royals,Texas Rangers,Michael Wacha,Kumar Rocker,37.5,62.5,7.82,0.96,pitcher,large dimensions; spray park,unknown,1.0,1-4 (home-away),3.383,4.306
-Colorado Rockies,Chicago Cubs,Ryan Feltner,Edward Cabrera,49.3,50.7,11.04,1.198,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,2-0 (home-away),8.14,5.597
-Pittsburgh Pirates,Los Angeles Dodgers,Mitch Keller,Justin Wrobleski,34.1,65.9,9.82,0.979,pitcher,high RF wall; spacious,unknown,1.0,1-1 (home-away),4.327,10.448
-Baltimore Orioles,Seattle Mariners,Kyle Bradish,Bryan Woo,47.2,52.8,9.86,1.061,hitter,short RF; warm summers,unknown,1.0,1-2 (home-away),4.854,5.013
-Chicago White Sox,Atlanta Braves,Nan,Martín Pérez,51.2,48.8,8.6,0.99,neutral,July is extreme hitter month (+12 pts),unknown,1.0,2-0 (home-away),4.343,4.22

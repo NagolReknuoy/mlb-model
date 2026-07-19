@@ -1,9 +1,0 @@
-Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
-Kansas City Royals,Philadelphia Phillies,Noah Cameron,Cristopher Sánchez,22.0,78.0,8.97,0.96,pitcher,large dimensions; spray park,unknown,1.0,1-1 (home-away),2.683,8.798
-Tampa Bay Rays,New York Yankees,Griffin Jax,Cam Schlittler,77.6,22.4,8.95,0.98,neutral,dome; artificial turf,dome,1.0,4-1 (home-away),6.526,1.841
-Washington Nationals,Houston Astros,Miles Mikolas,Mike Burrows,49.9,50.1,10.95,0.99,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,no prior meetings,6.671,5.769
-Atlanta Braves,New York Mets,Reynaldo López,Freddy Peralta,69.6,30.4,9.69,1.01,hitter,warm humid air; June winds boost offense,unknown,1.0,3-3 (home-away),6.115,4.129
-St. Louis Cardinals,Milwaukee Brewers,Dustin May,Shane Drohan,44.1,55.9,8.19,0.99,neutral,natural grass; moderate dimensions,"87°F, wind 6 mph",1.038,1-4 (home-away),3.946,4.283
-San Diego Padres,Arizona Diamondbacks,Walker Buehler,Brandon Pfaadt,27.0,73.0,9.26,0.988,pitcher,marine layer; large dimensions,"71°F, wind 8 mph",1.04,1-1 (home-away),3.793,5.844
-San Francisco Giants,Toronto Blue Jays,Landen Roupp,Kevin Gausman,50.3,49.7,7.02,0.931,pitcher,marine layer; bay wind tricky in RF,"57°F, wind 15 mph",0.995,no prior meetings,3.24,3.504
-Los Angeles Dodgers,Colorado Rockies,Eric Lauer,Kyle Freeland,50.1,49.9,11.0,0.979,pitcher,marine layer suppresses carry; spacious foul territory,"72°F, wind 8 mph",0.97,5-2 (home-away),9.246,6.327

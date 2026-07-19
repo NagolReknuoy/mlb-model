@@ -1,7 +1,0 @@
-date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
-2026-05-28,Detroit Tigers,Los Angeles Angels,1,7,8,Los Angeles Angels,Los Angeles Angels,32.0,68.0,True,68.0,8.11,0.10999999999999943,True,HIGH,8.5,UNDER
-2026-05-28,Chicago White Sox,Minnesota Twins,6,2,8,Chicago White Sox,Chicago White Sox,72.5,27.5,True,72.5,9.41,1.4100000000000001,True,HIGH,7.5,OVER
-2026-05-28,Boston Red Sox,Atlanta Braves,2,10,12,Atlanta Braves,Atlanta Braves,33.6,66.4,True,66.4,8.02,3.9800000000000004,True,LOW,7.0,OVER
-2026-05-28,Baltimore Orioles,Toronto Blue Jays,1,2,3,Toronto Blue Jays,Toronto Blue Jays,34.0,66.0,True,66.0,7.99,4.99,False,HIGH,8.5,UNDER
-2026-05-28,Pittsburgh Pirates,Chicago Cubs,2,7,9,Chicago Cubs,Pittsburgh Pirates,76.9,23.1,False,76.9,8.99,0.009999999999999787,False,LOW,7.5,OVER
-2026-05-28,Texas Rangers,Houston Astros,1,5,6,Houston Astros,Houston Astros,34.3,65.7,True,65.7,8.01,2.01,True,HIGH,7.0,UNDER

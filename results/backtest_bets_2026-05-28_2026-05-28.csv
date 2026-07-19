@@ -1,9 +1,0 @@
-type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
-Moneyline,Los Angeles Angels ML,110.0,0.2227,0.4573,0.68,True,1.1,2026-05-28,Detroit Tigers vs Los Angeles Angels
-Total,UNDER 8.5,-110.0,0.1327,0.5,0.6327,True,0.9091,2026-05-28,Detroit Tigers vs Los Angeles Angels
-Moneyline,Chicago White Sox ML,-155.0,0.1436,0.5814,0.725,True,0.6452,2026-05-28,Chicago White Sox vs Minnesota Twins
-Moneyline,Atlanta Braves ML,-135.5,0.111,0.553,0.664,True,0.738,2026-05-28,Boston Red Sox vs Atlanta Braves
-Moneyline,Toronto Blue Jays ML,108.5,0.201,0.459,0.66,True,1.085,2026-05-28,Baltimore Orioles vs Toronto Blue Jays
-Total,UNDER 8.5,-107.5,0.1455,0.4946,0.6401,True,0.9302,2026-05-28,Baltimore Orioles vs Toronto Blue Jays
-Moneyline,Pittsburgh Pirates ML,-174.5,0.16,0.609,0.769,False,-1.0,2026-05-28,Pittsburgh Pirates vs Chicago Cubs
-Moneyline,Houston Astros ML,124.0,0.2301,0.4269,0.657,True,1.24,2026-05-28,Texas Rangers vs Houston Astros

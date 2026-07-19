@@ -1,2 +1,0 @@
-date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
-2026-07-16,Philadelphia Phillies,New York Mets,1,4,5,New York Mets,Philadelphia Phillies,50.3,49.7,False,50.3,10.95,5.949999999999999,False,HIGH,9.5,UNDER

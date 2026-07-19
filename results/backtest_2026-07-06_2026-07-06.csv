@@ -1,9 +1,0 @@
-date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
-2026-07-06,Kansas City Royals,Philadelphia Phillies,15,1,16,Kansas City Royals,Philadelphia Phillies,32.7,67.3,False,67.3,9.7,6.300000000000001,False,LOW,8.5,OVER
-2026-07-06,Tampa Bay Rays,New York Yankees,1,5,6,New York Yankees,Tampa Bay Rays,70.5,29.5,False,70.5,8.31,2.3100000000000005,False,HIGH,7.5,UNDER
-2026-07-06,Washington Nationals,Houston Astros,12,11,23,Washington Nationals,Houston Astros,49.7,50.3,False,50.3,10.98,12.02,False,LOW,9.5,OVER
-2026-07-06,Atlanta Braves,New York Mets,6,7,13,New York Mets,Atlanta Braves,60.5,39.5,False,60.5,10.26,2.74,False,LOW,8.5,OVER
-2026-07-06,St. Louis Cardinals,Milwaukee Brewers,3,4,7,Milwaukee Brewers,St. Louis Cardinals,57.5,42.5,False,57.5,7.5,0.5,False,HIGH,8.5,UNDER
-2026-07-06,San Diego Padres,Arizona Diamondbacks,0,8,8,Arizona Diamondbacks,Arizona Diamondbacks,23.2,76.8,True,76.8,9.0,1.0,True,HIGH,8.5,UNDER
-2026-07-06,San Francisco Giants,Toronto Blue Jays,10,1,11,San Francisco Giants,San Francisco Giants,60.8,39.2,True,60.8,7.67,3.33,True,LOW,7.5,OVER
-2026-07-06,Los Angeles Dodgers,Colorado Rockies,8,7,15,Los Angeles Dodgers,Los Angeles Dodgers,50.2,49.8,True,50.2,11.0,4.0,False,LOW,9.5,OVER

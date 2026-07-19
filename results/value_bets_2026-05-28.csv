@@ -1,8 +1,0 @@
-Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
-Baltimore Orioles vs Toronto Blue Jays,Toronto Blue Jays ML,+110,46.1%,70.4%,0.24333958418263357,Strong,Moneyline
-Pittsburgh Pirates vs Chicago Cubs,OVER  7.5,-107,49.5%,68.0%,0.18505506993957155,Strong,Total
-Pittsburgh Pirates vs Chicago Cubs,Pittsburgh Pirates ML,-172,60.8%,77.4%,0.16626997404095767,Strong,Moneyline
-Pittsburgh Pirates vs Chicago Cubs,Pittsburgh Pirates -1.5,+129,42.1%,56.2%,0.1411096297491815,Strong,Run Line
-Texas Rangers vs Houston Astros,Texas Rangers ML,-134,55.1%,68.6%,0.1353432675320685,Strong,Moneyline
-Texas Rangers vs Houston Astros,OVER  7.5,+102,47.3%,59.5%,0.12173924063151348,Strong,Total
-Texas Rangers vs Houston Astros,Texas Rangers -1.5,+160,37.0%,44.8%,0.07824874682686916,Lean,Run Line
