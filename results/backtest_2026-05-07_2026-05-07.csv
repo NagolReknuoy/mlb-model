@@ -1,0 +1,11 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-07,New York Yankees,Texas Rangers,9,2,11,New York Yankees,New York Yankees,76.8,23.2,True,76.8,8.91,2.09,True,LOW,8.5,OVER
+2026-05-07,Washington Nationals,Minnesota Twins,7,5,12,Washington Nationals,Minnesota Twins,48.8,51.2,False,51.2,11.02,0.9800000000000004,False,LOW,9.25,OVER
+2026-05-07,Kansas City Royals,Cleveland Guardians,5,8,13,Cleveland Guardians,Cleveland Guardians,49.4,50.6,True,50.6,7.02,5.98,True,LOW,10.5,OVER
+2026-05-07,Chicago Cubs,Cincinnati Reds,8,3,11,Chicago Cubs,Chicago Cubs,77.4,22.6,True,77.4,8.97,2.0299999999999994,True,LOW,9.0,OVER
+2026-05-07,Colorado Rockies,New York Mets,6,2,8,Colorado Rockies,New York Mets,50.0,50.0,False,50.0,10.98,2.9800000000000004,False,HIGH,11.0,UNDER
+2026-05-07,Arizona Diamondbacks,Pittsburgh Pirates,2,4,6,Pittsburgh Pirates,Pittsburgh Pirates,38.7,61.3,True,61.3,10.14,4.140000000000001,True,HIGH,8.5,UNDER
+2026-05-07,Philadelphia Phillies,Athletics,1,12,13,Athletics,Philadelphia Phillies,63.4,36.6,False,63.4,9.04,3.960000000000001,False,LOW,9.0,OVER
+2026-05-07,Miami Marlins,Baltimore Orioles,4,3,7,Miami Marlins,Miami Marlins,67.2,32.8,True,67.2,8.72,1.7200000000000006,False,HIGH,8.5,UNDER
+2026-05-07,Boston Red Sox,Tampa Bay Rays,4,8,12,Tampa Bay Rays,Tampa Bay Rays,49.7,50.3,True,50.3,6.99,5.01,True,LOW,8.5,OVER
+2026-05-07,San Diego Padres,St. Louis Cardinals,1,2,3,St. Louis Cardinals,St. Louis Cardinals,26.9,73.1,True,73.1,8.62,5.619999999999999,False,HIGH,8.0,UNDER

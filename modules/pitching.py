@@ -1,6 +1,4 @@
-# =============================================================================
 # pitching.py — Probable starters + Statcast metrics (2-year blended)
-# =============================================================================
 
 import requests
 import pandas as pd
@@ -128,8 +126,7 @@ def pitch_factor(velo, kbb, whip, lg_velo, lg_kbb,
     """
     factors = []
 
-    # ERA proxy component (60% weight)
-    # League avg ERA for starters ~4.30, good=3.50, bad=5.50
+    
     lg_era_val = lg_era if (lg_era and not pd.isna(lg_era)) else 4.30
     if era_proxy is not None and not pd.isna(era_proxy) and era_proxy > 0:
         # Higher ERA = more runs, so era/lg_era > 1 means worse pitcher

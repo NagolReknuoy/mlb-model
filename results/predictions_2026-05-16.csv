@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Toronto Blue Jays,Casey Mize,Mason Fluharty,32.8,67.2,8.07,0.941,pitcher,very deep CF historically,"80°F, wind 9 mph",0.969,1-0 (home-away),2.334,4.577
+St. Louis Cardinals,Kansas City Royals,Kyle Leahy,Noah Cameron,72.1,27.9,8.52,1.03,neutral,natural grass; moderate dimensions,"76°F, wind 7 mph",0.974,1-0 (home-away),5.045,3.1
+Colorado Rockies,Arizona Diamondbacks,Tomoyuki Sugano,Eduardo Rodriguez,24.9,75.1,9.2,1.175,hitter,"5,200 ft altitude; most extreme hitter park","71°F, wind 11 mph",1.057,0-1 (home-away),3.739,7.141
+Washington Nationals,Baltimore Orioles,Cade Cavalli,Chris Bassitt,50.6,49.4,11.0,1.0,neutral,cold Aprils very suppressive (-9 pts),"82°F, wind 12 mph",1.005,1-0 (home-away),6.572,5.571
+Pittsburgh Pirates,Philadelphia Phillies,Bubba Chandler,Cristopher Sánchez,33.9,66.1,9.79,0.95,pitcher,high RF wall; spacious,"73°F, wind 3 mph",1.015,0-1 (home-away),4.32,7.037
+Tampa Bay Rays,Miami Marlins,Nick Martinez,Sandy Alcantara,77.4,22.6,8.97,1.0,neutral,dome; artificial turf,dome,1.0,1-0 (home-away),6.669,2.468
+Cleveland Guardians,Cincinnati Reds,Joey Cantillo,Chris Paddack,68.7,31.3,9.68,0.941,neutral,below-average HR park,"74°F, wind 6 mph",1.033,0-1 (home-away),5.963,4.187
+Houston Astros,Texas Rangers,Kai-Wei Teng,Jacob Degrom,49.8,50.2,6.97,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,1-0 (home-away),1.951,3.397
+Chicago White Sox,Chicago Cubs,Davis Martin,Jameson Taillon,46.3,53.7,9.14,1.01,neutral,July is extreme hitter month (+12 pts),"80°F, wind 4 mph",0.989,0-1 (home-away),4.434,4.688
+Minnesota Twins,Milwaukee Brewers,Connor Prielipp,Logan Henderson,23.1,76.9,9.01,0.96,neutral,cold Aprils suppress offense (-8 pts),"76°F, wind 8 mph",1.045,0-1 (home-away),2.644,6.017
+Seattle Mariners,San Diego Padres,Logan Gilbert,Walker Buehler,49.6,50.4,7.03,0.98,pitcher,marine air; roof often closed,dome,1.0,0-4 (home-away),3.512,1.775
+Atlanta Braves,Boston Red Sox,Bryce Elder,Payton Tolle,50.2,49.8,6.97,1.02,hitter,warm humid air; June winds boost offense,"85°F, wind 7 mph",0.978,1-0 (home-away),2.204,1.807
+New York Mets,New York Yankees,Huascar Brazobán,Carlos Rodón,49.6,50.4,6.97,0.989,pitcher,sea-level; large dimensions,"70°F, wind 13 mph",0.948,0-1 (home-away),3.394,3.137
+Los Angeles Angels,Los Angeles Dodgers,José Soriano,Justin Wrobleski,23.5,76.5,8.86,1.0,neutral,symmetrical; marine layer suppresses HRs,"65°F, wind 9 mph",1.042,0-1 (home-away),1.921,5.35
+Athletics,San Francisco Giants,Luis Severino,Trevor Mcdonald,78.4,21.6,9.1,1.018,pitcher,largest foul territory in MLB,unknown,1.0,1-0 (home-away),5.946,3.428

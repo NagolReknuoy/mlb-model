@@ -1,0 +1,18 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Washington Nationals ML,-102.0,0.1894,0.4976,0.687,True,0.9804,2026-05-31,Washington Nationals vs San Diego Padres
+Total,UNDER 9.5,-106.0,0.1977,0.5023,0.7,True,0.9434,2026-05-31,Washington Nationals vs San Diego Padres
+Moneyline,Pittsburgh Pirates ML,-157.0,0.0566,0.6014,0.658,True,0.6369,2026-05-31,Pittsburgh Pirates vs Minnesota Twins
+Moneyline,Boston Red Sox ML,101.0,0.1758,0.4882,0.664,True,1.01,2026-05-31,Cleveland Guardians vs Boston Red Sox
+Moneyline,Los Angeles Angels ML,180.0,0.25,0.3512,0.642,False,-1.0,2026-05-31,Tampa Bay Rays vs Los Angeles Angels
+Moneyline,Atlanta Braves ML,-120.0,0.1334,0.5386,0.672,False,-1.0,2026-05-31,Cincinnati Reds vs Atlanta Braves
+Moneyline,New York Mets ML,-143.0,0.1487,0.5783,0.727,True,0.6993,2026-05-31,New York Mets vs Miami Marlins
+Moneyline,Chicago White Sox ML,-129.0,0.2253,0.5557,0.781,True,0.7752,2026-05-31,Chicago White Sox vs Detroit Tigers
+Run Line,Chicago White Sox -1.5,161.0,0.0933,0.3753,0.4686,False,-1.0,2026-05-31,Chicago White Sox vs Detroit Tigers
+Total,UNDER 7.5,-104.0,0.1292,0.4988,0.628,True,0.9615,2026-05-31,Houston Astros vs Milwaukee Brewers
+Moneyline,Texas Rangers ML,-105.0,0.25,0.5036,0.778,True,0.9524,2026-05-31,Texas Rangers vs Kansas City Royals
+Total,UNDER 11.5,-120.0,0.1463,0.5327,0.679,False,-1.0,2026-05-31,Colorado Rockies vs San Francisco Giants
+Moneyline,New York Yankees ML,-162.0,0.1729,0.6091,0.782,True,0.6173,2026-05-31,Athletics vs New York Yankees
+Total,UNDER 9.5,110.0,0.1808,0.469,0.6498,False,-1.0,2026-05-31,Athletics vs New York Yankees
+Total,UNDER 7.5,-120.0,0.0841,0.5339,0.618,True,0.8333,2026-05-31,Seattle Mariners vs Arizona Diamondbacks
+Total,UNDER 8.5,109.0,0.1778,0.4636,0.6414,False,-1.0,2026-05-31,Los Angeles Dodgers vs Philadelphia Phillies
+Total,UNDER 8.5,-101.0,0.1884,0.4941,0.6825,True,0.9901,2026-05-31,St. Louis Cardinals vs Chicago Cubs

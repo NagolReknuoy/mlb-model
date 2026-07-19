@@ -266,11 +266,20 @@ def score_bet(odds_row: dict,
         raw_o, raw_u   = american_to_prob(tot_o), american_to_prob(tot_u)
         book_o, book_u = remove_vig(raw_o, raw_u)
 
+<<<<<<< HEAD
         # Debias model xRuns (model runs ~17% high on average vs actual),
         # then use the real Poisson over-probability — matches odds.py
         # exactly (this used to be a linear `0.50 + distance*0.075` guess).
         debiased_xruns = debiased_total(model_xruns)
         model_over  = poisson_over_prob(debiased_xruns, tot_line)
+=======
+        BIAS_CORRECTION = 0.83   # model is ~17% high on average
+        debiased_xruns  = model_xruns * BIAS_CORRECTION
+
+        # Convert to probability using distance from line
+        distance = debiased_xruns - tot_line
+        model_over  = max(0.30, min(0.70, 0.50 + distance * 0.075))
+>>>>>>> 5e67b2887366d08971b03a7cbff3442f062103d3
         model_under = 1.0 - model_over
 
         distance = debiased_xruns - tot_line
@@ -278,10 +287,15 @@ def score_bet(odds_row: dict,
         edge_o = min(model_over  - book_o, 0.20)
         edge_u = min(model_under - book_u, 0.20)
 
+<<<<<<< HEAD
         # Only flag totals when debiased xRuns is at least TOTALS_MIN_DISTANCE
         # runs from the line — filters out marginal calls where the model is
         # essentially guessing.
         if abs(distance) < TOTALS_MIN_DISTANCE:
+=======
+       
+        if abs(distance) < 1.0:
+>>>>>>> 5e67b2887366d08971b03a7cbff3442f062103d3
             edge_o = 0
             edge_u = 0
 

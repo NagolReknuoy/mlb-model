@@ -1,0 +1,24 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Tampa Bay Rays vs Washington Nationals,Washington Nationals ML,+114,45.0%,76.4%,0.31386283373903634,Strong,Moneyline
+Atlanta Braves vs Milwaukee Brewers,Milwaukee Brewers ML,+100,48.1%,77.7%,0.2958470066518847,Strong,Moneyline
+Chicago Cubs vs Toronto Blue Jays,Chicago Cubs ML,-105,49.2%,78.0%,0.2877399380804953,Strong,Moneyline
+Texas Rangers vs San Diego Padres,San Diego Padres ML,+135,41.2%,68.9%,0.2765953888618283,Strong,Moneyline
+Detroit Tigers vs Chicago White Sox,Detroit Tigers ML,-119,52.3%,77.8%,0.2547295049849798,Strong,Moneyline
+Miami Marlins vs San Francisco Giants,Miami Marlins ML,+122,43.4%,66.4%,0.2304275773471791,Strong,Moneyline
+New York Yankees vs Cincinnati Reds,New York Yankees ML,-117,51.9%,72.5%,0.20615299334811532,Strong,Moneyline
+Los Angeles Dodgers vs Baltimore Orioles,UNDER 9.0,-105,48.9%,67.2%,0.18319342019348134,Strong,Total
+Arizona Diamondbacks vs Minnesota Twins,OVER  9.5,-103,48.4%,66.3%,0.17889420566654085,Strong,Total
+Kansas City Royals vs St. Louis Cardinals,OVER  9.0,-101,48.1%,65.2%,0.17042677056306738,Strong,Total
+Chicago Cubs vs Toronto Blue Jays,OVER  7.0,-120,52.1%,67.4%,0.15325473678419332,Strong,Total
+Athletics vs Los Angeles Angels,OVER  9.0,-115,50.7%,62.9%,0.12205742384055096,Strong,Total
+Seattle Mariners vs Boston Red Sox,Boston Red Sox ML,+108,46.4%,58.5%,0.12108247422680413,Strong,Moneyline
+Seattle Mariners vs Boston Red Sox,OVER  6.5,-115,51.1%,62.3%,0.11237687596616786,Good,Total
+Philadelphia Phillies vs New York Mets,Philadelphia Phillies ML,-185,62.3%,73.5%,0.11161050545094142,Good,Moneyline
+Athletics vs Los Angeles Angels,Los Angeles Angels ML,+113,45.3%,54.6%,0.09308546556084929,Good,Moneyline
+Colorado Rockies vs Pittsburgh Pirates,UNDER 11.5,-112,50.3%,58.2%,0.0784324400861901,Lean,Total
+Tampa Bay Rays vs Washington Nationals,OVER  8.5,+100,47.9%,55.6%,0.07693233816476563,Lean,Total
+Philadelphia Phillies vs New York Mets,Philadelphia Phillies -1.5,+115,44.7%,52.3%,0.0760276043907937,Lean,Run Line
+Atlanta Braves vs Milwaukee Brewers,UNDER 9.0,-118,51.7%,59.1%,0.07399684926806416,Lean,Total
+Philadelphia Phillies vs New York Mets,OVER  8.0,-115,51.1%,58.4%,0.0735999397264846,Lean,Total
+Colorado Rockies vs Pittsburgh Pirates,Colorado Rockies ML,+123,43.2%,50.4%,0.07223329558323893,Lean,Moneyline
+Texas Rangers vs San Diego Padres,UNDER 8.0,-105,49.0%,56.2%,0.07168560880959318,Lean,Total

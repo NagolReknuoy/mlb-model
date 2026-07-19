@@ -1,0 +1,24 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Toronto Blue Jays ML,-105.0,0.1718,0.4892,0.661,True,0.9524,2026-05-16,Detroit Tigers vs Toronto Blue Jays
+Total,UNDER 8.0,-112.5,0.0935,0.5054,0.5989,True,0.8889,2026-05-16,Detroit Tigers vs Toronto Blue Jays
+Moneyline,St. Louis Cardinals ML,-111.0,0.1807,0.5033,0.684,True,0.9009,2026-05-16,St. Louis Cardinals vs Kansas City Royals
+Total,UNDER 9.0,-109.0,0.1611,0.4978,0.6589,True,0.9174,2026-05-16,St. Louis Cardinals vs Kansas City Royals
+Moneyline,Arizona Diamondbacks ML,-143.0,0.1748,0.5642,0.739,False,-1.0,2026-05-16,Colorado Rockies vs Arizona Diamondbacks
+Total,OVER  11.5,-1.0,0.2,0.0179,0.3,False,-1.0,2026-05-16,Colorado Rockies vs Arizona Diamondbacks
+Moneyline,Washington Nationals ML,-109.0,0.1851,0.4989,0.684,True,0.9174,2026-05-16,Washington Nationals vs Baltimore Orioles
+Total,UNDER 10.0,-110.0,0.1418,0.5,0.6418,False,-1.0,2026-05-16,Washington Nationals vs Baltimore Orioles
+Moneyline,Philadelphia Phillies ML,-171.5,0.104,0.607,0.711,True,0.5831,2026-05-16,Pittsburgh Pirates vs Philadelphia Phillies
+Moneyline,Tampa Bay Rays ML,-135.0,0.213,0.552,0.765,False,-1.0,2026-05-16,Tampa Bay Rays vs Miami Marlins
+Moneyline,Cleveland Guardians ML,-153.0,0.1121,0.5769,0.689,True,0.6536,2026-05-16,Cleveland Guardians vs Cincinnati Reds
+Total,UNDER 7.5,-105.0,0.1407,0.4892,0.6299,True,0.9524,2026-05-16,Houston Astros vs Texas Rangers
+Moneyline,Chicago White Sox ML,-110.0,0.082,0.5,0.582,True,0.9091,2026-05-16,Chicago White Sox vs Chicago Cubs
+Moneyline,Milwaukee Brewers ML,-130.0,0.2363,0.5427,0.779,True,0.7692,2026-05-16,Minnesota Twins vs Milwaukee Brewers
+Total,UNDER 8.5,-115.0,0.0664,0.5108,0.5773,True,0.8696,2026-05-16,Minnesota Twins vs Milwaukee Brewers
+Total,UNDER 7.0,-104.0,0.1023,0.487,0.5893,False,-1.0,2026-05-16,Seattle Mariners vs San Diego Padres
+Total,UNDER 7.5,-105.0,0.1388,0.4892,0.628,True,0.9524,2026-05-16,Atlanta Braves vs Boston Red Sox
+Total,UNDER 8.5,-110.0,0.1775,0.5,0.6775,False,-1.0,2026-05-16,New York Mets vs New York Yankees
+Moneyline,Los Angeles Dodgers ML,-135.0,0.2184,0.5526,0.771,True,0.7407,2026-05-16,Los Angeles Angels vs Los Angeles Dodgers
+Total,UNDER 8.5,-110.0,0.081,0.5,0.581,False,-1.0,2026-05-16,Los Angeles Angels vs Los Angeles Dodgers
+Moneyline,Athletics ML,-135.0,0.219,0.552,0.771,False,-1.0,2026-05-16,Athletics vs San Francisco Giants
+Run Line,Athletics -1.5,143.5,0.0678,0.3948,0.4626,False,-1.0,2026-05-16,Athletics vs San Francisco Giants
+Total,UNDER 9.5,-115.0,0.1439,0.5108,0.6547,False,-1.0,2026-05-16,Athletics vs San Francisco Giants

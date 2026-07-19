@@ -1,0 +1,15 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Chicago White Sox,Troy Melton,Sean Newcomb,77.5,22.5,9.02,0.989,pitcher,very deep CF historically,"76°F, wind 11 mph",0.96,1-3 (home-away),5.875,3.321
+New York Yankees,Cincinnati Reds,Will Warren,Andrew Abbott,77.6,22.4,9.02,1.03,hitter,short porches both sides,"81°F, wind 12 mph",1.067,1-0 (home-away),8.369,2.407
+Chicago Cubs,Toronto Blue Jays,Colin Rea,Patrick Corbin,77.6,22.4,8.96,1.113,variable,wind hugely variable; extreme hitter or pitcher park,"67°F, wind 8 mph",0.999,1-0 (home-away),7.918,3.474
+Texas Rangers,San Diego Padres,Nathan Eovaldi,Walker Buehler,32.2,67.8,8.15,0.968,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,1-0 (home-away),3.303,4.635
+Tampa Bay Rays,Washington Nationals,Ian Seymour,Cade Cavalli,28.2,71.8,8.58,1.0,neutral,dome; artificial turf,dome,1.0,1-0 (home-away),3.37,4.997
+Miami Marlins,San Francisco Giants,Max Meyer,Trevor Mcdonald,73.0,27.0,9.27,0.99,neutral,roof often closed; average park,dome,1.0,2-2 (home-away),5.733,3.81
+Atlanta Braves,Milwaukee Brewers,Chris Sale,Kyle Harrison,22.0,78.0,9.04,1.132,hitter,warm humid air; June winds boost offense,"85°F, wind 8 mph",1.006,1-0 (home-away),3.135,6.806
+Houston Astros,Cleveland Guardians,Spencer Arrighetti,Joey Cantillo,77.6,22.4,8.97,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,3-1 (home-away),6.346,3.246
+Philadelphia Phillies,New York Mets,Cristopher Sánchez,Freddy Peralta,73.2,26.8,8.63,1.05,hitter,high HR rate historically,"83°F, wind 12 mph",1.005,0-1 (home-away),5.076,3.499
+Colorado Rockies,Pittsburgh Pirates,Tomoyuki Sugano,Paul Skenes,49.1,50.9,10.97,1.198,hitter,"5,200 ft altitude; most extreme hitter park","92°F, wind 13 mph",1.009,2-2 (home-away),9.658,9.877
+Athletics,Los Angeles Angels,J.T. Ginn,Walbert Ureña,49.1,50.9,11.0,0.921,pitcher,largest foul territory in MLB,"64°F, wind 11 mph",0.998,5-1 (home-away),6.544,8.236
+Los Angeles Dodgers,Baltimore Orioles,Yoshinobu Yamamoto,Trevor Rogers,77.1,22.9,8.98,0.912,pitcher,marine layer suppresses carry; spacious foul territory,"66°F, wind 9 mph",0.964,1-0 (home-away),6.095,3.163
+Seattle Mariners,Boston Red Sox,Emerson Hancock,Connelly Early,41.1,58.9,7.48,0.98,pitcher,marine air; roof often closed,dome,1.0,0-1 (home-away),3.284,4.01
+Arizona Diamondbacks,Minnesota Twins,Zac Gallen,Taj Bradley,49.5,50.5,11.07,1.071,hitter,"high altitude (1,082 ft)",dome,1.0,1-0 (home-away),6.029,6.785

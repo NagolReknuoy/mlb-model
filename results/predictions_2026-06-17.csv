@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cincinnati Reds,New York Mets,Nick Lodolo,Nolan Mclean,73.0,27.0,8.51,1.081,hitter,one of the top HR parks in MLB,unknown,1.0,4-1 (home-away),4.999,2.963
+Washington Nationals,Kansas City Royals,Zack Littell,Luinder Avila,66.8,33.2,9.83,1.01,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,2-0 (home-away),8.811,4.318
+Philadelphia Phillies,Miami Marlins,Andrew Painter,Sandy Alcantara,46.0,54.0,7.18,1.05,hitter,high HR rate historically,unknown,1.0,5-1 (home-away),3.396,3.708
+Atlanta Braves,San Francisco Giants,Grant Holmes,Adrian Houser,50.3,49.7,11.03,1.132,hitter,warm humid air; June winds boost offense,unknown,1.0,no prior meetings,5.954,6.892
+Houston Astros,Detroit Tigers,Peter Lambert,Casey Mize,22.9,77.1,8.96,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,1-1 (home-away),3.136,6.345
+St. Louis Cardinals,San Diego Padres,Kyle Leahy,Bradgley Rodriguez,67.7,32.3,8.13,0.98,neutral,natural grass; moderate dimensions,unknown,1.0,4-2 (home-away),4.639,2.552
+Los Angeles Dodgers,Tampa Bay Rays,Shohei Ohtani,Shane Mcclanahan,70.4,29.6,8.33,0.912,pitcher,marine layer suppresses carry; spacious foul territory,"66°F, wind 8 mph",0.968,2-0 (home-away),4.828,2.445
+Arizona Diamondbacks,Los Angeles Angels,Eduardo Rodriguez,Sam Aldegheri,23.4,76.6,9.0,1.071,hitter,"high altitude (1,082 ft)",dome,1.0,1-1 (home-away),2.8,6.665
+Boston Red Sox,Toronto Blue Jays,Jake Bennett,Max Scherzer,59.7,40.3,9.05,1.02,hitter,Green Monster 37ft LF wall,"78°F, wind 12 mph",1.003,1-3 (home-away),4.834,4.2
+New York Yankees,Chicago White Sox,Carlos Rodón,Anthony Kay,77.2,22.8,8.97,1.03,hitter,short porches both sides,"72°F, wind 11 mph",0.957,1-0 (home-away),8.715,3.276
+Atlanta Braves,San Francisco Giants,Jr Ritchie,Carson Whisenhunt,49.2,50.8,11.01,1.132,hitter,warm humid air; June winds boost offense,"85°F, wind 10 mph",0.965,no prior meetings,5.723,6.858
+Milwaukee Brewers,Cleveland Guardians,Brandon Sproat,Gavin Williams,73.8,26.2,8.58,0.96,pitcher,large dimensions suppress HRs,dome,1.0,1-0 (home-away),5.088,2.701
+Chicago Cubs,Colorado Rockies,Javier Assad,Sean Sullivan,55.9,44.1,10.45,1.113,variable,wind hugely variable; extreme hitter or pitcher park,"66°F, wind 8 mph",0.966,2-3 (home-away),5.897,5.018
+Athletics,Pittsburgh Pirates,Aaron Civale,Braxton Ashcraft,50.6,49.4,11.0,0.921,pitcher,largest foul territory in MLB,"61°F, wind 10 mph",0.997,1-1 (home-away),7.877,5.608
+Seattle Mariners,Baltimore Orioles,George Kirby,Kyle Bradish,72.1,27.9,9.42,0.98,pitcher,marine air; roof often closed,dome,1.0,3-2 (home-away),5.588,3.897

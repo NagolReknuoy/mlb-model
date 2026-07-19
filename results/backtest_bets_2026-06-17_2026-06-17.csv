@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 9.0,-116.5,0.171,0.5141,0.6851,False,-1.0,2026-06-17,Cincinnati Reds vs New York Mets
+Total,UNDER 10.5,-110.0,0.1258,0.5,0.6258,True,0.9091,2026-06-17,Washington Nationals vs Kansas City Royals
+Moneyline,Miami Marlins ML,100.0,0.25,0.4783,0.765,True,1.0,2026-06-17,Philadelphia Phillies vs Miami Marlins
+Run Line,Miami Marlins +1.5,155.0,0.086,0.373,0.459,True,1.55,2026-06-17,Philadelphia Phillies vs Miami Marlins
+Total,UNDER 9.5,-118.5,0.1485,0.5143,0.6628,False,-1.0,2026-06-17,Philadelphia Phillies vs Miami Marlins
+Moneyline,San Francisco Giants ML,118.0,0.25,0.4402,0.703,True,1.18,2026-06-17,Atlanta Braves vs San Francisco Giants
+Total,UNDER 9.0,-115.0,0.0707,0.508,0.5786,False,-1.0,2026-06-17,Atlanta Braves vs San Francisco Giants
+Moneyline,Detroit Tigers ML,-110.0,0.25,0.5,0.77,False,-1.0,2026-06-17,Houston Astros vs Detroit Tigers
+Run Line,Detroit Tigers +1.5,153.0,0.0857,0.3763,0.462,False,-1.0,2026-06-17,Houston Astros vs Detroit Tigers
+Total,UNDER 8.5,-114.0,0.074,0.5064,0.5804,True,0.8772,2026-06-17,Houston Astros vs Detroit Tigers
+Total,UNDER 10.5,-113.5,0.1952,0.5048,0.7,True,0.8811,2026-06-17,St. Louis Cardinals vs San Diego Padres
+Moneyline,Los Angeles Dodgers ML,-158.5,0.1258,0.5862,0.712,True,0.6309,2026-06-17,Los Angeles Dodgers vs Tampa Bay Rays
+Moneyline,Los Angeles Angels ML,148.0,0.25,0.3859,0.776,False,-1.0,2026-06-17,Arizona Diamondbacks vs Los Angeles Angels
+Total,UNDER 9.0,-108.5,0.1182,0.4947,0.6129,False,-1.0,2026-06-17,Arizona Diamondbacks vs Los Angeles Angels
+Total,UNDER 10.0,-108.0,0.2,0.4936,0.7,True,0.9259,2026-06-17,Boston Red Sox vs Toronto Blue Jays
+Moneyline,New York Yankees ML,-181.5,0.1648,0.6152,0.78,True,0.551,2026-06-17,New York Yankees vs Chicago White Sox
+Total,UNDER 8.5,-115.0,0.0651,0.5103,0.5754,False,-1.0,2026-06-17,New York Yankees vs Chicago White Sox
+Moneyline,San Francisco Giants ML,118.0,0.2468,0.4402,0.687,True,1.18,2026-06-17,Atlanta Braves vs San Francisco Giants
+Moneyline,Milwaukee Brewers ML,-128.0,0.2399,0.5351,0.775,True,0.7812,2026-06-17,Milwaukee Brewers vs Cleveland Guardians
+Run Line,Milwaukee Brewers -1.5,169.0,0.1089,0.3561,0.465,True,1.69,2026-06-17,Milwaukee Brewers vs Cleveland Guardians
+Total,UNDER 10.25,-118.5,0.0789,0.5045,0.5834,False,-1.0,2026-06-17,Athletics vs Pittsburgh Pirates

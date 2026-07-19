@@ -1,0 +1,13 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Colorado Rockies,New York Mets,Tomoyuki Sugano,Nan,50.5,49.5,11.0,1.175,hitter,"5,200 ft altitude; most extreme hitter park","64°F, wind 12 mph",0.998,3-0 (home-away),5.655,5.659
+Detroit Tigers,Boston Red Sox,Tarik Skubal,Payton Tolle,56.7,43.3,7.42,0.941,pitcher,very deep CF historically,"76°F, wind 12 mph",1.002,2-2 (home-away),3.938,2.836
+Tampa Bay Rays,Toronto Blue Jays,Nick Martinez,Nan,50.5,49.5,7.01,1.0,neutral,dome; artificial turf,dome,1.0,no prior meetings,3.117,3.18
+Miami Marlins,Philadelphia Phillies,Janson Junk,Aaron Nola,51.7,48.3,7.12,0.95,neutral,roof often closed; average park,dome,1.0,1-2 (home-away),3.587,3.382
+New York Yankees,Baltimore Orioles,Cam Schlittler,Shane Baz,78.1,21.9,9.02,1.02,hitter,short porches both sides,"71°F, wind 8 mph",1.001,3-0 (home-away),10.899,2.951
+Chicago Cubs,Cincinnati Reds,Edward Cabrera,Chase Petty,54.8,45.2,10.68,0.988,variable,wind hugely variable; extreme hitter or pitcher park,"76°F, wind 7 mph",1.002,no prior meetings,9.405,5.179
+Kansas City Royals,Cleveland Guardians,Michael Wacha,Tanner Bibee,66.7,33.3,8.87,1.01,pitcher,large dimensions; spray park,"81°F, wind 7 mph",0.975,1-2 (home-away),5.0,3.855
+St. Louis Cardinals,Milwaukee Brewers,Kyle Leahy,Chad Patrick,32.5,67.5,9.58,1.03,neutral,natural grass; moderate dimensions,"76°F, wind 14 mph",0.948,no prior meetings,4.142,5.452
+Houston Astros,Los Angeles Dodgers,Steven Okert,Yoshinobu Yamamoto,22.7,77.3,8.97,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,no prior meetings,2.504,5.74
+Los Angeles Angels,Chicago White Sox,José Soriano,Davis Martin,22.3,77.7,9.0,1.0,neutral,symmetrical; marine layer suppresses HRs,"62°F, wind 10 mph",1.048,0-3 (home-away),2.815,6.404
+Seattle Mariners,Atlanta Braves,Logan Gilbert,Jr Ritchie,29.6,70.4,9.51,0.98,pitcher,marine air; roof often closed,dome,1.0,no prior meetings,4.059,6.021
+San Francisco Giants,San Diego Padres,Trevor Mcdonald,Randy Vásquez,39.7,60.3,8.43,1.034,pitcher,marine layer; bay wind tricky in RF,"56°F, wind 12 mph",0.994,2-1 (home-away),3.873,4.539

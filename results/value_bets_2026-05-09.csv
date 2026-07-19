@@ -1,0 +1,25 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Diego Padres vs St. Louis Cardinals,St. Louis Cardinals ML,+123,43.2%,77.8%,0.346233295583239,Strong,Moneyline
+Los Angeles Dodgers vs Atlanta Braves,UNDER 8.5,-101,47.9%,72.8%,0.24828721496017597,Strong,Total
+Philadelphia Phillies vs Colorado Rockies,OVER  8.5,-112,50.4%,75.1%,0.24637436827684678,Strong,Total
+Arizona Diamondbacks vs New York Mets,New York Mets ML,-116,51.8%,76.2%,0.24414285714285702,Strong,Moneyline
+San Francisco Giants vs Pittsburgh Pirates,Pittsburgh Pirates ML,-118,52.2%,75.5%,0.2326930493470067,Strong,Moneyline
+Boston Red Sox vs Tampa Bay Rays,UNDER 8.0,-112,50.0%,73.2%,0.23169506865433398,Strong,Total
+Cincinnati Reds vs Houston Astros,Houston Astros ML,+136,40.7%,63.8%,0.2313697541594239,Strong,Moneyline
+Texas Rangers vs Chicago Cubs,Chicago Cubs ML,-138,55.8%,78.4%,0.22568955534110308,Strong,Moneyline
+Miami Marlins vs Washington Nationals,Washington Nationals ML,+137,40.7%,59.9%,0.19224155193992487,Strong,Moneyline
+Toronto Blue Jays vs Los Angeles Angels,UNDER 8.5,-112,50.4%,67.4%,0.16995756331379575,Strong,Total
+Cincinnati Reds vs Houston Astros,OVER  8.5,-110,50.0%,66.5%,0.16492317310167948,Strong,Total
+Baltimore Orioles vs Athletics,OVER  9.5,-105,48.9%,64.1%,0.15159068216644728,Strong,Total
+Chicago White Sox vs Seattle Mariners,OVER  9.5,-105,48.9%,64.1%,0.15159068216644728,Strong,Total
+San Francisco Giants vs Pittsburgh Pirates,OVER  7.5,-110,50.0%,64.7%,0.14725661335651874,Strong,Total
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians ML,-118,52.0%,66.7%,0.1471762114537446,Strong,Moneyline
+Miami Marlins vs Washington Nationals,UNDER 8.5,-104,48.5%,62.7%,0.14237306377596276,Strong,Total
+San Francisco Giants vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,+148,38.9%,52.8%,0.1389701784647862,Strong,Run Line
+Arizona Diamondbacks vs New York Mets,New York Mets +1.5,+141,40.0%,53.6%,0.13615350274673504,Strong,Run Line
+Arizona Diamondbacks vs New York Mets,UNDER 9.0,-102,48.3%,61.5%,0.13241830050095627,Strong,Total
+Texas Rangers vs Chicago Cubs,Chicago Cubs +1.5,+120,43.5%,56.2%,0.12724689664555178,Strong,Run Line
+Cleveland Guardians vs Minnesota Twins,OVER  8.0,-115,51.1%,63.5%,0.12395325159785886,Strong,Total
+Los Angeles Dodgers vs Atlanta Braves,Atlanta Braves ML,+146,39.0%,49.6%,0.10570884849866102,Good,Moneyline
+Philadelphia Phillies vs Colorado Rockies,Colorado Rockies ML,+155,37.7%,47.7%,0.10038949454905854,Good,Moneyline
+Boston Red Sox vs Tampa Bay Rays,Tampa Bay Rays ML,+125,42.7%,50.2%,0.07514974182444056,Lean,Moneyline

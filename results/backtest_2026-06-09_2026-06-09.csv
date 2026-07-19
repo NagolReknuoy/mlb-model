@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-06-09,Baltimore Orioles,Seattle Mariners,5,6,11,Seattle Mariners,Seattle Mariners,29.2,70.8,True,70.8,8.99,2.01,False,LOW,8.5,OVER
+2026-06-09,Pittsburgh Pirates,Los Angeles Dodgers,3,12,15,Los Angeles Dodgers,Los Angeles Dodgers,31.0,69.0,True,69.0,9.63,5.369999999999999,True,LOW,8.5,OVER
+2026-06-09,Tampa Bay Rays,Boston Red Sox,4,3,7,Tampa Bay Rays,Boston Red Sox,26.9,73.1,False,73.1,8.65,1.6500000000000004,False,HIGH,8.25,UNDER
+2026-06-09,Detroit Tigers,Minnesota Twins,10,4,14,Detroit Tigers,Detroit Tigers,60.7,39.3,True,60.7,10.25,3.75,True,LOW,8.75,OVER
+2026-06-09,Miami Marlins,Arizona Diamondbacks,10,6,16,Miami Marlins,Miami Marlins,77.3,22.7,True,77.3,9.03,6.970000000000001,True,LOW,8.0,OVER
+2026-06-09,Cleveland Guardians,New York Yankees,2,3,5,New York Yankees,New York Yankees,23.4,76.6,True,76.6,8.98,3.9800000000000004,False,HIGH,8.5,UNDER
+2026-06-09,Toronto Blue Jays,Philadelphia Phillies,3,2,5,Toronto Blue Jays,Philadelphia Phillies,29.0,71.0,False,71.0,8.38,3.380000000000001,False,HIGH,7.0,UNDER
+2026-06-09,New York Mets,St. Louis Cardinals,0,7,7,St. Louis Cardinals,New York Mets,54.2,45.8,False,54.2,7.25,0.25,False,HIGH,8.0,UNDER
+2026-06-09,Kansas City Royals,Texas Rangers,5,3,8,Kansas City Royals,Texas Rangers,35.4,64.6,False,64.6,7.86,0.13999999999999968,False,LOW,9.5,UNDER
+2026-06-09,Chicago White Sox,Atlanta Braves,6,5,11,Chicago White Sox,Atlanta Braves,45.8,54.2,False,54.2,10.33,0.6699999999999999,False,LOW,9.0,OVER
+2026-06-09,Colorado Rockies,Chicago Cubs,7,3,10,Colorado Rockies,Colorado Rockies,50.3,49.7,True,50.3,11.03,1.0299999999999994,True,HIGH,12.5,UNDER
+2026-06-09,Los Angeles Angels,Houston Astros,10,1,11,Los Angeles Angels,Los Angeles Angels,50.5,49.5,True,50.5,11.04,0.03999999999999915,True,HIGH,8.5,OVER
+2026-06-09,San Diego Padres,Cincinnati Reds,3,5,8,Cincinnati Reds,Cincinnati Reds,44.8,55.2,True,55.2,7.28,0.7199999999999998,True,LOW,7.0,OVER
+2026-06-09,San Francisco Giants,Washington Nationals,3,6,9,Washington Nationals,San Francisco Giants,50.1,49.9,False,50.1,11.02,2.0199999999999996,False,HIGH,8.5,OVER
+2026-06-09,Athletics,Milwaukee Brewers,7,5,12,Athletics,Milwaukee Brewers,50.0,50.0,False,50.0,11.02,0.9800000000000004,False,LOW,13.5,UNDER

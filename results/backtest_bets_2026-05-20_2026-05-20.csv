@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Philadelphia Phillies ML,-151.0,0.0897,0.5773,0.667,False,-1.0,2026-05-20,Philadelphia Phillies vs Cincinnati Reds
+Total,UNDER 9.5,-105.0,0.1133,0.4892,0.6024,False,-1.0,2026-05-20,Philadelphia Phillies vs Cincinnati Reds
+Total,UNDER 8.5,-115.0,0.067,0.5108,0.5779,True,0.8696,2026-05-20,Tampa Bay Rays vs Baltimore Orioles
+Moneyline,Minnesota Twins ML,-138.0,0.0595,0.5555,0.615,True,0.7246,2026-05-20,Minnesota Twins vs Houston Astros
+Total,UNDER 7.5,-105.0,0.0971,0.4892,0.5863,True,0.9524,2026-05-20,Minnesota Twins vs Houston Astros
+Moneyline,Texas Rangers ML,-124.0,0.2453,0.5297,0.775,True,0.8065,2026-05-20,Colorado Rockies vs Texas Rangers
+Total,UNDER 10.0,-110.0,0.1897,0.5,0.6897,True,0.9091,2026-05-20,Colorado Rockies vs Texas Rangers
+Moneyline,Arizona Diamondbacks ML,-111.0,0.25,0.5027,0.775,True,0.9009,2026-05-20,Arizona Diamondbacks vs San Francisco Giants
+Total,UNDER 8.5,-106.0,0.0891,0.4918,0.581,False,-1.0,2026-05-20,Arizona Diamondbacks vs San Francisco Giants
+Moneyline,Seattle Mariners ML,-145.0,0.1153,0.5667,0.682,True,0.6897,2026-05-20,Seattle Mariners vs Chicago White Sox
+Moneyline,Cleveland Guardians ML,-120.0,0.25,0.5217,0.776,True,0.8333,2026-05-20,Detroit Tigers vs Cleveland Guardians
+Run Line,Cleveland Guardians +1.5,140.0,0.0674,0.3982,0.4656,False,-1.0,2026-05-20,Detroit Tigers vs Cleveland Guardians
+Moneyline,Atlanta Braves ML,-185.0,0.1599,0.6211,0.781,True,0.5405,2026-05-20,Miami Marlins vs Atlanta Braves
+Total,UNDER 7.5,-111.0,0.1058,0.5011,0.6068,True,0.9009,2026-05-20,New York Yankees vs Toronto Blue Jays
+Run Line,Kansas City Royals -0.0,-11.5,0.0865,0.2111,0.2976,False,-1.0,2026-05-20,Kansas City Royals vs Boston Red Sox
+Total,UNDER 7.5,-110.0,0.1257,0.5011,0.6268,True,0.9091,2026-05-20,Kansas City Royals vs Boston Red Sox
+Moneyline,Milwaukee Brewers ML,-107.5,0.25,0.4962,0.782,True,0.9302,2026-05-20,Chicago Cubs vs Milwaukee Brewers
+Run Line,Milwaukee Brewers +1.5,175.5,0.122,0.3472,0.4692,True,1.755,2026-05-20,Chicago Cubs vs Milwaukee Brewers
+Total,OVER  7.5,-1.5,0.2,0.0265,0.4243,False,-1.0,2026-05-20,San Diego Padres vs Los Angeles Dodgers
+Moneyline,Athletics ML,-130.0,0.2323,0.5427,0.775,True,0.7692,2026-05-20,Los Angeles Angels vs Athletics
+Total,UNDER 10.0,-196.5,0.2,0.4149,0.6885,False,-1.0,2026-05-20,Los Angeles Angels vs Athletics

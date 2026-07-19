@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Minnesota Twins,Toronto Blue Jays,Joe Ryan,Trey Yesavage,22.4,77.6,8.98,0.96,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,3-3 (home-away),3.457,5.474
+Boston Red Sox,Houston Astros,Ranger Suarez,Cody Bolton,74.8,25.2,9.26,1.02,hitter,Green Monster 37ft LF wall,unknown,1.0,1-4 (home-away),6.34,3.707
+Pittsburgh Pirates,Cincinnati Reds,Braxton Ashcraft,Chase Burns,51.1,48.9,10.99,0.95,pitcher,high RF wall; spacious,"60°F, wind 11 mph",0.996,4-1 (home-away),7.307,5.576
+New York Yankees,Baltimore Orioles,Max Fried,Trey Gibson,77.6,22.4,8.99,1.02,hitter,short porches both sides,"58°F, wind 11 mph",1.049,2-0 (home-away),10.623,3.348
+Washington Nationals,Milwaukee Brewers,Pj Poulin,Logan Henderson,22.4,77.6,8.97,1.0,neutral,cold Aprils very suppressive (-9 pts),"62°F, wind 8 mph",1.038,3-2 (home-away),3.022,7.396
+Tampa Bay Rays,San Francisco Giants,Steven Matz,Tyler Mahle,60.0,40.0,7.56,1.0,neutral,dome; artificial turf,dome,1.0,2-0 (home-away),4.12,1.67
+Miami Marlins,Philadelphia Phillies,Chris Paddack,Jesús Luzardo,50.6,49.4,6.97,0.95,neutral,roof often closed; average park,dome,1.0,1-1 (home-away),3.44,2.971
+St. Louis Cardinals,Los Angeles Dodgers,Dustin May,Justin Wrobleski,34.1,65.9,8.02,1.03,neutral,natural grass; moderate dimensions,"73°F, wind 11 mph",0.958,2-0 (home-away),3.4,4.485
+Chicago Cubs,Arizona Diamondbacks,Matthew Boyd,Merrill Kelly,59.2,40.8,10.3,0.988,variable,wind hugely variable; extreme hitter or pitcher park,"66°F, wind 10 mph",0.957,2-0 (home-away),8.569,4.766
+Colorado Rockies,Atlanta Braves,Kyle Freeland,Spencer Strider,39.3,60.7,10.26,1.175,hitter,"5,200 ft altitude; most extreme hitter park","71°F, wind 14 mph",1.072,0-2 (home-away),4.726,8.913
+Athletics,Cleveland Guardians,Aaron Civale,Parker Messick,33.4,66.6,8.1,1.018,pitcher,largest foul territory in MLB,"58°F, wind 10 mph",0.995,0-2 (home-away),3.458,4.567
+Los Angeles Angels,New York Mets,Jack Kochanowicz,Clay Holmes,44.7,55.3,10.01,1.0,neutral,symmetrical; marine layer suppresses HRs,"62°F, wind 9 mph",1.04,1-1 (home-away),4.758,5.172
+Seattle Mariners,Kansas City Royals,Luis Castillo,Kris Bubic,42.9,57.1,10.52,0.98,pitcher,marine air; roof often closed,dome,1.0,0-2 (home-away),5.003,5.645
+San Diego Padres,Chicago White Sox,Griffin Canning,Anthony Kay,22.3,77.7,9.06,0.902,pitcher,marine layer; large dimensions,"63°F, wind 6 mph",1.027,0-2 (home-away),3.536,5.899
+Detroit Tigers,Texas Rangers,Tyler Holton,Jack Leiter,51.8,48.2,7.08,0.941,pitcher,very deep CF historically,"63°F, wind 17 mph",0.997,1-1 (home-away),3.574,2.428

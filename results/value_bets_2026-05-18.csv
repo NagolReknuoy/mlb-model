@@ -1,0 +1,20 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Detroit Tigers vs Cleveland Guardians,Cleveland Guardians ML,+127,42.3%,76.9%,0.34562997459779854,Strong,Moneyline
+Los Angeles Angels vs Athletics,Athletics ML,-125,53.6%,78.4%,0.2479175257731958,Strong,Moneyline
+Arizona Diamondbacks vs San Francisco Giants,UNDER 9.0,-105,48.9%,73.1%,0.24223162301262352,Strong,Total
+Minnesota Twins vs Houston Astros,UNDER 9.5,-115,51.3%,72.9%,0.21576213065606265,Strong,Total
+Tampa Bay Rays vs Baltimore Orioles,Tampa Bay Rays ML,-142,56.5%,76.6%,0.2013927530495483,Strong,Moneyline
+Colorado Rockies vs Texas Rangers,Texas Rangers ML,-149,57.6%,75.5%,0.17902465814076257,Strong,Moneyline
+Tampa Bay Rays vs Baltimore Orioles,OVER  7.5,-110,50.0%,66.3%,0.16306370490413968,Strong,Total
+Tampa Bay Rays vs Baltimore Orioles,Tampa Bay Rays -1.5,+150,38.5%,54.7%,0.16249652336100834,Strong,Run Line
+Philadelphia Phillies vs Cincinnati Reds,Philadelphia Phillies ML,-126,53.8%,69.3%,0.15484656884783587,Strong,Moneyline
+Miami Marlins vs Atlanta Braves,UNDER 8.5,-115,51.1%,65.9%,0.14838451269435593,Strong,Total
+Chicago Cubs vs Milwaukee Brewers,Milwaukee Brewers ML,+140,40.3%,54.5%,0.14241856177012907,Strong,Moneyline
+Minnesota Twins vs Houston Astros,Minnesota Twins ML,-116,51.5%,65.5%,0.13960320253387304,Strong,Moneyline
+Los Angeles Angels vs Athletics,Athletics +1.5,+125,42.6%,56.2%,0.13615220155564722,Strong,Run Line
+Philadelphia Phillies vs Cincinnati Reds,UNDER 10.0,-109,49.9%,62.5%,0.12658413708047722,Strong,Total
+Colorado Rockies vs Texas Rangers,UNDER 9.5,-110,50.0%,61.5%,0.11505417478468605,Good,Total
+New York Yankees vs Toronto Blue Jays,Toronto Blue Jays ML,+142,39.6%,49.4%,0.09775697094217783,Good,Moneyline
+Philadelphia Phillies vs Cincinnati Reds,Philadelphia Phillies -1.5,+153,38.0%,47.7%,0.09642324268740493,Good,Run Line
+Miami Marlins vs Atlanta Braves,Atlanta Braves ML,-104,49.0%,57.8%,0.08795487125033186,Good,Moneyline
+Los Angeles Angels vs Athletics,UNDER 9.0,-111,50.2%,58.5%,0.08260869427165674,Good,Total

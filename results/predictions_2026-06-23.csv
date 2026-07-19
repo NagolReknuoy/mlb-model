@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Toronto Blue Jays,Houston Astros,Shane Bieber,Peter Lambert,49.6,50.4,10.54,1.071,neutral,turf boosts groundball singles,dome,1.0,1-0 (home-away),5.245,5.267
+Pittsburgh Pirates,Seattle Mariners,Mitch Keller,George Kirby,41.5,58.5,8.94,0.979,pitcher,high RF wall; spacious,unknown,1.0,no prior meetings,4.184,4.736
+Tampa Bay Rays,Kansas City Royals,Shane Mcclanahan,Luinder Avila,39.6,60.4,9.23,1.0,neutral,dome; artificial turf,dome,1.0,0-1 (home-away),4.27,4.965
+Miami Marlins,Texas Rangers,Sandy Alcantara,Cal Quantrill,77.4,22.6,8.99,0.99,neutral,roof often closed; average park,dome,1.0,0-1 (home-away),5.802,2.689
+Detroit Tigers,New York Yankees,Casey Mize,Carlos Rodón,61.4,38.6,7.69,0.989,pitcher,very deep CF historically,unknown,1.0,1-0 (home-away),4.18,3.47
+Washington Nationals,Philadelphia Phillies,Zack Littell,Jesús Luzardo,43.3,56.7,9.94,1.01,neutral,cold Aprils very suppressive (-9 pts),"74°F, wind 6 mph",1.031,2-2 (home-away),4.715,5.182
+New York Mets,Chicago Cubs,Kodai Senga,Edward Cabrera,26.4,73.6,9.31,0.97,pitcher,sea-level; large dimensions,"70°F, wind 5 mph",1.023,0-3 (home-away),3.794,8.629
+Cincinnati Reds,Milwaukee Brewers,Nick Lodolo,Brandon Sproat,38.5,61.5,7.66,1.081,hitter,one of the top HR parks in MLB,"79°F, wind 8 mph",1.043,0-1 (home-away),2.974,4.194
+Minnesota Twins,Los Angeles Dodgers,Kendry Rojas,Justin Wrobleski,49.1,50.9,10.91,1.05,neutral,cold Aprils suppress offense (-8 pts),"65°F, wind 6 mph",0.998,0-1 (home-away),5.47,5.748
+Chicago White Sox,Cleveland Guardians,Sean Burke,Parker Messick,45.8,54.2,7.21,0.99,neutral,July is extreme hitter month (+12 pts),"65°F, wind 6 mph",0.976,1-0 (home-away),3.481,3.739
+St. Louis Cardinals,Arizona Diamondbacks,Kyle Leahy,Eduardo Rodriguez,52.5,47.5,10.9,0.98,neutral,natural grass; moderate dimensions,"80°F, wind 5 mph",1.03,1-0 (home-away),6.458,5.4
+Colorado Rockies,Boston Red Sox,Sean Sullivan,Sonny Gray,32.5,67.5,9.78,1.198,hitter,"5,200 ft altitude; most extreme hitter park","82°F, wind 10 mph",0.965,1-0 (home-away),4.255,6.295
+Los Angeles Angels,Baltimore Orioles,Ryan Johnson,Shane Baz,32.7,67.3,9.78,0.97,neutral,symmetrical; marine layer suppresses HRs,"72°F, wind 7 mph",1.036,0-1 (home-away),4.299,5.641
+San Diego Padres,Atlanta Braves,Nan,Jr Ritchie,68.9,31.1,8.17,1.007,pitcher,marine layer; large dimensions,"69°F, wind 6 mph",1.03,1-0 (home-away),4.718,2.343
+San Francisco Giants,Athletics,Robbie Ray,Aaron Civale,49.9,50.1,11.08,0.996,pitcher,marine layer; bay wind tricky in RF,"59°F, wind 13 mph",0.996,2-1 (home-away),7.318,7.154

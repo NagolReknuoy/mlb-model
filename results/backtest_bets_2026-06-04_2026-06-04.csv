@@ -1,0 +1,11 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 8.5,-110.0,0.2,0.5,0.7,False,-1.0,2026-06-04,Philadelphia Phillies vs San Diego Padres
+Total,UNDER 10.5,-110.0,0.1395,0.5,0.6395,True,0.9091,2026-06-04,Boston Red Sox vs Baltimore Orioles
+Moneyline,New York Yankees ML,-165.0,0.1784,0.5956,0.774,True,0.6061,2026-06-04,New York Yankees vs Cleveland Guardians
+Total,UNDER 9.0,-115.0,0.1027,0.5108,0.6135,True,0.8696,2026-06-04,New York Yankees vs Cleveland Guardians
+Moneyline,Milwaukee Brewers ML,-191.5,0.0772,0.6298,0.707,False,-1.0,2026-06-04,Milwaukee Brewers vs San Francisco Giants
+Total,UNDER 9.0,100.0,0.1035,0.4783,0.5818,False,-1.0,2026-06-04,Milwaukee Brewers vs San Francisco Giants
+Moneyline,Chicago Cubs ML,-143.5,0.1684,0.5646,0.733,True,0.6969,2026-06-04,Chicago Cubs vs Athletics
+Total,UNDER 10.0,-104.5,0.1811,0.4881,0.6692,False,-1.0,2026-06-04,Chicago Cubs vs Athletics
+Moneyline,Los Angeles Dodgers ML,-137.0,0.2119,0.5541,0.766,False,-1.0,2026-06-04,Arizona Diamondbacks vs Los Angeles Dodgers
+Total,UNDER 9.0,-115.0,0.1089,0.5108,0.6197,True,0.8696,2026-06-04,Arizona Diamondbacks vs Los Angeles Dodgers

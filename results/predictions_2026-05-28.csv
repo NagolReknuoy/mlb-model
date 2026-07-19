@@ -1,0 +1,7 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Los Angeles Angels,Jack Flaherty,Grayson Rodriguez,49.7,50.3,7.54,0.941,pitcher,very deep CF historically,unknown,1.0,1-1 (home-away),3.755,3.774
+Chicago White Sox,Minnesota Twins,Davis Martin,Simeon Woods Richardson,61.3,38.7,10.17,1.01,neutral,July is extreme hitter month (+12 pts),unknown,1.0,2-1 (home-away),6.957,4.634
+Boston Red Sox,Atlanta Braves,Payton Tolle,Chris Sale,49.0,51.0,7.06,1.02,hitter,Green Monster 37ft LF wall,unknown,1.0,2-3 (home-away),3.159,3.598
+Baltimore Orioles,Toronto Blue Jays,Chris Bassitt,Patrick Corbin,29.6,70.4,8.96,1.0,hitter,short RF; warm summers,unknown,1.0,no prior meetings,3.798,5.15
+Pittsburgh Pirates,Chicago Cubs,Paul Skenes,Colin Rea,77.4,22.6,9.03,0.95,pitcher,high RF wall; spacious,unknown,1.0,4-2 (home-away),6.536,2.653
+Texas Rangers,Houston Astros,Nathan Eovaldi,Spencer Arrighetti,68.6,31.4,8.35,1.051,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,2-4 (home-away),4.736,3.58

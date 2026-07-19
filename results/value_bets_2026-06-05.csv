@@ -1,0 +1,27 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Detroit Tigers vs Seattle Mariners,Seattle Mariners ML,-122,53.1%,77.5%,0.24402729654356461,Strong,Moneyline
+Miami Marlins vs Tampa Bay Rays,Miami Marlins ML,+118,44.3%,66.3%,0.21979086538461534,Strong,Moneyline
+San Diego Padres vs New York Mets,New York Mets ML,+110,45.9%,67.8%,0.2190628019323671,Strong,Moneyline
+Arizona Diamondbacks vs Washington Nationals,UNDER 9.0,-115,51.1%,72.8%,0.2168922693249561,Strong,Total
+Philadelphia Phillies vs Chicago White Sox,UNDER 8.5,-110,50.0%,71.5%,0.2146412165638596,Strong,Total
+Toronto Blue Jays vs Baltimore Orioles,Baltimore Orioles ML,+128,42.3%,61.9%,0.19604851202609053,Strong,Moneyline
+Miami Marlins vs Tampa Bay Rays,OVER  7.5,-119,51.8%,70.9%,0.19062825100707748,Strong,Total
+Houston Astros vs Athletics,Houston Astros ML,-105,49.4%,67.3%,0.17860538116591917,Strong,Moneyline
+Minnesota Twins vs Kansas City Royals,OVER  8.5,-107,49.5%,67.3%,0.17823170871673855,Strong,Total
+Arizona Diamondbacks vs Washington Nationals,Washington Nationals ML,+115,44.8%,62.2%,0.1738099980846582,Strong,Moneyline
+Minnesota Twins vs Kansas City Royals,Minnesota Twins -1.5,-7,25.9%,42.5%,0.16680939293900426,Strong,Run Line
+Detroit Tigers vs Seattle Mariners,OVER  7.5,-115,51.1%,67.5%,0.164096205696453,Strong,Total
+Detroit Tigers vs Seattle Mariners,Seattle Mariners +1.5,+138,40.4%,55.9%,0.1548235416173822,Strong,Run Line
+New York Yankees vs Boston Red Sox,New York Yankees ML,-146,57.1%,72.3%,0.15228940388105539,Strong,Moneyline
+Toronto Blue Jays vs Baltimore Orioles,OVER  8.0,-115,51.1%,65.7%,0.14612093039795082,Strong,Total
+Philadelphia Phillies vs Chicago White Sox,Chicago White Sox ML,+155,37.8%,52.2%,0.1440345798150382,Strong,Moneyline
+Los Angeles Dodgers vs Los Angeles Angels,Los Angeles Dodgers ML,-199,63.9%,78.1%,0.14196288963469095,Strong,Moneyline
+Chicago Cubs vs San Francisco Giants,San Francisco Giants ML,+152,38.2%,50.3%,0.12085009861932933,Strong,Moneyline
+Minnesota Twins vs Kansas City Royals,Minnesota Twins ML,-114,51.2%,63.2%,0.1198275495750708,Good,Moneyline
+Texas Rangers vs Cleveland Guardians,Texas Rangers ML,+108,46.3%,58.2%,0.11896115390919532,Good,Moneyline
+St. Louis Cardinals vs Cincinnati Reds,Cincinnati Reds ML,+120,43.6%,55.4%,0.11820373027259684,Good,Moneyline
+Colorado Rockies vs Milwaukee Brewers,Milwaukee Brewers ML,-154,58.2%,69.5%,0.1126257809930944,Good,Moneyline
+New York Yankees vs Boston Red Sox,New York Yankees -1.5,+145,39.3%,49.6%,0.10315927480254639,Good,Run Line
+Los Angeles Dodgers vs Los Angeles Angels,Los Angeles Dodgers -1.5,+108,46.1%,56.2%,0.10102528011383388,Good,Run Line
+San Diego Padres vs New York Mets,OVER  7.5,+104,46.9%,56.8%,0.09902368379934351,Good,Total
+Chicago Cubs vs San Francisco Giants,UNDER 11.0,-111,50.3%,58.6%,0.08316204937531368,Good,Total

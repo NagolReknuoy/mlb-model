@@ -1,0 +1,16 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 7.0,-105.0,0.1013,0.4892,0.5905,True,0.9524,2026-05-23,Chicago Cubs vs Houston Astros
+Moneyline,Toronto Blue Jays ML,119.5,0.2203,0.4357,0.656,True,1.195,2026-05-23,Toronto Blue Jays vs Pittsburgh Pirates
+Total,UNDER 7.0,-115.0,0.0753,0.5108,0.5861,True,0.8696,2026-05-23,Philadelphia Phillies vs Cleveland Guardians
+Moneyline,Chicago White Sox ML,-110.0,0.094,0.5,0.594,False,-1.0,2026-05-23,San Francisco Giants vs Chicago White Sox
+Total,UNDER 8.25,-114.5,0.1794,0.5042,0.6836,True,0.8734,2026-05-23,Kansas City Royals vs Seattle Mariners
+Total,UNDER 7.5,-105.0,0.1363,0.4892,0.6255,True,0.9524,2026-05-23,Boston Red Sox vs Minnesota Twins
+Moneyline,Atlanta Braves ML,-170.0,0.0692,0.6018,0.671,False,-1.0,2026-05-23,Atlanta Braves vs Washington Nationals
+Moneyline,New York Mets ML,-109.0,0.1842,0.4978,0.682,False,-1.0,2026-05-23,Miami Marlins vs New York Mets
+Moneyline,Los Angeles Dodgers ML,-115.0,0.1232,0.5108,0.634,True,0.8696,2026-05-23,Milwaukee Brewers vs Los Angeles Dodgers
+Total,UNDER 8.5,-105.0,0.1622,0.4892,0.6513,False,-1.0,2026-05-23,Milwaukee Brewers vs Los Angeles Dodgers
+Total,UNDER 8.0,-115.0,0.1509,0.5108,0.6618,True,0.8696,2026-05-23,San Diego Padres vs Athletics
+Moneyline,Texas Rangers ML,-136.0,0.2242,0.5528,0.777,False,-1.0,2026-05-23,Los Angeles Angels vs Texas Rangers
+Run Line,Texas Rangers +1.5,132.0,0.0531,0.4131,0.4662,False,-1.0,2026-05-23,Los Angeles Angels vs Texas Rangers
+Moneyline,Arizona Diamondbacks ML,-190.0,0.1497,0.6283,0.778,True,0.5263,2026-05-23,Arizona Diamondbacks vs Colorado Rockies
+Total,UNDER 9.5,-119.0,0.1345,0.5177,0.6522,True,0.8403,2026-05-23,Arizona Diamondbacks vs Colorado Rockies

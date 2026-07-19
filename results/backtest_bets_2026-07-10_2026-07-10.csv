@@ -1,0 +1,15 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Detroit Tigers ML,-120.0,0.25,0.5217,0.772,True,0.8333,2026-07-10,Detroit Tigers vs Philadelphia Phillies
+Total,UNDER 9.0,-110.0,0.116,0.5,0.616,False,-1.0,2026-07-10,Detroit Tigers vs Philadelphia Phillies
+Total,UNDER 10.25,-105.0,0.0942,0.4892,0.5834,True,0.9524,2026-07-10,Baltimore Orioles vs Kansas City Royals
+Moneyline,Chicago Cubs ML,-120.0,0.1803,0.5217,0.702,False,-1.0,2026-07-10,Cincinnati Reds vs Chicago Cubs
+Total,OVER  9.5,-1.0,0.2,0.0178,0.326,False,-1.0,2026-07-10,Cincinnati Reds vs Chicago Cubs
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.6999,False,-1.0,2026-07-10,Tampa Bay Rays vs Seattle Mariners
+Moneyline,Miami Marlins ML,-125.5,0.1351,0.5329,0.668,False,-1.0,2026-07-10,Miami Marlins vs Cleveland Guardians
+Moneyline,Boston Red Sox ML,120.0,0.25,0.4344,0.771,True,1.2,2026-07-10,New York Mets vs Boston Red Sox
+Moneyline,Chicago White Sox ML,-188.0,0.1335,0.6215,0.755,True,0.5319,2026-07-10,Chicago White Sox vs Athletics
+Moneyline,Minnesota Twins ML,-160.0,0.1719,0.5891,0.761,False,-1.0,2026-07-10,Minnesota Twins vs Los Angeles Angels
+Total,UNDER 9.5,-116.5,0.1399,0.5123,0.6522,True,0.8584,2026-07-10,Minnesota Twins vs Los Angeles Angels
+Moneyline,Toronto Blue Jays ML,103.0,0.25,0.47,0.758,True,1.03,2026-07-10,San Diego Padres vs Toronto Blue Jays
+Total,UNDER 8.5,-109.5,0.0903,0.4963,0.5866,True,0.9132,2026-07-10,San Diego Padres vs Toronto Blue Jays
+Moneyline,Colorado Rockies ML,130.5,0.25,0.4132,0.671,True,1.305,2026-07-10,San Francisco Giants vs Colorado Rockies

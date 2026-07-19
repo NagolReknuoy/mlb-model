@@ -1,0 +1,20 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+New York Mets vs Chicago Cubs,Chicago Cubs ML,-102,48.7%,73.6%,0.24937613697164251,Strong,Moneyline
+Tampa Bay Rays vs Kansas City Royals,Kansas City Royals ML,+159,37.2%,60.4%,0.2323487327724152,Strong,Moneyline
+Toronto Blue Jays vs Houston Astros,OVER  8.5,-115,51.1%,72.5%,0.21376804490385048,Strong,Total
+San Diego Padres vs Atlanta Braves,San Diego Padres ML,-103,48.8%,68.9%,0.20117245042492915,Strong,Moneyline
+Miami Marlins vs Texas Rangers,Miami Marlins ML,-156,58.9%,77.4%,0.18517892707998718,Strong,Moneyline
+Minnesota Twins vs Los Angeles Dodgers,OVER  9.0,-102,48.1%,65.0%,0.1689203414188642,Strong,Total
+Miami Marlins vs Texas Rangers,Miami Marlins -1.5,+135,40.9%,56.2%,0.1535345898780408,Strong,Run Line
+New York Mets vs Chicago Cubs,Chicago Cubs +1.5,+155,37.5%,52.3%,0.1478773097081454,Strong,Run Line
+Washington Nationals vs Philadelphia Phillies,OVER  8.5,-118,52.0%,66.0%,0.14055959104754634,Strong,Total
+Detroit Tigers vs New York Yankees,UNDER 8.0,-115,51.1%,63.6%,0.12489675131132305,Strong,Total
+Detroit Tigers vs New York Yankees,Detroit Tigers ML,-104,49.1%,61.4%,0.12290947968638627,Strong,Moneyline
+Colorado Rockies vs Boston Red Sox,UNDER 10.5,-105,49.0%,61.1%,0.12035876879762741,Strong,Total
+Cincinnati Reds vs Milwaukee Brewers,Milwaukee Brewers ML,-109,50.2%,61.5%,0.11277411743756405,Good,Moneyline
+Los Angeles Angels vs Baltimore Orioles,Baltimore Orioles ML,-139,56.1%,67.3%,0.1116930983847283,Good,Moneyline
+Minnesota Twins vs Los Angeles Dodgers,Minnesota Twins ML,+150,38.5%,49.1%,0.10552513966480448,Good,Moneyline
+New York Mets vs Chicago Cubs,OVER  8.5,-110,50.0%,58.4%,0.08443417591283342,Good,Total
+Colorado Rockies vs Boston Red Sox,Boston Red Sox ML,-160,59.2%,67.5%,0.08277917189460471,Good,Moneyline
+Tampa Bay Rays vs Kansas City Royals,OVER  8.0,-108,49.6%,57.4%,0.0785712672977994,Lean,Total
+Chicago White Sox vs Cleveland Guardians,UNDER 7.0,-105,48.9%,56.7%,0.07828983264338446,Lean,Total

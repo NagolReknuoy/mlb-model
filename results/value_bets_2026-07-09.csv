@@ -1,0 +1,21 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Chicago White Sox vs Boston Red Sox,Boston Red Sox ML,-105,49.0%,77.8%,0.2878167539267016,Strong,Moneyline
+Minnesota Twins vs Cleveland Guardians,Minnesota Twins ML,+104,47.3%,73.0%,0.2566781411359725,Strong,Moneyline
+Detroit Tigers vs Athletics,Detroit Tigers ML,-130,54.3%,76.9%,0.22625646123260434,Strong,Moneyline
+San Diego Padres vs Arizona Diamondbacks,Arizona Diamondbacks ML,+109,46.3%,67.2%,0.2092750642673522,Strong,Moneyline
+Tampa Bay Rays vs New York Yankees,Tampa Bay Rays ML,-153,58.1%,77.6%,0.1953115335532094,Strong,Moneyline
+Detroit Tigers vs Athletics,Detroit Tigers -1.5,+155,37.9%,56.2%,0.18344922890238957,Strong,Run Line
+Chicago White Sox vs Boston Red Sox,Boston Red Sox +1.5,+150,38.3%,56.2%,0.17970732824452745,Strong,Run Line
+Miami Marlins vs Seattle Mariners,UNDER 8.0,-110,50.0%,67.4%,0.17428731738376457,Strong,Total
+Tampa Bay Rays vs New York Yankees,OVER  7.5,-110,50.0%,67.0%,0.1702146665632125,Strong,Total
+Tampa Bay Rays vs New York Yankees,Tampa Bay Rays -1.5,+140,40.1%,56.2%,0.16143190574213084,Strong,Run Line
+Baltimore Orioles vs Chicago Cubs,Chicago Cubs ML,+110,45.9%,59.5%,0.13606280193236708,Strong,Moneyline
+New York Mets vs Kansas City Royals,OVER  9.0,-120,52.1%,65.6%,0.13572129654609255,Strong,Total
+Texas Rangers vs Los Angeles Angels,OVER  7.0,-115,51.1%,62.7%,0.11639494603711642,Good,Total
+St. Louis Cardinals vs Milwaukee Brewers,Milwaukee Brewers ML,-133,55.2%,64.8%,0.09583578073345117,Good,Moneyline
+St. Louis Cardinals vs Milwaukee Brewers,UNDER 8.5,-115,51.1%,60.1%,0.0900876847582629,Good,Total
+Chicago White Sox vs Boston Red Sox,UNDER 9.0,-115,51.1%,59.0%,0.07920923110373901,Lean,Total
+Detroit Tigers vs Athletics,UNDER 9.0,-115,51.1%,59.0%,0.07920923110373901,Lean,Total
+Minnesota Twins vs Cleveland Guardians,OVER  8.5,-115,51.2%,59.1%,0.07874346133005061,Lean,Total
+Cincinnati Reds vs Philadelphia Phillies,OVER  9.5,-101,47.9%,55.3%,0.07377817385035695,Lean,Total
+Baltimore Orioles vs Chicago Cubs,OVER  9.5,-118,51.6%,58.9%,0.0724598712409491,Lean,Total

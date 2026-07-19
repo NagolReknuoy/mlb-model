@@ -1,0 +1,15 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Toronto Blue Jays ML,-185.0,0.145,0.622,0.767,True,0.5405,2026-05-09,Toronto Blue Jays vs Los Angeles Angels
+Moneyline,Athletics ML,100.0,0.1017,0.4783,0.58,True,1.0,2026-05-09,Baltimore Orioles vs Athletics
+Moneyline,Houston Astros ML,135.0,0.2396,0.4074,0.647,False,-1.0,2026-05-09,Cincinnati Reds vs Houston Astros
+Moneyline,Washington Nationals ML,135.0,0.25,0.4068,0.663,False,-1.0,2026-05-09,Miami Marlins vs Washington Nationals
+Moneyline,Cleveland Guardians ML,-120.0,0.1683,0.5217,0.69,False,-1.0,2026-05-09,Cleveland Guardians vs Minnesota Twins
+Moneyline,Chicago Cubs ML,-130.0,0.2323,0.5427,0.775,False,-1.0,2026-05-09,Texas Rangers vs Chicago Cubs
+Total,UNDER 9.0,-106.5,0.2,0.4924,0.7,True,0.939,2026-05-09,Kansas City Royals vs Detroit Tigers
+Moneyline,Chicago White Sox ML,109.5,0.1402,0.4578,0.598,True,1.095,2026-05-09,Chicago White Sox vs Seattle Mariners
+Total,UNDER 9.5,-112.5,0.1823,0.5054,0.6877,True,0.8889,2026-05-09,Chicago White Sox vs Seattle Mariners
+Total,UNDER 9.5,-110.0,0.2,0.4995,0.7,True,0.9091,2026-05-09,Arizona Diamondbacks vs New York Mets
+Total,UNDER 8.0,-115.0,0.1322,0.5097,0.6418,True,0.8696,2026-05-09,San Diego Padres vs St. Louis Cardinals
+Moneyline,Pittsburgh Pirates ML,-110.0,0.25,0.5,0.768,True,0.9091,2026-05-09,San Francisco Giants vs Pittsburgh Pirates
+Run Line,Pittsburgh Pirates +1.5,154.5,0.0848,0.376,0.4608,True,1.545,2026-05-09,San Francisco Giants vs Pittsburgh Pirates
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.7,False,-1.0,2026-05-09,Los Angeles Dodgers vs Atlanta Braves

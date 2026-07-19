@@ -1,0 +1,21 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 7.5,-105.0,0.1363,0.4892,0.6255,True,0.9524,2026-05-06,Tampa Bay Rays vs Toronto Blue Jays
+Moneyline,Milwaukee Brewers ML,-110.0,0.165,0.5,0.665,True,0.9091,2026-05-06,St. Louis Cardinals vs Milwaukee Brewers
+Moneyline,Los Angeles Dodgers ML,-220.0,0.1169,0.6581,0.775,True,0.4545,2026-05-06,Houston Astros vs Los Angeles Dodgers
+Total,UNDER 8.5,-105.0,0.0893,0.4892,0.5785,False,-1.0,2026-05-06,Houston Astros vs Los Angeles Dodgers
+Moneyline,San Diego Padres ML,-103.0,0.2497,0.4853,0.735,True,0.9709,2026-05-06,San Francisco Giants vs San Diego Padres
+Run Line,San Diego Padres +1.5,152.5,0.0632,0.3778,0.441,True,1.525,2026-05-06,San Francisco Giants vs San Diego Padres
+Total,UNDER 8.5,-113.5,0.0945,0.507,0.6015,True,0.8811,2026-05-06,San Francisco Giants vs San Diego Padres
+Moneyline,Chicago White Sox ML,-115.0,0.25,0.5108,0.767,False,-1.0,2026-05-06,Los Angeles Angels vs Chicago White Sox
+Run Line,Chicago White Sox +1.5,146.5,0.0742,0.386,0.4602,False,-1.0,2026-05-06,Los Angeles Angels vs Chicago White Sox
+Total,UNDER 9.0,-115.0,0.1095,0.5108,0.6204,False,-1.0,2026-05-06,Los Angeles Angels vs Chicago White Sox
+Moneyline,Atlanta Braves ML,115.0,0.2052,0.4478,0.653,False,-1.0,2026-05-06,Seattle Mariners vs Atlanta Braves
+Total,UNDER 8.0,-110.0,0.1057,0.5,0.6057,True,0.9091,2026-05-06,Seattle Mariners vs Atlanta Braves
+Total,UNDER 8.5,-110.0,0.2,0.5,0.7,True,0.9091,2026-05-06,Detroit Tigers vs Boston Red Sox
+Moneyline,Philadelphia Phillies ML,-165.5,0.1796,0.5994,0.779,True,0.6042,2026-05-06,Philadelphia Phillies vs Athletics
+Moneyline,New York Yankees ML,-170.5,0.066,0.606,0.672,False,-1.0,2026-05-06,New York Yankees vs Texas Rangers
+Total,UNDER 8.5,-106.5,0.1499,0.4909,0.6407,True,0.939,2026-05-06,New York Yankees vs Texas Rangers
+Moneyline,Chicago Cubs ML,-169.5,0.1745,0.6025,0.777,True,0.59,2026-05-06,Chicago Cubs vs Cincinnati Reds
+Total,UNDER 7.5,-120.0,0.0732,0.5181,0.5913,True,0.8333,2026-05-06,Kansas City Royals vs Cleveland Guardians
+Total,UNDER 9.5,-111.0,0.0945,0.5011,0.5956,False,-1.0,2026-05-06,Colorado Rockies vs New York Mets
+Total,OVER  7.5,-115.0,0.0709,0.5103,0.5812,False,-1.0,2026-05-06,Arizona Diamondbacks vs Pittsburgh Pirates

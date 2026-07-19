@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Atlanta Braves,New York Mets,Martín Pérez,Nolan Mclean,74.3,25.7,8.65,1.01,hitter,warm humid air; June winds boost offense,unknown,1.0,3-2 (home-away),5.182,3.12
+Washington Nationals,Pittsburgh Pirates,Cade Cavalli,Bubba Chandler,49.8,50.2,11.01,0.99,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,3-3 (home-away),8.592,5.89
+Cincinnati Reds,Baltimore Orioles,Nick Lodolo,Kyle Bradish,41.3,58.7,9.74,1.06,hitter,one of the top HR parks in MLB,"84°F, wind 5 mph",1.029,0-2 (home-away),4.557,5.167
+New York Yankees,Minnesota Twins,Ryan Weathers,Joe Ryan,26.2,73.8,9.31,1.02,hitter,short porches both sides,"83°F, wind 7 mph",0.977,1-1 (home-away),3.812,7.324
+Cleveland Guardians,Chicago White Sox,Tanner Bibee,Chris Murphy,31.7,68.3,8.13,0.97,neutral,below-average HR park,"77°F, wind 5 mph",0.981,3-3 (home-away),2.503,4.708
+Chicago Cubs,St. Louis Cardinals,Javier Assad,Matthew Liberatore,49.7,50.3,10.98,1.05,variable,wind hugely variable; extreme hitter or pitcher park,"68°F, wind 10 mph",1.052,1-4 (home-away),6.34,7.422
+Kansas City Royals,Philadelphia Phillies,Luinder Avila,Aaron Nola,22.4,77.6,9.07,0.96,pitcher,large dimensions; spray park,"90°F, wind 10 mph",1.058,0-1 (home-away),3.134,10.677
+Houston Astros,Tampa Bay Rays,Peter Lambert,Nan,22.4,77.6,9.04,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,1-1 (home-away),2.672,7.337
+Texas Rangers,Detroit Tigers,Kumar Rocker,Casey Mize,24.4,75.6,8.85,1.04,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,2-3 (home-away),3.288,5.353
+Colorado Rockies,San Francisco Giants,Tanner Gordon,Tyler Mahle,53.2,46.8,10.77,1.107,hitter,"5,200 ft altitude; most extreme hitter park","92°F, wind 7 mph",0.98,3-2 (home-away),8.728,5.204
+Arizona Diamondbacks,Milwaukee Brewers,Eduardo Rodriguez,Brandon Sproat,23.9,76.1,9.1,1.04,hitter,"high altitude (1,082 ft)",dome,1.0,2-3 (home-away),3.631,5.835
+Athletics,Miami Marlins,Gage Jump,Eury Pérez,30.2,69.8,9.54,0.999,pitcher,largest foul territory in MLB,"60°F, wind 10 mph",0.996,0-2 (home-away),4.029,8.305
+Seattle Mariners,Toronto Blue Jays,Emerson Hancock,Trey Yesavage,51.9,48.1,7.11,0.97,pitcher,marine air; roof often closed,dome,1.0,1-1 (home-away),3.622,1.929
+Los Angeles Dodgers,San Diego Padres,Emmet Sheehan,Jp Sears,76.9,23.1,8.94,0.979,pitcher,marine layer suppresses carry; spacious foul territory,"71°F, wind 8 mph",0.97,7-2 (home-away),10.241,2.778
+Los Angeles Angels,Boston Red Sox,Ryan Johnson,Ranger Suarez,23.9,76.1,8.76,1.04,neutral,symmetrical; marine layer suppresses HRs,"76°F, wind 7 mph",1.038,0-2 (home-away),2.413,5.3

@@ -1,0 +1,22 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Pittsburgh Pirates vs Cincinnati Reds,OVER  8.5,-106,49.0%,70.8%,0.2179865526893408,Strong,Total
+San Diego Padres vs Chicago White Sox,OVER  8.0,-115,51.1%,72.7%,0.21576198726417872,Strong,Total
+Detroit Tigers vs Texas Rangers,UNDER 8.0,-118,51.4%,72.8%,0.21398028040053807,Strong,Total
+Washington Nationals vs Milwaukee Brewers,OVER  8.0,-105,49.1%,66.6%,0.17483794196400332,Strong,Total
+Minnesota Twins vs Toronto Blue Jays,Toronto Blue Jays +1.5,-35,21.4%,38.0%,0.16590217990446837,Strong,Run Line
+Miami Marlins vs Philadelphia Phillies,UNDER 8.0,-115,51.1%,67.4%,0.16345308119741575,Strong,Total
+New York Yankees vs Baltimore Orioles,New York Yankees ML,-180,62.0%,77.5%,0.15481551817688555,Strong,Moneyline
+St. Louis Cardinals vs Los Angeles Dodgers,Los Angeles Dodgers ML,-178,61.7%,77.0%,0.15262497247302356,Strong,Moneyline
+Boston Red Sox vs Houston Astros,OVER  9.5,+100,47.8%,61.5%,0.13629155233401447,Strong,Total
+Pittsburgh Pirates vs Cincinnati Reds,Cincinnati Reds ML,+116,44.6%,58.0%,0.1337409798708697,Strong,Moneyline
+San Diego Padres vs Chicago White Sox,Chicago White Sox ML,+129,42.4%,55.7%,0.13311055588103538,Strong,Moneyline
+New York Yankees vs Baltimore Orioles,New York Yankees -1.5,+114,44.9%,56.2%,0.1137807360411307,Good,Run Line
+Minnesota Twins vs Toronto Blue Jays,Toronto Blue Jays ML,-105,49.4%,60.6%,0.11160538116591939,Good,Moneyline
+Colorado Rockies vs Atlanta Braves,UNDER 11.0,-115,51.1%,62.1%,0.11013796646667484,Good,Total
+Tampa Bay Rays vs San Francisco Giants,UNDER 7.5,-106,49.1%,59.7%,0.1058878232925563,Good,Total
+Miami Marlins vs Philadelphia Phillies,Miami Marlins ML,+103,47.5%,56.6%,0.09145297670405528,Good,Moneyline
+Minnesota Twins vs Toronto Blue Jays,UNDER 8.5,+100,48.0%,57.0%,0.0900491010750778,Good,Total
+Los Angeles Angels vs New York Mets,UNDER 9.0,-110,50.0%,57.4%,0.07423526623392784,Lean,Total
+Seattle Mariners vs Kansas City Royals,Seattle Mariners ML,-148,57.4%,64.7%,0.07276569152588941,Lean,Moneyline
+Colorado Rockies vs Atlanta Braves,Colorado Rockies ML,+159,37.3%,44.6%,0.0725909329967393,Lean,Moneyline
+St. Louis Cardinals vs Los Angeles Dodgers,Los Angeles Dodgers +1.5,-105,49.0%,56.2%,0.07215637525128327,Lean,Run Line

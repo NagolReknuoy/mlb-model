@@ -1,0 +1,10 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Los Angeles Dodgers vs San Francisco Giants,UNDER 9.0,-110,50.0%,71.8%,0.21786426982607887,Strong,Total
+Baltimore Orioles vs New York Yankees,New York Yankees ML,-153,58.4%,77.4%,0.190145799065728,Strong,Moneyline
+Houston Astros vs Seattle Mariners,Seattle Mariners ML,-143,56.6%,68.3%,0.11657242265282092,Good,Moneyline
+Toronto Blue Jays vs Tampa Bay Rays,UNDER 7.0,-107,49.2%,60.5%,0.11220125032113565,Good,Total
+Texas Rangers vs Arizona Diamondbacks,UNDER 7.5,-109,49.9%,59.9%,0.09980363726278485,Good,Total
+Baltimore Orioles vs New York Yankees,New York Yankees +1.5,+102,47.4%,56.2%,0.08842620658630151,Good,Run Line
+Cleveland Guardians vs Los Angeles Angels,OVER  7.5,-105,48.9%,57.7%,0.08813786430626352,Good,Total
+Cleveland Guardians vs Los Angeles Angels,Cleveland Guardians ML,-168,60.7%,69.4%,0.08737717238139975,Good,Moneyline
+Houston Astros vs Seattle Mariners,UNDER 8.5,-101,47.9%,56.0%,0.08191722359655768,Good,Total

@@ -1,0 +1,18 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 7.5,-110.0,0.1102,0.4979,0.6081,True,0.9091,2026-05-24,Toronto Blue Jays vs Pittsburgh Pirates
+Moneyline,Detroit Tigers ML,104.5,0.1349,0.4681,0.603,False,-1.0,2026-05-24,Baltimore Orioles vs Detroit Tigers
+Total,UNDER 5.75,255.5,0.1557,0.2614,0.4171,False,-1.0,2026-05-24,Baltimore Orioles vs Detroit Tigers
+Total,UNDER 7.0,-105.0,0.1007,0.4892,0.5899,False,-1.0,2026-05-24,Boston Red Sox vs Minnesota Twins
+Total,UNDER 7.0,100.0,0.1097,0.4783,0.588,True,1.0,2026-05-24,Philadelphia Phillies vs Cleveland Guardians
+Moneyline,Tampa Bay Rays ML,118.0,0.2362,0.4398,0.676,False,-1.0,2026-05-24,New York Yankees vs Tampa Bay Rays
+Total,UNDER 8.0,-110.0,0.1624,0.5,0.6624,False,-1.0,2026-05-24,Kansas City Royals vs Seattle Mariners
+Moneyline,Los Angeles Dodgers ML,-149.0,0.0802,0.5738,0.654,True,0.6711,2026-05-24,Milwaukee Brewers vs Los Angeles Dodgers
+Total,UNDER 8.0,-110.0,0.102,0.5,0.602,True,0.9091,2026-05-24,Milwaukee Brewers vs Los Angeles Dodgers
+Total,UNDER 7.0,-111.5,0.0857,0.5066,0.5924,False,-1.0,2026-05-24,Chicago Cubs vs Houston Astros
+Total,OVER  8.0,-108.0,0.0855,0.4967,0.5823,True,0.9259,2026-05-24,San Francisco Giants vs Chicago White Sox
+Moneyline,Arizona Diamondbacks ML,-199.0,0.1308,0.6382,0.769,True,0.5025,2026-05-24,Arizona Diamondbacks vs Colorado Rockies
+Total,UNDER 8.5,-105.0,0.0881,0.4892,0.5773,False,-1.0,2026-05-24,Arizona Diamondbacks vs Colorado Rockies
+Total,UNDER 7.5,-115.0,0.1147,0.5108,0.6255,True,0.8696,2026-05-24,San Diego Padres vs Athletics
+Moneyline,Atlanta Braves ML,-156.5,0.0806,0.5844,0.665,False,-1.0,2026-05-24,Atlanta Braves vs Washington Nationals
+Total,UNDER 8.5,-115.0,0.067,0.5108,0.5779,True,0.8696,2026-05-24,Atlanta Braves vs Washington Nationals
+Moneyline,Texas Rangers ML,105.0,0.25,0.4675,0.77,False,-1.0,2026-05-24,Los Angeles Angels vs Texas Rangers

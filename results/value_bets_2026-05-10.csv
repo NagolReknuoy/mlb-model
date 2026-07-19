@@ -1,0 +1,19 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Francisco Giants vs Pittsburgh Pirates,Pittsburgh Pirates ML,-102,48.8%,77.6%,0.2883451247979889,Strong,Moneyline
+Toronto Blue Jays vs Los Angeles Angels,Toronto Blue Jays ML,-109,50.0%,78.0%,0.28,Strong,Moneyline
+Texas Rangers vs Chicago Cubs,Chicago Cubs ML,+108,46.4%,73.9%,0.2750824742268041,Strong,Moneyline
+Miami Marlins vs Washington Nationals,Washington Nationals ML,+113,45.4%,71.8%,0.26426159005721045,Strong,Moneyline
+Arizona Diamondbacks vs New York Mets,UNDER 8.5,+100,47.8%,72.4%,0.2456006020416025,Strong,Total
+Boston Red Sox vs Tampa Bay Rays,UNDER 8.5,-118,51.7%,73.0%,0.21302998418295538,Strong,Total
+Kansas City Royals vs Detroit Tigers,UNDER 8.0,-102,48.3%,69.2%,0.20928830476872073,Strong,Total
+Chicago White Sox vs Seattle Mariners,UNDER 8.0,-110,50.0%,67.6%,0.17565104943521725,Strong,Total
+Cincinnati Reds vs Houston Astros,Houston Astros ML,+102,47.6%,64.4%,0.16822145328719723,Strong,Moneyline
+San Diego Padres vs St. Louis Cardinals,UNDER 8.5,-118,51.7%,67.7%,0.15964955048924134,Strong,Total
+Philadelphia Phillies vs Colorado Rockies,OVER  8.5,-110,50.0%,65.8%,0.1581001199596136,Strong,Total
+San Francisco Giants vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,+137,40.7%,56.2%,0.1555811732645066,Strong,Run Line
+Milwaukee Brewers vs New York Yankees,Milwaukee Brewers ML,+104,47.3%,62.6%,0.1526781411359725,Strong,Moneyline
+Miami Marlins vs Washington Nationals,OVER  8.5,-105,48.8%,60.8%,0.12001434471441785,Strong,Total
+San Diego Padres vs St. Louis Cardinals,St. Louis Cardinals ML,+113,45.1%,56.9%,0.1184975164606677,Good,Moneyline
+Chicago White Sox vs Seattle Mariners,Chicago White Sox ML,+113,45.4%,56.0%,0.10626159005721053,Good,Moneyline
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians ML,-160,59.3%,68.8%,0.09475844806007505,Good,Moneyline
+Philadelphia Phillies vs Colorado Rockies,Colorado Rockies ML,+246,27.8%,36.5%,0.08683588317107094,Good,Moneyline

@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Atlanta Braves ML,-105.5,0.1707,0.4903,0.661,False,-1.0,2026-07-05,Atlanta Braves vs New York Mets
+Moneyline,Baltimore Orioles ML,-118.0,0.0848,0.5162,0.601,False,-1.0,2026-07-05,Cincinnati Reds vs Baltimore Orioles
+Total,UNDER 9.5,-105.0,0.1618,0.4892,0.651,True,0.9524,2026-07-05,Cincinnati Reds vs Baltimore Orioles
+Moneyline,Minnesota Twins ML,114.5,0.25,0.4457,0.776,True,1.145,2026-07-05,New York Yankees vs Minnesota Twins
+Moneyline,Chicago White Sox ML,114.0,0.25,0.4478,0.757,True,1.14,2026-07-05,Cleveland Guardians vs Chicago White Sox
+Total,OVER  8.0,-113.5,0.082,0.5059,0.5879,True,0.8811,2026-07-05,Chicago Cubs vs St. Louis Cardinals
+Moneyline,Philadelphia Phillies ML,-135.0,0.2321,0.5479,0.78,False,-1.0,2026-07-05,Kansas City Royals vs Philadelphia Phillies
+Total,UNDER 10.0,-110.0,0.1904,0.5,0.6904,True,0.9091,2026-07-05,Kansas City Royals vs Philadelphia Phillies
+Moneyline,Tampa Bay Rays ML,-102.0,0.25,0.4826,0.781,False,-1.0,2026-07-05,Houston Astros vs Tampa Bay Rays
+Run Line,Tampa Bay Rays +1.5,155.0,0.0944,0.3742,0.4686,False,-1.0,2026-07-05,Houston Astros vs Tampa Bay Rays
+Total,UNDER 9.0,-115.0,0.1045,0.5108,0.6154,True,0.8696,2026-07-05,Houston Astros vs Tampa Bay Rays
+Moneyline,Detroit Tigers ML,-126.0,0.2357,0.5333,0.769,True,0.7937,2026-07-05,Texas Rangers vs Detroit Tigers
+Run Line,Detroit Tigers +1.5,134.5,0.0541,0.4073,0.4614,True,1.345,2026-07-05,Texas Rangers vs Detroit Tigers
+Total,UNDER 13.0,-115.0,0.1892,0.5108,0.7,False,-1.0,2026-07-05,Colorado Rockies vs San Francisco Giants
+Moneyline,Milwaukee Brewers ML,-120.0,0.2413,0.5217,0.763,True,0.8333,2026-07-05,Arizona Diamondbacks vs Milwaukee Brewers
+Total,UNDER 8.75,-115.0,0.1019,0.5015,0.6035,True,0.8696,2026-07-05,Arizona Diamondbacks vs Milwaukee Brewers
+Moneyline,Seattle Mariners ML,-113.5,0.0777,0.5053,0.583,True,0.8811,2026-07-05,Seattle Mariners vs Toronto Blue Jays
+Total,OVER  7.5,-1.0,0.2,0.0178,0.4025,False,-1.0,2026-07-05,Seattle Mariners vs Toronto Blue Jays
+Moneyline,Los Angeles Dodgers ML,-228.0,0.1083,0.6657,0.774,False,-1.0,2026-07-05,Los Angeles Dodgers vs San Diego Padres
+Total,UNDER 10.0,-109.5,0.1935,0.4963,0.6897,True,0.9132,2026-07-05,Los Angeles Dodgers vs San Diego Padres
+Moneyline,Boston Red Sox ML,-165.5,0.1777,0.5943,0.772,True,0.6042,2026-07-05,Los Angeles Angels vs Boston Red Sox

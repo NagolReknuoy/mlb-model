@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-09,Toronto Blue Jays,Los Angeles Angels,14,1,15,Toronto Blue Jays,Toronto Blue Jays,76.7,23.3,True,76.7,9.01,5.99,True,LOW,7.75,OVER
+2026-05-09,Baltimore Orioles,Athletics,2,6,8,Athletics,Athletics,42.0,58.0,True,58.0,10.33,2.33,True,HIGH,9.5,UNDER
+2026-05-09,Cincinnati Reds,Houston Astros,3,1,4,Cincinnati Reds,Houston Astros,35.3,64.7,False,64.7,9.87,5.869999999999999,False,HIGH,8.5,UNDER
+2026-05-09,Miami Marlins,Washington Nationals,8,7,15,Miami Marlins,Washington Nationals,33.7,66.3,False,66.3,9.65,5.35,False,LOW,8.5,OVER
+2026-05-09,Philadelphia Phillies,Colorado Rockies,9,3,12,Philadelphia Phillies,Philadelphia Phillies,55.4,44.6,True,55.4,10.6,1.4000000000000004,True,LOW,8.5,OVER
+2026-05-09,Cleveland Guardians,Minnesota Twins,1,2,3,Minnesota Twins,Cleveland Guardians,69.0,31.0,False,69.0,9.68,6.68,False,HIGH,8.0,UNDER
+2026-05-09,Texas Rangers,Chicago Cubs,6,0,6,Texas Rangers,Chicago Cubs,22.5,77.5,False,77.5,8.94,2.9399999999999995,False,HIGH,8.0,UNDER
+2026-05-09,Kansas City Royals,Detroit Tigers,5,1,6,Kansas City Royals,Kansas City Royals,53.4,46.6,True,53.4,7.21,1.21,True,HIGH,9.0,UNDER
+2026-05-09,Chicago White Sox,Seattle Mariners,6,1,7,Chicago White Sox,Chicago White Sox,59.8,40.2,True,59.8,8.43,1.4299999999999997,True,HIGH,9.5,UNDER
+2026-05-09,Milwaukee Brewers,New York Yankees,4,3,7,Milwaukee Brewers,New York Yankees,49.0,51.0,False,51.0,8.23,1.2300000000000004,False,HIGH,7.5,UNDER
+2026-05-09,Arizona Diamondbacks,New York Mets,2,1,3,Arizona Diamondbacks,Arizona Diamondbacks,50.8,49.2,True,50.8,6.98,3.9800000000000004,False,HIGH,9.5,UNDER
+2026-05-09,San Diego Padres,St. Louis Cardinals,4,2,6,San Diego Padres,St. Louis Cardinals,44.9,55.1,False,55.1,7.36,1.3600000000000003,False,HIGH,8.0,UNDER
+2026-05-09,San Francisco Giants,Pittsburgh Pirates,3,13,16,Pittsburgh Pirates,Pittsburgh Pirates,23.2,76.8,True,76.8,9.0,7.0,True,LOW,7.0,OVER
+2026-05-09,Los Angeles Dodgers,Atlanta Braves,2,7,9,Atlanta Braves,Los Angeles Dodgers,51.0,49.0,False,51.0,6.99,2.01,False,LOW,8.5,OVER
+2026-05-09,Boston Red Sox,Tampa Bay Rays,0,0,0,Tampa Bay Rays,Boston Red Sox,50.9,49.1,False,50.9,6.97,6.97,False,HIGH,,

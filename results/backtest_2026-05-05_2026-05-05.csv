@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-05,Detroit Tigers,Boston Red Sox,3,10,13,Boston Red Sox,Boston Red Sox,37.8,62.2,True,62.2,7.75,5.25,True,LOW,8.5,OVER
+2026-05-05,Tampa Bay Rays,Toronto Blue Jays,4,3,7,Tampa Bay Rays,Toronto Blue Jays,49.9,50.1,False,50.1,6.97,0.03000000000000025,False,LOW,6.75,OVER
+2026-05-05,Philadelphia Phillies,Athletics,9,1,10,Philadelphia Phillies,Philadelphia Phillies,74.2,25.8,True,74.2,8.69,1.3100000000000005,True,LOW,9.0,OVER
+2026-05-05,Miami Marlins,Baltimore Orioles,7,9,16,Baltimore Orioles,Miami Marlins,59.8,40.2,False,59.8,8.5,7.5,False,LOW,8.5,OVER
+2026-05-05,Washington Nationals,Minnesota Twins,3,11,14,Minnesota Twins,Minnesota Twins,41.9,58.1,True,58.1,9.88,4.119999999999999,True,LOW,9.5,OVER
+2026-05-05,New York Yankees,Texas Rangers,7,4,11,New York Yankees,New York Yankees,76.7,23.3,True,76.7,8.96,2.039999999999999,True,LOW,9.0,OVER
+2026-05-05,Chicago Cubs,Cincinnati Reds,3,2,5,Chicago Cubs,Chicago Cubs,67.5,32.5,True,67.5,9.79,4.789999999999999,False,HIGH,8.0,UNDER
+2026-05-05,Kansas City Royals,Cleveland Guardians,5,3,8,Kansas City Royals,Kansas City Royals,77.6,22.4,True,77.6,8.96,0.9600000000000009,True,HIGH,7.5,OVER
+2026-05-05,Houston Astros,Los Angeles Dodgers,2,1,3,Houston Astros,Los Angeles Dodgers,22.5,77.5,False,77.5,9.0,6.0,False,HIGH,8.5,UNDER
+2026-05-05,Los Angeles Angels,Chicago White Sox,4,3,7,Los Angeles Angels,Chicago White Sox,22.8,77.2,False,77.2,9.03,2.0299999999999994,False,HIGH,9.0,UNDER
+2026-05-05,Arizona Diamondbacks,Pittsburgh Pirates,9,0,9,Arizona Diamondbacks,Arizona Diamondbacks,50.4,49.6,True,50.4,10.98,1.9800000000000004,True,HIGH,9.0,PUSH
+2026-05-05,Seattle Mariners,Atlanta Braves,2,3,5,Atlanta Braves,Atlanta Braves,27.8,72.2,True,72.2,9.43,4.43,False,HIGH,8.0,UNDER
+2026-05-05,San Francisco Giants,San Diego Padres,5,10,15,San Diego Padres,San Francisco Giants,50.2,49.8,False,50.2,8.02,6.98,False,LOW,7.5,OVER
+2026-05-05,St. Louis Cardinals,Milwaukee Brewers,0,0,0,Milwaukee Brewers,Milwaukee Brewers,43.6,56.4,True,56.4,10.55,10.55,False,HIGH,,
+2026-05-05,Colorado Rockies,New York Mets,0,0,0,New York Mets,Colorado Rockies,50.4,49.6,False,50.4,7.94,7.94,False,HIGH,,

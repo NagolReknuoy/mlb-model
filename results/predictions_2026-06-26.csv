@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Houston Astros,Keider Montero,Spencer Arrighetti,50.3,49.7,6.97,0.989,pitcher,very deep CF historically,unknown,1.0,1-3 (home-away),3.403,2.612
+Pittsburgh Pirates,Cincinnati Reds,Paul Skenes,Andrew Abbott,68.3,31.7,8.17,0.979,pitcher,high RF wall; spacious,unknown,1.0,5-1 (home-away),4.718,3.128
+Baltimore Orioles,Washington Nationals,Trevor Rogers,Andrew Alvarez,71.6,28.4,9.5,1.061,hitter,short RF; warm summers,unknown,1.0,1-2 (home-away),5.763,3.986
+Toronto Blue Jays,Texas Rangers,Patrick Corbin,Nathan Eovaldi,45.3,54.7,10.64,1.071,neutral,turf boosts groundball singles,dome,1.0,0-1 (home-away),5.168,5.575
+Cleveland Guardians,Seattle Mariners,Joey Cantillo,Luis Castillo,49.9,50.1,7.01,1.039,neutral,below-average HR park,"70°F, wind 8 mph",0.969,2-2 (home-away),2.939,2.547
+Tampa Bay Rays,Arizona Diamondbacks,Nick Martinez,Zac Gallen,63.2,36.8,9.46,1.0,neutral,dome; artificial turf,dome,1.0,no prior meetings,5.189,4.242
+New York Mets,Philadelphia Phillies,Nan,Zack Wheeler,21.8,78.2,9.01,0.97,pitcher,sea-level; large dimensions,"80°F, wind 10 mph",0.965,1-2 (home-away),3.418,8.551
+Boston Red Sox,New York Yankees,Payton Tolle,Will Warren,50.0,50.0,7.0,1.02,hitter,Green Monster 37ft LF wall,"78°F, wind 7 mph",0.976,2-4 (home-away),2.986,3.319
+Chicago White Sox,Kansas City Royals,Nan,Nan,48.1,51.9,10.89,0.99,neutral,July is extreme hitter month (+12 pts),"65°F, wind 9 mph",0.998,5-2 (home-away),5.396,6.681
+Milwaukee Brewers,Chicago Cubs,Jacob Misiorowski,Colin Rea,69.5,30.5,8.98,0.96,pitcher,large dimensions suppress HRs,dome,1.0,3-0 (home-away),5.139,3.804
+Minnesota Twins,Colorado Rockies,Taj Bradley,Tomoyuki Sugano,49.8,50.2,10.99,1.05,neutral,cold Aprils suppress offense (-8 pts),"77°F, wind 6 mph",0.979,no prior meetings,8.721,8.604
+St. Louis Cardinals,Miami Marlins,Michael Mcgreevy,Max Meyer,24.3,75.7,8.81,0.98,neutral,natural grass; moderate dimensions,"74°F, wind 8 mph",0.968,1-2 (home-away),3.206,5.287
+Los Angeles Angels,Athletics,Walbert Ureña,J.T. Ginn,49.9,50.1,10.98,0.97,neutral,symmetrical; marine layer suppresses HRs,"68°F, wind 8 mph",1.04,3-5 (home-away),9.168,7.952
+San Diego Padres,Los Angeles Dodgers,Walker Buehler,Roki Sasaki,47.4,52.6,7.49,1.007,pitcher,marine layer; large dimensions,"66°F, wind 5 mph",1.025,1-2 (home-away),3.66,3.806
+San Francisco Giants,Atlanta Braves,Nan,Reynaldo López,77.9,22.1,9.04,0.996,pitcher,marine layer; bay wind tricky in RF,"59°F, wind 9 mph",0.996,3-0 (home-away),6.334,2.256

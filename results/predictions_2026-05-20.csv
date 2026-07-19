@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Philadelphia Phillies,Cincinnati Reds,Aaron Nola,Andrew Abbott,69.5,30.5,9.57,1.019,hitter,high HR rate historically,unknown,1.0,1-1 (home-away),7.298,4.068
+Tampa Bay Rays,Baltimore Orioles,Steven Matz,Shane Baz,77.2,22.8,8.93,1.0,neutral,dome; artificial turf,dome,1.0,2-0 (home-away),9.541,2.759
+Minnesota Twins,Houston Astros,Joe Ryan,Mike Burrows,60.7,39.3,7.59,0.96,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,1-1 (home-away),4.064,1.77
+Colorado Rockies,Texas Rangers,Kyle Freeland,Jack Leiter,22.5,77.5,9.02,1.175,hitter,"5,200 ft altitude; most extreme hitter park","52°F, wind 1 mph",0.993,1-1 (home-away),2.483,6.884
+Arizona Diamondbacks,San Francisco Giants,Merrill Kelly,Tyler Mahle,77.7,22.3,9.03,1.018,hitter,"high altitude (1,082 ft)",dome,1.0,2-0 (home-away),6.844,3.192
+Seattle Mariners,Chicago White Sox,Emerson Hancock,Sean Burke,57.1,42.9,7.5,0.98,pitcher,marine air; roof often closed,dome,1.0,2-3 (home-away),3.946,3.527
+Detroit Tigers,Cleveland Guardians,Nan,Tanner Bibee,21.7,78.3,9.05,0.941,pitcher,very deep CF historically,"58°F, wind 9 mph",0.995,0-2 (home-away),1.86,6.259
+Miami Marlins,Atlanta Braves,Janson Junk,Chris Sale,26.2,73.8,8.66,0.95,neutral,roof often closed; average park,dome,1.0,2-3 (home-away),2.927,5.142
+Washington Nationals,New York Mets,Zack Littell,Zach Thornton,50.0,50.0,10.91,1.0,neutral,cold Aprils very suppressive (-9 pts),"77°F, wind 6 mph",0.978,3-2 (home-away),5.615,9.622
+New York Yankees,Toronto Blue Jays,Cam Schlittler,Trey Yesavage,50.8,49.2,8.64,1.02,hitter,short porches both sides,"84°F, wind 15 mph",1.08,2-0 (home-away),4.365,4.265
+Kansas City Royals,Boston Red Sox,Michael Wacha,Connelly Early,49.5,50.5,7.03,1.01,pitcher,large dimensions; spray park,"65°F, wind 7 mph",1.035,0-2 (home-away),1.965,3.004
+Chicago Cubs,Milwaukee Brewers,Edward Cabrera,Kyle Harrison,22.9,77.1,9.02,0.988,variable,wind hugely variable; extreme hitter or pitcher park,"53°F, wind 13 mph",1.059,0-2 (home-away),1.977,6.826
+St. Louis Cardinals,Pittsburgh Pirates,Michael Mcgreevy,Carmen Mlodzinski,74.6,25.4,9.2,1.03,neutral,natural grass; moderate dimensions,"64°F, wind 5 mph",1.023,5-0 (home-away),6.103,3.721
+San Diego Padres,Los Angeles Dodgers,Randy Vásquez,Shohei Ohtani,41.7,58.3,7.49,0.902,pitcher,marine layer; large dimensions,"68°F, wind 6 mph",0.999,1-1 (home-away),1.751,3.972
+Los Angeles Angels,Athletics,Jack Kochanowicz,Aaron Civale,23.4,76.6,8.98,1.0,neutral,symmetrical; marine layer suppresses HRs,"80°F, wind 7 mph",1.004,1-1 (home-away),2.536,8.292

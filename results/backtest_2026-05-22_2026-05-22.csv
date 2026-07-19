@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-22,Chicago Cubs,Houston Astros,2,4,6,Houston Astros,Chicago Cubs,52.5,47.5,False,52.5,7.78,1.7800000000000002,False,HIGH,7.0,UNDER
+2026-05-22,Philadelphia Phillies,Cleveland Guardians,0,1,1,Cleveland Guardians,Philadelphia Phillies,50.1,49.9,False,50.1,6.98,5.98,False,HIGH,6.5,UNDER
+2026-05-22,New York Yankees,Tampa Bay Rays,2,4,6,Tampa Bay Rays,Tampa Bay Rays,22.9,77.1,True,77.1,9.03,3.0299999999999994,True,HIGH,7.5,UNDER
+2026-05-22,Toronto Blue Jays,Pittsburgh Pirates,6,2,8,Toronto Blue Jays,Toronto Blue Jays,74.9,25.1,True,74.9,8.79,0.7899999999999991,True,HIGH,8.0,PUSH
+2026-05-22,Boston Red Sox,Minnesota Twins,6,8,14,Minnesota Twins,Minnesota Twins,49.7,50.3,True,50.3,7.04,6.96,True,LOW,7.25,OVER
+2026-05-22,Miami Marlins,New York Mets,2,1,3,Miami Marlins,New York Mets,39.1,60.9,False,60.9,10.21,7.210000000000001,False,HIGH,8.0,UNDER
+2026-05-22,Baltimore Orioles,Detroit Tigers,7,4,11,Baltimore Orioles,Baltimore Orioles,55.2,44.8,True,55.2,8.99,2.01,True,LOW,8.0,OVER
+2026-05-22,Atlanta Braves,Washington Nationals,5,4,9,Atlanta Braves,Atlanta Braves,66.5,33.5,True,66.5,9.79,0.7899999999999991,False,HIGH,8.5,OVER
+2026-05-22,Kansas City Royals,Seattle Mariners,0,2,2,Seattle Mariners,Seattle Mariners,37.0,63.0,True,63.0,7.79,5.79,True,HIGH,8.0,UNDER
+2026-05-22,Milwaukee Brewers,Los Angeles Dodgers,5,1,6,Milwaukee Brewers,Los Angeles Dodgers,49.7,50.3,False,50.3,7.0,1.0,False,HIGH,8.0,UNDER
+2026-05-22,Los Angeles Angels,Texas Rangers,9,6,15,Los Angeles Angels,Texas Rangers,22.4,77.6,False,77.6,9.0,6.0,False,LOW,7.5,OVER
+2026-05-22,Arizona Diamondbacks,Colorado Rockies,2,3,5,Colorado Rockies,Arizona Diamondbacks,77.6,22.4,False,77.6,8.99,3.99,False,HIGH,9.0,UNDER
+2026-05-22,San Diego Padres,Athletics,7,3,10,San Diego Padres,Athletics,48.2,51.8,False,51.8,7.71,2.29,False,LOW,7.5,OVER
+2026-05-22,San Francisco Giants,Chicago White Sox,4,9,13,Chicago White Sox,Chicago White Sox,24.1,75.9,True,75.9,9.2,3.8000000000000007,True,LOW,7.5,OVER
+2026-05-22,Cincinnati Reds,St. Louis Cardinals,0,0,0,St. Louis Cardinals,Cincinnati Reds,56.6,43.4,False,56.6,10.5,10.5,False,HIGH,,

@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-20,Philadelphia Phillies,Cincinnati Reds,4,9,13,Cincinnati Reds,Philadelphia Phillies,66.7,33.3,False,66.7,9.8,3.1999999999999993,False,LOW,9.5,OVER
+2026-05-20,Tampa Bay Rays,Baltimore Orioles,5,3,8,Tampa Bay Rays,Tampa Bay Rays,77.4,22.6,True,77.4,8.99,0.9900000000000002,True,HIGH,8.5,UNDER
+2026-05-20,Minnesota Twins,Houston Astros,4,1,5,Minnesota Twins,Minnesota Twins,61.5,38.5,True,61.5,7.65,2.6500000000000004,True,HIGH,7.5,UNDER
+2026-05-20,Colorado Rockies,Texas Rangers,4,5,9,Texas Rangers,Texas Rangers,22.5,77.5,True,77.5,9.0,0.0,False,LOW,10.0,UNDER
+2026-05-20,Arizona Diamondbacks,San Francisco Giants,6,3,9,Arizona Diamondbacks,Arizona Diamondbacks,77.5,22.5,True,77.5,8.94,0.0600000000000005,True,LOW,8.5,OVER
+2026-05-20,Seattle Mariners,Chicago White Sox,5,4,9,Seattle Mariners,Seattle Mariners,68.2,31.8,True,68.2,8.48,0.5199999999999996,False,LOW,7.5,OVER
+2026-05-20,Detroit Tigers,Cleveland Guardians,2,3,5,Cleveland Guardians,Cleveland Guardians,22.4,77.6,True,77.6,8.98,3.9800000000000004,False,HIGH,7.5,UNDER
+2026-05-20,Miami Marlins,Atlanta Braves,1,9,10,Atlanta Braves,Atlanta Braves,21.9,78.1,True,78.1,8.99,1.0099999999999998,True,LOW,7.0,OVER
+2026-05-20,Washington Nationals,New York Mets,8,4,12,Washington Nationals,Washington Nationals,50.5,49.5,True,50.5,11.03,0.9700000000000006,True,LOW,9.5,OVER
+2026-05-20,New York Yankees,Toronto Blue Jays,1,2,3,Toronto Blue Jays,New York Yankees,54.1,45.9,False,54.1,7.32,4.32,False,HIGH,7.5,UNDER
+2026-05-20,Kansas City Royals,Boston Red Sox,3,4,7,Boston Red Sox,Boston Red Sox,49.6,50.4,True,50.4,7.0,0.0,False,LOW,7.5,UNDER
+2026-05-20,Chicago Cubs,Milwaukee Brewers,0,5,5,Milwaukee Brewers,Milwaukee Brewers,21.8,78.2,True,78.2,8.99,3.99,True,HIGH,6.5,UNDER
+2026-05-20,St. Louis Cardinals,Pittsburgh Pirates,0,7,7,Pittsburgh Pirates,Pittsburgh Pirates,43.6,56.4,True,56.4,9.97,2.9700000000000006,True,HIGH,7.5,UNDER
+2026-05-20,San Diego Padres,Los Angeles Dodgers,0,4,4,Los Angeles Dodgers,Los Angeles Dodgers,36.3,63.7,True,63.7,7.82,3.8200000000000003,True,HIGH,7.5,UNDER
+2026-05-20,Los Angeles Angels,Athletics,5,6,11,Athletics,Athletics,22.5,77.5,True,77.5,9.02,1.9800000000000004,False,LOW,10.0,OVER

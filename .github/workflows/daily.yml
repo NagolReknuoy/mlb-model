@@ -2,9 +2,11 @@ name: MLB Daily Pipeline
 
 on:
   schedule:
-    # Runs at 10:00 AM ET (14:00 UTC) every day
     - cron: '0 14 * * *'
-  workflow_dispatch:  # allows manual trigger from GitHub UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   daily-pipeline:
@@ -13,8 +15,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,4 +43,9 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add results/ mlb_odds_2026.json data/batting_snapshots/
           git diff --staged --quiet || git commit -m "Daily update: $(date +'%Y-%m-%d')"
+<<<<<<< HEAD
           git push
+=======
+          git pull --rebase origin main
+          git push
+>>>>>>> 5e67b2887366d08971b03a7cbff3442f062103d3

@@ -1,0 +1,17 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,New York Yankees ML,-171.5,0.168,0.607,0.775,True,0.5831,2026-05-02,New York Yankees vs Baltimore Orioles
+Total,UNDER 8.5,-105.0,0.0912,0.4892,0.5804,False,-1.0,2026-05-02,New York Yankees vs Baltimore Orioles
+Moneyline,Toronto Blue Jays ML,-140.0,0.2026,0.5604,0.763,True,0.7143,2026-05-02,Minnesota Twins vs Toronto Blue Jays
+Total,OVER  7.25,-7.5,0.2,0.1134,0.5775,False,-1.0,2026-05-02,Chicago Cubs vs Arizona Diamondbacks
+Moneyline,Cleveland Guardians ML,115.0,0.2398,0.4462,0.686,True,1.15,2026-05-02,Athletics vs Cleveland Guardians
+Total,OVER  8.0,-115.0,0.0752,0.5108,0.586,True,0.8696,2026-05-02,Pittsburgh Pirates vs Cincinnati Reds
+Moneyline,Milwaukee Brewers ML,-130.0,0.2283,0.5427,0.771,True,0.7692,2026-05-02,Washington Nationals vs Milwaukee Brewers
+Run Line,Milwaukee Brewers +0.0,-79.5,0.1099,0.3527,0.4626,True,1.2579,2026-05-02,Washington Nationals vs Milwaukee Brewers
+Moneyline,Boston Red Sox ML,-140.0,0.1338,0.5592,0.693,False,-1.0,2026-05-02,Boston Red Sox vs Houston Astros
+Total,UNDER 8.5,-2.0,0.2,0.0348,0.6868,True,10.0,2026-05-02,Miami Marlins vs Philadelphia Phillies
+Total,UNDER 7.5,-115.0,0.0948,0.5108,0.6056,True,0.8696,2026-05-02,Tampa Bay Rays vs San Francisco Giants
+Total,UNDER 9.0,-115.0,0.1456,0.5108,0.6565,True,0.8696,2026-05-02,St. Louis Cardinals vs Los Angeles Dodgers
+Total,UNDER 8.25,-180.0,0.131,0.5526,0.6836,True,0.5556,2026-05-02,Detroit Tigers vs Texas Rangers
+Moneyline,Atlanta Braves ML,-220.0,0.0839,0.6581,0.742,True,0.4545,2026-05-02,Colorado Rockies vs Atlanta Braves
+Total,UNDER 9.5,-110.0,0.1367,0.5,0.6367,False,-1.0,2026-05-02,Colorado Rockies vs Atlanta Braves
+Moneyline,Chicago White Sox ML,152.0,0.25,0.3808,0.779,True,1.52,2026-05-02,San Diego Padres vs Chicago White Sox

@@ -1,0 +1,12 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-04-30,Atlanta Braves,Detroit Tigers,2,5,7,Detroit Tigers,Atlanta Braves,58.9,41.1,False,58.9,10.32,3.3200000000000003,False,HIGH,9.0,UNDER
+2026-04-30,Baltimore Orioles (DH-1),Houston Astros,10,3,13,Baltimore Orioles,Houston Astros,49.7,50.3,False,50.3,11.04,1.9600000000000009,False,LOW,9.75,OVER
+2026-04-30,Baltimore Orioles (DH-2),Houston Astros,5,11,16,Houston Astros,Houston Astros,49.7,50.3,True,50.3,10.99,5.01,True,LOW,9.75,OVER
+2026-04-30,Pittsburgh Pirates,St. Louis Cardinals,5,10,15,St. Louis Cardinals,St. Louis Cardinals,39.8,60.2,True,60.2,9.9,5.1,True,LOW,7.0,OVER
+2026-04-30,Philadelphia Phillies (DH-1),San Francisco Giants,3,2,5,Philadelphia Phillies,Philadelphia Phillies,50.2,49.8,True,50.2,6.99,1.9900000000000002,False,HIGH,8.5,UNDER
+2026-04-30,Philadelphia Phillies (DH-2),San Francisco Giants,6,5,11,Philadelphia Phillies,Philadelphia Phillies,50.1,49.9,True,50.1,7.04,3.96,False,LOW,8.5,OVER
+2026-04-30,Cincinnati Reds,Colorado Rockies,6,4,10,Cincinnati Reds,Cincinnati Reds,50.1,49.9,True,50.1,11.03,1.0299999999999994,True,HIGH,9.0,OVER
+2026-04-30,New York Mets,Washington Nationals,4,5,9,Washington Nationals,Washington Nationals,31.6,68.4,True,68.4,9.63,0.6300000000000008,False,HIGH,8.0,OVER
+2026-04-30,Milwaukee Brewers,Arizona Diamondbacks,13,1,14,Milwaukee Brewers,Milwaukee Brewers,71.1,28.9,True,71.1,9.51,4.49,True,LOW,7.25,OVER
+2026-04-30,Athletics,Kansas City Royals,6,3,9,Athletics,Athletics,74.3,25.7,True,74.3,9.15,0.15000000000000036,True,HIGH,9.5,UNDER
+2026-04-30,Minnesota Twins,Toronto Blue Jays,7,1,8,Minnesota Twins,Toronto Blue Jays,42.4,57.6,False,57.6,7.42,0.5800000000000001,False,LOW,8.0,PUSH

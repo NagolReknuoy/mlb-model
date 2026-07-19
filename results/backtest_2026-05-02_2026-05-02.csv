@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-02,New York Yankees,Baltimore Orioles,9,4,13,New York Yankees,New York Yankees,77.5,22.5,True,77.5,8.95,4.050000000000001,True,LOW,8.5,OVER
+2026-05-02,Minnesota Twins,Toronto Blue Jays,4,11,15,Toronto Blue Jays,Toronto Blue Jays,23.7,76.3,True,76.3,9.0,6.0,True,LOW,8.0,OVER
+2026-05-02,Chicago Cubs,Arizona Diamondbacks,2,0,2,Chicago Cubs,Chicago Cubs,63.8,36.2,True,63.8,9.98,7.98,True,HIGH,7.25,UNDER
+2026-05-02,Athletics,Cleveland Guardians,6,14,20,Cleveland Guardians,Cleveland Guardians,31.4,68.6,True,68.6,9.51,10.49,True,LOW,9.75,OVER
+2026-05-02,Pittsburgh Pirates,Cincinnati Reds,17,7,24,Pittsburgh Pirates,Pittsburgh Pirates,50.4,49.6,True,50.4,11.02,12.98,True,LOW,8.0,OVER
+2026-05-02,Washington Nationals,Milwaukee Brewers,1,4,5,Milwaukee Brewers,Milwaukee Brewers,22.9,77.1,True,77.1,8.92,3.92,True,HIGH,8.0,UNDER
+2026-05-02,Boston Red Sox,Houston Astros,3,6,9,Houston Astros,Boston Red Sox,69.3,30.7,False,69.3,9.67,0.6699999999999999,False,HIGH,9.0,PUSH
+2026-05-02,Miami Marlins,Philadelphia Phillies,4,0,4,Miami Marlins,Miami Marlins,53.8,46.2,True,53.8,7.24,3.24,True,HIGH,8.5,UNDER
+2026-05-02,Tampa Bay Rays,San Francisco Giants,5,1,6,Tampa Bay Rays,Tampa Bay Rays,54.8,45.2,True,54.8,7.34,1.3399999999999999,True,HIGH,7.5,UNDER
+2026-05-02,St. Louis Cardinals,Los Angeles Dodgers,3,2,5,St. Louis Cardinals,Los Angeles Dodgers,49.8,50.2,False,50.2,8.33,3.33,False,HIGH,9.0,UNDER
+2026-05-02,Detroit Tigers,Texas Rangers,5,1,6,Detroit Tigers,Texas Rangers,49.6,50.4,False,50.4,6.99,0.9900000000000002,False,HIGH,8.25,UNDER
+2026-05-02,Colorado Rockies,Atlanta Braves,1,9,10,Atlanta Braves,Atlanta Braves,25.8,74.2,True,74.2,9.25,0.75,True,LOW,9.5,OVER
+2026-05-02,San Diego Padres,Chicago White Sox,0,4,4,Chicago White Sox,Chicago White Sox,22.1,77.9,True,77.9,9.0,5.0,True,HIGH,8.0,UNDER
+2026-05-02,Los Angeles Angels,New York Mets,4,3,7,Los Angeles Angels,New York Mets,42.4,57.6,False,57.6,8.26,1.2599999999999998,False,HIGH,7.5,UNDER
+2026-05-02,Seattle Mariners,Kansas City Royals,2,3,5,Kansas City Royals,Seattle Mariners,51.9,48.1,False,51.9,10.53,5.529999999999999,False,HIGH,8.0,UNDER

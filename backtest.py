@@ -1,6 +1,4 @@
-# =============================================================================
-# backtest.py — Back-test the MLB run model against actual results
-#
+# backtest.py (Can change to specific dates)
 # Usage:
 #   python backtest.py --start 2026-04-01 --end 2026-04-24
 #   python backtest.py --start 2026-04-01 --end 2026-04-24 --csv

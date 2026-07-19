@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-06-14,Pittsburgh Pirates,Miami Marlins,2,4,6,Miami Marlins,Miami Marlins,22.8,77.2,True,77.2,9.02,3.0199999999999996,True,HIGH,7.5,UNDER
+2026-06-14,Baltimore Orioles,San Diego Padres,2,5,7,San Diego Padres,Baltimore Orioles,63.3,36.7,False,63.3,10.06,3.0600000000000005,False,HIGH,10.5,UNDER
+2026-06-14,Washington Nationals,Seattle Mariners,10,1,11,Washington Nationals,Washington Nationals,66.9,33.1,True,66.9,9.81,1.1899999999999995,True,LOW,10.5,OVER
+2026-06-14,Toronto Blue Jays,New York Yankees,3,8,11,New York Yankees,New York Yankees,22.3,77.7,True,77.7,9.0,2.0,True,LOW,8.5,OVER
+2026-06-14,Cincinnati Reds,Arizona Diamondbacks,3,5,8,Arizona Diamondbacks,Arizona Diamondbacks,37.7,62.3,True,62.3,8.35,0.34999999999999964,True,HIGH,10.0,UNDER
+2026-06-14,New York Mets,Atlanta Braves,8,1,9,New York Mets,New York Mets,54.3,45.7,True,54.3,7.23,1.7699999999999996,True,LOW,8.5,OVER
+2026-06-14,Kansas City Royals,Houston Astros,4,0,4,Kansas City Royals,Kansas City Royals,51.8,48.2,True,51.8,10.22,6.220000000000001,True,HIGH,8.5,UNDER
+2026-06-14,Minnesota Twins,St. Louis Cardinals,5,4,9,Minnesota Twins,St. Louis Cardinals,38.7,61.3,False,61.3,10.2,1.1999999999999993,False,HIGH,9.5,UNDER
+2026-06-14,Chicago White Sox,Los Angeles Dodgers,6,4,10,Chicago White Sox,Los Angeles Dodgers,47.6,52.4,False,52.4,10.94,0.9399999999999995,False,HIGH,9.5,OVER
+2026-06-14,Milwaukee Brewers,Philadelphia Phillies,4,0,4,Milwaukee Brewers,Milwaukee Brewers,58.2,41.8,True,58.2,10.34,6.34,True,HIGH,6.5,UNDER
+2026-06-14,Athletics,Colorado Rockies,9,23,32,Colorado Rockies,Colorado Rockies,49.8,50.2,True,50.2,10.94,21.060000000000002,True,LOW,14.0,OVER
+2026-06-14,San Francisco Giants,Chicago Cubs,5,1,6,San Francisco Giants,San Francisco Giants,70.9,29.1,True,70.9,9.54,3.539999999999999,True,HIGH,8.0,UNDER
+2026-06-14,Los Angeles Angels,Tampa Bay Rays,3,8,11,Tampa Bay Rays,Los Angeles Angels,73.8,26.2,False,73.8,9.27,1.7300000000000004,False,LOW,9.0,OVER
+2026-06-14,Boston Red Sox,Texas Rangers,4,6,10,Texas Rangers,Boston Red Sox,55.0,45.0,False,55.0,7.33,2.67,False,LOW,9.5,OVER
+2026-06-14,Cleveland Guardians,Detroit Tigers,0,0,0,Detroit Tigers,Detroit Tigers,33.2,66.8,True,66.8,7.98,7.98,False,HIGH,,

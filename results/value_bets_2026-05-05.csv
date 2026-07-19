@@ -1,0 +1,23 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Kansas City Royals vs Cleveland Guardians,Kansas City Royals ML,+102,47.7%,77.5%,0.2982704950150203,Strong,Moneyline
+Los Angeles Angels vs Chicago White Sox,Chicago White Sox ML,-104,48.9%,77.3%,0.2839861135524697,Strong,Moneyline
+Chicago Cubs vs Cincinnati Reds,OVER  8.0,-115,51.1%,73.8%,0.22752276538478322,Strong,Total
+Seattle Mariners vs Atlanta Braves,Atlanta Braves ML,+113,45.3%,67.1%,0.2180854655608493,Strong,Moneyline
+Washington Nationals vs Minnesota Twins,Washington Nationals ML,-104,48.9%,70.0%,0.2109861135524696,Strong,Moneyline
+St. Louis Cardinals vs Milwaukee Brewers,Milwaukee Brewers +1.5,-36,21.7%,40.3%,0.1864210042757165,Strong,Run Line
+Kansas City Royals vs Cleveland Guardians,OVER  7.5,-106,49.0%,67.4%,0.18343696764982237,Strong,Total
+Los Angeles Angels vs Chicago White Sox,Chicago White Sox +1.5,+145,39.0%,56.2%,0.1725556207617167,Strong,Run Line
+Colorado Rockies vs New York Mets,UNDER 9.5,-115,51.1%,68.0%,0.16921908240063888,Strong,Total
+New York Yankees vs Texas Rangers,New York Yankees ML,-126,53.7%,70.4%,0.16703884609080488,Strong,Moneyline
+New York Yankees vs Texas Rangers,UNDER 9.0,-115,51.0%,67.2%,0.16267760053036817,Strong,Total
+Arizona Diamondbacks vs Pittsburgh Pirates,OVER  9.0,-110,50.0%,66.2%,0.16165293129753255,Strong,Total
+Detroit Tigers vs Boston Red Sox,UNDER 8.5,-110,50.0%,65.8%,0.15784323418666357,Strong,Total
+Miami Marlins vs Baltimore Orioles,Miami Marlins ML,-141,56.2%,69.2%,0.13034918787173277,Strong,Moneyline
+Houston Astros vs Los Angeles Dodgers,Los Angeles Dodgers ML,-225,66.7%,77.5%,0.10824788515765185,Good,Moneyline
+New York Yankees vs Texas Rangers,New York Yankees -1.5,+164,36.6%,47.4%,0.10796353209240817,Good,Run Line
+St. Louis Cardinals vs Milwaukee Brewers,Milwaukee Brewers ML,-107,49.7%,60.4%,0.10731564986737396,Good,Moneyline
+Colorado Rockies vs New York Mets,Colorado Rockies ML,+139,40.3%,49.5%,0.09197810196607253,Good,Moneyline
+Tampa Bay Rays vs Toronto Blue Jays,UNDER 7.0,-113,50.8%,59.1%,0.08363155197336214,Good,Total
+Los Angeles Angels vs Chicago White Sox,UNDER 9.0,-110,50.0%,58.2%,0.08213831858712373,Good,Total
+Miami Marlins vs Baltimore Orioles,Miami Marlins -1.5,+153,38.3%,46.2%,0.0788942776499062,Lean,Run Line
+Washington Nationals vs Minnesota Twins,UNDER 9.5,-120,52.2%,59.7%,0.07489128736126072,Lean,Total

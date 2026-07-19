@@ -1,0 +1,23 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+St. Louis Cardinals vs Miami Marlins,Miami Marlins ML,+119,44.1%,76.4%,0.3234387471770761,Strong,Moneyline
+Toronto Blue Jays vs Texas Rangers,OVER  8.0,-108,49.8%,73.3%,0.2347150461409125,Strong,Total
+Detroit Tigers vs Houston Astros,UNDER 8.5,-109,49.7%,72.9%,0.2323159668794278,Strong,Total
+San Diego Padres vs Los Angeles Dodgers,UNDER 8.0,-110,50.0%,72.8%,0.2277865675713111,Strong,Total
+New York Mets vs Philadelphia Phillies,Philadelphia Phillies ML,+110,46.0%,68.0%,0.2202066032003241,Strong,Moneyline
+Boston Red Sox vs New York Yankees,UNDER 8.0,-103,48.5%,66.7%,0.182636466250011,Strong,Total
+Minnesota Twins vs Colorado Rockies,OVER  9.5,-105,48.9%,65.8%,0.1692344869854246,Strong,Total
+Baltimore Orioles vs Washington Nationals,UNDER 9.0,-118,51.7%,68.5%,0.1677969161862708,Strong,Total
+Baltimore Orioles vs Washington Nationals,Baltimore Orioles ML,-115,51.4%,68.2%,0.16760673162090356,Strong,Moneyline
+Milwaukee Brewers vs Chicago Cubs,Milwaukee Brewers ML,-163,59.4%,75.8%,0.1640647233201582,Strong,Moneyline
+Tampa Bay Rays vs Arizona Diamondbacks,Tampa Bay Rays ML,-144,56.7%,72.4%,0.15686971331251787,Strong,Moneyline
+San Diego Padres vs Los Angeles Dodgers,San Diego Padres ML,+168,36.0%,50.8%,0.14837458968912914,Strong,Moneyline
+San Francisco Giants vs Atlanta Braves,San Francisco Giants ML,-130,54.4%,68.6%,0.14207773150902236,Strong,Moneyline
+Milwaukee Brewers vs Chicago Cubs,Milwaukee Brewers -1.5,+130,41.8%,54.2%,0.12407779239287936,Strong,Run Line
+San Francisco Giants vs Atlanta Braves,San Francisco Giants -1.5,+162,36.9%,46.2%,0.09344762431727716,Good,Run Line
+Tampa Bay Rays vs Arizona Diamondbacks,Tampa Bay Rays -1.5,+141,40.0%,48.9%,0.08940659895239078,Good,Run Line
+Boston Red Sox vs New York Yankees,Boston Red Sox ML,+100,48.3%,56.8%,0.08485393258426965,Good,Moneyline
+Cleveland Guardians vs Seattle Mariners,UNDER 7.5,-120,52.2%,60.0%,0.0784647315442577,Lean,Total
+Cleveland Guardians vs Seattle Mariners,Cleveland Guardians ML,+125,42.7%,50.5%,0.07814974182444068,Lean,Moneyline
+Milwaukee Brewers vs Chicago Cubs,OVER  8.0,-107,49.4%,56.7%,0.07302109309780713,Lean,Total
+Toronto Blue Jays vs Texas Rangers,Texas Rangers ML,+158,37.4%,44.4%,0.07013144431326246,Lean,Moneyline
+Minnesota Twins vs Colorado Rockies,Colorado Rockies ML,+121,43.4%,50.4%,0.07002162777461585,Lean,Moneyline

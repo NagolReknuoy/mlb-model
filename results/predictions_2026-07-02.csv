@@ -1,0 +1,10 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Philadelphia Phillies,Pittsburgh Pirates,Alan Rangel,Jared Jones,49.9,50.1,11.02,1.082,hitter,high HR rate historically,unknown,1.0,5-1 (home-away),10.549,7.832
+Milwaukee Brewers,Cincinnati Reds,Jacob Misiorowski,Chase Burns,67.6,32.4,8.17,0.941,pitcher,large dimensions suppress HRs,dome,1.0,6-0 (home-away),4.649,1.782
+Colorado Rockies,Miami Marlins,Michael Lorenzen,Ryan Gusto,30.2,69.8,9.54,1.107,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,1-5 (home-away),4.061,9.438
+Cleveland Guardians,Chicago White Sox,Slade Cecconi,Davis Martin,28.8,71.2,8.46,0.97,neutral,below-average HR park,unknown,1.0,1-2 (home-away),2.195,4.98
+Atlanta Braves,St. Louis Cardinals,Hurston Waldrep,Dustin May,49.6,50.4,7.05,1.01,hitter,warm humid air; June winds boost offense,unknown,1.0,1-1 (home-away),3.191,3.511
+Kansas City Royals,Tampa Bay Rays,Stephen Kolek,Ian Seymour,22.7,77.3,8.98,0.96,pitcher,large dimensions; spray park,unknown,1.0,2-4 (home-away),2.373,8.497
+Texas Rangers,Detroit Tigers,Nathan Eovaldi,Framber Valdez,27.6,72.4,8.54,1.04,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,1-2 (home-away),3.182,5.005
+Seattle Mariners,Los Angeles Angels,Bryce Miller,Walbert Ureña,46.2,53.8,7.37,0.97,pitcher,marine air; roof often closed,dome,1.0,3-2 (home-away),3.606,3.743
+Los Angeles Dodgers,San Diego Padres,Roki Sasaki,Randy Vásquez,72.5,27.5,9.42,0.979,pitcher,marine layer suppresses carry; spacious foul territory,unknown,1.0,4-2 (home-away),10.325,3.886

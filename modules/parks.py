@@ -1,6 +1,4 @@
-# =============================================================================
-# parks.py — Park factors + ballpark dimensions + monthly adjustments
-# =============================================================================
+# parks.py — Park factors + ballpark dimensions + monthly adjustments(Using 2025 right now)
 
 import pandas as pd
 import numpy as np

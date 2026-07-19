@@ -1,0 +1,10 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Tampa Bay Rays,Detroit Tigers,Griffin Jax,Ty Madden,69.2,30.8,8.29,1.0,neutral,dome; artificial turf,dome,1.0,no prior meetings,4.804,3.133
+Washington Nationals,Miami Marlins,Cade Cavalli,Sandy Alcantara,77.8,22.2,9.02,1.01,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,1-2 (home-away),6.314,2.087
+Cincinnati Reds,Kansas City Royals,Lyon Richardson,Luinder Avila,76.9,23.1,9.0,1.081,hitter,one of the top HR parks in MLB,unknown,1.0,no prior meetings,7.627,3.292
+Minnesota Twins,Chicago White Sox,Joe Ryan,Nan,26.4,73.6,9.31,1.05,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,1-3 (home-away),3.82,8.014
+Milwaukee Brewers,San Francisco Giants,Shane Drohan,Landen Roupp,75.7,24.3,8.65,0.96,pitcher,large dimensions suppress HRs,dome,1.0,no prior meetings,5.153,3.414
+St. Louis Cardinals,Texas Rangers,Michael Mcgreevy,Jacob Degrom,41.2,58.8,7.52,0.98,neutral,natural grass; moderate dimensions,unknown,1.0,no prior meetings,2.622,4.02
+Los Angeles Angels,Colorado Rockies,José Soriano,Kyle Freeland,72.1,27.9,9.36,0.97,neutral,symmetrical; marine layer suppresses HRs,"68°F, wind 6 mph",1.031,no prior meetings,7.99,3.873
+Arizona Diamondbacks,Los Angeles Dodgers,Eduardo Rodriguez,Emmet Sheehan,24.5,75.5,8.78,1.071,hitter,"high altitude (1,082 ft)",dome,1.0,0-3 (home-away),2.669,5.3
+Seattle Mariners,New York Mets,Emerson Hancock,Austin Warren,60.6,39.4,7.64,0.98,pitcher,marine air; roof often closed,dome,1.0,no prior meetings,4.147,2.331

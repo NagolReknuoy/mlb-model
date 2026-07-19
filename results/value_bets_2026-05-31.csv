@@ -1,0 +1,23 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Washington Nationals vs San Diego Padres,Washington Nationals ML,+102,47.7%,75.1%,0.27427049501502015,Strong,Moneyline
+Texas Rangers vs Kansas City Royals,Texas Rangers ML,-115,51.4%,77.9%,0.26460673162090353,Strong,Moneyline
+Chicago White Sox vs Detroit Tigers,Chicago White Sox ML,-133,54.9%,78.3%,0.23429675182552423,Strong,Moneyline
+Los Angeles Dodgers vs Philadelphia Phillies,UNDER 9.0,-117,51.5%,74.8%,0.23313132034765682,Strong,Total
+Cincinnati Reds vs Atlanta Braves,Atlanta Braves ML,-128,54.0%,76.7%,0.22712269938650306,Strong,Moneyline
+Athletics vs New York Yankees,UNDER 10.5,-115,51.1%,70.1%,0.19040062540506597,Strong,Total
+Chicago White Sox vs Detroit Tigers,Chicago White Sox -1.5,+159,37.3%,56.2%,0.18937619791294785,Strong,Run Line
+Athletics vs New York Yankees,New York Yankees ML,-169,60.5%,78.5%,0.17979863801808152,Strong,Moneyline
+Baltimore Orioles vs Toronto Blue Jays,UNDER 8.0,-105,48.7%,66.5%,0.17754057787733613,Strong,Total
+Texas Rangers vs Kansas City Royals,OVER  7.5,-115,51.1%,67.3%,0.16174349649595576,Strong,Total
+Tampa Bay Rays vs Los Angeles Angels,Los Angeles Angels ML,+170,35.7%,50.7%,0.1498571428571429,Strong,Moneyline
+St. Louis Cardinals vs Chicago Cubs,Chicago Cubs ML,-102,48.6%,63.4%,0.1483932683790965,Strong,Moneyline
+Houston Astros vs Milwaukee Brewers,Houston Astros ML,+170,35.6%,50.3%,0.1466157658720793,Strong,Moneyline
+Washington Nationals vs San Diego Padres,UNDER 9.0,-105,48.9%,61.8%,0.12851632208613378,Strong,Total
+Baltimore Orioles vs Toronto Blue Jays,Toronto Blue Jays ML,+109,45.8%,58.1%,0.12338396164741777,Strong,Moneyline
+Cincinnati Reds vs Atlanta Braves,Atlanta Braves +1.5,+123,43.1%,55.3%,0.12239358469176226,Strong,Run Line
+St. Louis Cardinals vs Chicago Cubs,UNDER 8.5,-114,51.0%,62.3%,0.11340826858673714,Good,Total
+Houston Astros vs Milwaukee Brewers,UNDER 7.5,-106,49.1%,60.0%,0.10886787168273115,Good,Total
+Seattle Mariners vs Arizona Diamondbacks,UNDER 7.5,-117,51.4%,60.0%,0.08620610162069764,Good,Total
+Seattle Mariners vs Arizona Diamondbacks,Arizona Diamondbacks ML,+124,43.0%,51.6%,0.08602457002457009,Good,Moneyline
+Colorado Rockies vs San Francisco Giants,UNDER 11.0,-110,50.0%,58.2%,0.08165713696468346,Good,Total
+Cleveland Guardians vs Boston Red Sox,UNDER 7.0,-115,51.1%,59.0%,0.07894019813943365,Lean,Total

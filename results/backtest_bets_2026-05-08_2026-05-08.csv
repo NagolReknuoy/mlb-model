@@ -1,0 +1,19 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Houston Astros ML,108.5,0.2293,0.4607,0.69,True,1.085,2026-05-08,Cincinnati Reds vs Houston Astros
+Total,UNDER 9.0,-115.0,0.0653,0.5108,0.5762,False,-1.0,2026-05-08,Cincinnati Reds vs Houston Astros
+Total,OVER  7.5,100.0,0.106,0.4783,0.5843,True,1.0,2026-05-08,Philadelphia Phillies vs Colorado Rockies
+Total,UNDER 7.5,-111.0,0.1258,0.5022,0.628,True,0.9009,2026-05-08,Toronto Blue Jays vs Los Angeles Angels
+Total,UNDER 8.5,-110.0,0.2,0.5,0.7,True,0.9091,2026-05-08,Boston Red Sox vs Tampa Bay Rays
+Moneyline,Washington Nationals ML,118.0,0.25,0.4398,0.725,True,1.18,2026-05-08,Miami Marlins vs Washington Nationals
+Total,UNDER 8.5,-118.5,0.098,0.5098,0.6078,True,0.8439,2026-05-08,Miami Marlins vs Washington Nationals
+Moneyline,Cleveland Guardians ML,-149.5,0.1864,0.5736,0.76,True,0.6689,2026-05-08,Cleveland Guardians vs Minnesota Twins
+Run Line,Cleveland Guardians -1.5,152.5,0.0784,0.3776,0.456,True,1.525,2026-05-08,Cleveland Guardians vs Minnesota Twins
+Total,UNDER 8.5,-110.0,0.1893,0.5,0.6893,True,0.9091,2026-05-08,Kansas City Royals vs Detroit Tigers
+Moneyline,Chicago Cubs ML,-130.0,0.2334,0.5416,0.775,True,0.7692,2026-05-08,Texas Rangers vs Chicago Cubs
+Total,UNDER 8.5,-116.5,0.0668,0.5129,0.5797,True,0.8584,2026-05-08,Texas Rangers vs Chicago Cubs
+Moneyline,New York Mets ML,-125.0,0.1695,0.5325,0.702,True,0.8,2026-05-08,Arizona Diamondbacks vs New York Mets
+Total,UNDER 9.0,-115.0,0.1431,0.5108,0.654,True,0.8696,2026-05-08,Arizona Diamondbacks vs New York Mets
+Moneyline,St. Louis Cardinals ML,121.0,0.25,0.4333,0.778,True,1.21,2026-05-08,San Diego Padres vs St. Louis Cardinals
+Total,UNDER 8.0,-115.5,0.1554,0.5119,0.6674,True,0.8658,2026-05-08,Los Angeles Dodgers vs Atlanta Braves
+Moneyline,Pittsburgh Pirates ML,-105.0,0.25,0.4892,0.746,False,-1.0,2026-05-08,San Francisco Giants vs Pittsburgh Pirates
+Run Line,Pittsburgh Pirates +1.5,151.5,0.0691,0.3785,0.4476,False,-1.0,2026-05-08,San Francisco Giants vs Pittsburgh Pirates

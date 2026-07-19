@@ -1,0 +1,22 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Chicago White Sox vs Detroit Tigers,Chicago White Sox ML,-101,48.1%,77.3%,0.2915849221619731,Strong,Moneyline
+Texas Rangers vs Kansas City Royals,Texas Rangers ML,-122,53.0%,78.3%,0.25323935606862946,Strong,Moneyline
+Houston Astros vs Milwaukee Brewers,UNDER 8.5,-105,48.7%,72.9%,0.2419200063704019,Strong,Total
+Tampa Bay Rays vs Los Angeles Angels,OVER  7.0,-112,50.4%,73.8%,0.2331803998036759,Strong,Total
+Los Angeles Dodgers vs Philadelphia Phillies,UNDER 8.5,-115,51.1%,73.2%,0.22086083246798516,Strong,Total
+St. Louis Cardinals vs Chicago Cubs,UNDER 8.0,-110,50.1%,71.9%,0.2175132689732654,Strong,Total
+Pittsburgh Pirates vs Minnesota Twins,Pittsburgh Pirates ML,-142,56.3%,78.1%,0.21750793650793643,Strong,Moneyline
+Athletics vs New York Yankees,New York Yankees ML,-152,58.0%,77.4%,0.19394400746567128,Strong,Moneyline
+Cincinnati Reds vs Atlanta Braves,Atlanta Braves ML,-125,54.2%,73.5%,0.19301526717557255,Strong,Moneyline
+Chicago White Sox vs Detroit Tigers,OVER  7.5,-110,50.0%,67.7%,0.17727275821983524,Strong,Total
+Pittsburgh Pirates vs Minnesota Twins,Pittsburgh Pirates -1.5,+149,38.8%,56.2%,0.17392355917801178,Strong,Run Line
+Tampa Bay Rays vs Los Angeles Angels,Tampa Bay Rays ML,-146,57.2%,70.1%,0.12919843342036552,Strong,Moneyline
+Washington Nationals vs San Diego Padres,Washington Nationals ML,+108,46.3%,59.1%,0.1279611539091952,Strong,Moneyline
+Tampa Bay Rays vs Los Angeles Angels,Tampa Bay Rays -1.5,+150,38.5%,48.8%,0.10312403800126685,Good,Run Line
+Athletics vs New York Yankees,New York Yankees +1.5,+105,46.8%,56.2%,0.09480715379211418,Good,Run Line
+Colorado Rockies vs San Francisco Giants,UNDER 11.0,-114,51.0%,60.3%,0.09331323644290901,Good,Total
+Athletics vs New York Yankees,UNDER 9.5,-107,49.5%,58.6%,0.091541250025025,Good,Total
+Seattle Mariners vs Arizona Diamondbacks,Arizona Diamondbacks ML,+130,41.7%,50.7%,0.08999264104660665,Good,Moneyline
+Cincinnati Reds vs Atlanta Braves,Atlanta Braves +1.5,+121,43.6%,52.2%,0.08600636646357346,Good,Run Line
+New York Mets vs Miami Marlins,OVER  7.0,-118,51.7%,60.0%,0.0826663797798961,Good,Total
+Seattle Mariners vs Arizona Diamondbacks,UNDER 7.0,-120,52.2%,59.6%,0.07399468020875088,Lean,Total

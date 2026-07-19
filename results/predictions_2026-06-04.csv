@@ -1,0 +1,10 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Philadelphia Phillies,San Diego Padres,Zack Wheeler,Lucas Giolito,48.4,51.6,6.99,1.05,hitter,high HR rate historically,unknown,1.0,5-0 (home-away),2.765,1.455
+Boston Red Sox,Baltimore Orioles,Brayan Bello,Trevor Rogers,55.6,44.4,10.28,1.02,hitter,Green Monster 37ft LF wall,unknown,1.0,3-2 (home-away),5.325,4.911
+New York Yankees,Cleveland Guardians,Carlos Rodón,Slade Cecconi,77.0,23.0,9.01,1.03,hitter,short porches both sides,unknown,1.0,0-2 (home-away),7.1,2.941
+Milwaukee Brewers,San Francisco Giants,Coleman Crow,Adrian Houser,77.5,22.5,9.02,0.96,pitcher,large dimensions suppress HRs,dome,1.0,2-1 (home-away),8.031,3.004
+Atlanta Braves,Toronto Blue Jays,Chris Sale,Nan,74.1,25.9,8.64,1.132,hitter,warm humid air; June winds boost offense,unknown,1.0,2-0 (home-away),5.167,2.516
+Minnesota Twins,Kansas City Royals,Andrew Morris,Seth Lugo,55.2,44.8,10.6,1.05,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,1-2 (home-away),6.413,5.116
+Chicago Cubs,Athletics,Shota Imanaga,J.T. Ginn,76.5,23.5,9.04,1.113,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,0-2 (home-away),6.134,3.536
+Houston Astros,Pittsburgh Pirates,Kai-Wei Teng,Jared Jones,49.7,50.3,10.98,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,1-1 (home-away),7.357,6.812
+Arizona Diamondbacks,Los Angeles Dodgers,Ryne Nelson,Justin Wrobleski,22.0,78.0,9.03,1.071,hitter,"high altitude (1,082 ft)",dome,1.0,1-5 (home-away),2.557,5.513

@@ -1,0 +1,16 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Chicago Cubs ML,-127.5,0.2444,0.5346,0.779,True,0.7843,2026-06-19,Chicago Cubs vs Toronto Blue Jays
+Run Line,Chicago Cubs -1.5,167.5,0.11,0.3574,0.4674,True,1.675,2026-06-19,Chicago Cubs vs Toronto Blue Jays
+Moneyline,Detroit Tigers ML,-209.5,0.1277,0.6463,0.774,True,0.4773,2026-06-19,Detroit Tigers vs Chicago White Sox
+Moneyline,New York Yankees ML,-292.0,0.0592,0.7118,0.771,True,0.3425,2026-06-19,New York Yankees vs Cincinnati Reds
+Total,UNDER 9.0,-115.0,0.1045,0.5108,0.6154,True,0.8696,2026-06-19,New York Yankees vs Cincinnati Reds
+Moneyline,Washington Nationals ML,135.0,0.25,0.4079,0.674,False,-1.0,2026-06-19,Tampa Bay Rays vs Washington Nationals
+Total,UNDER 8.5,-115.0,0.0826,0.5108,0.5934,True,0.8696,2026-06-19,Tampa Bay Rays vs Washington Nationals
+Moneyline,Miami Marlins ML,-115.0,0.1812,0.5108,0.692,True,0.8696,2026-06-19,Miami Marlins vs San Francisco Giants
+Moneyline,Milwaukee Brewers ML,-176.5,0.16,0.61,0.77,False,-1.0,2026-06-19,Atlanta Braves vs Milwaukee Brewers
+Moneyline,San Diego Padres ML,132.5,0.25,0.4102,0.661,False,-1.0,2026-06-19,Texas Rangers vs San Diego Padres
+Moneyline,Houston Astros ML,-125.0,0.2405,0.5325,0.773,True,0.8,2026-06-19,Houston Astros vs Cleveland Guardians
+Total,UNDER 8.5,-113.0,0.0736,0.5043,0.5779,False,-1.0,2026-06-19,Houston Astros vs Cleveland Guardians
+Total,UNDER 11.5,-115.0,0.171,0.508,0.679,True,0.8696,2026-06-19,Colorado Rockies vs Pittsburgh Pirates
+Moneyline,Los Angeles Dodgers ML,-220.0,0.0707,0.6573,0.728,True,0.4545,2026-06-19,Los Angeles Dodgers vs Baltimore Orioles
+Total,UNDER 9.25,-115.0,0.1019,0.5085,0.6105,False,-1.0,2026-06-19,Los Angeles Dodgers vs Baltimore Orioles

@@ -1,0 +1,10 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Tampa Bay Rays,Kansas City Royals,Casey Legumina,Seth Lugo,38.8,61.2,10.13,1.0,neutral,dome; artificial turf,dome,1.0,1-2 (home-away),4.673,5.909
+Pittsburgh Pirates,Seattle Mariners,Bubba Chandler,Bryce Miller,77.1,22.9,9.04,0.979,pitcher,high RF wall; spacious,unknown,1.0,1-1 (home-away),5.511,3.462
+San Francisco Giants,Athletics,Landen Roupp,Jeffrey Springs,63.2,36.8,10.1,0.996,pitcher,marine layer; bay wind tricky in RF,unknown,1.0,4-1 (home-away),6.801,4.601
+Detroit Tigers,Houston Astros,Troy Melton,Tatsuya Imai,57.8,42.2,7.41,0.989,pitcher,very deep CF historically,unknown,1.0,1-2 (home-away),3.911,2.842
+Washington Nationals,Philadelphia Phillies,Cade Cavalli,Cristopher Sánchez,42.0,58.0,10.44,1.01,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,2-4 (home-away),4.923,6.526
+Toronto Blue Jays,Texas Rangers,Kevin Gausman,Mackenzie Gore,65.0,35.0,9.88,1.071,neutral,turf boosts groundball singles,dome,1.0,no prior meetings,5.645,4.407
+New York Mets,Chicago Cubs,Freddy Peralta,Matthew Boyd,29.2,70.8,9.51,0.97,pitcher,sea-level; large dimensions,"74°F, wind 12 mph",0.954,0-6 (home-away),4.013,8.958
+Boston Red Sox,New York Yankees,Connelly Early,Cam Schlittler,28.1,71.9,8.5,1.02,hitter,Green Monster 37ft LF wall,"80°F, wind 2 mph",1.015,1-4 (home-away),2.375,5.001
+St. Louis Cardinals,Arizona Diamondbacks,Michael Mcgreevy,Zac Gallen,50.0,50.0,11.01,0.98,neutral,natural grass; moderate dimensions,"82°F, wind 8 mph",1.005,1-2 (home-away),5.618,6.194

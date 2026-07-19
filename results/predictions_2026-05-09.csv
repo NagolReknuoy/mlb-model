@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Toronto Blue Jays,Los Angeles Angels,Trey Yesavage,Jack Kochanowicz,56.7,43.3,7.41,0.949,neutral,turf boosts groundball singles,dome,1.0,3-1 (home-away),3.887,1.841
+Baltimore Orioles,Athletics,Shane Baz,Aaron Civale,47.2,52.8,10.83,1.0,hitter,short RF; warm summers,unknown,1.0,0-1 (home-away),5.31,8.269
+Cincinnati Reds,Houston Astros,Chase Burns,Spencer Arrighetti,36.2,63.8,9.98,1.102,hitter,one of the top HR parks in MLB,unknown,1.0,0-1 (home-away),4.452,6.473
+Boston Red Sox,Tampa Bay Rays,Payton Tolle,Nick Martinez,49.8,50.2,6.98,1.02,hitter,Green Monster 37ft LF wall,unknown,1.0,1-1 (home-away),2.118,2.222
+Miami Marlins,Washington Nationals,Janson Junk,Zack Littell,40.1,59.9,7.75,0.95,neutral,roof often closed; average park,dome,1.0,0-1 (home-away),3.563,4.165
+Philadelphia Phillies,Colorado Rockies,Aaron Nola,Kyle Freeland,52.3,47.7,10.81,1.019,hitter,high HR rate historically,unknown,1.0,2-2 (home-away),6.302,5.348
+Cleveland Guardians,Minnesota Twins,Tanner Bibee,Joe Ryan,66.7,33.3,9.72,0.941,neutral,below-average HR park,"68°F, wind 16 mph",1.082,1-0 (home-away),6.197,4.3
+Texas Rangers,Chicago Cubs,Jack Leiter,Edward Cabrera,21.6,78.4,8.97,1.051,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,0-1 (home-away),2.091,7.878
+Kansas City Royals,Detroit Tigers,Michael Wacha,Burch Smith,49.4,50.6,6.97,1.01,pitcher,large dimensions; spray park,"77°F, wind 6 mph",1.003,1-3 (home-away),3.313,3.192
+Chicago White Sox,Seattle Mariners,Anthony Kay,Luis Castillo,50.8,49.2,10.83,1.01,neutral,July is extreme hitter month (+12 pts),"67°F, wind 10 mph",1.05,0-1 (home-away),5.474,5.362
+Milwaukee Brewers,New York Yankees,Kyle Harrison,Cam Schlittler,46.3,53.7,7.94,1.008,pitcher,large dimensions suppress HRs,dome,1.0,1-0 (home-away),3.828,4.084
+Arizona Diamondbacks,New York Mets,Merrill Kelly,Clay Holmes,23.8,76.2,8.79,1.018,hitter,"high altitude (1,082 ft)",dome,1.0,2-2 (home-away),3.339,5.299
+San Diego Padres,St. Louis Cardinals,Randy Vásquez,Dustin May,22.2,77.8,9.01,0.902,pitcher,marine layer; large dimensions,"64°F, wind 5 mph",0.998,0-2 (home-away),2.319,5.494
+San Francisco Giants,Pittsburgh Pirates,Landen Roupp,Braxton Ashcraft,24.5,75.5,8.76,1.034,pitcher,marine layer; bay wind tricky in RF,"58°F, wind 17 mph",0.995,1-0 (home-away),2.804,5.241
+Los Angeles Dodgers,Atlanta Braves,Blake Snell,Spencer Strider,50.4,49.6,7.01,1.008,pitcher,marine layer suppresses carry; spacious foul territory,"64°F, wind 7 mph",0.971,1-0 (home-away),3.498,3.104

@@ -1,0 +1,8 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Cleveland Guardians ML,-172.5,0.1395,0.6075,0.747,True,0.5797,2026-05-11,Cleveland Guardians vs Los Angeles Angels
+Moneyline,New York Yankees ML,-155.0,0.196,0.583,0.779,False,-1.0,2026-05-11,Baltimore Orioles vs New York Yankees
+Total,UNDER 8.75,-115.0,0.0928,0.5026,0.5954,True,0.8696,2026-05-11,Baltimore Orioles vs New York Yankees
+Total,UNDER 7.0,-110.0,0.0886,0.5,0.5886,False,-1.0,2026-05-11,Toronto Blue Jays vs Tampa Bay Rays
+Total,UNDER 7.5,-104.5,0.1397,0.4871,0.6268,True,0.9569,2026-05-11,Texas Rangers vs Arizona Diamondbacks
+Total,OVER  9.0,-7.5,0.1866,0.1134,0.3,False,-1.0,2026-05-11,Houston Astros vs Seattle Mariners
+Total,UNDER 9.0,-4.0,0.2,0.0665,0.6895,False,-1.0,2026-05-11,Los Angeles Dodgers vs San Francisco Giants

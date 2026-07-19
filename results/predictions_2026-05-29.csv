@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cincinnati Reds,Atlanta Braves,Chris Paddack,Grant Holmes,46.8,53.2,10.82,1.102,hitter,one of the top HR parks in MLB,unknown,1.0,no prior meetings,5.304,7.553
+Washington Nationals,San Diego Padres,Paxton Schultz,Lucas Giolito,59.7,40.3,7.61,1.0,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,no prior meetings,4.053,2.46
+Pittsburgh Pirates,Minnesota Twins,Jared Jones,Taj Bradley,74.0,26.0,9.27,0.95,pitcher,high RF wall; spacious,"76°F, wind 11 mph",1.056,no prior meetings,5.701,3.772
+Baltimore Orioles,Toronto Blue Jays,Trevor Rogers,Nan,41.6,58.4,7.49,1.0,hitter,short RF; warm summers,"76°F, wind 9 mph",0.966,0-1 (home-away),2.946,3.973
+Cleveland Guardians,Boston Red Sox,Slade Cecconi,Tyler Samaniego,50.9,49.1,6.99,0.941,neutral,below-average HR park,"74°F, wind 7 mph",1.039,no prior meetings,3.223,2.595
+Tampa Bay Rays,Los Angeles Angels,Nick Martinez,Walbert Ureña,58.4,41.6,10.28,1.0,neutral,dome; artificial turf,dome,1.0,no prior meetings,6.244,4.843
+New York Mets,Miami Marlins,Freddy Peralta,Max Meyer,34.5,65.5,8.03,0.989,pitcher,sea-level; large dimensions,"74°F, wind 7 mph",1.002,0-3 (home-away),3.235,4.543
+St. Louis Cardinals,Chicago Cubs,Andre Pallante,Shota Imanaga,49.9,50.1,6.98,1.03,neutral,natural grass; moderate dimensions,"82°F, wind 5 mph",0.984,no prior meetings,3.339,3.292
+Chicago White Sox,Detroit Tigers,Erick Fedde,Troy Melton,77.9,22.1,9.03,1.01,neutral,July is extreme hitter month (+12 pts),"70°F, wind 6 mph",0.974,no prior meetings,6.679,2.893
+Texas Rangers,Kansas City Royals,Mackenzie Gore,Stephen Kolek,70.0,30.0,8.34,1.051,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,no prior meetings,4.824,3.29
+Houston Astros,Milwaukee Brewers,Kai-Wei Teng,Coleman Crow,49.1,50.9,7.08,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,no prior meetings,2.233,3.548
+Colorado Rockies,San Francisco Giants,Michael Lorenzen,Logan Webb,31.0,69.0,9.76,1.175,hitter,"5,200 ft altitude; most extreme hitter park","77°F, wind 8 mph",1.043,no prior meetings,4.188,9.348
+Athletics,New York Yankees,Luis Severino,Carlos Rodón,22.6,77.4,9.0,1.018,pitcher,largest foul territory in MLB,"57°F, wind 7 mph",0.995,2-1 (home-away),2.423,7.154
+Seattle Mariners,Arizona Diamondbacks,George Kirby,Zac Gallen,49.7,50.3,6.98,0.98,pitcher,marine air; roof often closed,dome,1.0,no prior meetings,2.991,3.48
+Los Angeles Dodgers,Philadelphia Phillies,Justin Wrobleski,Zack Wheeler,49.8,50.2,6.95,1.008,pitcher,marine layer suppresses carry; spacious foul territory,"63°F, wind 9 mph",0.962,no prior meetings,3.521,1.711

@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-12,Cleveland Guardians,Los Angeles Angels,3,2,5,Cleveland Guardians,Cleveland Guardians,62.8,37.2,True,62.8,7.81,2.8099999999999996,False,HIGH,8.5,UNDER
+2026-05-12,Baltimore Orioles,New York Yankees,2,6,8,New York Yankees,New York Yankees,23.1,76.9,True,76.9,9.0,1.0,True,HIGH,8.5,UNDER
+2026-05-12,Cincinnati Reds,Washington Nationals,4,10,14,Washington Nationals,Washington Nationals,42.9,57.1,True,57.1,10.57,3.4299999999999997,True,LOW,9.5,OVER
+2026-05-12,Pittsburgh Pirates,Colorado Rockies,3,1,4,Pittsburgh Pirates,Pittsburgh Pirates,77.4,22.6,True,77.4,8.98,4.98,True,HIGH,7.5,UNDER
+2026-05-12,Boston Red Sox,Philadelphia Phillies,1,2,3,Philadelphia Phillies,Philadelphia Phillies,49.8,50.2,True,50.2,7.05,4.05,False,HIGH,8.0,UNDER
+2026-05-12,Toronto Blue Jays,Tampa Bay Rays,6,7,13,Tampa Bay Rays,Tampa Bay Rays,38.9,61.1,True,61.1,7.6,5.4,False,LOW,8.0,OVER
+2026-05-12,New York Mets,Detroit Tigers,10,2,12,New York Mets,New York Mets,59.1,40.9,True,59.1,7.58,4.42,True,LOW,7.5,OVER
+2026-05-12,Atlanta Braves,Chicago Cubs,5,2,7,Atlanta Braves,Atlanta Braves,74.3,25.7,True,74.3,8.88,1.8800000000000008,True,HIGH,8.5,UNDER
+2026-05-12,Chicago White Sox,Kansas City Royals,6,5,11,Chicago White Sox,Chicago White Sox,58.8,41.2,True,58.8,8.29,2.710000000000001,False,LOW,9.5,OVER
+2026-05-12,Minnesota Twins,Miami Marlins,3,0,3,Minnesota Twins,Miami Marlins,44.3,55.7,False,55.7,9.33,6.33,False,HIGH,9.0,UNDER
+2026-05-12,Milwaukee Brewers,San Diego Padres,6,4,10,Milwaukee Brewers,Milwaukee Brewers,68.7,31.3,True,68.7,8.23,1.7699999999999996,True,LOW,8.5,OVER
+2026-05-12,Texas Rangers,Arizona Diamondbacks,7,4,11,Texas Rangers,Arizona Diamondbacks,50.0,50.0,False,50.0,7.01,3.99,False,LOW,8.0,OVER
+2026-05-12,Houston Astros,Seattle Mariners,2,10,12,Seattle Mariners,Seattle Mariners,26.2,73.8,True,73.8,8.59,3.41,True,LOW,8.5,OVER
+2026-05-12,Athletics,St. Louis Cardinals,4,6,10,St. Louis Cardinals,St. Louis Cardinals,37.7,62.3,True,62.3,8.79,1.2100000000000009,True,LOW,10.0,PUSH
+2026-05-12,Los Angeles Dodgers,San Francisco Giants,2,6,8,San Francisco Giants,Los Angeles Dodgers,70.6,29.4,False,70.6,8.42,0.41999999999999993,False,HIGH,8.5,UNDER

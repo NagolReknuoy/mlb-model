@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-19,Miami Marlins,Atlanta Braves,4,8,12,Atlanta Braves,Atlanta Braves,22.9,77.1,True,77.1,8.98,3.0199999999999996,True,LOW,8.0,OVER
+2026-05-19,Detroit Tigers,Cleveland Guardians,3,4,7,Cleveland Guardians,Cleveland Guardians,22.5,77.5,True,77.5,9.01,2.01,False,HIGH,8.0,UNDER
+2026-05-19,Tampa Bay Rays,Baltimore Orioles,4,1,5,Tampa Bay Rays,Tampa Bay Rays,77.3,22.7,True,77.3,9.01,4.01,True,HIGH,7.5,UNDER
+2026-05-19,Philadelphia Phillies,Cincinnati Reds,1,4,5,Cincinnati Reds,Philadelphia Phillies,78.8,21.2,False,78.8,8.99,3.99,False,HIGH,8.5,UNDER
+2026-05-19,Washington Nationals,New York Mets,9,6,15,Washington Nationals,New York Mets,49.8,50.2,False,50.2,10.98,4.02,False,LOW,8.75,OVER
+2026-05-19,New York Yankees,Toronto Blue Jays,5,4,9,New York Yankees,Toronto Blue Jays,42.4,57.6,False,57.6,8.28,0.7200000000000006,False,LOW,8.5,OVER
+2026-05-19,Kansas City Royals,Boston Red Sox,1,7,8,Boston Red Sox,Boston Red Sox,49.5,50.5,True,50.5,7.04,0.96,True,LOW,8.75,UNDER
+2026-05-19,Minnesota Twins,Houston Astros,1,2,3,Houston Astros,Minnesota Twins,65.9,34.1,False,65.9,8.01,5.01,False,HIGH,8.5,UNDER
+2026-05-19,Chicago Cubs,Milwaukee Brewers,2,5,7,Milwaukee Brewers,Milwaukee Brewers,22.0,78.0,True,78.0,9.01,2.01,True,HIGH,7.5,UNDER
+2026-05-19,St. Louis Cardinals,Pittsburgh Pirates,9,6,15,St. Louis Cardinals,St. Louis Cardinals,69.6,30.4,True,69.6,9.61,5.390000000000001,True,LOW,8.0,OVER
+2026-05-19,Colorado Rockies,Texas Rangers,0,10,10,Texas Rangers,Texas Rangers,23.7,76.3,True,76.3,9.01,0.9900000000000002,True,LOW,10.0,PUSH
+2026-05-19,Los Angeles Angels,Athletics,6,14,20,Athletics,Athletics,22.8,77.2,True,77.2,9.04,10.96,True,LOW,9.0,OVER
+2026-05-19,San Diego Padres,Los Angeles Dodgers,4,5,9,Los Angeles Dodgers,Los Angeles Dodgers,41.4,58.6,True,58.6,7.47,1.5300000000000002,False,LOW,8.0,OVER
+2026-05-19,Arizona Diamondbacks,San Francisco Giants,5,3,8,Arizona Diamondbacks,Arizona Diamondbacks,76.6,23.4,True,76.6,8.99,0.9900000000000002,True,HIGH,8.5,UNDER
+2026-05-19,Seattle Mariners,Chicago White Sox,1,2,3,Chicago White Sox,Seattle Mariners,53.8,46.2,False,53.8,7.74,4.74,False,HIGH,8.0,UNDER

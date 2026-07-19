@@ -1,0 +1,19 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Tampa Bay Rays vs Kansas City Royals,Kansas City Royals ML,+128,42.3%,71.8%,0.29504851202609056,Strong,Moneyline
+San Diego Padres vs Atlanta Braves,San Diego Padres ML,+104,47.4%,75.8%,0.28372765072765077,Strong,Moneyline
+San Francisco Giants vs Athletics,OVER  8.0,-118,51.7%,76.4%,0.24617806172372503,Strong,Total
+Cincinnati Reds vs Milwaukee Brewers,UNDER 9.5,-113,50.5%,74.6%,0.24054521111681904,Strong,Total
+Pittsburgh Pirates vs Seattle Mariners,UNDER 8.0,-113,50.8%,73.3%,0.22536153870771347,Strong,Total
+Tampa Bay Rays vs Kansas City Royals,OVER  7.5,-110,50.0%,72.5%,0.22506460497749392,Strong,Total
+New York Mets vs Chicago Cubs,Chicago Cubs ML,+100,48.0%,69.9%,0.21882378854625545,Strong,Moneyline
+Chicago White Sox vs Cleveland Guardians,UNDER 8.5,-118,51.5%,72.5%,0.21019646571679562,Strong,Total
+Minnesota Twins vs Los Angeles Dodgers,OVER  8.0,-115,51.1%,71.7%,0.20569604765986882,Strong,Total
+New York Mets vs Chicago Cubs,OVER  8.5,-102,48.4%,65.5%,0.1709320309598777,Strong,Total
+New York Mets vs Chicago Cubs,Chicago Cubs ML,+100,48.0%,65.1%,0.17082378854625546,Strong,Moneyline
+Washington Nationals vs Philadelphia Phillies,OVER  9.5,-115,51.1%,66.2%,0.15081869511118373,Strong,Total
+Colorado Rockies vs Boston Red Sox,UNDER 10.5,-103,48.2%,62.7%,0.14481524658507194,Strong,Total
+New York Mets vs Chicago Cubs,OVER  8.5,-102,48.4%,61.2%,0.12813560475823776,Strong,Total
+St. Louis Cardinals vs Arizona Diamondbacks,OVER  9.0,-110,50.0%,61.0%,0.10989846825716043,Good,Total
+Los Angeles Angels vs Baltimore Orioles,Baltimore Orioles ML,+105,47.0%,57.7%,0.10676064393137047,Good,Moneyline
+Detroit Tigers vs New York Yankees,UNDER 7.5,-121,52.3%,60.2%,0.07901567910679796,Lean,Total
+Cincinnati Reds vs Milwaukee Brewers,Milwaukee Brewers ML,-132,55.0%,62.4%,0.07378673904614186,Lean,Moneyline

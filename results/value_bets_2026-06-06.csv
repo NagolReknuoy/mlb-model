@@ -1,0 +1,21 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Arizona Diamondbacks vs Washington Nationals,Washington Nationals ML,+132,41.6%,77.4%,0.3584784714042665,Strong,Moneyline
+Philadelphia Phillies vs Chicago White Sox,Chicago White Sox ML,+115,44.8%,68.2%,0.23380999808465813,Strong,Moneyline
+San Diego Padres vs New York Mets,New York Mets ML,-122,53.0%,75.9%,0.2292393560686294,Strong,Moneyline
+Detroit Tigers vs Seattle Mariners,Seattle Mariners ML,-130,54.3%,75.5%,0.2122564612326044,Strong,Moneyline
+Houston Astros vs Athletics,Houston Astros ML,-126,53.3%,74.3%,0.20965290109436296,Strong,Moneyline
+Toronto Blue Jays vs Baltimore Orioles,Baltimore Orioles ML,-108,50.0%,70.7%,0.20700000000000002,Strong,Moneyline
+Texas Rangers vs Cleveland Guardians,Texas Rangers ML,-117,51.9%,72.1%,0.20215299334811532,Strong,Moneyline
+San Diego Padres vs New York Mets,OVER  7.5,-109,49.7%,66.2%,0.16508761960919793,Strong,Total
+Minnesota Twins vs Kansas City Royals,OVER  8.5,-108,49.7%,65.1%,0.15446705148270845,Strong,Total
+San Diego Padres vs New York Mets,New York Mets +1.5,+140,40.1%,54.6%,0.14465487529262844,Strong,Run Line
+Houston Astros vs Athletics,Houston Astros -1.5,+150,38.6%,52.9%,0.14313718890123567,Strong,Run Line
+Detroit Tigers vs Seattle Mariners,Seattle Mariners +1.5,+129,42.1%,54.6%,0.12498875298483203,Strong,Run Line
+Arizona Diamondbacks vs Washington Nationals,UNDER 9.0,+100,47.6%,59.1%,0.11496612519892663,Good,Total
+Colorado Rockies vs Milwaukee Brewers,UNDER 10.5,-107,49.4%,60.4%,0.11079469654144036,Good,Total
+Toronto Blue Jays vs Baltimore Orioles,Baltimore Orioles +1.5,+149,38.5%,49.5%,0.11004346337399651,Good,Run Line
+Texas Rangers vs Cleveland Guardians,OVER  7.5,-110,50.3%,60.8%,0.1045878681805712,Good,Total
+New York Yankees vs Boston Red Sox,OVER  8.5,-110,50.0%,60.3%,0.10323433957501593,Good,Total
+Toronto Blue Jays vs Baltimore Orioles,OVER  8.5,-110,50.0%,60.1%,0.10075189850893274,Good,Total
+Detroit Tigers vs Seattle Mariners,UNDER 9.0,-115,51.4%,61.1%,0.09671672298130762,Good,Total
+Chicago Cubs vs San Francisco Giants,San Francisco Giants ML,+135,41.2%,50.3%,0.09121154622527244,Good,Moneyline

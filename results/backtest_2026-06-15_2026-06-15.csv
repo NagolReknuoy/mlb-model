@@ -1,0 +1,11 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-06-15,Philadelphia Phillies,Miami Marlins,7,0,7,Philadelphia Phillies,Philadelphia Phillies,53.5,46.5,True,53.5,7.15,0.15000000000000036,True,HIGH,8.0,UNDER
+2026-06-15,Washington Nationals,Kansas City Royals,7,3,10,Washington Nationals,Washington Nationals,71.9,28.1,True,71.9,9.5,0.5,True,LOW,9.5,OVER
+2026-06-15,Cincinnati Reds,New York Mets,12,0,12,Cincinnati Reds,Cincinnati Reds,64.7,35.3,True,64.7,8.71,3.289999999999999,True,LOW,9.0,OVER
+2026-06-15,St. Louis Cardinals,San Diego Padres,3,0,3,St. Louis Cardinals,St. Louis Cardinals,74.3,25.7,True,74.3,8.73,5.73,True,HIGH,8.5,UNDER
+2026-06-15,Chicago Cubs,Colorado Rockies,5,4,9,Chicago Cubs,Colorado Rockies,49.7,50.3,False,50.3,11.0,2.0,False,HIGH,9.5,UNDER
+2026-06-15,Texas Rangers,Minnesota Twins,2,4,6,Minnesota Twins,Texas Rangers,68.7,31.3,False,68.7,9.62,3.619999999999999,False,HIGH,8.5,UNDER
+2026-06-15,Houston Astros,Detroit Tigers,3,9,12,Detroit Tigers,Detroit Tigers,22.0,78.0,True,78.0,8.99,3.01,True,LOW,9.0,OVER
+2026-06-15,Arizona Diamondbacks,Los Angeles Angels,4,3,7,Arizona Diamondbacks,Los Angeles Angels,22.4,77.6,False,77.6,8.93,1.9299999999999997,False,HIGH,9.0,UNDER
+2026-06-15,Athletics,Pittsburgh Pirates,11,2,13,Athletics,Athletics,51.8,48.2,True,51.8,10.83,2.17,True,LOW,10.25,OVER
+2026-06-15,Los Angeles Dodgers,Tampa Bay Rays,4,3,7,Los Angeles Dodgers,Los Angeles Dodgers,77.6,22.4,True,77.6,9.01,2.01,False,HIGH,9.5,UNDER

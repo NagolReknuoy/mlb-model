@@ -1,0 +1,15 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Kansas City Royals vs Tampa Bay Rays,Tampa Bay Rays ML,-124,53.4%,77.3%,0.23900649080469338,Strong,Moneyline
+Texas Rangers vs Detroit Tigers,Detroit Tigers ML,-101,48.9%,72.4%,0.23546210627664932,Strong,Moneyline
+Atlanta Braves vs St. Louis Cardinals,UNDER 8.5,-105,48.9%,72.3%,0.23338374187578598,Strong,Total
+Cleveland Guardians vs Chicago White Sox,Chicago White Sox ML,-107,49.8%,71.2%,0.21422588256243602,Strong,Moneyline
+Kansas City Royals vs Tampa Bay Rays,UNDER 10.5,-108,49.8%,70.8%,0.21055230670311847,Strong,Total
+Seattle Mariners vs Los Angeles Angels,Los Angeles Angels ML,+178,34.7%,53.8%,0.19116625643320656,Strong,Moneyline
+Colorado Rockies vs Miami Marlins,Miami Marlins ML,-138,55.8%,69.8%,0.1396895553411031,Strong,Moneyline
+Kansas City Royals vs Tampa Bay Rays,Tampa Bay Rays +1.5,+125,42.9%,56.2%,0.13345559506637605,Strong,Run Line
+Texas Rangers vs Detroit Tigers,Detroit Tigers +1.5,+155,37.5%,49.6%,0.12105187399063039,Strong,Run Line
+Atlanta Braves vs St. Louis Cardinals,Atlanta Braves -1.5,-4,16.8%,28.0%,0.11116509968780097,Good,Run Line
+Cleveland Guardians vs Chicago White Sox,Chicago White Sox +1.5,+149,38.7%,49.3%,0.10598900505403824,Good,Run Line
+Texas Rangers vs Detroit Tigers,OVER  7.0,-122,52.4%,62.0%,0.09595609840604513,Good,Total
+Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers ML,-196,63.7%,72.5%,0.08801201864115771,Good,Moneyline
+Milwaukee Brewers vs Cincinnati Reds,OVER  7.0,-109,49.9%,57.1%,0.07159615086985749,Lean,Total

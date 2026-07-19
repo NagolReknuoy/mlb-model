@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-17,Tampa Bay Rays,Miami Marlins,6,3,9,Tampa Bay Rays,Tampa Bay Rays,77.7,22.3,True,77.7,8.99,0.009999999999999787,True,LOW,7.5,OVER
+2026-05-17,Washington Nationals,Baltimore Orioles,3,7,10,Baltimore Orioles,Washington Nationals,57.6,42.4,False,57.6,10.5,0.5,False,HIGH,10.5,UNDER
+2026-05-17,Pittsburgh Pirates,Philadelphia Phillies,0,6,6,Philadelphia Phillies,Philadelphia Phillies,22.1,77.9,True,77.9,8.98,2.9800000000000004,True,HIGH,7.5,UNDER
+2026-05-17,Atlanta Braves,Boston Red Sox,8,1,9,Atlanta Braves,Atlanta Braves,50.3,49.7,True,50.3,7.01,1.9900000000000002,True,LOW,8.5,OVER
+2026-05-17,Cleveland Guardians,Cincinnati Reds,10,3,13,Cleveland Guardians,Cleveland Guardians,70.9,29.1,True,70.9,9.5,3.5,True,LOW,8.5,OVER
+2026-05-17,Detroit Tigers,Toronto Blue Jays,1,4,5,Toronto Blue Jays,Toronto Blue Jays,34.1,65.9,True,65.9,8.05,3.0500000000000007,True,HIGH,7.5,UNDER
+2026-05-17,New York Mets,New York Yankees,7,6,13,New York Mets,New York Mets,57.2,42.8,True,57.2,7.44,5.56,False,LOW,8.5,OVER
+2026-05-17,Houston Astros,Texas Rangers,0,8,8,Texas Rangers,Texas Rangers,49.8,50.2,True,50.2,7.04,0.96,True,LOW,7.5,OVER
+2026-05-17,Chicago White Sox,Chicago Cubs,9,8,17,Chicago White Sox,Chicago Cubs,48.8,51.2,False,51.2,11.02,5.98,False,LOW,8.5,OVER
+2026-05-17,Minnesota Twins,Milwaukee Brewers,5,4,9,Minnesota Twins,Milwaukee Brewers,45.6,54.4,False,54.4,7.26,1.7400000000000002,False,LOW,7.5,OVER
+2026-05-17,St. Louis Cardinals,Kansas City Royals,0,2,2,Kansas City Royals,St. Louis Cardinals,53.2,46.8,False,53.2,7.11,5.11,False,HIGH,9.5,UNDER
+2026-05-17,Colorado Rockies,Arizona Diamondbacks,6,8,14,Arizona Diamondbacks,Arizona Diamondbacks,23.6,76.4,True,76.4,8.99,5.01,True,LOW,10.5,OVER
+2026-05-17,Athletics,San Francisco Giants,1,10,11,San Francisco Giants,Athletics,66.6,33.4,False,66.6,9.8,1.1999999999999993,False,LOW,9.5,OVER
+2026-05-17,Los Angeles Angels,Los Angeles Dodgers,1,10,11,Los Angeles Dodgers,Los Angeles Dodgers,22.5,77.5,True,77.5,9.01,1.9900000000000002,True,LOW,9.5,OVER
+2026-05-17,Seattle Mariners,San Diego Padres,3,8,11,San Diego Padres,Seattle Mariners,51.8,48.2,False,51.8,7.13,3.87,False,LOW,7.5,OVER

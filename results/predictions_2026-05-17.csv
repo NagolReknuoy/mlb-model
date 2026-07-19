@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Tampa Bay Rays,Miami Marlins,Drew Rasmussen,Eury Pérez,77.7,22.3,8.93,1.0,neutral,dome; artificial turf,dome,1.0,1-1 (home-away),5.727,2.923
+Washington Nationals,Baltimore Orioles,Richard Lovelady,Brandon Young,63.6,36.4,9.99,1.0,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,2-0 (home-away),8.121,4.538
+Pittsburgh Pirates,Philadelphia Phillies,Paul Skenes,Zack Wheeler,36.3,63.7,8.84,0.95,pitcher,high RF wall; spacious,unknown,1.0,0-2 (home-away),3.949,4.893
+Atlanta Braves,Boston Red Sox,Grant Holmes,Brayan Bello,50.3,49.7,6.98,1.02,hitter,warm humid air; June winds boost offense,"88°F, wind 11 mph",0.964,1-1 (home-away),2.325,1.754
+Cleveland Guardians,Cincinnati Reds,Gavin Williams,Brady Singer,69.1,30.9,9.68,0.941,neutral,below-average HR park,"84°F, wind 12 mph",1.063,1-1 (home-away),7.407,4.137
+Detroit Tigers,Toronto Blue Jays,Jack Flaherty,Kevin Gausman,27.8,72.2,8.51,0.941,pitcher,very deep CF historically,"84°F, wind 11 mph",1.06,1-1 (home-away),1.977,4.982
+New York Mets,New York Yankees,Freddy Peralta,Elmer Rodríguez,58.3,41.7,7.47,0.989,pitcher,sea-level; large dimensions,"74°F, wind 13 mph",0.949,1-1 (home-away),3.96,2.508
+Houston Astros,Texas Rangers,Peter Lambert,Nathan Eovaldi,50.9,49.1,7.02,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,2-0 (home-away),1.783,2.914
+Chicago White Sox,Chicago Cubs,Erick Fedde,Colin Rea,48.1,51.9,10.34,1.01,neutral,July is extreme hitter month (+12 pts),"84°F, wind 11 mph",0.961,1-1 (home-away),5.092,5.211
+Minnesota Twins,Milwaukee Brewers,Bailey Ober,Robert Gasser,30.7,69.3,8.24,0.96,neutral,cold Aprils suppress offense (-8 pts),"62°F, wind 13 mph",0.946,0-2 (home-away),2.176,4.756
+St. Louis Cardinals,Kansas City Royals,Andre Pallante,Stephen Kolek,63.7,36.3,7.87,1.03,neutral,natural grass; moderate dimensions,"85°F, wind 13 mph",0.954,2-0 (home-away),4.405,2.838
+Colorado Rockies,Arizona Diamondbacks,Michael Lorenzen,Michael Soroka,27.3,72.7,8.62,1.175,hitter,"5,200 ft altitude; most extreme hitter park","59°F, wind 9 mph",0.984,1-1 (home-away),3.184,5.075
+Athletics,San Francisco Giants,Jeffrey Springs,Adrian Houser,77.5,22.5,9.05,1.018,pitcher,largest foul territory in MLB,"75°F, wind 14 mph",1.002,1-1 (home-away),6.545,3.008
+Los Angeles Angels,Los Angeles Dodgers,Grayson Rodriguez,Roki Sasaki,23.3,76.7,8.99,1.0,neutral,symmetrical; marine layer suppresses HRs,"64°F, wind 8 mph",1.039,0-2 (home-away),2.147,9.8
+Seattle Mariners,San Diego Padres,George Kirby,Lucas Giolito,50.2,49.8,7.0,0.98,pitcher,marine air; roof often closed,dome,1.0,0-5 (home-away),3.478,1.902

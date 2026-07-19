@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Detroit Tigers ML,-140.5,0.0711,0.5579,0.629,False,-1.0,2026-06-27,Detroit Tigers vs Houston Astros
+Total,UNDER 8.5,-109.5,0.1588,0.4963,0.6551,False,-1.0,2026-06-27,Detroit Tigers vs Houston Astros
+Moneyline,Boston Red Sox ML,100.0,0.1577,0.4783,0.636,True,1.0,2026-06-27,Boston Red Sox vs New York Yankees
+Total,UNDER 8.0,-110.0,0.121,0.4904,0.6113,True,0.9091,2026-06-27,Boston Red Sox vs New York Yankees
+Total,OVER  8.0,-105.0,0.0881,0.4892,0.5773,True,0.9524,2026-06-27,Toronto Blue Jays vs Texas Rangers
+Moneyline,Pittsburgh Pirates ML,-105.0,0.1758,0.4892,0.665,False,-1.0,2026-06-27,Pittsburgh Pirates vs Cincinnati Reds
+Moneyline,Philadelphia Phillies ML,110.0,0.1528,0.4532,0.606,False,-1.0,2026-06-27,New York Mets vs Philadelphia Phillies
+Moneyline,Chicago White Sox ML,-130.0,0.0944,0.5416,0.636,True,0.7692,2026-06-27,Chicago White Sox vs Kansas City Royals
+Moneyline,Tampa Bay Rays ML,-141.0,0.2142,0.5588,0.773,True,0.7092,2026-06-27,Tampa Bay Rays vs Arizona Diamondbacks
+Run Line,Tampa Bay Rays -1.5,140.0,0.0656,0.3982,0.4638,True,1.4,2026-06-27,Tampa Bay Rays vs Arizona Diamondbacks
+Total,UNDER 8.5,-110.0,0.0754,0.5,0.5754,True,0.9091,2026-06-27,Tampa Bay Rays vs Arizona Diamondbacks
+Moneyline,Baltimore Orioles ML,-116.5,0.25,0.5123,0.774,False,-1.0,2026-06-27,Baltimore Orioles vs Washington Nationals
+Total,UNDER 9.0,-116.5,0.1042,0.5112,0.6154,True,0.8584,2026-06-27,Baltimore Orioles vs Washington Nationals
+Total,OVER  7.5,-0.5,0.2,0.009,0.3732,False,-1.0,2026-06-27,Cleveland Guardians vs Seattle Mariners
+Moneyline,Milwaukee Brewers ML,-158.0,0.0751,0.5859,0.661,False,-1.0,2026-06-27,Milwaukee Brewers vs Chicago Cubs
+Moneyline,Miami Marlins ML,118.0,0.25,0.4388,0.78,True,1.18,2026-06-27,St. Louis Cardinals vs Miami Marlins
+Total,UNDER 8.5,-104.5,0.0898,0.4856,0.5754,True,0.9569,2026-06-27,St. Louis Cardinals vs Miami Marlins
+Moneyline,Los Angeles Dodgers ML,-212.5,0.1166,0.6474,0.764,True,0.4706,2026-06-27,San Diego Padres vs Los Angeles Dodgers
+Moneyline,San Francisco Giants ML,-131.0,0.1076,0.5424,0.65,True,0.7634,2026-06-27,San Francisco Giants vs Atlanta Braves

@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Philadelphia Phillies,Miami Marlins,Jesús Luzardo,Tyler Phillips,50.1,49.9,6.99,1.05,hitter,high HR rate historically,unknown,1.0,4-1 (home-away),3.528,3.283
+Washington Nationals,Kansas City Royals,Foster Griffin,Michael Wacha,76.9,23.1,9.11,1.01,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,1-0 (home-away),7.895,3.569
+Boston Red Sox,Toronto Blue Jays,Payton Tolle,Dylan Cease,71.3,28.7,8.44,1.02,hitter,Green Monster 37ft LF wall,unknown,1.0,1-2 (home-away),4.93,3.353
+New York Yankees,Chicago White Sox,Gerrit Cole,Davis Martin,73.8,26.2,9.18,1.03,hitter,short porches both sides,"71°F, wind 12 mph",0.952,no prior meetings,5.422,3.729
+Cincinnati Reds,New York Mets,Brady Singer,Kodai Senga,56.4,43.6,9.54,1.081,hitter,one of the top HR parks in MLB,"76°F, wind 12 mph",1.002,3-1 (home-away),5.03,4.583
+Atlanta Braves,San Francisco Giants,Grant Holmes,Adrian Houser,50.3,49.7,10.96,1.132,hitter,warm humid air; June winds boost offense,unknown,1.0,no prior meetings,6.15,7.102
+Milwaukee Brewers,Cleveland Guardians,Robert Gasser,Slade Cecconi,75.6,24.4,9.11,0.96,pitcher,large dimensions suppress HRs,dome,1.0,no prior meetings,5.677,3.624
+St. Louis Cardinals,San Diego Padres,Andre Pallante,Michael King,75.8,24.2,8.83,0.98,neutral,natural grass; moderate dimensions,unknown,1.0,3-2 (home-away),5.335,2.77
+Chicago Cubs,Colorado Rockies,Edward Cabrera,Ryan Feltner,49.6,50.4,10.95,1.113,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,2-2 (home-away),6.696,7.474
+Texas Rangers,Minnesota Twins,Kumar Rocker,Zebby Matthews,57.0,43.0,9.6,0.968,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,0-1 (home-away),5.051,4.59
+Houston Astros,Detroit Tigers,Hunter Brown,Framber Valdez,22.1,77.9,9.05,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,0-1 (home-away),3.282,6.05
+Arizona Diamondbacks,Los Angeles Angels,Merrill Kelly,Reid Detmers,21.3,78.7,9.04,1.071,hitter,"high altitude (1,082 ft)",dome,1.0,1-0 (home-away),2.695,5.876
+Athletics,Pittsburgh Pirates,Jack Perkins,Mitch Keller,52.1,47.9,10.83,0.921,pitcher,largest foul territory in MLB,"61°F, wind 8 mph",0.997,1-0 (home-away),9.171,5.312
+Seattle Mariners,Baltimore Orioles,Logan Gilbert,Brandon Young,50.1,49.9,10.99,0.98,pitcher,marine air; roof often closed,dome,1.0,2-2 (home-away),5.755,5.94
+Los Angeles Dodgers,Tampa Bay Rays,Justin Wrobleski,Drew Rasmussen,69.1,30.9,8.29,0.912,pitcher,marine layer suppresses carry; spacious foul territory,"67°F, wind 7 mph",0.969,1-0 (home-away),4.741,3.139

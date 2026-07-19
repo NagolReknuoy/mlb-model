@@ -1,0 +1,17 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Arizona Diamondbacks vs Los Angeles Dodgers,Los Angeles Dodgers ML,-135,55.3%,78.0%,0.22740599714421703,Strong,Moneyline
+Philadelphia Phillies vs San Diego Padres,UNDER 8.5,-113,50.5%,73.0%,0.22501869061652147,Strong,Total
+Chicago Cubs vs Athletics,Chicago Cubs ML,-134,55.2%,76.5%,0.21319000191534188,Strong,Moneyline
+Chicago Cubs vs Athletics,UNDER 10.5,-110,50.0%,70.1%,0.2012348615914148,Strong,Total
+Philadelphia Phillies vs San Diego Padres,San Diego Padres ML,+180,34.4%,51.6%,0.1724885496183206,Strong,Moneyline
+New York Yankees vs Cleveland Guardians,New York Yankees ML,-164,59.9%,77.0%,0.1714598540145985,Strong,Moneyline
+Chicago Cubs vs Athletics,Chicago Cubs -1.5,+145,39.3%,55.7%,0.1641948474300386,Strong,Run Line
+Milwaukee Brewers vs San Francisco Giants,Milwaukee Brewers ML,-193,63.5%,77.5%,0.14009993520410702,Strong,Moneyline
+Atlanta Braves vs Toronto Blue Jays,OVER  7.5,-110,50.1%,63.2%,0.13120415296272736,Strong,Total
+New York Yankees vs Cleveland Guardians,New York Yankees -1.5,+120,43.7%,56.2%,0.12583168481664525,Strong,Run Line
+Arizona Diamondbacks vs Los Angeles Dodgers,Los Angeles Dodgers +1.5,+118,43.9%,56.2%,0.12286334574925073,Strong,Run Line
+Milwaukee Brewers vs San Francisco Giants,UNDER 9.0,+100,47.8%,58.5%,0.10651242057639043,Good,Total
+Minnesota Twins vs Kansas City Royals,OVER  9.0,-115,51.3%,61.5%,0.10136270987461105,Good,Total
+New York Yankees vs Cleveland Guardians,UNDER 9.0,-110,50.0%,58.6%,0.08609082707220383,Good,Total
+Arizona Diamondbacks vs Los Angeles Dodgers,UNDER 9.0,-110,50.0%,58.3%,0.08345578246073626,Good,Total
+Milwaukee Brewers vs San Francisco Giants,Milwaukee Brewers -1.5,-102,48.3%,56.2%,0.07970374704085192,Lean,Run Line

@@ -1,0 +1,19 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Tampa Bay Rays ML,-141.0,0.2044,0.5726,0.777,True,0.7092,2026-05-17,Tampa Bay Rays vs Miami Marlins
+Run Line,Tampa Bay Rays -1.5,149.0,0.073,0.3932,0.4662,True,1.49,2026-05-17,Tampa Bay Rays vs Miami Marlins
+Total,UNDER 10.5,-114.0,0.1217,0.5122,0.6339,True,0.8772,2026-05-17,Washington Nationals vs Baltimore Orioles
+Moneyline,Philadelphia Phillies ML,114.0,0.25,0.4586,0.779,True,1.14,2026-05-17,Pittsburgh Pirates vs Philadelphia Phillies
+Total,UNDER 8.5,-103.0,0.2,0.4954,0.7,False,-1.0,2026-05-17,Atlanta Braves vs Boston Red Sox
+Moneyline,Cleveland Guardians ML,-151.0,0.1172,0.5918,0.709,True,0.6623,2026-05-17,Cleveland Guardians vs Cincinnati Reds
+Moneyline,Toronto Blue Jays ML,-112.0,0.1403,0.5187,0.659,True,0.8929,2026-05-17,Detroit Tigers vs Toronto Blue Jays
+Total,UNDER 8.5,105.0,0.2,0.4658,0.6744,False,-1.0,2026-05-17,New York Mets vs New York Yankees
+Total,UNDER 7.5,105.0,0.1483,0.476,0.6243,False,-1.0,2026-05-17,Houston Astros vs Texas Rangers
+Total,UNDER 7.5,101.0,0.1276,0.4829,0.6106,False,-1.0,2026-05-17,Minnesota Twins vs Milwaukee Brewers
+Total,UNDER 9.5,-116.0,0.176,0.524,0.7,True,0.8621,2026-05-17,St. Louis Cardinals vs Kansas City Royals
+Moneyline,Arizona Diamondbacks ML,-139.0,0.1928,0.5712,0.764,True,0.7194,2026-05-17,Colorado Rockies vs Arizona Diamondbacks
+Total,UNDER 10.5,-109.0,0.1931,0.5069,0.7,False,-1.0,2026-05-17,Colorado Rockies vs Arizona Diamondbacks
+Moneyline,Athletics ML,-141.0,0.0892,0.5768,0.666,False,-1.0,2026-05-17,Athletics vs San Francisco Giants
+Total,UNDER 9.5,-119.0,0.0695,0.5329,0.6024,False,-1.0,2026-05-17,Athletics vs San Francisco Giants
+Moneyline,Los Angeles Dodgers ML,-139.0,0.2017,0.5733,0.775,True,0.7194,2026-05-17,Los Angeles Angels vs Los Angeles Dodgers
+Total,UNDER 9.5,-115.0,0.1298,0.5218,0.6516,False,-1.0,2026-05-17,Los Angeles Angels vs Los Angeles Dodgers
+Total,UNDER 7.5,-123.0,0.0773,0.5414,0.6187,False,-1.0,2026-05-17,Seattle Mariners vs San Diego Padres

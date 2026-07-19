@@ -1,0 +1,19 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,OVER  7.0,-103.5,0.1738,0.4859,0.6597,True,0.9662,2026-05-01,Chicago Cubs vs Arizona Diamondbacks
+Total,UNDER 8.0,-115.0,0.154,0.5108,0.6649,False,-1.0,2026-05-01,Detroit Tigers vs Texas Rangers
+Moneyline,Milwaukee Brewers ML,-158.0,0.1705,0.5885,0.759,True,0.6329,2026-05-01,Washington Nationals vs Milwaukee Brewers
+Moneyline,New York Yankees ML,-185.5,0.1498,0.6232,0.773,True,0.5391,2026-05-01,New York Yankees vs Baltimore Orioles
+Total,UNDER 8.5,100.0,0.0996,0.4783,0.5779,False,-1.0,2026-05-01,New York Yankees vs Baltimore Orioles
+Moneyline,Boston Red Sox ML,-125.0,0.1215,0.5325,0.654,True,0.8,2026-05-01,Boston Red Sox vs Houston Astros
+Total,UNDER 9.5,-120.0,0.1118,0.5217,0.6336,True,0.8333,2026-05-01,Boston Red Sox vs Houston Astros
+Total,UNDER 7.5,-106.5,0.1356,0.4924,0.628,True,0.939,2026-05-01,Tampa Bay Rays vs San Francisco Giants
+Total,UNDER 8.0,-115.0,0.1266,0.5108,0.6375,False,-1.0,2026-05-01,Miami Marlins vs Philadelphia Phillies
+Moneyline,Toronto Blue Jays ML,-110.0,0.222,0.5,0.722,True,0.9091,2026-05-01,Minnesota Twins vs Toronto Blue Jays
+Total,UNDER 8.5,-105.0,0.113,0.4892,0.6022,False,-1.0,2026-05-01,Minnesota Twins vs Toronto Blue Jays
+Total,UNDER 8.0,-105.0,0.1128,0.4892,0.602,False,-1.0,2026-05-01,St. Louis Cardinals vs Los Angeles Dodgers
+Total,OVER  11.0,-2.5,0.2,0.0432,0.3548,True,10.0,2026-05-01,Colorado Rockies vs Atlanta Braves
+Total,UNDER 9.0,-110.0,0.0967,0.5,0.5967,True,0.9091,2026-05-01,Los Angeles Angels vs New York Mets
+Moneyline,Athletics ML,-105.0,0.1158,0.4892,0.605,False,-1.0,2026-05-01,Athletics vs Cleveland Guardians
+Total,UNDER 9.5,-116.5,0.1877,0.5123,0.7,False,-1.0,2026-05-01,Athletics vs Cleveland Guardians
+Moneyline,Chicago White Sox ML,125.0,0.2235,0.4255,0.649,True,1.25,2026-05-01,San Diego Padres vs Chicago White Sox
+Total,OVER  7.0,-110.0,0.1585,0.5,0.6585,True,0.9091,2026-05-01,Seattle Mariners vs Kansas City Royals

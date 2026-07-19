@@ -1,0 +1,23 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Arizona Diamondbacks vs Los Angeles Angels,Los Angeles Angels ML,+145,39.3%,76.6%,0.3732179143416189,Strong,Moneyline
+Houston Astros vs Detroit Tigers,Detroit Tigers ML,-107,49.7%,77.1%,0.274315649867374,Strong,Moneyline
+Seattle Mariners vs Baltimore Orioles,OVER  7.5,-110,50.0%,72.3%,0.22295217481103202,Strong,Total
+Milwaukee Brewers vs Cleveland Guardians,Milwaukee Brewers ML,-124,53.3%,73.8%,0.2052117470382112,Strong,Moneyline
+Atlanta Braves vs San Francisco Giants,UNDER 12.0,-108,49.0%,68.8%,0.19751508684023955,Strong,Total
+Atlanta Braves vs San Francisco Giants,UNDER 12.0,-108,49.0%,68.5%,0.1953226332661535,Strong,Total
+Houston Astros vs Detroit Tigers,Detroit Tigers +1.5,+154,37.8%,56.2%,0.18390630849529127,Strong,Run Line
+Seattle Mariners vs Baltimore Orioles,Seattle Mariners ML,-131,54.8%,72.1%,0.172754214417022,Strong,Moneyline
+Milwaukee Brewers vs Cleveland Guardians,Milwaukee Brewers -1.5,+171,35.4%,50.8%,0.15327620479604176,Strong,Run Line
+New York Yankees vs Chicago White Sox,New York Yankees ML,-184,62.2%,77.2%,0.1499812606473594,Strong,Moneyline
+Seattle Mariners vs Baltimore Orioles,Seattle Mariners -1.5,+162,36.8%,51.0%,0.14157699056740486,Strong,Run Line
+St. Louis Cardinals vs San Diego Padres,St. Louis Cardinals ML,-126,54.1%,67.7%,0.13648033993412767,Strong,Moneyline
+Washington Nationals vs Kansas City Royals,Washington Nationals ML,-131,54.7%,66.8%,0.12091453443915068,Strong,Moneyline
+Milwaukee Brewers vs Cleveland Guardians,OVER  7.5,-112,50.4%,62.5%,0.12035282565063832,Strong,Total
+Los Angeles Dodgers vs Tampa Bay Rays,Los Angeles Dodgers ML,-155,58.8%,70.4%,0.11578845377472757,Good,Moneyline
+New York Yankees vs Chicago White Sox,New York Yankees -1.5,+115,44.7%,56.2%,0.11493362418036468,Good,Run Line
+Arizona Diamondbacks vs Los Angeles Angels,UNDER 9.0,-102,48.2%,58.7%,0.10573682440951271,Good,Total
+Washington Nationals vs Kansas City Royals,UNDER 10.5,-110,50.0%,60.4%,0.10429865912426484,Good,Total
+Boston Red Sox vs Toronto Blue Jays,UNDER 9.5,-110,50.2%,58.1%,0.07862600523078389,Lean,Total
+Los Angeles Dodgers vs Tampa Bay Rays,Los Angeles Dodgers -1.5,+140,40.1%,47.2%,0.07088594607002685,Lean,Run Line
+Chicago Cubs vs Colorado Rockies,Colorado Rockies ML,+160,37.0%,44.1%,0.0706770886724758,Lean,Moneyline
+Los Angeles Dodgers vs Tampa Bay Rays,OVER  7.0,-120,52.2%,59.2%,0.0703397164724624,Lean,Total

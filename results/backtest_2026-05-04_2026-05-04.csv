@@ -1,0 +1,13 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-05-04,Colorado Rockies,New York Mets,2,4,6,New York Mets,Colorado Rockies,51.1,48.9,False,51.1,8.9,2.9000000000000004,False,HIGH,10.5,UNDER
+2026-05-04,Detroit Tigers,Boston Red Sox,4,5,9,Boston Red Sox,Boston Red Sox,48.8,51.2,True,51.2,7.46,1.54,False,LOW,7.0,OVER
+2026-05-04,Tampa Bay Rays,Toronto Blue Jays,5,1,6,Tampa Bay Rays,Toronto Blue Jays,49.7,50.3,False,50.3,7.01,1.0099999999999998,False,HIGH,8.0,UNDER
+2026-05-04,Miami Marlins,Philadelphia Phillies,0,1,1,Philadelphia Phillies,Miami Marlins,50.4,49.6,False,50.4,6.99,5.99,False,HIGH,8.5,UNDER
+2026-05-04,New York Yankees,Baltimore Orioles,12,1,13,New York Yankees,New York Yankees,78.1,21.9,True,78.1,9.02,3.9800000000000004,True,LOW,8.5,OVER
+2026-05-04,Chicago Cubs,Cincinnati Reds,5,4,9,Chicago Cubs,Chicago Cubs,58.2,41.8,True,58.2,10.41,1.4100000000000001,False,HIGH,10.5,UNDER
+2026-05-04,Kansas City Royals,Cleveland Guardians,6,2,8,Kansas City Royals,Kansas City Royals,78.1,21.9,True,78.1,8.95,0.9499999999999993,True,HIGH,9.0,UNDER
+2026-05-04,St. Louis Cardinals,Milwaukee Brewers,6,3,9,St. Louis Cardinals,Milwaukee Brewers,40.7,59.3,False,59.3,9.82,0.8200000000000003,False,HIGH,9.0,PUSH
+2026-05-04,Houston Astros,Los Angeles Dodgers,3,8,11,Los Angeles Dodgers,Los Angeles Dodgers,22.5,77.5,True,77.5,8.99,2.01,True,LOW,9.0,OVER
+2026-05-04,Los Angeles Angels,Chicago White Sox,0,6,6,Chicago White Sox,Chicago White Sox,23.0,77.0,True,77.0,9.0,3.0,True,HIGH,7.5,UNDER
+2026-05-04,Seattle Mariners,Atlanta Braves,5,4,9,Seattle Mariners,Atlanta Braves,35.5,64.5,False,64.5,9.98,0.9800000000000004,False,HIGH,8.0,OVER
+2026-05-04,San Francisco Giants,San Diego Padres,3,2,5,San Francisco Giants,San Francisco Giants,50.5,49.5,True,50.5,7.82,2.8200000000000003,False,HIGH,8.25,UNDER

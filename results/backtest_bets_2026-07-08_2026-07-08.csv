@@ -1,0 +1,17 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 7.5,-130.0,0.0693,0.5531,0.6224,False,-1.0,2026-07-08,San Francisco Giants vs Toronto Blue Jays
+Total,UNDER 10.5,-120.0,0.1072,0.5279,0.6351,False,-1.0,2026-07-08,Baltimore Orioles vs Chicago Cubs
+Moneyline,Detroit Tigers ML,-135.0,0.2134,0.5616,0.775,True,0.7407,2026-07-08,Detroit Tigers vs Athletics
+Run Line,Detroit Tigers -1.5,139.0,0.0548,0.4102,0.465,True,1.39,2026-07-08,Detroit Tigers vs Athletics
+Total,UNDER 9.5,-109.0,0.1398,0.5118,0.6516,True,0.9174,2026-07-08,Detroit Tigers vs Athletics
+Moneyline,Seattle Mariners ML,-118.0,0.0588,0.5332,0.592,False,-1.0,2026-07-08,Miami Marlins vs Seattle Mariners
+Total,UNDER 8.5,108.0,0.1691,0.4704,0.6395,True,1.08,2026-07-08,Miami Marlins vs Seattle Mariners
+Moneyline,Tampa Bay Rays ML,-115.0,0.1864,0.5266,0.713,True,0.8696,2026-07-08,Tampa Bay Rays vs New York Yankees
+Run Line,Tampa Bay Rays -1.5,182.0,0.0806,0.3472,0.4278,True,1.82,2026-07-08,Tampa Bay Rays vs New York Yankees
+Moneyline,Minnesota Twins ML,-120.0,0.2017,0.5363,0.738,True,0.8333,2026-07-08,Minnesota Twins vs Cleveland Guardians
+Run Line,Minnesota Twins -1.5,167.0,0.0756,0.3672,0.4428,False,-1.0,2026-07-08,Minnesota Twins vs Cleveland Guardians
+Moneyline,Boston Red Sox ML,-106.0,0.25,0.5047,0.776,True,0.9434,2026-07-08,Chicago White Sox vs Boston Red Sox
+Run Line,Boston Red Sox +1.5,153.0,0.0815,0.3841,0.4656,True,1.53,2026-07-08,Chicago White Sox vs Boston Red Sox
+Total,UNDER 8.5,-112.0,0.1587,0.5175,0.6762,True,0.8929,2026-07-08,St. Louis Cardinals vs Milwaukee Brewers
+Total,UNDER 10.5,-117.0,0.0833,0.5201,0.6034,True,0.8547,2026-07-08,Los Angeles Dodgers vs Colorado Rockies
+Moneyline,Arizona Diamondbacks ML,129.0,0.2236,0.4274,0.651,False,-1.0,2026-07-08,San Diego Padres vs Arizona Diamondbacks

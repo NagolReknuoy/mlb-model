@@ -1,6 +1,4 @@
-# =============================================================================
-# run_model.py — Main entry point
-#
+# run_model.py — Main 
 # Usage:
 #   python run_model.py                  # today's games
 #   python run_model.py --date 2026-04-21

@@ -1,0 +1,17 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,New York Yankees ML,-106.0,0.1351,0.5059,0.641,False,-1.0,2026-06-21,New York Yankees vs Cincinnati Reds
+Total,UNDER 8.5,107.0,0.1161,0.4736,0.5897,True,1.07,2026-06-21,New York Yankees vs Cincinnati Reds
+Moneyline,Milwaukee Brewers ML,103.0,0.25,0.4857,0.773,True,1.03,2026-06-21,Atlanta Braves vs Milwaukee Brewers
+Run Line,Milwaukee Brewers +1.5,167.0,0.0975,0.3663,0.4638,True,1.67,2026-06-21,Atlanta Braves vs Milwaukee Brewers
+Total,UNDER 8.5,109.0,0.11,0.4654,0.5754,False,-1.0,2026-06-21,Atlanta Braves vs Milwaukee Brewers
+Moneyline,Washington Nationals ML,117.0,0.25,0.4525,0.764,False,-1.0,2026-06-21,Tampa Bay Rays vs Washington Nationals
+Total,UNDER 8.5,-115.0,0.058,0.523,0.581,True,0.8696,2026-06-21,Tampa Bay Rays vs Washington Nationals
+Moneyline,Detroit Tigers ML,-112.0,0.2279,0.5211,0.749,True,0.8929,2026-06-21,Detroit Tigers vs Chicago White Sox
+Total,UNDER 8.5,-112.0,0.0716,0.515,0.5866,False,-1.0,2026-06-21,Detroit Tigers vs Chicago White Sox
+Total,UNDER 8.5,-112.0,0.1669,0.5187,0.6856,True,0.8929,2026-06-21,Miami Marlins vs San Francisco Giants
+Total,UNDER 8.5,-111.0,0.1623,0.5152,0.6775,True,0.9009,2026-06-21,Houston Astros vs Cleveland Guardians
+Moneyline,San Diego Padres ML,145.0,0.25,0.4005,0.681,False,-1.0,2026-06-21,Texas Rangers vs San Diego Padres
+Total,UNDER 8.0,-103.0,0.0951,0.4988,0.5939,True,0.9709,2026-06-21,Texas Rangers vs San Diego Padres
+Total,UNDER 11.5,-117.0,0.1539,0.5201,0.674,False,-1.0,2026-06-21,Colorado Rockies vs Pittsburgh Pirates
+Total,UNDER 9.5,-127.0,0.1517,0.5483,0.7,False,-1.0,2026-06-21,Los Angeles Dodgers vs Baltimore Orioles
+Moneyline,Philadelphia Phillies ML,-169.0,0.1466,0.6194,0.766,True,0.5917,2026-06-21,Philadelphia Phillies vs New York Mets

@@ -1,0 +1,15 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Atlanta Braves ML,-125.0,0.0565,0.5325,0.589,False,-1.0,2026-04-30,Atlanta Braves vs Detroit Tigers
+Run Line,Houston Astros +3.0,-12.0,0.1863,0.1155,0.3018,False,-1.0,2026-04-30,Baltimore Orioles vs Houston Astros
+Run Line,Houston Astros +3.0,-12.0,0.1863,0.1155,0.3018,True,8.3333,2026-04-30,Baltimore Orioles vs Houston Astros
+Moneyline,St. Louis Cardinals ML,200.0,0.25,0.3194,0.602,True,2.0,2026-04-30,Pittsburgh Pirates vs St. Louis Cardinals
+Total,OVER  7.0,-107.5,0.0967,0.4946,0.5913,True,0.9302,2026-04-30,Pittsburgh Pirates vs St. Louis Cardinals
+Total,UNDER 8.5,-115.0,0.1892,0.5108,0.7,True,0.8696,2026-04-30,Philadelphia Phillies vs San Francisco Giants
+Total,UNDER 8.5,-115.0,0.1884,0.5108,0.6993,False,-1.0,2026-04-30,Philadelphia Phillies vs San Francisco Giants
+Moneyline,Washington Nationals ML,155.0,0.25,0.3753,0.684,True,1.55,2026-04-30,New York Mets vs Washington Nationals
+Moneyline,Milwaukee Brewers ML,-127.5,0.1704,0.5406,0.711,True,0.7843,2026-04-30,Milwaukee Brewers vs Arizona Diamondbacks
+Run Line,Milwaukee Brewers -1.5,167.0,0.068,0.3586,0.4266,True,1.67,2026-04-30,Milwaukee Brewers vs Arizona Diamondbacks
+Moneyline,Athletics ML,-125.0,0.2111,0.5319,0.743,True,0.8,2026-04-30,Athletics vs Kansas City Royals
+Run Line,Athletics -1.5,158.0,0.0772,0.3686,0.4458,True,1.58,2026-04-30,Athletics vs Kansas City Royals
+Total,UNDER 9.5,-124.0,0.1175,0.5254,0.6429,True,0.8065,2026-04-30,Athletics vs Kansas City Royals
+Total,UNDER 8.0,-112.5,0.1327,0.5054,0.6381,False,-1.0,2026-04-30,Minnesota Twins vs Toronto Blue Jays

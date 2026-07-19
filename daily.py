@@ -1,17 +1,14 @@
-# =============================================================================
 # daily.py — Run the full MLB model pipeline automatically
-#
 # Usage:
 #   python daily.py                  # run everything for today
 #   python daily.py --no-odds        # skip live odds API (saves credits)
 #   python daily.py --date 2026-04-26  # run for a specific date
 #
-# What it does in order:
+# What it does:
 #   1. Scrapes yesterday's historical odds and merges into mlb_odds_2026.json
 #   2. Scores yesterday's bets vs actual results
 #   3. Runs today's predictions + live value bets
 #   4. Prints a summary of everything
-# =============================================================================
 
 import argparse
 import subprocess
