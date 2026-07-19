@@ -1,6 +1,14 @@
 # =============================================================================
 # schedule.py — MLB schedule + team offensive/defensive strength
 # Park-neutralized OS/DS so Coors doesn't inflate Rockies ratings
+#
+# FIX (backtest lookahead leakage): `past` used to include every "Final"
+# game for the whole season regardless of `today`. When backtesting a past
+# date, that meant team strength (OS/DS), league averages, home/away field
+# multipliers, and everything downstream (trends.py's h2h/form) were being
+# computed using games that hadn't happened yet as of that date. Filtering
+# `past` down to `date < today` right after it's built fixes it everywhere
+# at once — live mode is unaffected (future games are never "Final" yet).
 # =============================================================================
 
 import requests
@@ -91,14 +99,30 @@ def load_season_data(today: date = None, rolling_days: int = 30) -> dict:
     games = pd.DataFrame(rows)
     games["date"] = pd.to_datetime(games["date"]).dt.date
 
+    # Real doubleheader flag — gameNumber is 1 for every single game too, so
+    # gameNumber alone can't tell you if a game was part of a doubleheader.
+    # Count games sharing the same date/matchup instead.
+    games["is_doubleheader"] = (
+        games.groupby(["date", "home_team", "away_team"])["game_pk"]
+        .transform("count") > 1
+    )
+
     past = games[games["status"].str.lower() == "final"].dropna(
         subset=["home_runs", "away_runs"]
     ).copy()
     past["home_runs"] = past["home_runs"].astype(float)
     past["away_runs"] = past["away_runs"].astype(float)
 
+    # ── CRITICAL FIX: never let "past" include games on/after `today` ────────
+    # This is what makes backtesting a prior date honest — without this line,
+    # a backtest for e.g. April 5th would use every "Final" game for the
+    # whole season (since the season has already finished by the time you
+    # run the backtest), silently leaking months of future results into
+    # that day's team strength, league averages, and head-to-head.
+    past = past[past["date"] < today].copy()
+
     if past.empty:
-        raise RuntimeError(f"[schedule] No completed games found for {season}")
+        raise RuntimeError(f"[schedule] No completed games found before {today} in {season}")
 
     # ── Park-neutralize runs before computing team strength ───────────────────
     # Divide each game's runs by the home park factor so Coors-inflated
@@ -111,13 +135,13 @@ def load_season_data(today: date = None, rolling_days: int = 30) -> dict:
     home_field_mult = past["home_runs"].mean() / league_avg
     away_field_mult = past["away_runs"].mean() / league_avg
 
-    print(f"[schedule] {len(past)} completed games | league avg {league_avg:.2f} R/team/game")
+    print(f"[schedule] {len(past)} completed games before {today} | league avg {league_avg:.2f} R/team/game")
 
     # Rolling window
     cutoff = today - timedelta(days=rolling_days)
     recent = past[past["date"] >= cutoff]
     if len(recent) < 50:
-        print("[schedule] rolling window thin – using full season")
+        print("[schedule] rolling window thin – using full history before today")
         recent = past
 
     # ── Team strength using park-neutralized runs ─────────────────────────────
@@ -135,7 +159,7 @@ def load_season_data(today: date = None, rolling_days: int = 30) -> dict:
 
     # Today's games
     today_games = games[games["date"] == today][
-        ["game_pk","home_team","away_team","game_number"]
+        ["game_pk","home_team","away_team","game_number","is_doubleheader"]
     ].drop_duplicates(subset=["game_pk"]).reset_index(drop=True)
 
     print(f"[schedule] {len(today_games)} games today")

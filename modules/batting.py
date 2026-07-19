@@ -3,8 +3,27 @@
 #
 # Uses the same statsapi.mlb.com endpoint as schedule.py and pitching.py
 # so it never gets blocked. Falls back to prior season if current is thin.
+#
+# FIX (backtest lookahead leakage): the MLB Stats API's "season" batting
+# endpoint always returns CUMULATIVE stats as of whenever you call it — not
+# as of any particular date. That meant a backtest for e.g. April 5th was
+# scoring the model using each team's full-season batting line (including
+# games that happened months after April 5th), inflating backtest accuracy.
+#
+# There's no "as of date" version of this endpoint, so the fix is a daily
+# snapshot: every time run_model.py runs for TODAY, it saves the current
+# team batting stats to data/batting_snapshots/<date>.csv. From then on,
+# backtesting that date reads the snapshot instead of hitting the live
+# endpoint, so it sees exactly what was true on that day — no leakage.
+#
+# IMPORTANT: this only fixes backtests going forward. Any date before you
+# start saving snapshots has no snapshot to fall back on, so batting.py
+# will print a loud warning and fall back to (leaky) current stats for
+# those older dates. Once you've run daily.py for a few weeks you'll have
+# a real, leak-free backtest window to trust.
 # =============================================================================
 
+import os
 import requests
 import pandas as pd
 import numpy as np
@@ -14,9 +33,29 @@ from modules.utils import clean_name
 import warnings
 warnings.filterwarnings("ignore")
 
+SNAPSHOT_DIR = "data/batting_snapshots"
+
+
+def _snapshot_path(d: date) -> str:
+    return os.path.join(SNAPSHOT_DIR, f"{d}.csv")
+
+
+def _save_snapshot(team_batting: pd.DataFrame, d: date):
+    os.makedirs(SNAPSHOT_DIR, exist_ok=True)
+    team_batting.to_csv(_snapshot_path(d), index=False)
+    print(f"[batting] saved snapshot -> {_snapshot_path(d)}")
+
+
+def _load_snapshot(d: date):
+    path = _snapshot_path(d)
+    if os.path.exists(path):
+        return pd.read_csv(path)
+    return None
+
 
 def _get_mlb_team_batting(season: int) -> pd.DataFrame:
-    """Pull team batting stats from MLB Stats API."""
+    """Pull team batting stats from MLB Stats API. Always CURRENT cumulative
+    stats as of right now — see the leakage warning at the top of this file."""
     url = (
         f"https://statsapi.mlb.com/api/v1/teams/stats"
         f"?season={season}&sportId=1&stats=season&group=hitting"
@@ -74,9 +113,53 @@ def _compute_woba(df: pd.DataFrame) -> pd.Series:
     return (num / denom).round(3)
 
 
-def get_batting_data(today_games: pd.DataFrame, season: int = None) -> dict:
+def _derive(tb: pd.DataFrame) -> dict:
+    """Compute wOBA/K%/BB%/ISO/off_mult + league averages from a raw batting df."""
+    tb = tb.copy()
+    tb["woba"]  = _compute_woba(tb)
+    tb["k_pct"] = (tb["k"]  / tb["pa"].clip(lower=1)).round(3)
+    tb["bb_pct"]= (tb["bb"] / tb["pa"].clip(lower=1)).round(3)
+    tb["iso"]   = (tb["slg"] - tb["avg"]).round(3)
+
+    lg = {
+        "lg_woba":   round(float(tb["woba"].mean()),  3),
+        "lg_ops":    round(float(tb["ops"].mean()),   3),
+        "lg_k_pct":  round(float(tb["k_pct"].mean()), 3),
+        "lg_bb_pct": round(float(tb["bb_pct"].mean()),3),
+        "lg_iso":    round(float(tb["iso"].mean()),   3),
+    }
+
+    def off_mult(woba):
+        if pd.isna(woba) or lg["lg_woba"] == 0:
+            return 1.0
+        return float(np.clip((woba / lg["lg_woba"]) ** 0.8, 0.85, 1.15))
+
+    tb["off_mult"] = tb["woba"].apply(off_mult)
+    return tb, lg
+
+
+def get_batting_data(today_games: pd.DataFrame, season: int = None,
+                     target_date: date = None) -> dict:
     if season is None:
         season = date.today().year
+    if target_date is None:
+        target_date = date.today()
+
+    is_today = (target_date == date.today())
+
+    # ── Backtesting a past date: use the saved snapshot if we have one ───────
+    if not is_today:
+        snap = _load_snapshot(target_date)
+        if snap is not None:
+            print(f"[batting] using saved snapshot for {target_date} (leak-free)")
+            tb, lg = _derive(snap)
+            print(f"[batting] {len(tb)} teams | lg wOBA {lg['lg_woba']:.3f}")
+            return {"team_batting": tb, "league_batting": lg}
+        else:
+            print(f"[batting] ⚠️  NO SNAPSHOT for {target_date} — falling back to "
+                  f"CURRENT cumulative stats. This WILL leak future data into "
+                  f"this date's prediction/backtest. Run daily.py going forward "
+                  f"to build up a leak-free snapshot history.")
 
     print(f"[batting] fetching MLB Stats API team batting for {season} ...")
     raw = _get_mlb_team_batting(season)
@@ -98,32 +181,16 @@ def get_batting_data(today_games: pd.DataFrame, season: int = None) -> dict:
         print("[batting] no data available – using neutral batting")
         return {"team_batting": pd.DataFrame(), "league_batting": {}}
 
-    # Derived metrics
-    tb = raw.copy()
-    tb["woba"]  = _compute_woba(tb)
-    tb["k_pct"] = (tb["k"]  / tb["pa"].clip(lower=1)).round(3)
-    tb["bb_pct"]= (tb["bb"] / tb["pa"].clip(lower=1)).round(3)
-    tb["iso"]   = (tb["slg"] - tb["avg"]).round(3)
-
-    lg = {
-        "lg_woba":   round(float(tb["woba"].mean()),  3),
-        "lg_ops":    round(float(tb["ops"].mean()),   3),
-        "lg_k_pct":  round(float(tb["k_pct"].mean()), 3),
-        "lg_bb_pct": round(float(tb["bb_pct"].mean()),3),
-        "lg_iso":    round(float(tb["iso"].mean()),   3),
-    }
-
-    # Offensive multiplier capped at ±15%
-    def off_mult(woba):
-        if pd.isna(woba) or lg["lg_woba"] == 0:
-            return 1.0
-        return float(np.clip((woba / lg["lg_woba"]) ** 0.8, 0.85, 1.15))
-
-    tb["off_mult"] = tb["woba"].apply(off_mult)
+    tb, lg = _derive(raw)
 
     print(f"[batting] {len(tb)} teams | "
           f"lg wOBA {lg['lg_woba']:.3f} | "
           f"lg OPS {lg['lg_ops']:.3f} | "
           f"lg K% {lg['lg_k_pct']*100:.1f}%")
+
+    # Only persist a snapshot when this really is "today" — never write a
+    # snapshot while re-running an old date, or you'd bake the leak in.
+    if is_today:
+        _save_snapshot(raw, target_date)
 
     return {"team_batting": tb, "league_batting": lg}

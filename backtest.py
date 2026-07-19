@@ -6,6 +6,18 @@
 #   python backtest.py --start 2026-04-01 --end 2026-04-24 --csv
 #   python backtest.py --start 2026-04-01 --end 2026-04-24 --game "Yankees"
 #   python backtest.py --start 2026-04-01 --end 2026-04-24 --odds mlb_odds_2026.json --csv
+#
+# FIX: previously called score_bet(..., min_edge=0.05) — a hardcoded, looser
+# threshold than the 0.07 used live in odds.py, and it never passed the
+# model's home/away lambdas so score_bet had to fall back to a crude linear
+# approximation for run-line/total probabilities instead of the real
+# Poisson calc. Both are fixed: thresholds now default to the same
+# modules/betting_math constants odds.py uses, and lambdas are passed
+# straight from the model's predictions.
+#
+# FIX: get_batting_data is now called with target_date=current so it reads
+# the leak-free daily snapshot (see modules/batting.py) instead of always
+# pulling today's live cumulative batting stats for every date in the range.
 # =============================================================================
 
 import argparse
@@ -25,8 +37,8 @@ from modules.batting   import get_batting_data
 from modules.parks     import get_park_data, park_run_mult, park_info
 from modules.weather   import get_weather_data
 from modules.trends    import get_trends
-from modules.historical_odds import (load_odds_file, get_odds_for_game,
-                                     score_bet)
+from modules.historical_odds import load_odds_file, get_odds_for_game, score_bet
+from modules.betting_math import MIN_EDGE_ML, MIN_EDGE_RL, MIN_EDGE_TOTAL
 
 
 # ── Fetch actual results ──────────────────────────────────────────────────────
@@ -72,7 +84,8 @@ def run_model_silent(target_date):
             return pd.DataFrame()
 
         pitch = get_pitching_data(sched["today_games"], target_date)
-        bat   = get_batting_data(sched["today_games"], season=target_date.year)
+        bat   = get_batting_data(sched["today_games"], season=target_date.year,
+                                  target_date=target_date)
         get_park_data()
         wx    = get_weather_data(sched["today_games"], target_date)
         tr    = get_trends(sched["past_games"], sched["today_games"],
@@ -225,7 +238,8 @@ def score_game(pred_row, actual_row):
 
 # ── Main backtest loop ────────────────────────────────────────────────────────
 
-def run_backtest(start, end, output_csv=False, game_filter=None, odds_file=None):
+def run_backtest(start, end, output_csv=False, game_filter=None, odds_file=None,
+                 min_edge_ml=MIN_EDGE_ML, min_edge_rl=MIN_EDGE_RL, min_edge_total=MIN_EDGE_TOTAL):
 
     print("\n" + "=" * 65)
     print("  BACKTEST: " + str(start) + " to " + str(end))
@@ -235,7 +249,10 @@ def run_backtest(start, end, output_csv=False, game_filter=None, odds_file=None)
     if odds_file:
         odds_data = load_odds_file(odds_file)
         if odds_data:
-            print("[backtest] historical odds loaded — will score value bets\n")
+            print("[backtest] historical odds loaded — will score value bets")
+            print(f"[backtest] thresholds: ML edge>={min_edge_ml:.0%}, "
+                  f"RL edge>={min_edge_rl:.0%}, Total edge>={min_edge_total:.0%} "
+                  f"(same as live odds.py by default)\n")
         else:
             print("[backtest] no odds data found — skipping bet scoring\n")
 
@@ -309,14 +326,16 @@ def run_backtest(start, end, output_csv=False, game_filter=None, odds_file=None)
                             scored["ou_result"] = "PUSH"
 
                     bets = score_bet(
-                        "all", hist_odds,
+                        hist_odds,
                         pred["Home_Win_Pct"] / 100,
                         pred["Away_Win_Pct"] / 100,
                         pred["xTotal_Runs"],
-                        int(actual["home_runs"]),
-                        int(actual["away_runs"]),
+                        pred["Home_lambda"], pred["Away_lambda"],
+                        int(actual["home_runs"]), int(actual["away_runs"]),
                         pred["Home"], pred["Away"],
-                        min_edge=0.05
+                        min_edge_ml=min_edge_ml,
+                        min_edge_rl=min_edge_rl,
+                        min_edge_total=min_edge_total,
                     )
                     for b in bets:
                         b["date"] = str(current)
@@ -545,12 +564,23 @@ if __name__ == "__main__":
                         help="Filter to games containing this team name")
     parser.add_argument("--odds",  type=str, default=None,
                         help="Path to scraped odds JSON for bet scoring")
+    parser.add_argument("--min-edge", type=float, default=None,
+                        help="Override ALL edge thresholds (ML/RL/Total) for "
+                             "this run only, e.g. to experiment loosely. "
+                             "Default: use the same thresholds as live odds.py "
+                             "(modules/betting_math.py).")
     args = parser.parse_args()
 
     start_date = date.fromisoformat(args.start)
     end_date   = date.fromisoformat(args.end)
 
+    if args.min_edge is not None:
+        me_ml, me_rl, me_total = args.min_edge, args.min_edge, args.min_edge
+    else:
+        me_ml, me_rl, me_total = MIN_EDGE_ML, MIN_EDGE_RL, MIN_EDGE_TOTAL
+
     run_backtest(start_date, end_date,
                  output_csv=args.csv,
                  game_filter=args.game,
-                 odds_file=args.odds)
+                 odds_file=args.odds,
+                 min_edge_ml=me_ml, min_edge_rl=me_rl, min_edge_total=me_total)

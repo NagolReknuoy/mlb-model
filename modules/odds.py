@@ -3,14 +3,26 @@
 #
 # Uses The Odds API (the-odds-api.com) free tier
 # Set your API key in the ODDS_API_KEY variable below
+#
+# FIX: edge thresholds, the ML confidence floor, and the totals bias
+# correction now come from modules/betting_math.py instead of being
+# hardcoded here. Previously this file used a looser/different rule set
+# than historical_odds.py's backtest scorer, so a backtested win rate
+# didn't actually represent what this file would have bet. They now use
+# the exact same math — change a threshold once in betting_math.py and
+# both live picking and backtesting pick it up.
 # =============================================================================
 
 import requests
 import pandas as pd
 import numpy as np
 from datetime import date
-from scipy.stats import poisson
 from modules.utils import clean_name
+from modules.betting_math import (
+    american_to_prob, remove_vig, poisson_over_prob, poisson_cover_prob,
+    debiased_total, MIN_EDGE_ML, MIN_EDGE_RL, MIN_EDGE_TOTAL,
+    ML_CONFIDENCE_MIN, TOTALS_MIN_DISTANCE,
+)
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
 # Key is read from environment variable ODDS_API_KEY (set in GitHub Secrets)
@@ -25,23 +37,6 @@ SPORT         = "baseball_mlb"
 REGIONS       = "us"          # us odds (American format)
 MARKETS       = "h2h,spreads,totals"
 ODDS_FORMAT   = "american"
-MIN_EDGE      = 0.07          # minimum edge to flag a bet (7%)
-
-
-# ── American odds → implied probability (with vig removed) ───────────────────
-
-def american_to_prob(odds: float) -> float:
-    """Convert American moneyline odds to implied probability."""
-    if odds > 0:
-        return 100 / (odds + 100)
-    else:
-        return abs(odds) / (abs(odds) + 100)
-
-
-def remove_vig(home_prob: float, away_prob: float) -> tuple:
-    """Remove bookmaker vig so probabilities sum to 100%."""
-    total = home_prob + away_prob
-    return home_prob / total, away_prob / total
 
 
 # ── Fetch odds from The Odds API ─────────────────────────────────────────────
@@ -150,51 +145,20 @@ def fetch_odds(target_date: date = None) -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
-# ── Over/under probability from Poisson ──────────────────────────────────────
-
-def poisson_over_prob(expected_total: float, line: float) -> float:
-    """
-    Probability that combined runs exceed the line using Poisson distribution.
-    Splits expected total evenly between teams.
-    """
-    lam_each = expected_total / 2
-    # P(total > line) = 1 - P(total <= floor(line))
-    threshold = int(np.floor(line))
-    prob_over = 0.0
-    for h in range(0, 20):
-        for a in range(0, 20):
-            if h + a > threshold:
-                prob_over += (poisson.pmf(h, lam_each) * 
-                              poisson.pmf(a, lam_each))
-    return prob_over
-
-
-# ── Run line cover probability ────────────────────────────────────────────────
-
-def poisson_cover_prob(lambda_home: float, lambda_away: float, 
-                       spread: float) -> float:
-    """
-    Probability home team covers the spread (default -1.5).
-    P(home wins by more than abs(spread))
-    """
-    prob = 0.0
-    margin_needed = abs(spread)
-    for h in range(0, 20):
-        for a in range(0, 20):
-            if h - a > margin_needed:
-                prob += (poisson.pmf(h, max(0.1, lambda_home)) *
-                         poisson.pmf(a, max(0.1, lambda_away)))
-    return prob
-
-
 # ── Main value bet finder ─────────────────────────────────────────────────────
 
-def find_value_bets(predictions: pd.DataFrame, 
+def find_value_bets(predictions: pd.DataFrame,
                     odds_df: pd.DataFrame,
-                    min_edge: float = MIN_EDGE) -> pd.DataFrame:
+                    min_edge_ml: float = MIN_EDGE_ML,
+                    min_edge_rl: float = MIN_EDGE_RL,
+                    min_edge_total: float = MIN_EDGE_TOTAL) -> pd.DataFrame:
     """
     Compare model probabilities to sportsbook implied probabilities.
     Returns DataFrame of value bets sorted by edge descending.
+
+    Uses the exact same math (Poisson cover/over probabilities, ML
+    confidence floor, totals bias correction) as historical_odds.score_bet
+    so a backtested record reflects what this function would actually bet.
     """
     if odds_df.empty or predictions.empty:
         print("[odds] no odds data to compare")
@@ -254,27 +218,31 @@ def find_value_bets(predictions: pd.DataFrame,
             edge_h = model_home_pct - book_h
             edge_a = model_away_pct - book_a
 
-            if abs(edge_h) >= min_edge:
-                side = pred["Home"] if edge_h > 0 else pred["Away"]
-                ml   = odds_row["ml_home"] if edge_h > 0 else odds_row["ml_away"]
-                bets.append({
-                    "Game":       f"{pred['Home']} vs {pred['Away']}",
-                    "Bet":        f"{side} ML",
-                    "Odds":       f"{int(ml):+d}",
-                    "Book_Prob":  f"{(book_h if edge_h > 0 else book_a)*100:.1f}%",
-                    "Model_Prob": f"{(model_home_pct if edge_h > 0 else model_away_pct)*100:.1f}%",
-                    "Edge":       abs(edge_h),
-                    "Rating":     _rate(abs(edge_h)),
-                    "Type":       "Moneyline",
-                })
+            for edge, side, ml, book_p, model_p in [
+                (edge_h, pred["Home"], odds_row["ml_home"], book_h, model_home_pct),
+                (edge_a, pred["Away"], odds_row["ml_away"], book_a, model_away_pct),
+            ]:
+                # Only flag ML bets when the model is actually confident —
+                # matches historical_odds.score_bet's ML_CONFIDENCE_MIN floor.
+                if edge >= min_edge_ml and model_p >= ML_CONFIDENCE_MIN:
+                    bets.append({
+                        "Game":       f"{pred['Home']} vs {pred['Away']}",
+                        "Bet":        f"{side} ML",
+                        "Odds":       f"{int(ml):+d}",
+                        "Book_Prob":  f"{book_p*100:.1f}%",
+                        "Model_Prob": f"{model_p*100:.1f}%",
+                        "Edge":       edge,
+                        "Rating":     _rate(edge),
+                        "Type":       "Moneyline",
+                    })
 
         # ── Run line ─────────────────────────────────────────────────────────
         rl_h_ok = (odds_row["rl_home"] and -400 <= odds_row["rl_home"] <= 400)
         rl_a_ok = (odds_row["rl_away"] and -400 <= odds_row["rl_away"] <= 400)
         if rl_h_ok and rl_a_ok:
             rl = abs(odds_row["rl_line"])
-            model_cover_h = poisson_cover_prob(lh, la,  rl)
-            model_cover_a = poisson_cover_prob(la, lh,  rl)
+            model_cover_h = poisson_cover_prob(lh, la, rl)
+            model_cover_a = poisson_cover_prob(la, lh, rl)
             book_rl_h = american_to_prob(odds_row["rl_home"])
             book_rl_a = american_to_prob(odds_row["rl_away"])
             book_rl_h, book_rl_a = remove_vig(book_rl_h, book_rl_a)
@@ -286,7 +254,7 @@ def find_value_bets(predictions: pd.DataFrame,
                 (edge_rl_h, f"{pred['Home']} -{rl}", odds_row["rl_home"], book_rl_h, model_cover_h),
                 (edge_rl_a, f"{pred['Away']} +{rl}", odds_row["rl_away"], book_rl_a, model_cover_a),
             ]:
-                if min_edge <= edge <= 0.20:  # cap at 20% — higher = likely error
+                if min_edge_rl <= edge <= 0.20:  # cap at 20% — higher = likely error
                     bets.append({
                         "Game":       f"{pred['Home']} vs {pred['Away']}",
                         "Bet":        side,
@@ -302,8 +270,13 @@ def find_value_bets(predictions: pd.DataFrame,
         tot_line = odds_row["tot_line"]
         if odds_row["tot_over"] and odds_row["tot_under"] and tot_line:
             line = tot_line
-            model_over  = poisson_over_prob(model_xruns, line)
+
+            # Apply the same bias correction the backtest discovered
+            # (raw model xRuns runs ~17% high vs actual on average).
+            debiased_xruns = debiased_total(model_xruns)
+            model_over  = poisson_over_prob(debiased_xruns, line)
             model_under = 1 - model_over
+
             book_over   = american_to_prob(odds_row["tot_over"])
             book_under  = american_to_prob(odds_row["tot_under"])
             book_over, book_under = remove_vig(book_over, book_under)
@@ -311,11 +284,17 @@ def find_value_bets(predictions: pd.DataFrame,
             edge_over  = model_over  - book_over
             edge_under = model_under - book_under
 
+            # Skip marginal calls where debiased xRuns is basically sitting
+            # on the line — the model is essentially guessing at that point.
+            distance = debiased_xruns - line
+            if abs(distance) < TOTALS_MIN_DISTANCE:
+                continue
+
             for edge, label, ml, book_p, model_p in [
                 (edge_over,  f"OVER  {line}",  odds_row["tot_over"],  book_over,  model_over),
                 (edge_under, f"UNDER {line}", odds_row["tot_under"], book_under, model_under),
             ]:
-                if min_edge <= edge <= 0.25:  # cap at 25% — higher = likely mismatch
+                if min_edge_total <= edge <= 0.25:  # cap at 25% — higher = likely mismatch
                     bets.append({
                         "Game":       f"{pred['Home']} vs {pred['Away']}",
                         "Bet":        label,

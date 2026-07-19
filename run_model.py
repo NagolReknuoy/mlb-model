@@ -5,6 +5,13 @@
 #   python run_model.py                  # today's games
 #   python run_model.py --date 2026-04-21
 #   python run_model.py --csv            # also saves results/predictions_DATE.csv
+#
+# FIX: get_batting_data now receives target_date so it can save today's
+# batting stats as a snapshot (see modules/batting.py) — that snapshot is
+# what lets backtest.py score past dates without leaking future stats.
+# FIX: the doubleheader tag used to read columns ("doubleheader", "game_num")
+# that schedule.py never produced, so it silently always showed nothing.
+# It now reads the real columns ("is_doubleheader", "game_number").
 # =============================================================================
 
 import argparse
@@ -45,7 +52,7 @@ def run_model(today: date = None, output_csv: bool = False, fetch_odds_data: boo
     pitch = get_pitching_data(sched["today_games"], today)
 
     # ── 3. Batting ───────────────────────────────────────────────────────────
-    bat = get_batting_data(sched["today_games"], season=today.year)
+    bat = get_batting_data(sched["today_games"], season=today.year, target_date=today)
 
     # ── 4. Parks ─────────────────────────────────────────────────────────────
     get_park_data()  # prints confirmation
@@ -163,10 +170,13 @@ def run_model(today: date = None, output_csv: bool = False, fetch_odds_data: boo
         home_sp = str(p_row.iloc[0]["home_pitcher"]).title() if not p_row.empty and p_row.iloc[0]["home_pitcher"] else "TBD"
         away_sp = str(p_row.iloc[0]["away_pitcher"]).title() if not p_row.empty and p_row.iloc[0]["away_pitcher"] else "TBD"
 
-        # Label doubleheader games
-        dh_info = game.get("doubleheader", "N")
-        gm_num  = game.get("game_num", 1)
-        dh_tag  = f" (G{gm_num})" if dh_info != "N" else ""
+        # Label doubleheader games — schedule.py's real columns are
+        # "is_doubleheader" (bool) and "game_number" (1 or 2), not
+        # "doubleheader"/"game_num" (those never existed, so this tag
+        # used to silently never fire).
+        is_dh  = bool(game.get("is_doubleheader", False))
+        gm_num = int(game.get("game_number", 1))
+        dh_tag = f" (G{gm_num})" if is_dh else ""
 
         results.append({
             "Home":         home.title() + dh_tag,
