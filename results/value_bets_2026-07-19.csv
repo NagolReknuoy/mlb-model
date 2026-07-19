@@ -1,13 +1,13 @@
 Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
-Toronto Blue Jays vs Chicago White Sox,Chicago White Sox ML,-117,51.9%,77.3%,0.25415299334811536,Strong,Moneyline
-Houston Astros vs Baltimore Orioles,Baltimore Orioles ML,-102,48.6%,73.6%,0.25039326837909653,Strong,Moneyline
-Cleveland Guardians vs Pittsburgh Pirates,Pittsburgh Pirates ML,-111,50.8%,75.5%,0.24715035435543198,Strong,Moneyline
+Houston Astros vs Baltimore Orioles,Baltimore Orioles ML,+101,48.1%,74.6%,0.26510232433876574,Strong,Moneyline
+Toronto Blue Jays vs Chicago White Sox,Chicago White Sox ML,-115,51.7%,78.1%,0.2641460674157303,Strong,Moneyline
 Boston Red Sox vs Tampa Bay Rays,Boston Red Sox ML,-121,52.8%,77.2%,0.24438372093023253,Strong,Moneyline
-Arizona Diamondbacks vs St. Louis Cardinals,Arizona Diamondbacks ML,-124,53.4%,76.6%,0.23200649080469316,Strong,Moneyline
-New York Yankees (G2) vs Los Angeles Dodgers,UNDER 7.5,-102,48.3%,70.9%,0.22628211890312433,Strong,Total
-Los Angeles Angels vs Detroit Tigers,Detroit Tigers ML,-155,58.6%,77.1%,0.184860261300008,Strong,Moneyline
+Cleveland Guardians vs Pittsburgh Pirates,Pittsburgh Pirates ML,-109,50.3%,74.2%,0.23863737446197997,Strong,Moneyline
+Arizona Diamondbacks vs St. Louis Cardinals,Arizona Diamondbacks ML,-124,53.4%,76.1%,0.22700649080469315,Strong,Moneyline
+Los Angeles Angels vs Detroit Tigers,Detroit Tigers ML,-155,58.6%,78.1%,0.194860261300008,Strong,Moneyline
 Arizona Diamondbacks vs St. Louis Cardinals,Arizona Diamondbacks -1.5,+164,36.6%,54.8%,0.18183776524317175,Strong,Run Line
 Toronto Blue Jays vs Chicago White Sox,Chicago White Sox +1.5,+141,39.9%,56.2%,0.16351667182721813,Strong,Run Line
+Cleveland Guardians vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,+155,37.7%,52.2%,0.14570169815273049,Strong,Run Line
 Houston Astros vs Baltimore Orioles,Baltimore Orioles +1.5,+155,37.4%,51.8%,0.14445766341974398,Strong,Run Line
-Cleveland Guardians vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,+152,38.1%,52.0%,0.13867699373494263,Strong,Run Line
+Milwaukee Brewers vs Miami Marlins,Miami Marlins ML,+110,45.9%,58.0%,0.12106280193236718,Strong,Moneyline
 Los Angeles Angels vs Detroit Tigers,Detroit Tigers +1.5,+105,46.8%,56.2%,0.09391636745590753,Good,Run Line
