@@ -150,10 +150,20 @@ def pitch_factor(velo, kbb, whip, lg_velo, lg_kbb,
     return max(0.85, min(1.15, result))
 
 
+# FIX: ppg is plate-appearances-faced per start (pa / games from
+# _summarise_pitchers below), not innings. A typical starter faces ~23-26
+# batters per outing. Dividing by 15 (23/15 = 1.53) clamped almost every
+# real starter straight to the 4.0 floor regardless of actual workload,
+# which meant blend_starter_bullpen()'s innings-based weighting (share =
+# ip/9) never varied — a 7-inning workhorse and a 4-inning quick hook got
+# the same ~44% starter weight. The file's own convention elsewhere
+# (_summarise_pitchers' ip_approx = pa / 4.3, ~batters faced per inning)
+# gives the right divisor: 23/4.3 ≈ 5.3 IP, 30/4.3 ≈ 7.0 IP (ceiling),
+# 15/4.3 ≈ 3.5 -> 4.0 IP (floor, quick hook). Now it actually varies.
 def starter_ip(ppg) -> float:
     if pd.isna(ppg):
         return 5.5
-    return min(7.0, max(4.0, ppg / 15))
+    return min(7.0, max(4.0, ppg / 4.3))
 
 
 def blend_starter_bullpen(starter_mult: float, ip: float, bullpen_mult: float = 1.03) -> float:

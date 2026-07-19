@@ -10,6 +10,20 @@
 # cover probability. That meant the backtested win/loss record scored a
 # DIFFERENT strategy than what the live pipeline bets. Everything below now
 # comes from modules/betting_math.py so both files agree exactly.
+#
+# FIX (run line favorite/underdog bug): score_bet() used to ALWAYS assume
+# the home team is the -1.5 favorite (home_covers = margin > spread) and
+# grade model probability with poisson_cover_prob(lambda_home, lambda_away,
+# spread) regardless of which team the sportsbook line actually favored.
+# Any historical game with a road favorite was graded against the WRONG
+# win/loss condition and the WRONG model probability — poisson_cover_prob(
+# lambda_away, lambda_home, spread) computes "away wins outright by 2+,"
+# which is not the same as "away doesn't lose by more than 1" (the actual
+# +1.5 cover condition) whenever away is the underdog rather than the true
+# favorite. Now the sign of the stored rl_line decides which side is
+# favored and which Poisson formula/complement applies to each side. This
+# affects every backtested run-line result before this fix — rerun the
+# backtest after patching to get a trustworthy win rate.
 # =============================================================================
 
 import json
@@ -84,7 +98,9 @@ def _get_game_odds(game: dict) -> dict:
     ml_home   = _median_odds(ml_views, "homeOdds")
     ml_away   = _median_odds(ml_views, "awayOdds")
 
-    # Run line / point spread
+    # Run line / point spread — rl_line stays SIGNED (negative = home
+    # favored). Do not abs() it here; score_bet needs the sign to know
+    # which side is actually favored.
     rl_views  = odds.get("pointspread", [])
     rl_home   = _median_odds(rl_views, "homeOdds")
     rl_away   = _median_odds(rl_views, "awayOdds")
@@ -168,7 +184,9 @@ def score_bet(odds_row: dict,
     thresholds as odds.find_value_bets, so this backtest's win/loss record
     reflects what the live pipeline would actually have bet:
       - Moneyline: edge >= min_edge_ml AND model_prob >= ML_CONFIDENCE_MIN
-      - Run line: real Poisson cover probability (not a flat approximation)
+      - Run line: real Poisson cover probability, using the SIGNED line to
+        determine who's actually favored (not an assumption that home is
+        always favored — see FIX note at top of file)
       - Totals: real Poisson over probability on the DEBIASED xRuns, skipping
         calls where debiased xRuns sits within TOTALS_MIN_DISTANCE of the line
     Returns list of bet result dicts.
@@ -221,26 +239,34 @@ def score_bet(odds_row: dict,
                   (rl_a <= -10 or rl_a >= 10) and
                   -1000 <= rl_a <= 1000)
     if rl_h_valid and rl_a_valid and rl_line is not None:
-        spread = abs(rl_line)
+        # FIX: use the SIGNED line to determine who's favored, instead of
+        # always assuming home lays -spread. home_point < 0 means home is
+        # favored (lays -rl); home_point > 0 means home is the underdog
+        # (gets +rl) and away is favored instead.
+        home_point = rl_line
+        spread = abs(home_point)
         margin = actual_home - actual_away
 
-        home_covers = margin >  spread   # home -1.5 covers
-        away_covers = margin < -spread   # away +1.5 covers
+        if home_point < 0:
+            home_covers = margin > spread
+            away_covers = not home_covers
+            model_rl_h  = poisson_cover_prob(lambda_home, lambda_away, spread)
+            model_rl_a  = 1 - model_rl_h
+        else:
+            away_covers = margin < -spread
+            home_covers = not away_covers
+            model_rl_a  = poisson_cover_prob(lambda_away, lambda_home, spread)
+            model_rl_h  = 1 - model_rl_a
 
         raw_h, raw_a         = american_to_prob(rl_h), american_to_prob(rl_a)
         book_rl_h, book_rl_a = remove_vig(raw_h, raw_a)
-
-        # Real Poisson cover probability — matches odds.py exactly (this
-        # used to be a crude `win_pct * 0.60` approximation; that's gone).
-        model_rl_h = poisson_cover_prob(lambda_home, lambda_away, spread)
-        model_rl_a = poisson_cover_prob(lambda_away, lambda_home, spread)
 
         edge_rl_h = model_rl_h - book_rl_h
         edge_rl_a = model_rl_a - book_rl_a
 
         for edge, label, ml, book_p, model_p, won in [
-            (edge_rl_h, f"{home_name} -{spread}", rl_h, book_rl_h, model_rl_h, home_covers),
-            (edge_rl_a, f"{away_name} +{spread}", rl_a, book_rl_a, model_rl_a, away_covers),
+            (edge_rl_h, f"{home_name} {home_point:+g}", rl_h, book_rl_h, model_rl_h, home_covers),
+            (edge_rl_a, f"{away_name} {-home_point:+g}", rl_a, book_rl_a, model_rl_a, away_covers),
         ]:
             if min_edge_rl <= edge <= 0.20:
                 profit = payout_multiplier(ml) if won else -1.0

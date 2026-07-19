@@ -11,6 +11,19 @@
 # didn't actually represent what this file would have bet. They now use
 # the exact same math — change a threshold once in betting_math.py and
 # both live picking and backtesting pick it up.
+#
+# FIX (run line favorite/underdog bug): find_value_bets() used to ALWAYS
+# treat the home team as the -1.5 favorite and the away team as the +1.5
+# underdog, regardless of which side the sportsbook line actually favored.
+# odds_row["rl_line"] is already stored SIGNED (negative = home favored,
+# from the spreads market's home "point"), but it was being passed through
+# abs() before use, throwing away exactly the information needed to know
+# who's actually favored. Any game with a road favorite (common — a road
+# team can easily be the moneyline favorite while still "getting" a run-line
+# label if this bug isn't fixed) had its run-line side labeled backwards AND
+# scored with the wrong Poisson formula (see below). Now the sign of
+# rl_line decides both the label (+/-) and which side's cover probability
+# uses poisson_cover_prob directly vs its complement.
 # =============================================================================
 
 import requests
@@ -111,6 +124,9 @@ def fetch_odds(target_date: date = None) -> pd.DataFrame:
                     if h.get("price") and a.get("price"):
                         rl_home.append(h["price"])
                         rl_away.append(a["price"])
+                        # SIGNED home point: negative = home favored (lays -1.5),
+                        # positive = home is the underdog (+1.5). Do NOT abs()
+                        # this — the sign is what tells us who's favored.
                         rl_line_vals.append(h.get("point", -1.5))
 
                 elif key == "totals":
@@ -131,10 +147,10 @@ def fetch_odds(target_date: date = None) -> pd.DataFrame:
             # Moneyline
             "ml_home":     med(ml_home),
             "ml_away":     med(ml_away),
-            # Run line
+            # Run line — rl_line is SIGNED (negative = home favored)
             "rl_home":     med(rl_home),
             "rl_away":     med(rl_away),
-            "rl_line":     med(rl_line_vals) or -1.5,
+            "rl_line":     med(rl_line_vals) if rl_line_vals else -1.5,
             # Totals
             "tot_over":    med(tot_over),
             "tot_under":   med(tot_under),
@@ -240,9 +256,22 @@ def find_value_bets(predictions: pd.DataFrame,
         rl_h_ok = (odds_row["rl_home"] and -400 <= odds_row["rl_home"] <= 400)
         rl_a_ok = (odds_row["rl_away"] and -400 <= odds_row["rl_away"] <= 400)
         if rl_h_ok and rl_a_ok:
-            rl = abs(odds_row["rl_line"])
-            model_cover_h = poisson_cover_prob(lh, la, rl)
-            model_cover_a = poisson_cover_prob(la, lh, rl)
+            # FIX: use the SIGNED line to determine who's actually favored,
+            # instead of assuming home is always the -1.5 favorite. A road
+            # favorite (common) was previously mislabeled AND scored with
+            # the wrong Poisson formula.
+            home_point = odds_row["rl_line"]   # negative = home favored
+            rl = abs(home_point)
+
+            if home_point < 0:
+                # Home is favorite, lays -rl. Away is dog, gets +rl.
+                model_cover_h = poisson_cover_prob(lh, la, rl)
+                model_cover_a = 1 - model_cover_h
+            else:
+                # Away is favorite, lays -rl. Home is dog, gets +rl.
+                model_cover_a = poisson_cover_prob(la, lh, rl)
+                model_cover_h = 1 - model_cover_a
+
             book_rl_h = american_to_prob(odds_row["rl_home"])
             book_rl_a = american_to_prob(odds_row["rl_away"])
             book_rl_h, book_rl_a = remove_vig(book_rl_h, book_rl_a)
@@ -250,9 +279,12 @@ def find_value_bets(predictions: pd.DataFrame,
             edge_rl_h = model_cover_h - book_rl_h
             edge_rl_a = model_cover_a - book_rl_a
 
+            home_label = f"{pred['Home']} {home_point:+g}"
+            away_label = f"{pred['Away']} {-home_point:+g}"
+
             for edge, side, ml, book_p, model_p in [
-                (edge_rl_h, f"{pred['Home']} -{rl}", odds_row["rl_home"], book_rl_h, model_cover_h),
-                (edge_rl_a, f"{pred['Away']} +{rl}", odds_row["rl_away"], book_rl_a, model_cover_a),
+                (edge_rl_h, home_label, odds_row["rl_home"], book_rl_h, model_cover_h),
+                (edge_rl_a, away_label, odds_row["rl_away"], book_rl_a, model_cover_a),
             ]:
                 if min_edge_rl <= edge <= 0.20:  # cap at 20% — higher = likely error
                     bets.append({
