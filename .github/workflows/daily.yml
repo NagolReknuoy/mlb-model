@@ -43,9 +43,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add results/ mlb_odds_2026.json data/batting_snapshots/
           git diff --staged --quiet || git commit -m "Daily update: $(date +'%Y-%m-%d')"
-<<<<<<< HEAD
-          git push
-=======
           git pull --rebase origin main
           git push
->>>>>>> 5e67b2887366d08971b03a7cbff3442f062103d3
