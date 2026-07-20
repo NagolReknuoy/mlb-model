@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cleveland Guardians,Minnesota Twins,Tanner Bibee,Joe Ryan,50.5,49.5,7.01,0.97,neutral,below-average HR park,unknown,1.0,2-4 (home-away),2.369,3.104
+New York Yankees,Pittsburgh Pirates,Ryan Weathers,Braxton Ashcraft,26.5,73.5,8.57,1.02,hitter,short porches both sides,unknown,1.0,no prior meetings,3.057,5.046
+Toronto Blue Jays,Tampa Bay Rays,Dylan Cease,Nick Martinez,64.4,35.6,8.46,0.98,neutral,turf boosts groundball singles,dome,1.0,1-5 (home-away),4.688,3.762
+Boston Red Sox,Baltimore Orioles,Payton Tolle,Shane Baz,61.6,38.4,7.59,1.061,hitter,Green Monster 37ft LF wall,unknown,1.0,3-3 (home-away),4.128,2.74
+Philadelphia Phillies,Los Angeles Dodgers,Cristopher Sánchez,Emmet Sheehan,40.0,60.0,7.86,1.082,hitter,high HR rate historically,unknown,1.0,1-2 (home-away),3.627,4.229
+Atlanta Braves,San Diego Padres,Bryce Elder,Jp Sears,49.7,50.3,10.99,1.01,hitter,warm humid air; June winds boost offense,unknown,1.0,0-3 (home-away),7.944,6.609
+Kansas City Royals,San Francisco Giants,Michael Wacha,Trevor Mcdonald,39.0,61.0,10.21,0.96,pitcher,large dimensions; spray park,"100°F, wind 8 mph",0.98,no prior meetings,4.743,6.037
+Milwaukee Brewers,New York Mets,Jacob Misiorowski,Freddy Peralta,76.2,23.8,9.02,0.941,pitcher,large dimensions suppress HRs,dome,1.0,no prior meetings,6.087,3.571
+Chicago Cubs,Detroit Tigers,Jameson Taillon,Jack Flaherty,51.0,49.0,8.29,1.05,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,no prior meetings,4.2,4.094
+Texas Rangers,Chicago White Sox,Jacob Degrom,Erick Fedde,23.1,76.9,9.0,1.04,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,no prior meetings,3.339,6.565
+Houston Astros,Miami Marlins,Ronel Blanco,Janson Junk,26.9,73.1,8.55,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,no prior meetings,3.46,5.054
+Colorado Rockies,Washington Nationals,Kyle Freeland,Andrew Alvarez,51.0,49.0,10.99,1.107,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,no prior meetings,7.226,8.654
+Arizona Diamondbacks,Athletics,Mitch Bratt,Jeffrey Springs,77.4,22.6,9.0,1.04,hitter,"high altitude (1,082 ft)",dome,1.0,no prior meetings,10.056,3.194
+Seattle Mariners,Cincinnati Reds,George Kirby,Andrew Abbott,50.0,50.0,7.02,0.97,pitcher,marine air; roof often closed,dome,1.0,no prior meetings,3.027,3.366
+Los Angeles Angels,St. Louis Cardinals,José Soriano,Kyle Leahy,42.8,57.2,8.63,1.04,neutral,symmetrical; marine layer suppresses HRs,"76°F, wind 7 mph",1.036,no prior meetings,4.084,4.567

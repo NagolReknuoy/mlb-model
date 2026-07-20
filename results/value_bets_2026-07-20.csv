@@ -1,0 +1,17 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Texas Rangers vs Chicago White Sox,Chicago White Sox ML,+144,39.5%,76.9%,0.3736731177720085,Strong,Moneyline
+Houston Astros vs Miami Marlins,Miami Marlins ML,+110,45.8%,73.1%,0.27290838167633524,Strong,Moneyline
+New York Yankees vs Pittsburgh Pirates,Pittsburgh Pirates ML,+102,47.6%,73.5%,0.2592214532871972,Strong,Moneyline
+Los Angeles Angels vs St. Louis Cardinals,UNDER 8.5,+100,47.8%,70.8%,0.22935828151261206,Strong,Total
+Houston Astros vs Miami Marlins,UNDER 8.5,-104,48.8%,71.6%,0.2284294169143004,Strong,Total
+Arizona Diamondbacks vs Athletics,Arizona Diamondbacks ML,-161,59.3%,77.4%,0.1812016974538193,Strong,Moneyline
+Philadelphia Phillies vs Los Angeles Dodgers,Los Angeles Dodgers +1.5,-175,61.3%,77.7%,0.16402371314119568,Strong,Run Line
+Philadelphia Phillies vs Los Angeles Dodgers,Los Angeles Dodgers ML,+117,44.6%,60.0%,0.1540988604748656,Strong,Moneyline
+Arizona Diamondbacks vs Athletics,Arizona Diamondbacks -1.5,+125,42.6%,56.2%,0.13615220155564722,Strong,Run Line
+Kansas City Royals vs San Francisco Giants,San Francisco Giants ML,-101,48.2%,61.0%,0.12760795879737635,Strong,Moneyline
+Seattle Mariners vs Cincinnati Reds,Cincinnati Reds +1.5,-165,59.9%,71.9%,0.12006582375991603,Strong,Run Line
+Chicago Cubs vs Detroit Tigers,Chicago Cubs +1.5,-166,59.8%,71.5%,0.11740494386962108,Good,Run Line
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians +1.5,-170,60.3%,71.9%,0.11639218203357815,Good,Run Line
+Colorado Rockies vs Washington Nationals,Colorado Rockies +1.5,-140,56.2%,67.7%,0.11488049900098285,Good,Run Line
+Milwaukee Brewers vs New York Mets,Milwaukee Brewers ML,-205,65.1%,76.2%,0.11061126985941261,Good,Moneyline
+Atlanta Braves vs San Diego Padres,San Diego Padres +1.5,-160,59.6%,67.7%,0.08065100269595504,Good,Run Line
