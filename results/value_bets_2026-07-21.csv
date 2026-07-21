@@ -1,0 +1,22 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Texas Rangers vs Chicago White Sox,Chicago White Sox ML,+110,46.1%,76.7%,0.30633958418263346,Strong,Moneyline
+Arizona Diamondbacks vs Athletics,Arizona Diamondbacks ML,-135,55.5%,78.1%,0.22611790889288752,Strong,Moneyline
+Milwaukee Brewers vs New York Mets,UNDER 9.0,-120,52.2%,74.8%,0.22610960960287074,Strong,Total
+Toronto Blue Jays vs Tampa Bay Rays,UNDER 7.5,-110,50.0%,69.9%,0.19940698455582728,Strong,Total
+New York Yankees vs Pittsburgh Pirates,Pittsburgh Pirates ML,+120,44.0%,62.5%,0.18480683506686485,Strong,Moneyline
+Texas Rangers vs Chicago White Sox,UNDER 8.5,-102,48.3%,66.7%,0.18458404433715914,Strong,Total
+Milwaukee Brewers vs New York Mets,Milwaukee Brewers ML,-134,55.2%,73.6%,0.18419000191534185,Strong,Moneyline
+Arizona Diamondbacks vs Athletics,Arizona Diamondbacks -1.5,+153,38.1%,56.2%,0.18159444862944985,Strong,Run Line
+New York Yankees vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,-170,60.7%,77.5%,0.16830736242671585,Strong,Run Line
+Kansas City Royals vs San Francisco Giants,UNDER 9.5,-120,52.1%,67.0%,0.1497490603661069,Strong,Total
+New York Yankees vs Pittsburgh Pirates,UNDER 9.5,-115,51.1%,65.8%,0.14762588122267373,Strong,Total
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians ML,-146,57.2%,71.4%,0.14219843342036564,Strong,Moneyline
+Chicago Cubs vs Detroit Tigers,Detroit Tigers ML,+102,47.8%,61.6%,0.1383069506529933,Strong,Moneyline
+Milwaukee Brewers vs New York Mets,Milwaukee Brewers -1.5,+153,38.1%,51.6%,0.13534100818013717,Strong,Run Line
+Chicago Cubs vs Detroit Tigers,Detroit Tigers +1.5,-197,64.0%,77.5%,0.1345460252755788,Strong,Run Line
+Kansas City Royals vs San Francisco Giants,San Francisco Giants ML,-112,50.8%,62.9%,0.12126006191950456,Strong,Moneyline
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians -1.5,+144,39.6%,49.2%,0.096850919011087,Good,Run Line
+Seattle Mariners vs Cincinnati Reds,Seattle Mariners +1.5,-196,63.3%,71.9%,0.08658611214965983,Good,Run Line
+Colorado Rockies vs Washington Nationals,Colorado Rockies +1.5,-162,59.3%,67.7%,0.08355454046199695,Good,Run Line
+Atlanta Braves vs San Diego Padres,San Diego Padres +1.5,-165,59.9%,67.7%,0.07783201020387176,Lean,Run Line
+Toronto Blue Jays vs Tampa Bay Rays,Tampa Bay Rays ML,-112,50.8%,58.2%,0.07426006191950463,Lean,Moneyline
