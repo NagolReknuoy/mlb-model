@@ -1,0 +1,20 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Texas Rangers vs Chicago White Sox,Chicago White Sox ML,-108,49.9%,76.1%,0.2621051189107947,Strong,Moneyline
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians ML,-126,53.7%,77.2%,0.23503884609080483,Strong,Moneyline
+Arizona Diamondbacks vs Athletics,Arizona Diamondbacks ML,-127,54.0%,77.4%,0.23379339679967592,Strong,Moneyline
+Kansas City Royals vs San Francisco Giants,San Francisco Giants ML,-129,54.2%,77.5%,0.23309161832366476,Strong,Moneyline
+Toronto Blue Jays vs Tampa Bay Rays,Tampa Bay Rays ML,-108,50.0%,72.9%,0.2290000000000001,Strong,Moneyline
+New York Yankees (G1) vs Pittsburgh Pirates,UNDER 9.5,-112,50.4%,72.8%,0.22340901320244533,Strong,Total
+New York Yankees (G2) vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,-130,54.3%,73.8%,0.19538741610210442,Strong,Run Line
+Arizona Diamondbacks vs Athletics,Arizona Diamondbacks -1.5,+157,37.3%,55.6%,0.18300628559345106,Strong,Run Line
+Kansas City Royals vs San Francisco Giants,UNDER 8.5,-107,49.4%,67.2%,0.1782576010368786,Strong,Total
+Texas Rangers vs Chicago White Sox,Chicago White Sox -1.5,+148,38.7%,55.1%,0.16313844543276845,Strong,Run Line
+Colorado Rockies vs Washington Nationals,Colorado Rockies +1.5,-126,53.3%,67.7%,0.14357719571578387,Strong,Run Line
+Kansas City Royals vs San Francisco Giants,San Francisco Giants -1.5,+125,42.6%,56.2%,0.13680770643096463,Strong,Run Line
+Toronto Blue Jays vs Tampa Bay Rays,Tampa Bay Rays -1.5,+152,38.2%,51.6%,0.13414513114794646,Strong,Run Line
+Seattle Mariners vs Cincinnati Reds,Cincinnati Reds +1.5,-161,59.4%,71.9%,0.12533953588183988,Strong,Run Line
+Philadelphia Phillies vs Los Angeles Dodgers,Philadelphia Phillies +1.5,-150,58.0%,70.4%,0.12379096917030852,Strong,Run Line
+Milwaukee Brewers vs New York Mets,New York Mets +1.5,-160,59.6%,71.9%,0.12288481625199932,Strong,Run Line
+Houston Astros vs Miami Marlins,Houston Astros +1.5,-193,63.2%,74.9%,0.11681224921467137,Good,Run Line
+Los Angeles Angels vs St. Louis Cardinals,St. Louis Cardinals +1.5,-185,62.6%,71.9%,0.09302666386420266,Good,Run Line
+Chicago Cubs vs Detroit Tigers,Chicago Cubs ML,-120,52.7%,60.9%,0.08232185886402754,Good,Moneyline

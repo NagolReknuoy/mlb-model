@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-07-21,Cleveland Guardians,Minnesota Twins,5,2,7,Cleveland Guardians,Cleveland Guardians,76.3,23.7,True,76.3,8.85,1.8499999999999996,True,HIGH,8.0,UNDER
+2026-07-21,Philadelphia Phillies,Los Angeles Dodgers,1,2,3,Los Angeles Dodgers,Philadelphia Phillies,56.9,43.1,False,56.9,8.38,5.380000000000001,False,HIGH,9.0,UNDER
+2026-07-21,Toronto Blue Jays,Tampa Bay Rays,2,12,14,Tampa Bay Rays,Tampa Bay Rays,40.7,59.3,True,59.3,7.66,6.34,True,LOW,7.5,OVER
+2026-07-21,Atlanta Braves,San Diego Padres,3,8,11,San Diego Padres,San Diego Padres,50.0,50.0,True,50.0,10.94,0.0600000000000005,True,LOW,9.0,OVER
+2026-07-21,Kansas City Royals,San Francisco Giants,3,2,5,Kansas City Royals,San Francisco Giants,35.6,64.4,False,64.4,10.02,5.02,False,HIGH,9.0,UNDER
+2026-07-21,Milwaukee Brewers,New York Mets,0,4,4,New York Mets,Milwaukee Brewers,72.2,27.8,False,72.2,9.36,5.359999999999999,False,HIGH,8.5,UNDER
+2026-07-21,Chicago Cubs,Detroit Tigers,11,2,13,Chicago Cubs,Detroit Tigers,40.1,59.9,False,59.9,9.08,3.92,False,LOW,7.5,OVER
+2026-07-21,Texas Rangers,Chicago White Sox,10,0,10,Texas Rangers,Chicago White Sox,22.5,77.5,False,77.5,9.0,1.0,False,LOW,8.5,OVER
+2026-07-21,Houston Astros,Miami Marlins,5,3,8,Houston Astros,Houston Astros,52.6,47.4,True,52.6,9.57,1.5700000000000003,True,HIGH,9.0,UNDER
+2026-07-21,Colorado Rockies,Washington Nationals,8,7,15,Colorado Rockies,Colorado Rockies,50.1,49.9,True,50.1,11.01,3.99,False,LOW,13.0,OVER
+2026-07-21,Los Angeles Angels,St. Louis Cardinals,5,1,6,Los Angeles Angels,St. Louis Cardinals,44.7,55.3,False,55.3,7.45,1.4500000000000002,False,HIGH,9.0,UNDER
+2026-07-21,Arizona Diamondbacks,Athletics,6,5,11,Arizona Diamondbacks,Arizona Diamondbacks,77.2,22.8,True,77.2,9.03,1.9700000000000006,False,LOW,9.5,OVER
+2026-07-21,Seattle Mariners,Cincinnati Reds,2,4,6,Cincinnati Reds,Cincinnati Reds,49.6,50.4,True,50.4,6.97,0.9699999999999998,True,HIGH,7.5,UNDER
+2026-07-21,New York Yankees,Pittsburgh Pirates,0,0,0,Pittsburgh Pirates,Pittsburgh Pirates,37.8,62.2,True,62.2,10.15,10.15,False,HIGH,,
+2026-07-21,Boston Red Sox,Baltimore Orioles,0,0,0,Baltimore Orioles,Boston Red Sox,65.2,34.8,False,65.2,7.94,7.94,False,HIGH,,

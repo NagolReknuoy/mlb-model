@@ -1,0 +1,21 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Cleveland Guardians ML,-161.0,0.1743,0.5887,0.763,True,0.6211,2026-07-21,Cleveland Guardians vs Minnesota Twins
+Run Line,Philadelphia Phillies +1.5,-190.0,0.1212,0.6237,0.7449,True,0.5263,2026-07-21,Philadelphia Phillies vs Los Angeles Dodgers
+Total,UNDER 9.0,-115.0,0.2,0.5091,0.835,True,0.8696,2026-07-21,Philadelphia Phillies vs Los Angeles Dodgers
+Moneyline,Tampa Bay Rays ML,-110.0,0.093,0.5,0.593,True,0.9091,2026-07-21,Toronto Blue Jays vs Tampa Bay Rays
+Total,UNDER 7.5,-121.0,0.1707,0.5227,0.6934,False,-1.0,2026-07-21,Toronto Blue Jays vs Tampa Bay Rays
+Moneyline,San Francisco Giants ML,-110.0,0.144,0.5,0.644,False,-1.0,2026-07-21,Kansas City Royals vs San Francisco Giants
+Run Line,San Francisco Giants -1.5,144.5,0.0935,0.3913,0.4848,False,-1.0,2026-07-21,Kansas City Royals vs San Francisco Giants
+Moneyline,Milwaukee Brewers ML,-137.5,0.1681,0.5539,0.722,False,-1.0,2026-07-21,Milwaukee Brewers vs New York Mets
+Run Line,Milwaukee Brewers -1.5,145.5,0.1953,0.3883,0.5837,False,-1.0,2026-07-21,Milwaukee Brewers vs New York Mets
+Moneyline,Detroit Tigers ML,100.0,0.1207,0.4783,0.599,False,-1.0,2026-07-21,Chicago Cubs vs Detroit Tigers
+Moneyline,Chicago White Sox ML,-105.0,0.25,0.4892,0.775,False,-1.0,2026-07-21,Texas Rangers vs Chicago White Sox
+Total,UNDER 8.5,-104.5,0.1805,0.4856,0.6661,False,-1.0,2026-07-21,Texas Rangers vs Chicago White Sox
+Total,UNDER 9.0,-1.0,0.2,0.0178,0.7237,True,10.0,2026-07-21,Houston Astros vs Miami Marlins
+Total,UNDER 13.0,-107.5,0.2,0.4905,0.919,False,-1.0,2026-07-21,Colorado Rockies vs Washington Nationals
+Run Line,St. Louis Cardinals +1.5,-196.0,0.124,0.6303,0.7543,False,-1.0,2026-07-21,Los Angeles Angels vs St. Louis Cardinals
+Total,UNDER 9.0,-2.0,0.2,0.0347,0.9029,True,10.0,2026-07-21,Los Angeles Angels vs St. Louis Cardinals
+Moneyline,Arizona Diamondbacks ML,-140.0,0.215,0.557,0.772,True,0.7143,2026-07-21,Arizona Diamondbacks vs Athletics
+Total,UNDER 9.5,-119.0,0.2,0.5171,0.777,False,-1.0,2026-07-21,Arizona Diamondbacks vs Athletics
+Run Line,Seattle Mariners +1.5,-205.0,0.1143,0.6404,0.7547,False,-1.0,2026-07-21,Seattle Mariners vs Cincinnati Reds
+Total,UNDER 7.5,-110.0,0.2,0.5,0.773,True,0.9091,2026-07-21,Seattle Mariners vs Cincinnati Reds
