@@ -1,18 +1,18 @@
 date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
-2026-07-22,New York Yankees (DH-1),Pittsburgh Pirates,3,5,8,Pittsburgh Pirates,Pittsburgh Pirates,41.4,58.6,True,58.6,10.24,2.24,True,HIGH,12.5,UNDER
-2026-07-22,New York Yankees (DH-2),Pittsburgh Pirates,2,0,2,New York Yankees,Pittsburgh Pirates,42.9,57.1,False,57.1,10.52,8.52,False,HIGH,12.5,UNDER
-2026-07-22,Boston Red Sox (DH-1),Baltimore Orioles,6,3,9,Boston Red Sox,Boston Red Sox,62.1,37.9,True,62.1,7.75,1.25,True,LOW,9.0,PUSH
-2026-07-22,Boston Red Sox (DH-2),Baltimore Orioles,1,5,6,Baltimore Orioles,Boston Red Sox,67.4,32.6,False,67.4,8.12,2.119999999999999,False,HIGH,9.0,UNDER
-2026-07-22,Kansas City Royals,San Francisco Giants,5,4,9,Kansas City Royals,San Francisco Giants,21.6,78.4,False,78.4,8.99,0.009999999999999787,False,LOW,8.75,OVER
-2026-07-22,Milwaukee Brewers,New York Mets,4,3,7,Milwaukee Brewers,New York Mets,50.0,50.0,False,50.0,7.01,0.009999999999999787,False,HIGH,7.5,UNDER
-2026-07-22,Colorado Rockies,Washington Nationals,0,8,8,Washington Nationals,Colorado Rockies,50.8,49.2,False,50.8,11.04,3.039999999999999,False,HIGH,11.5,UNDER
-2026-07-22,Arizona Diamondbacks,Athletics,15,5,20,Arizona Diamondbacks,Arizona Diamondbacks,76.5,23.5,True,76.5,9.06,10.94,True,LOW,8.5,OVER
-2026-07-22,Seattle Mariners,Cincinnati Reds,3,5,8,Cincinnati Reds,Cincinnati Reds,49.4,50.6,True,50.6,7.04,0.96,True,LOW,8.5,UNDER
-2026-07-22,Los Angeles Angels,St. Louis Cardinals,0,1,1,St. Louis Cardinals,St. Louis Cardinals,49.3,50.7,True,50.7,6.98,5.98,False,HIGH,8.5,UNDER
-2026-07-22,Cleveland Guardians,Minnesota Twins,6,10,16,Minnesota Twins,Cleveland Guardians,78.0,22.0,False,78.0,9.0,7.0,False,LOW,8.0,OVER
-2026-07-22,Philadelphia Phillies,Los Angeles Dodgers,5,9,14,Los Angeles Dodgers,Philadelphia Phillies,50.2,49.8,False,50.2,8.78,5.220000000000001,False,LOW,9.5,OVER
-2026-07-22,Toronto Blue Jays,Tampa Bay Rays,2,4,6,Tampa Bay Rays,Tampa Bay Rays,26.5,73.5,True,73.5,9.38,3.380000000000001,True,HIGH,7.5,UNDER
-2026-07-22,Atlanta Braves,San Diego Padres,7,6,13,Atlanta Braves,San Diego Padres,49.8,50.2,False,50.2,11.01,1.9900000000000002,False,LOW,8.5,OVER
-2026-07-22,Texas Rangers,Chicago White Sox,2,4,6,Chicago White Sox,Chicago White Sox,24.3,75.7,True,75.7,9.09,3.09,True,HIGH,8.5,UNDER
-2026-07-22,Chicago Cubs,Detroit Tigers,1,5,6,Detroit Tigers,Chicago Cubs,60.0,40.0,False,60.0,9.21,3.210000000000001,False,HIGH,8.0,UNDER
-2026-07-22,Houston Astros,Miami Marlins,5,2,7,Houston Astros,Houston Astros,55.1,44.9,True,55.1,7.7,0.7000000000000002,True,HIGH,8.0,UNDER
+2026-07-22,New York Yankees (DH-1),Pittsburgh Pirates,3,5,8,Pittsburgh Pirates,Pittsburgh Pirates,41.8,58.2,True,58.2,10.17,2.17,True,HIGH,12.5,UNDER
+2026-07-22,New York Yankees (DH-2),Pittsburgh Pirates,2,0,2,New York Yankees,Pittsburgh Pirates,42.6,57.4,False,57.4,10.55,8.55,False,HIGH,12.5,UNDER
+2026-07-22,Boston Red Sox (DH-1),Baltimore Orioles,6,3,9,Boston Red Sox,Boston Red Sox,60.9,39.1,True,60.9,7.69,1.3099999999999996,True,LOW,9.0,PUSH
+2026-07-22,Boston Red Sox (DH-2),Baltimore Orioles,1,5,6,Baltimore Orioles,Boston Red Sox,67.4,32.6,False,67.4,8.07,2.0700000000000003,False,HIGH,9.0,UNDER
+2026-07-22,Kansas City Royals,San Francisco Giants,5,4,9,Kansas City Royals,San Francisco Giants,23.0,77.0,False,77.0,9.02,0.019999999999999574,False,HIGH,8.75,OVER
+2026-07-22,Milwaukee Brewers,New York Mets,4,3,7,Milwaukee Brewers,New York Mets,49.8,50.2,False,50.2,7.03,0.03000000000000025,False,HIGH,7.5,UNDER
+2026-07-22,Colorado Rockies,Washington Nationals,0,8,8,Washington Nationals,Washington Nationals,49.2,50.8,True,50.8,11.03,3.0299999999999994,True,HIGH,11.5,UNDER
+2026-07-22,Arizona Diamondbacks,Athletics,15,5,20,Arizona Diamondbacks,Arizona Diamondbacks,76.1,23.9,True,76.1,9.05,10.95,True,LOW,8.5,OVER
+2026-07-22,Seattle Mariners,Cincinnati Reds,3,5,8,Cincinnati Reds,Cincinnati Reds,49.9,50.1,True,50.1,7.01,0.9900000000000002,True,LOW,8.5,UNDER
+2026-07-22,Los Angeles Angels,St. Louis Cardinals,0,1,1,St. Louis Cardinals,Los Angeles Angels,50.5,49.5,False,50.5,7.02,6.02,False,HIGH,8.5,UNDER
+2026-07-22,Cleveland Guardians,Minnesota Twins,6,10,16,Minnesota Twins,Cleveland Guardians,77.5,22.5,False,77.5,9.03,6.970000000000001,False,LOW,8.0,OVER
+2026-07-22,Philadelphia Phillies,Los Angeles Dodgers,5,9,14,Los Angeles Dodgers,Philadelphia Phillies,51.8,48.2,False,51.8,8.88,5.119999999999999,False,LOW,9.5,OVER
+2026-07-22,Toronto Blue Jays,Tampa Bay Rays,2,4,6,Tampa Bay Rays,Tampa Bay Rays,26.3,73.7,True,73.7,9.34,3.34,True,HIGH,7.5,UNDER
+2026-07-22,Atlanta Braves,San Diego Padres,7,6,13,Atlanta Braves,Atlanta Braves,50.3,49.7,True,50.3,11.0,2.0,False,LOW,8.5,OVER
+2026-07-22,Texas Rangers,Chicago White Sox,2,4,6,Chicago White Sox,Chicago White Sox,23.7,76.3,True,76.3,9.08,3.08,True,HIGH,8.5,UNDER
+2026-07-22,Chicago Cubs,Detroit Tigers,1,5,6,Detroit Tigers,Chicago Cubs,58.7,41.3,False,58.7,9.17,3.17,False,HIGH,8.0,UNDER
+2026-07-22,Houston Astros,Miami Marlins,5,2,7,Houston Astros,Houston Astros,55.7,44.3,True,55.7,7.78,0.7800000000000002,True,HIGH,8.0,UNDER
