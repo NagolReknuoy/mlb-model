@@ -1,0 +1,6 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Atlanta Braves,San Diego Padres,Chris Sale,Kyle Hart,51.0,49.0,10.82,1.01,hitter,warm humid air; June winds boost offense,unknown,1.0,2-4 (home-away),7.694,5.37
+Cleveland Guardians,Minnesota Twins,Gavin Williams,Taj Bradley,77.9,22.1,9.02,0.97,neutral,below-average HR park,unknown,1.0,4-5 (home-away),6.131,3.14
+Toronto Blue Jays,Tampa Bay Rays,Shane Bieber,Ian Seymour,22.7,77.3,9.02,0.98,neutral,turf boosts groundball singles,dome,1.0,1-8 (home-away),2.594,7.214
+St. Louis Cardinals,Arizona Diamondbacks,Michael Mcgreevy,Brandon Pfaadt,27.5,72.5,8.53,0.99,neutral,natural grass; moderate dimensions,unknown,1.0,2-4 (home-away),2.317,5.021
+Detroit Tigers,Kansas City Royals,Troy Melton,Randy Dobnak,77.4,22.6,8.98,1.018,pitcher,very deep CF historically,unknown,1.0,4-2 (home-away),7.44,2.43

@@ -1,0 +1,10 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Toronto Blue Jays vs Tampa Bay Rays,Tampa Bay Rays ML,-108,50.1%,77.3%,0.27187922532054154,Strong,Moneyline
+St. Louis Cardinals vs Arizona Diamondbacks,Arizona Diamondbacks ML,+105,47.1%,72.5%,0.25383487901076646,Strong,Moneyline
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians ML,-142,56.6%,77.9%,0.21328325317636931,Strong,Moneyline
+Atlanta Braves vs San Diego Padres,San Diego Padres +1.5,+100,47.8%,66.4%,0.18540327459083017,Strong,Run Line
+Cleveland Guardians vs Minnesota Twins,Cleveland Guardians -1.5,+155,37.8%,56.2%,0.18483463477821693,Strong,Run Line
+Toronto Blue Jays vs Tampa Bay Rays,Tampa Bay Rays -1.5,+150,38.3%,56.2%,0.17924487013167106,Strong,Run Line
+Toronto Blue Jays vs Tampa Bay Rays,UNDER 8.5,-110,50.0%,66.4%,0.1638064996334928,Strong,Total
+Detroit Tigers vs Kansas City Royals,Detroit Tigers ML,-211,65.5%,77.4%,0.11886582390774003,Good,Moneyline
+Detroit Tigers vs Kansas City Royals,Detroit Tigers -1.5,-105,49.2%,56.2%,0.07007955940507699,Lean,Run Line
