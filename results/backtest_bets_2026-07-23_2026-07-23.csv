@@ -1,0 +1,6 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Cleveland Guardians ML,-149.5,0.2156,0.5714,0.787,False,-1.0,2026-07-23,Cleveland Guardians vs Minnesota Twins
+Moneyline,Tampa Bay Rays ML,-115.0,0.25,0.5108,0.774,False,-1.0,2026-07-23,Toronto Blue Jays vs Tampa Bay Rays
+Moneyline,Arizona Diamondbacks ML,104.5,0.25,0.4677,0.741,True,1.045,2026-07-23,St. Louis Cardinals vs Arizona Diamondbacks
+Moneyline,Detroit Tigers ML,-233.5,0.1037,0.6693,0.773,True,0.4283,2026-07-23,Detroit Tigers vs Kansas City Royals
+Total,UNDER 8.5,-115.5,0.1576,0.5085,0.6661,True,0.8658,2026-07-23,Detroit Tigers vs Kansas City Royals

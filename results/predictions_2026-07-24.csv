@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Milwaukee Brewers,Colorado Rockies,Shane Drohan,Tomoyuki Sugano,77.4,22.6,8.98,0.941,pitcher,large dimensions suppress HRs,dome,1.0,3-0 (home-away),7.092,3.437
+Detroit Tigers,Kansas City Royals,Tarik Skubal,Beck Way,77.5,22.5,8.99,1.018,pitcher,very deep CF historically,unknown,1.0,5-2 (home-away),7.383,2.092
+Pittsburgh Pirates,Chicago Cubs,Jared Jones,Matthew Boyd,45.4,54.6,9.88,0.97,pitcher,high RF wall; spacious,unknown,1.0,4-3 (home-away),4.784,5.132
+Washington Nationals,Arizona Diamondbacks,Carson Palmquist,Eduardo Rodriguez,50.2,49.8,10.99,0.99,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,2-1 (home-away),7.103,8.252
+Philadelphia Phillies,New York Yankees,Jesús Luzardo,Cam Schlittler,49.7,50.3,7.04,1.082,hitter,high HR rate historically,"80°F, wind 6 mph",0.981,no prior meetings,2.356,3.532
+Baltimore Orioles,Atlanta Braves,Nan,Grant Holmes,67.6,32.4,9.61,1.051,hitter,short RF; warm summers,"81°F, wind 7 mph",1.037,no prior meetings,5.421,4.141
+New York Mets,Los Angeles Dodgers,Sean Manaea,Roki Sasaki,48.9,51.1,7.01,0.951,pitcher,sea-level; large dimensions,"77°F, wind 8 mph",0.969,0-3 (home-away),3.265,3.481
+Tampa Bay Rays,Cleveland Guardians,Shane Mcclanahan,Joey Cantillo,57.7,42.3,7.6,0.98,neutral,dome; artificial turf,dome,1.0,2-1 (home-away),4.022,3.618
+Miami Marlins,San Diego Padres,Nan,Germán Márquez,35.4,64.6,9.94,0.98,neutral,roof often closed; average park,dome,1.0,no prior meetings,4.438,6.079
+Boston Red Sox,Toronto Blue Jays,Patrick Sandoval,Trey Yesavage,77.5,22.5,9.06,1.061,hitter,Green Monster 37ft LF wall,"80°F, wind 10 mph",1.004,1-5 (home-away),8.545,1.567
+Chicago White Sox,Houston Astros,Davis Martin,Spencer Arrighetti,77.9,22.1,9.04,1.131,neutral,July is extreme hitter month (+12 pts),"75°F, wind 8 mph",0.972,no prior meetings,7.462,3.062
+Texas Rangers,Seattle Mariners,Mackenzie Gore,Bryce Miller,39.2,60.8,9.71,1.04,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,4-2 (home-away),4.472,5.23
+Minnesota Twins,Athletics,Zebby Matthews,Jacob Lopez,61.4,38.6,10.27,1.06,neutral,cold Aprils suppress offense (-8 pts),"81°F, wind 11 mph",1.004,no prior meetings,7.15,4.774
+St. Louis Cardinals,Cincinnati Reds,Dustin May,Rhett Lowder,50.1,49.9,7.0,0.99,neutral,natural grass; moderate dimensions,"80°F, wind 6 mph",0.98,4-1 (home-away),3.414,3.276
+San Francisco Giants,Los Angeles Angels,Logan Webb,Grayson Rodriguez,50.0,50.0,7.0,0.931,pitcher,marine layer; bay wind tricky in RF,"63°F, wind 20 mph",0.997,no prior meetings,2.855,1.547
