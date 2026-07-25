@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Kansas City Royals,Casey Mize,Michael Wacha,75.8,24.2,8.77,1.018,pitcher,very deep CF historically,"83°F, wind 9 mph",1.005,6-2 (home-away),5.311,2.03
+Washington Nationals,Arizona Diamondbacks,Foster Griffin,Mitch Bratt,49.7,50.3,11.01,0.99,neutral,cold Aprils very suppressive (-9 pts),"81°F, wind 6 mph",0.979,2-2 (home-away),6.693,6.528
+San Francisco Giants,Los Angeles Angels,Robbie Ray,Ryan Johnson,49.5,50.5,6.97,0.931,pitcher,marine layer; bay wind tricky in RF,"65°F, wind 19 mph",0.998,1-0 (home-away),2.802,2.207
+Boston Red Sox,Toronto Blue Jays,Sonny Gray,Dylan Cease,77.7,22.3,9.05,1.061,hitter,Green Monster 37ft LF wall,"73°F, wind 9 mph",1.048,2-5 (home-away),8.145,1.725
+Miami Marlins,San Diego Padres,Eury Pérez,Randy Vásquez,30.7,69.3,9.64,0.98,neutral,roof often closed; average park,dome,1.0,0-1 (home-away),4.136,6.168
+Philadelphia Phillies,New York Yankees,Nan,Ryan Weathers,49.2,50.8,7.0,1.082,hitter,high HR rate historically,unknown,1.0,0-1 (home-away),2.364,3.081
+Tampa Bay Rays,Cleveland Guardians,Nick Martinez,Tanner Bibee,70.2,29.8,9.5,0.98,neutral,dome; artificial turf,dome,1.0,3-1 (home-away),5.645,4.013
+Pittsburgh Pirates,Chicago Cubs,Paul Skenes,Shota Imanaga,52.2,47.8,8.42,0.97,pitcher,high RF wall; spacious,unknown,1.0,4-4 (home-away),4.247,4.164
+Baltimore Orioles,Atlanta Braves,Brandon Young,Bryce Elder,56.6,43.4,10.46,1.051,hitter,short RF; warm summers,unknown,1.0,0-1 (home-away),5.865,4.985
+Minnesota Twins,Athletics,Nan,Mason Barnett,60.2,39.8,10.23,1.06,neutral,cold Aprils suppress offense (-8 pts),"92°F, wind 6 mph",1.009,0-1 (home-away),6.461,4.744
+Chicago White Sox,Houston Astros,Sean Burke,Hunter Brown,72.4,27.6,9.39,1.131,neutral,July is extreme hitter month (+12 pts),"80°F, wind 7 mph",1.004,0-1 (home-away),7.375,3.898
+Milwaukee Brewers,Colorado Rockies,Robert Gasser,Ryan Feltner,66.1,33.9,9.81,0.941,pitcher,large dimensions suppress HRs,dome,1.0,3-1 (home-away),5.492,4.278
+New York Mets,Los Angeles Dodgers,Nolan Mclean,Yoshinobu Yamamoto,50.3,49.7,6.99,0.951,pitcher,sea-level; large dimensions,"78°F, wind 7 mph",0.975,0-4 (home-away),2.472,3.489
+St. Louis Cardinals,Cincinnati Reds,Andre Pallante,Hunter Greene,37.5,62.5,7.74,0.99,neutral,natural grass; moderate dimensions,"94°F, wind 0 mph",1.012,4-2 (home-away),2.764,4.23
+Texas Rangers,Seattle Mariners,Nathan Eovaldi,Bryan Woo,38.3,61.7,8.4,1.04,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,5-2 (home-away),3.831,4.621

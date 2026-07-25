@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Milwaukee Brewers -1.5,-132.5,0.197,0.5436,0.7406,False,-1.0,2026-07-24,Milwaukee Brewers vs Colorado Rockies
+Total,UNDER 8.5,-104.0,0.1845,0.485,0.6695,True,0.9615,2026-07-24,Milwaukee Brewers vs Colorado Rockies
+Moneyline,Detroit Tigers ML,-273.5,0.0788,0.7002,0.779,True,0.3656,2026-07-24,Detroit Tigers vs Kansas City Royals
+Total,OVER  7.5,-1.0,0.2,0.0177,0.2292,False,-1.0,2026-07-24,Philadelphia Phillies vs New York Yankees
+Moneyline,Baltimore Orioles ML,-135.0,0.1463,0.5497,0.696,False,-1.0,2026-07-24,Baltimore Orioles vs Atlanta Braves
+Run Line,Baltimore Orioles -1.5,150.0,0.1077,0.3813,0.489,False,-1.0,2026-07-24,Baltimore Orioles vs Atlanta Braves
+Run Line,New York Mets +1.5,-155.0,0.1173,0.5776,0.6949,False,-1.0,2026-07-24,New York Mets vs Los Angeles Dodgers
+Total,UNDER 9.0,-116.0,0.2,0.5118,0.9291,True,0.8621,2026-07-24,New York Mets vs Los Angeles Dodgers
+Total,UNDER 7.5,-123.5,0.1792,0.525,0.7042,False,-1.0,2026-07-24,Tampa Bay Rays vs Cleveland Guardians
+Moneyline,San Diego Padres ML,102.5,0.178,0.471,0.649,True,1.025,2026-07-24,Miami Marlins vs San Diego Padres
+Run Line,San Diego Padres -1.5,151.0,0.1653,0.3781,0.5434,True,1.51,2026-07-24,Miami Marlins vs San Diego Padres
+Moneyline,Boston Red Sox ML,-130.5,0.2396,0.5414,0.781,True,0.7663,2026-07-24,Boston Red Sox vs Toronto Blue Jays
+Total,UNDER 8.75,-111.0,0.1649,0.4989,0.6638,False,-1.0,2026-07-24,Boston Red Sox vs Toronto Blue Jays
+Moneyline,Chicago White Sox ML,-136.0,0.2272,0.5528,0.78,False,-1.0,2026-07-24,Chicago White Sox vs Houston Astros
+Total,OVER  9.0,-1.5,0.1955,0.0265,0.2221,True,10.0,2026-07-24,Chicago White Sox vs Houston Astros
+Moneyline,Seattle Mariners ML,-115.5,0.0817,0.5113,0.593,False,-1.0,2026-07-24,Texas Rangers vs Seattle Mariners
+Run Line,Minnesota Twins -1.5,140.0,0.1911,0.3982,0.5893,False,-1.0,2026-07-24,Minnesota Twins vs Athletics
+Total,UNDER 9.75,-110.0,0.1529,0.4948,0.6477,True,0.9091,2026-07-24,Minnesota Twins vs Athletics
+Run Line,Cincinnati Reds +1.5,-170.5,0.0947,0.6025,0.6972,True,0.5865,2026-07-24,St. Louis Cardinals vs Cincinnati Reds
+Total,UNDER 8.0,-110.0,0.2,0.4973,0.8694,True,0.9091,2026-07-24,St. Louis Cardinals vs Cincinnati Reds
+Total,UNDER 7.75,-119.5,0.2,0.4795,0.7653,False,-1.0,2026-07-24,San Francisco Giants vs Los Angeles Angels
