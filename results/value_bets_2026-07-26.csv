@@ -1,0 +1,21 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Miami Marlins vs San Diego Padres,San Diego Padres ML,+112,45.7%,76.0%,0.30256005158794136,Strong,Moneyline
+Pittsburgh Pirates vs Chicago Cubs,Chicago Cubs ML,+110,45.8%,73.6%,0.27790838167633525,Strong,Moneyline
+Chicago White Sox vs Houston Astros,UNDER 9.0,+100,47.8%,72.1%,0.2423258440913043,Strong,Total
+Pittsburgh Pirates vs Chicago Cubs,UNDER 9.0,-115,51.1%,75.3%,0.2419611395255391,Strong,Total
+Boston Red Sox vs Toronto Blue Jays,Boston Red Sox ML,-135,55.6%,77.3%,0.21698261855280565,Strong,Moneyline
+Tampa Bay Rays vs Cleveland Guardians,Tampa Bay Rays ML,-122,53.2%,72.9%,0.19682146921228993,Strong,Moneyline
+Boston Red Sox vs Toronto Blue Jays,Boston Red Sox -1.5,+155,37.7%,56.2%,0.18572911587364016,Strong,Run Line
+San Francisco Giants vs Los Angeles Angels,San Francisco Giants +1.5,-181,61.7%,78.8%,0.17149340899597554,Strong,Run Line
+Tampa Bay Rays vs Cleveland Guardians,Tampa Bay Rays -1.5,+175,34.9%,51.9%,0.17005566220448548,Strong,Run Line
+Baltimore Orioles vs Atlanta Braves,Baltimore Orioles +1.5,-170,60.7%,77.5%,0.16841399511084276,Strong,Run Line
+Philadelphia Phillies vs New York Yankees,New York Yankees +1.5,-137,55.6%,71.9%,0.16273743775503535,Strong,Run Line
+Chicago White Sox vs Houston Astros,Chicago White Sox +1.5,-163,59.7%,74.7%,0.14995325108262447,Strong,Run Line
+New York Mets vs Los Angeles Dodgers,New York Mets +1.5,-129,54.1%,68.5%,0.14415215716789498,Strong,Run Line
+St. Louis Cardinals vs Cincinnati Reds,St. Louis Cardinals ML,-130,54.7%,67.5%,0.1275777253049981,Strong,Moneyline
+Baltimore Orioles vs Atlanta Braves,Baltimore Orioles ML,-105,49.5%,62.1%,0.1255156920298035,Strong,Moneyline
+Detroit Tigers vs Kansas City Royals,Detroit Tigers ML,-190,63.0%,74.8%,0.1178979591836734,Good,Moneyline
+San Francisco Giants vs Los Angeles Angels,San Francisco Giants ML,-105,49.7%,61.1%,0.11441064120054567,Good,Moneyline
+Washington Nationals vs Arizona Diamondbacks,Washington Nationals +1.5,-155,58.3%,67.7%,0.09393165357481426,Good,Run Line
+Minnesota Twins vs Athletics,Minnesota Twins ML,-155,58.9%,67.4%,0.08476030927835054,Good,Moneyline
+Chicago White Sox vs Houston Astros,Chicago White Sox ML,-107,49.8%,58.2%,0.08422588256243602,Good,Moneyline

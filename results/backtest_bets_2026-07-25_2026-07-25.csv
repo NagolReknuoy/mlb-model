@@ -1,0 +1,18 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Detroit Tigers ML,-173.0,0.1662,0.6038,0.77,False,-1.0,2026-07-25,Detroit Tigers vs Kansas City Royals
+Total,UNDER 9.0,-109.5,0.2,0.4963,0.9275,False,-1.0,2026-07-25,San Francisco Giants vs Los Angeles Angels
+Moneyline,Boston Red Sox ML,-110.0,0.25,0.5,0.771,False,-1.0,2026-07-25,Boston Red Sox vs Toronto Blue Jays
+Moneyline,San Diego Padres ML,120.0,0.25,0.4344,0.687,True,1.2,2026-07-25,Miami Marlins vs San Diego Padres
+Run Line,Philadelphia Phillies +1.5,-156.0,0.1062,0.5815,0.6877,False,-1.0,2026-07-25,Philadelphia Phillies vs New York Yankees
+Total,UNDER 9.0,-110.0,0.2,0.4973,0.9296,True,0.9091,2026-07-25,Philadelphia Phillies vs New York Yankees
+Moneyline,Tampa Bay Rays ML,-117.5,0.1977,0.5133,0.711,True,0.8511,2026-07-25,Tampa Bay Rays vs Cleveland Guardians
+Run Line,Pittsburgh Pirates +0,-22.5,0.1143,0.4672,0.5815,False,-1.0,2026-07-25,Pittsburgh Pirates vs Chicago Cubs
+Run Line,Baltimore Orioles +1.5,-190.0,0.1513,0.619,0.7703,True,0.5263,2026-07-25,Baltimore Orioles vs Atlanta Braves
+Total,UNDER 10.0,-110.0,0.2,0.4989,0.7229,True,0.9091,2026-07-25,Minnesota Twins vs Athletics
+Moneyline,Chicago White Sox ML,-125.0,0.2064,0.5306,0.737,False,-1.0,2026-07-25,Chicago White Sox vs Houston Astros
+Total,UNDER 9.25,-114.0,0.2,0.5016,0.7123,False,-1.0,2026-07-25,Milwaukee Brewers vs Colorado Rockies
+Total,UNDER 7.0,-1.0,0.2,0.0178,0.7708,False,-1.0,2026-07-25,New York Mets vs Los Angeles Dodgers
+Moneyline,Cincinnati Reds ML,-115.0,0.1062,0.5108,0.617,False,-1.0,2026-07-25,St. Louis Cardinals vs Cincinnati Reds
+Run Line,Cincinnati Reds -1.5,146.0,0.0995,0.3864,0.4859,False,-1.0,2026-07-25,St. Louis Cardinals vs Cincinnati Reds
+Total,UNDER 8.0,-115.5,0.2,0.5113,0.8005,True,0.8658,2026-07-25,St. Louis Cardinals vs Cincinnati Reds
+Moneyline,Seattle Mariners ML,-110.0,0.117,0.5,0.617,False,-1.0,2026-07-25,Texas Rangers vs Seattle Mariners
