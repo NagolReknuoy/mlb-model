@@ -1,0 +1,21 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Tampa Bay Rays ML,-125.0,0.2031,0.5319,0.735,True,0.8,2026-07-26,Tampa Bay Rays vs Cleveland Guardians
+Moneyline,Chicago Cubs ML,118.5,0.25,0.4368,0.736,False,-1.0,2026-07-26,Pittsburgh Pirates vs Chicago Cubs
+Total,UNDER 9.0,-113.0,0.2,0.5043,0.7508,False,-1.0,2026-07-26,Pittsburgh Pirates vs Chicago Cubs
+Moneyline,Boston Red Sox ML,-145.0,0.2084,0.5656,0.774,True,0.6897,2026-07-26,Boston Red Sox vs Toronto Blue Jays
+Moneyline,Baltimore Orioles ML,-105.5,0.1243,0.4897,0.614,False,-1.0,2026-07-26,Baltimore Orioles vs Atlanta Braves
+Run Line,Baltimore Orioles +1.5,-180.0,0.1989,0.6082,0.8071,True,0.5556,2026-07-26,Baltimore Orioles vs Atlanta Braves
+Moneyline,Detroit Tigers ML,-191.0,0.1027,0.6283,0.731,False,-1.0,2026-07-26,Detroit Tigers vs Kansas City Royals
+Total,UNDER 9.0,-110.5,0.2,0.5005,0.818,False,-1.0,2026-07-26,Detroit Tigers vs Kansas City Royals
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.8489,False,-1.0,2026-07-26,New York Mets vs Los Angeles Dodgers
+Moneyline,San Diego Padres ML,-103.5,0.25,0.4835,0.77,True,0.9662,2026-07-26,Miami Marlins vs San Diego Padres
+Moneyline,Minnesota Twins ML,-161.5,0.1249,0.5921,0.717,True,0.6192,2026-07-26,Minnesota Twins vs Athletics
+Run Line,Minnesota Twins -1.5,126.5,0.1031,0.4207,0.5239,True,1.265,2026-07-26,Minnesota Twins vs Athletics
+Total,UNDER 10.0,-115.0,0.2,0.5108,0.8343,False,-1.0,2026-07-26,Minnesota Twins vs Athletics
+Run Line,Chicago White Sox +0,-16.5,0.1457,0.4874,0.6331,True,6.0606,2026-07-26,Chicago White Sox vs Houston Astros
+Moneyline,St. Louis Cardinals ML,-135.0,0.1123,0.5497,0.662,False,-1.0,2026-07-26,St. Louis Cardinals vs Cincinnati Reds
+Run Line,St. Louis Cardinals -1.5,150.0,0.0896,0.3813,0.4709,False,-1.0,2026-07-26,St. Louis Cardinals vs Cincinnati Reds
+Total,UNDER 8.5,-110.0,0.2,0.4995,0.7685,True,0.9091,2026-07-26,St. Louis Cardinals vs Cincinnati Reds
+Moneyline,San Francisco Giants ML,104.0,0.1403,0.4687,0.609,False,-1.0,2026-07-26,San Francisco Giants vs Los Angeles Angels
+Total,UNDER 8.5,-110.0,0.2,0.5,0.8015,True,0.9091,2026-07-26,San Francisco Giants vs Los Angeles Angels
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.8662,False,-1.0,2026-07-26,Philadelphia Phillies vs New York Yankees
