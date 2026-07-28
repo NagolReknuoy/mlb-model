@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Seattle Mariners ML,-131.0,0.2004,0.5406,0.741,False,-1.0,2026-07-27,Texas Rangers vs Seattle Mariners
+Run Line,Seattle Mariners -1.5,134.5,0.1825,0.4087,0.5912,False,-1.0,2026-07-27,Texas Rangers vs Seattle Mariners
+Run Line,Baltimore Orioles +1.5,-196.5,0.1192,0.6296,0.7488,True,0.5089,2026-07-27,Detroit Tigers vs Baltimore Orioles
+Total,UNDER 8.5,-113.5,0.2,0.5053,0.863,False,-1.0,2026-07-27,Detroit Tigers vs Baltimore Orioles
+Moneyline,Philadelphia Phillies ML,-205.0,0.0904,0.6426,0.733,False,-1.0,2026-07-27,Miami Marlins vs Philadelphia Phillies
+Moneyline,Washington Nationals ML,-125.0,0.2481,0.5319,0.78,False,-1.0,2026-07-27,Washington Nationals vs Toronto Blue Jays
+Total,UNDER 10.0,-110.0,0.2,0.4979,0.8641,True,0.9091,2026-07-27,Washington Nationals vs Toronto Blue Jays
+Total,UNDER 8.5,100.0,0.2,0.4783,0.7927,False,-1.0,2026-07-27,New York Mets vs Atlanta Braves
+Moneyline,Chicago White Sox ML,118.0,0.2037,0.4373,0.641,False,-1.0,2026-07-27,Chicago White Sox vs New York Yankees
+Total,UNDER 8.5,-119.0,0.2,0.5165,0.7868,False,-1.0,2026-07-27,Chicago White Sox vs New York Yankees
+Moneyline,Chicago Cubs ML,-124.0,0.25,0.5267,0.777,True,0.8065,2026-07-27,St. Louis Cardinals vs Chicago Cubs
+Total,OVER  9.5,-2.0,0.1836,0.0347,0.2183,True,10.0,2026-07-27,St. Louis Cardinals vs Chicago Cubs
+Moneyline,Houston Astros ML,-110.0,0.187,0.5,0.687,True,0.9091,2026-07-27,Los Angeles Angels vs Houston Astros
+Run Line,Houston Astros -1.5,151.0,0.0755,0.3792,0.4547,True,1.51,2026-07-27,Los Angeles Angels vs Houston Astros
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.736,False,-1.0,2026-07-27,Los Angeles Angels vs Houston Astros
+Moneyline,Boston Red Sox ML,-200.0,0.1444,0.6386,0.783,True,0.5,2026-07-27,Athletics vs Boston Red Sox
+Total,UNDER 10.0,-112.5,0.2,0.5027,0.8676,True,0.8889,2026-07-27,Athletics vs Boston Red Sox
+Run Line,San Francisco Giants +1.5,-147.0,0.1339,0.567,0.7009,True,0.6803,2026-07-27,San Francisco Giants vs Milwaukee Brewers
+Total,UNDER 8.5,-109.0,0.2,0.4952,0.7392,True,0.9174,2026-07-27,San Francisco Giants vs Milwaukee Brewers
