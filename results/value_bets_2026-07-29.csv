@@ -1,0 +1,21 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+St. Louis Cardinals vs Chicago Cubs,Chicago Cubs ML,-108,50.0%,77.9%,0.279,Strong,Moneyline
+Washington Nationals vs Toronto Blue Jays,Washington Nationals ML,+100,48.0%,73.3%,0.25282378854625553,Strong,Moneyline
+Chicago White Sox vs New York Yankees,UNDER 7.5,-109,49.9%,73.0%,0.23112104005272105,Strong,Total
+Washington Nationals vs Toronto Blue Jays,UNDER 9.5,-121,52.3%,74.3%,0.22019050760952086,Strong,Total
+New York Mets (G1) vs Atlanta Braves,New York Mets (G1) ML,-105,49.5%,71.0%,0.21451569202980347,Strong,Moneyline
+Los Angeles Angels vs Houston Astros,Houston Astros ML,-131,54.8%,75.3%,0.20475421441702202,Strong,Moneyline
+Athletics vs Boston Red Sox,Boston Red Sox ML,-147,57.8%,77.4%,0.19615005981883438,Strong,Moneyline
+Cincinnati Reds vs Cleveland Guardians,Cincinnati Reds +1.5,-143,56.4%,75.6%,0.19223841191191793,Strong,Run Line
+New York Mets (G2) vs Atlanta Braves,New York Mets (G2) +1.5,-172,61.1%,80.2%,0.1910252607790578,Strong,Run Line
+St. Louis Cardinals vs Chicago Cubs,Chicago Cubs -1.5,+155,37.8%,56.2%,0.18437420113961994,Strong,Run Line
+New York Mets (G2) vs Atlanta Braves,New York Mets (G2) ML,-105,49.5%,66.0%,0.16451569202980354,Strong,Moneyline
+Detroit Tigers vs Baltimore Orioles,Detroit Tigers ML,-173,61.4%,74.0%,0.12601303677728604,Strong,Moneyline
+San Francisco Giants vs Milwaukee Brewers,Milwaukee Brewers ML,-123,53.4%,65.9%,0.12470879625762266,Strong,Moneyline
+Los Angeles Dodgers vs Seattle Mariners,Seattle Mariners +1.5,-145,56.6%,68.0%,0.11409299041972398,Good,Run Line
+Miami Marlins vs Philadelphia Phillies,Philadelphia Phillies ML,-174,61.0%,72.3%,0.11329115150133895,Good,Moneyline
+Chicago White Sox vs New York Yankees,Chicago White Sox +1.5,-140,56.1%,67.2%,0.11081396080260641,Good,Run Line
+Tampa Bay Rays vs Texas Rangers,Tampa Bay Rays ML,-142,56.6%,66.5%,0.09928325317636932,Good,Moneyline
+Los Angeles Angels vs Houston Astros,Houston Astros -1.5,+119,43.9%,53.4%,0.09525978683702291,Good,Run Line
+Detroit Tigers vs Baltimore Orioles,Detroit Tigers -1.5,+125,42.8%,51.6%,0.08777865351162911,Good,Run Line
+Athletics vs Boston Red Sox,Boston Red Sox -1.5,+100,47.8%,56.2%,0.0840787517593643,Good,Run Line

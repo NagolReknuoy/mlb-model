@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Cincinnati Reds ML,120.0,0.2276,0.4344,0.662,False,-1.0,2026-07-28,Cincinnati Reds vs Cleveland Guardians
+Total,UNDER 9.0,-115.0,0.2,0.5108,0.8257,False,-1.0,2026-07-28,Cincinnati Reds vs Cleveland Guardians
+Run Line,Cincinnati Reds +1.5,-133.5,0.1776,0.5456,0.7232,True,0.7491,2026-07-28,Cincinnati Reds vs Cleveland Guardians
+Total,UNDER 9.0,-115.0,0.2,0.5108,0.8171,True,0.8696,2026-07-28,Cincinnati Reds vs Cleveland Guardians
+Run Line,Baltimore Orioles +1.5,-164.5,0.1976,0.5937,0.7913,False,-1.0,2026-07-28,Detroit Tigers vs Baltimore Orioles
+Total,UNDER 9.0,-105.0,0.2,0.4892,0.9232,False,-1.0,2026-07-28,Detroit Tigers vs Baltimore Orioles
+Run Line,Arizona Diamondbacks -1.5,147.5,0.1743,0.3836,0.558,False,-1.0,2026-07-28,Pittsburgh Pirates vs Arizona Diamondbacks
+Moneyline,Tampa Bay Rays ML,-179.0,0.1624,0.6136,0.776,False,-1.0,2026-07-28,Tampa Bay Rays vs Texas Rangers
+Moneyline,Philadelphia Phillies ML,115.0,0.25,0.4447,0.749,False,-1.0,2026-07-28,Miami Marlins vs Philadelphia Phillies
+Moneyline,Washington Nationals ML,-144.5,0.2073,0.5647,0.772,True,0.692,2026-07-28,Washington Nationals vs Toronto Blue Jays
+Total,UNDER 9.0,-117.0,0.2,0.5128,0.777,False,-1.0,2026-07-28,Washington Nationals vs Toronto Blue Jays
+Run Line,Kansas City Royals +1.5,-135.0,0.0724,0.5468,0.6192,True,0.7407,2026-07-28,Minnesota Twins vs Kansas City Royals
+Run Line,Chicago White Sox +1.5,-172.5,0.1522,0.6031,0.7553,True,0.5797,2026-07-28,Chicago White Sox vs New York Yankees
+Moneyline,Chicago Cubs ML,-110.0,0.25,0.5,0.777,True,0.9091,2026-07-28,St. Louis Cardinals vs Chicago Cubs
+Total,UNDER 8.5,-2.5,0.2,0.0432,0.6672,False,-1.0,2026-07-28,St. Louis Cardinals vs Chicago Cubs
+Moneyline,Houston Astros ML,-110.0,0.144,0.5,0.644,True,0.9091,2026-07-28,Los Angeles Angels vs Houston Astros
+Total,UNDER 8.5,-115.0,0.2,0.5108,0.7838,True,0.8696,2026-07-28,Los Angeles Angels vs Houston Astros
+Moneyline,Boston Red Sox ML,-155.5,0.1959,0.5801,0.776,False,-1.0,2026-07-28,Athletics vs Boston Red Sox
+Total,UNDER 10.5,-115.0,0.2,0.508,0.862,True,0.8696,2026-07-28,Athletics vs Boston Red Sox
+Total,UNDER 7.0,-104.5,0.2,0.4861,0.7575,False,-1.0,2026-07-28,San Francisco Giants vs Milwaukee Brewers
+Total,OVER  9.5,-2.0,0.0891,0.0348,0.1239,True,10.0,2026-07-28,Los Angeles Dodgers vs Seattle Mariners
