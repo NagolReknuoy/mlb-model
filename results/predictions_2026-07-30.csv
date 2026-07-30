@@ -1,0 +1,11 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Tampa Bay Rays,Texas Rangers,Shane Mcclanahan,Cole Winn,62.0,38.0,7.66,0.98,neutral,dome; artificial turf,dome,1.0,1-1 (home-away),4.179,2.811
+Minnesota Twins,Kansas City Royals,Bailey Ober,Noah Cameron,53.6,46.4,7.38,1.06,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,3-6 (home-away),3.791,3.585
+Chicago White Sox,New York Yankees,Sean Burke,Ryan Weathers,44.3,55.7,8.13,1.131,neutral,July is extreme hitter month (+12 pts),unknown,1.0,2-4 (home-away),3.89,4.248
+St. Louis Cardinals,Chicago Cubs,Andre Pallante,Javier Assad,22.5,77.5,9.01,0.99,neutral,natural grass; moderate dimensions,unknown,1.0,5-4 (home-away),2.228,7.45
+Cincinnati Reds,Pittsburgh Pirates,Rhett Lowder,Yohan Ramírez,36.0,64.0,8.11,1.06,hitter,one of the top HR parks in MLB,"87°F, wind 6 mph",1.036,3-6 (home-away),3.63,4.453
+New York Mets,Miami Marlins,Nolan Mclean,Eury Pérez,73.6,26.4,8.6,0.951,pitcher,sea-level; large dimensions,"74°F, wind 4 mph",1.021,3-3 (home-away),5.052,2.299
+Atlanta Braves,Washington Nationals,Grant Holmes,Jake Irvin,31.4,68.6,9.71,1.01,hitter,warm humid air; June winds boost offense,"88°F, wind 7 mph",1.007,4-3 (home-away),4.206,8.483
+Athletics,Boston Red Sox,Mason Barnett,Sonny Gray,22.2,77.8,8.99,0.999,pitcher,largest foul territory in MLB,"70°F, wind 5 mph",1.0,1-2 (home-away),1.833,6.501
+San Diego Padres,San Francisco Giants,Jp Sears,Nan,57.5,42.5,10.52,0.988,pitcher,marine layer; large dimensions,"71°F, wind 4 mph",1.023,3-3 (home-away),6.004,4.959
+Los Angeles Dodgers,Seattle Mariners,Roki Sasaki,Bryan Woo,52.7,47.3,8.02,0.979,pitcher,marine layer suppresses carry; spacious foul territory,"73°F, wind 7 mph",0.974,1-1 (home-away),4.074,3.959

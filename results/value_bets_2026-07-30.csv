@@ -1,0 +1,11 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+St. Louis Cardinals vs Chicago Cubs,Chicago Cubs ML,-103,48.8%,77.5%,0.2871724504249291,Strong,Moneyline
+Atlanta Braves vs Washington Nationals,Washington Nationals ML,+130,41.8%,68.6%,0.26837421900690556,Strong,Moneyline
+Atlanta Braves vs Washington Nationals,UNDER 9.5,+100,48.0%,70.9%,0.22906357936365895,Strong,Total
+New York Mets vs Miami Marlins,New York Mets ML,-128,54.1%,73.6%,0.19493719806763288,Strong,Moneyline
+St. Louis Cardinals vs Chicago Cubs,Chicago Cubs -1.5,+159,37.1%,56.2%,0.19111767170286847,Strong,Run Line
+Athletics vs Boston Red Sox,Boston Red Sox ML,-177,61.5%,77.8%,0.16298957609451015,Strong,Moneyline
+New York Mets vs Miami Marlins,New York Mets -1.5,+175,34.9%,50.3%,0.1534926468819498,Strong,Run Line
+Cincinnati Reds vs Pittsburgh Pirates,Pittsburgh Pirates ML,-113,51.0%,64.0%,0.13004512874966812,Strong,Moneyline
+Los Angeles Dodgers vs Seattle Mariners,Seattle Mariners +1.5,-157,58.9%,69.1%,0.10188057764132807,Good,Run Line
+Minnesota Twins vs Kansas City Royals,Kansas City Royals +1.5,-170,60.6%,68.8%,0.0817847708242525,Good,Run Line
