@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Chicago Cubs,New York Yankees,Shota Imanaga,Will Warren,77.4,22.6,9.04,1.05,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,no prior meetings,5.756,2.611
+Cincinnati Reds,Pittsburgh Pirates,Hunter Greene,Paul Skenes,50.1,49.9,7.01,1.06,hitter,one of the top HR parks in MLB,unknown,1.0,4-6 (home-away),2.975,2.62
+Baltimore Orioles,Philadelphia Phillies,Brandon Young,Nan,53.4,46.6,10.77,1.051,hitter,short RF; warm summers,unknown,1.0,no prior meetings,5.664,5.258
+Toronto Blue Jays,St. Louis Cardinals,Dylan Cease,Kyle Leahy,50.3,49.7,6.98,0.98,neutral,turf boosts groundball singles,dome,1.0,no prior meetings,3.075,2.899
+Cleveland Guardians,Arizona Diamondbacks,Tanner Bibee,Mitch Bratt,31.1,68.9,9.63,0.97,neutral,below-average HR park,unknown,1.0,no prior meetings,4.157,5.692
+Tampa Bay Rays,Chicago White Sox,Nick Martinez,Erick Fedde,71.9,28.1,8.49,0.98,neutral,dome; artificial turf,dome,1.0,3-0 (home-away),4.948,2.933
+New York Mets,Miami Marlins,Freddy Peralta,Janson Junk,71.8,28.2,8.48,0.951,pitcher,sea-level; large dimensions,unknown,1.0,4-3 (home-away),4.943,2.506
+Atlanta Braves,Washington Nationals,Bryce Elder,Foster Griffin,30.6,69.4,9.61,1.01,hitter,warm humid air; June winds boost offense,"90°F, wind 4 mph",1.008,5-3 (home-away),4.091,8.322
+Houston Astros,Texas Rangers,Hunter Brown,Nathan Eovaldi,46.7,53.3,8.32,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,6-4 (home-away),4.034,4.266
+Colorado Rockies,Kansas City Royals,Tomoyuki Sugano,Michael Wacha,30.6,69.4,9.42,1.107,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,no prior meetings,4.002,5.367
+Los Angeles Angels,Milwaukee Brewers,Ryan Johnson,Shane Drohan,28.4,71.6,8.44,1.04,neutral,symmetrical; marine layer suppresses HRs,unknown,1.0,no prior meetings,2.659,4.941
+Athletics,Detroit Tigers,Jeffrey Springs,Nan,22.0,78.0,8.98,0.999,pitcher,largest foul territory in MLB,unknown,1.0,0-3 (home-away),3.309,8.664
+San Diego Padres,San Francisco Giants,Bradgley Rodriguez,Carson Whisenhunt,43.5,56.5,9.44,0.988,pitcher,marine layer; large dimensions,unknown,1.0,3-4 (home-away),4.474,4.986
+Los Angeles Dodgers,Boston Red Sox,Edgardo Henriquez,Ranger Suarez,38.1,61.9,7.77,0.979,pitcher,marine layer suppresses carry; spacious foul territory,unknown,1.0,no prior meetings,2.93,4.239
+Seattle Mariners,Minnesota Twins,Bryce Miller,Zebby Matthews,50.7,49.3,7.01,0.97,pitcher,marine air; roof often closed,dome,1.0,2-1 (home-away),3.23,3.489

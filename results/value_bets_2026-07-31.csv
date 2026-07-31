@@ -1,0 +1,24 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Cleveland Guardians vs Arizona Diamondbacks,Arizona Diamondbacks ML,+125,43.0%,68.9%,0.2587211155378486,Strong,Moneyline
+Atlanta Braves vs Washington Nationals,UNDER 9.0,-105,49.0%,72.0%,0.22937726485248433,Strong,Total
+Atlanta Braves vs Washington Nationals,Washington Nationals ML,+101,47.9%,69.4%,0.21506858825080194,Strong,Moneyline
+Athletics vs Detroit Tigers,Detroit Tigers ML,-141,56.5%,78.0%,0.2150023464856864,Strong,Moneyline
+New York Mets vs Miami Marlins,UNDER 8.5,-114,51.0%,72.4%,0.21425446680311344,Strong,Total
+Tampa Bay Rays vs Chicago White Sox,UNDER 8.5,-120,52.2%,72.3%,0.20124352049906724,Strong,Total
+Colorado Rockies vs Kansas City Royals,Kansas City Royals ML,-110,50.4%,69.4%,0.18954764024933224,Strong,Moneyline
+Chicago Cubs vs New York Yankees,Chicago Cubs ML,-157,59.2%,77.4%,0.18150959312466308,Strong,Moneyline
+New York Mets vs Miami Marlins,New York Mets ML,-128,54.3%,71.8%,0.17458442806792696,Strong,Moneyline
+Toronto Blue Jays vs St. Louis Cardinals,St. Louis Cardinals +1.5,-135,55.0%,71.9%,0.1688758385381961,Strong,Run Line
+Los Angeles Dodgers vs Boston Red Sox,Boston Red Sox ML,+113,45.3%,61.9%,0.1660854655608494,Strong,Moneyline
+Los Angeles Dodgers vs Boston Red Sox,Boston Red Sox +1.5,-190,63.4%,79.3%,0.15974186125927403,Strong,Run Line
+Tampa Bay Rays vs Chicago White Sox,Tampa Bay Rays ML,-139,56.4%,71.9%,0.15546590452536624,Strong,Moneyline
+Chicago Cubs vs New York Yankees,Chicago Cubs -1.5,+130,42.0%,56.2%,0.14217155409769094,Strong,Run Line
+Seattle Mariners vs Minnesota Twins,Minnesota Twins +1.5,-149,57.8%,71.9%,0.14124715289437373,Strong,Run Line
+San Diego Padres vs San Francisco Giants,San Francisco Giants +1.5,-170,60.6%,74.6%,0.14070432769225594,Strong,Run Line
+Cincinnati Reds vs Pittsburgh Pirates,Cincinnati Reds +1.5,-160,59.1%,71.9%,0.12796313962400596,Strong,Run Line
+New York Mets vs Miami Marlins,New York Mets -1.5,+160,36.9%,48.8%,0.1187353885199256,Good,Run Line
+Los Angeles Angels vs Milwaukee Brewers,Milwaukee Brewers ML,-163,60.1%,71.6%,0.11503503315176988,Good,Moneyline
+Tampa Bay Rays vs Chicago White Sox,Tampa Bay Rays -1.5,+151,38.4%,48.8%,0.10444181666527796,Good,Run Line
+Athletics vs Detroit Tigers,Detroit Tigers -1.5,+105,46.8%,56.2%,0.09480715379211418,Good,Run Line
+Houston Astros vs Texas Rangers,Texas Rangers +1.5,-199,63.8%,73.0%,0.09150197885724787,Good,Run Line
+Atlanta Braves vs Washington Nationals,Atlanta Braves +0,-8,29.5%,38.6%,0.09042633585928717,Good,Run Line

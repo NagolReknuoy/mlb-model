@@ -1,0 +1,14 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 8.0,-115.0,0.2,0.5108,0.8053,True,0.8696,2026-07-30,Tampa Bay Rays vs Texas Rangers
+Run Line,Kansas City Royals +1.5,-172.0,0.092,0.6043,0.6963,True,0.5814,2026-07-30,Minnesota Twins vs Kansas City Royals
+Total,UNDER 9.0,-105.0,0.2,0.4892,0.9154,True,0.9524,2026-07-30,Minnesota Twins vs Kansas City Royals
+Moneyline,Chicago Cubs ML,-105.0,0.25,0.4892,0.768,True,0.9524,2026-07-30,St. Louis Cardinals vs Chicago Cubs
+Moneyline,Pittsburgh Pirates ML,-123.5,0.1058,0.5262,0.632,False,-1.0,2026-07-30,Cincinnati Reds vs Pittsburgh Pirates
+Total,UNDER 9.5,-105.0,0.2,0.4892,0.8746,True,0.9524,2026-07-30,Cincinnati Reds vs Pittsburgh Pirates
+Moneyline,New York Mets ML,-132.5,0.1632,0.5448,0.708,True,0.7547,2026-07-30,New York Mets vs Miami Marlins
+Moneyline,Washington Nationals ML,132.0,0.25,0.4119,0.667,False,-1.0,2026-07-30,Atlanta Braves vs Washington Nationals
+Total,UNDER 10.0,-112.5,0.2,0.5027,0.8032,True,0.8889,2026-07-30,Atlanta Braves vs Washington Nationals
+Moneyline,Boston Red Sox ML,-190.5,0.1473,0.6267,0.774,True,0.5249,2026-07-30,Athletics vs Boston Red Sox
+Total,UNDER 10.0,-110.0,0.2,0.5,0.8634,True,0.9091,2026-07-30,Athletics vs Boston Red Sox
+Run Line,Seattle Mariners +1.5,-167.5,0.0938,0.5979,0.6918,False,-1.0,2026-07-30,Los Angeles Dodgers vs Seattle Mariners
+Total,UNDER 8.5,-103.0,0.2,0.4838,0.7757,True,0.9709,2026-07-30,Los Angeles Dodgers vs Seattle Mariners
