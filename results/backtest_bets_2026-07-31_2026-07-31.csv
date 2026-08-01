@@ -1,0 +1,25 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Chicago Cubs ML,-158.5,0.1619,0.6061,0.768,False,-1.0,2026-07-31,Chicago Cubs vs New York Yankees
+Total,UNDER 8.5,105.0,0.1859,0.479,0.6649,True,1.05,2026-07-31,Chicago Cubs vs New York Yankees
+Total,UNDER 7.5,105.0,0.2,0.4785,0.7708,False,-1.0,2026-07-31,Cincinnati Reds vs Pittsburgh Pirates
+Run Line,Baltimore Orioles +1.5,-185.0,0.139,0.6371,0.7762,True,0.5405,2026-07-31,Baltimore Orioles vs Philadelphia Phillies
+Run Line,St. Louis Cardinals +1.5,-124.0,0.1713,0.5434,0.7147,False,-1.0,2026-07-31,Toronto Blue Jays vs St. Louis Cardinals
+Total,UNDER 7.5,-111.5,0.2,0.5176,0.7697,True,0.8969,2026-07-31,Toronto Blue Jays vs St. Louis Cardinals
+Moneyline,Arizona Diamondbacks ML,123.5,0.25,0.4406,0.699,True,1.235,2026-07-31,Cleveland Guardians vs Arizona Diamondbacks
+Moneyline,Tampa Bay Rays ML,-129.0,0.1577,0.5573,0.715,False,-1.0,2026-07-31,Tampa Bay Rays vs Chicago White Sox
+Run Line,Tampa Bay Rays -1.5,152.5,0.1819,0.3888,0.5706,False,-1.0,2026-07-31,Tampa Bay Rays vs Chicago White Sox
+Total,UNDER 8.5,-110.0,0.2,0.5153,0.7241,True,0.9091,2026-07-31,Tampa Bay Rays vs Chicago White Sox
+Moneyline,New York Mets ML,-111.5,0.1704,0.5206,0.691,False,-1.0,2026-07-31,New York Mets vs Miami Marlins
+Total,UNDER 8.5,-106.5,0.2,0.3414,0.7466,True,0.939,2026-07-31,New York Mets vs Miami Marlins
+Moneyline,Washington Nationals ML,106.0,0.2306,0.4794,0.71,False,-1.0,2026-07-31,Atlanta Braves vs Washington Nationals
+Total,UNDER 9.25,-114.0,0.2,0.362,0.7247,True,0.8772,2026-07-31,Atlanta Braves vs Washington Nationals
+Run Line,Texas Rangers +1.5,-188.0,0.0829,0.6439,0.7268,False,-1.0,2026-07-31,Houston Astros vs Texas Rangers
+Total,UNDER 11.25,-113.5,0.2,0.3582,0.9277,True,0.8811,2026-07-31,Colorado Rockies vs Kansas City Royals
+Moneyline,Milwaukee Brewers ML,-160.5,0.1334,0.6106,0.744,True,0.6231,2026-07-31,Los Angeles Angels vs Milwaukee Brewers
+Total,OVER  8.75,-8.0,0.2,0.0702,0.299,False,-1.0,2026-07-31,Los Angeles Angels vs Milwaukee Brewers
+Moneyline,Detroit Tigers ML,-137.0,0.2042,0.5718,0.776,True,0.7299,2026-07-31,Athletics vs Detroit Tigers
+Total,UNDER 10.75,-2.5,0.2,0.3387,0.8648,False,-1.0,2026-07-31,Athletics vs Detroit Tigers
+Run Line,San Francisco Giants +1.5,-154.0,0.1395,0.5967,0.7362,False,-1.0,2026-07-31,San Diego Padres vs San Francisco Giants
+Moneyline,Boston Red Sox ML,123.5,0.1716,0.4414,0.613,True,1.235,2026-07-31,Los Angeles Dodgers vs Boston Red Sox
+Run Line,Minnesota Twins +1.5,-142.0,0.1881,0.5796,0.7677,True,0.7042,2026-07-31,Seattle Mariners vs Minnesota Twins
+Total,UNDER 7.5,1.5,0.1166,0.6564,0.773,False,-1.0,2026-07-31,Seattle Mariners vs Minnesota Twins

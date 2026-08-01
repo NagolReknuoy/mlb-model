@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-07-31,Chicago Cubs,New York Yankees,0,2,2,New York Yankees,Chicago Cubs,76.8,23.2,False,76.8,9.01,7.01,False,HIGH,8.5,UNDER
+2026-07-31,Cincinnati Reds,Pittsburgh Pirates,8,7,15,Cincinnati Reds,Cincinnati Reds,50.1,49.9,True,50.1,6.99,8.01,False,LOW,7.5,OVER
+2026-07-31,Baltimore Orioles,Philadelphia Phillies,6,4,10,Baltimore Orioles,Baltimore Orioles,51.5,48.5,True,51.5,10.91,0.9100000000000001,True,HIGH,8.75,OVER
+2026-07-31,Toronto Blue Jays,St. Louis Cardinals,3,1,4,Toronto Blue Jays,St. Louis Cardinals,50.0,50.0,False,50.0,7.0,3.0,False,HIGH,7.5,UNDER
+2026-07-31,Cleveland Guardians,Arizona Diamondbacks,1,4,5,Arizona Diamondbacks,Arizona Diamondbacks,30.1,69.9,True,69.9,9.64,4.640000000000001,True,HIGH,8.5,UNDER
+2026-07-31,Tampa Bay Rays,Chicago White Sox,1,6,7,Chicago White Sox,Tampa Bay Rays,71.5,28.5,False,71.5,8.48,1.4800000000000004,False,HIGH,8.5,UNDER
+2026-07-31,New York Mets,Miami Marlins,2,5,7,Miami Marlins,New York Mets,69.1,30.9,False,69.1,8.27,1.2699999999999996,False,HIGH,8.5,UNDER
+2026-07-31,Atlanta Braves,Washington Nationals,6,2,8,Atlanta Braves,Washington Nationals,29.0,71.0,False,71.0,9.56,1.5600000000000005,False,HIGH,9.25,UNDER
+2026-07-31,Houston Astros,Texas Rangers,11,2,13,Houston Astros,Texas Rangers,45.9,54.1,False,54.1,8.29,4.710000000000001,False,LOW,7.5,OVER
+2026-07-31,Colorado Rockies,Kansas City Royals,3,1,4,Colorado Rockies,Kansas City Royals,31.1,68.9,False,68.9,8.89,4.890000000000001,False,HIGH,11.25,UNDER
+2026-07-31,Los Angeles Angels,Milwaukee Brewers,2,6,8,Milwaukee Brewers,Milwaukee Brewers,25.6,74.4,True,74.4,8.69,0.6899999999999995,True,HIGH,8.75,UNDER
+2026-07-31,Athletics,Detroit Tigers,1,13,14,Detroit Tigers,Detroit Tigers,22.4,77.6,True,77.6,9.0,5.0,True,LOW,10.75,OVER
+2026-07-31,San Diego Padres,San Francisco Giants,7,0,7,San Diego Padres,San Francisco Giants,44.1,55.9,False,55.9,9.41,2.41,False,HIGH,8.5,UNDER
+2026-07-31,Los Angeles Dodgers,Boston Red Sox,4,9,13,Boston Red Sox,Boston Red Sox,38.7,61.3,True,61.3,7.71,5.29,True,LOW,7.75,OVER
+2026-07-31,Seattle Mariners,Minnesota Twins,3,5,8,Minnesota Twins,Minnesota Twins,49.5,50.5,True,50.5,6.97,1.0300000000000002,True,LOW,7.5,OVER
