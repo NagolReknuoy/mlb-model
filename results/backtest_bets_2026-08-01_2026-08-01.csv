@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,St. Louis Cardinals +1.5,-141.0,0.0762,0.5747,0.6509,False,-1.0,2026-08-01,Toronto Blue Jays vs St. Louis Cardinals
+Total,UNDER 8.25,-7.5,0.2,0.0664,0.8654,True,10.0,2026-08-01,Toronto Blue Jays vs St. Louis Cardinals
+Total,UNDER 7.25,-10.0,0.2,0.086,0.7608,True,10.0,2026-08-01,Seattle Mariners vs Minnesota Twins
+Total,UNDER 7.5,-114.0,0.1975,0.5232,0.7207,True,0.8772,2026-08-01,Tampa Bay Rays vs Chicago White Sox
+Moneyline,New York Mets ML,-127.0,0.1404,0.5506,0.691,False,-1.0,2026-08-01,New York Mets vs Miami Marlins
+Total,UNDER 8.75,-1.0,0.2,0.1243,0.7592,True,10.0,2026-08-01,New York Mets vs Miami Marlins
+Total,UNDER 8.5,-145.5,0.2,0.5515,0.8638,True,0.6873,2026-08-01,Cincinnati Reds vs Pittsburgh Pirates
+Run Line,Baltimore Orioles +1.5,-128.5,0.0962,0.5508,0.6469,False,-1.0,2026-08-01,Baltimore Orioles vs Philadelphia Phillies
+Moneyline,Houston Astros ML,109.5,0.1394,0.4716,0.611,True,1.095,2026-08-01,Houston Astros vs Texas Rangers
+Run Line,Houston Astros +1.5,-152.5,0.1867,0.5957,0.7824,True,0.6557,2026-08-01,Houston Astros vs Texas Rangers
+Moneyline,Arizona Diamondbacks ML,158.5,0.25,0.3821,0.743,True,1.585,2026-08-01,Cleveland Guardians vs Arizona Diamondbacks
+Run Line,Washington Nationals +1.5,-132.5,0.1822,0.5629,0.7452,False,-1.0,2026-08-01,Atlanta Braves vs Washington Nationals
+Moneyline,Chicago Cubs ML,-116.0,0.0886,0.5324,0.621,True,0.8621,2026-08-01,Chicago Cubs vs New York Yankees
+Moneyline,Kansas City Royals ML,110.0,0.25,0.4705,0.727,False,-1.0,2026-08-01,Colorado Rockies vs Kansas City Royals
+Total,OVER  11.5,-1.0,0.082,0.019,0.101,True,10.0,2026-08-01,Colorado Rockies vs Kansas City Royals
+Moneyline,Boston Red Sox ML,163.0,0.25,0.3758,0.656,True,1.63,2026-08-01,Los Angeles Dodgers vs Boston Red Sox
+Moneyline,Milwaukee Brewers ML,-148.0,0.1736,0.5904,0.764,True,0.6757,2026-08-01,Los Angeles Angels vs Milwaukee Brewers
+Run Line,Milwaukee Brewers -1.5,111.5,0.1946,0.4629,0.6576,True,1.115,2026-08-01,Los Angeles Angels vs Milwaukee Brewers
+Total,OVER  8.75,-10.5,0.2,0.0891,0.3203,False,-1.0,2026-08-01,Los Angeles Angels vs Milwaukee Brewers
+Moneyline,Detroit Tigers ML,-169.0,0.147,0.623,0.77,True,0.5917,2026-08-01,Athletics vs Detroit Tigers
+Total,UNDER 10.5,-114.0,0.2,0.5208,0.8634,False,-1.0,2026-08-01,Athletics vs Detroit Tigers
