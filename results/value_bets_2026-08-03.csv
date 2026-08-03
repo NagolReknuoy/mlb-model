@@ -1,0 +1,11 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Chicago Cubs vs Los Angeles Dodgers,Chicago Cubs ML,+107,46.7%,78.0%,0.3130918531856536,Strong,Moneyline
+Texas Rangers vs San Francisco Giants,San Francisco Giants ML,+105,47.2%,77.4%,0.30189699570815454,Strong,Moneyline
+Philadelphia Phillies vs Washington Nationals,UNDER 9.0,+100,47.8%,72.7%,0.24845959794442485,Strong,Total
+Houston Astros vs Toronto Blue Jays,Houston Astros ML,-127,54.1%,76.4%,0.22261365335272854,Strong,Moneyline
+Milwaukee Brewers vs Pittsburgh Pirates,Milwaukee Brewers ML,-149,57.5%,76.4%,0.18910328814832533,Strong,Moneyline
+Houston Astros vs Toronto Blue Jays,Houston Astros -1.5,+155,37.8%,54.4%,0.16582319433817744,Strong,Run Line
+Milwaukee Brewers vs Pittsburgh Pirates,Milwaukee Brewers -1.5,+140,40.1%,55.4%,0.1528265387643709,Strong,Run Line
+Colorado Rockies vs Tampa Bay Rays,Tampa Bay Rays ML,-163,60.3%,71.4%,0.11107103495130977,Good,Moneyline
+Philadelphia Phillies vs Washington Nationals,Philadelphia Phillies ML,-160,59.4%,70.2%,0.10774282147315861,Good,Moneyline
+Philadelphia Phillies vs Washington Nationals,Philadelphia Phillies -1.5,+130,41.9%,49.3%,0.07425708171429923,Lean,Run Line

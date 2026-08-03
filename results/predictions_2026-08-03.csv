@@ -1,0 +1,9 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Philadelphia Phillies,Washington Nationals,Aaron Nola,Andrew Alvarez,70.2,29.8,9.54,1.061,hitter,high HR rate historically,unknown,1.0,5-2 (home-away),6.203,4.025
+New York Yankees,St. Louis Cardinals,Cam Schlittler,Michael Mcgreevy,49.9,50.1,7.0,1.071,hitter,short porches both sides,unknown,1.0,no prior meetings,2.785,1.674
+Milwaukee Brewers,Pittsburgh Pirates,Brandon Sproat,Bubba Chandler,76.4,23.6,9.09,0.95,pitcher,large dimensions suppress HRs,dome,1.0,1-5 (home-away),6.344,3.564
+Chicago Cubs,Los Angeles Dodgers,Matthew Boyd,Nan,78.0,22.0,9.06,1.05,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,1-2 (home-away),6.493,2.805
+Texas Rangers,San Francisco Giants,Nan,Logan Webb,22.6,77.4,9.01,1.009,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,no prior meetings,2.898,6.035
+Houston Astros,Toronto Blue Jays,Cristian Javier,Shane Bieber,76.4,23.6,8.88,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,2-1 (home-away),5.361,3.126
+Colorado Rockies,Tampa Bay Rays,Michael Lorenzen,Ian Seymour,28.6,71.4,8.46,1.175,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,no prior meetings,3.5,4.952
+Arizona Diamondbacks,San Diego Padres,Brandon Pfaadt,Michael King,45.3,54.7,10.66,1.124,hitter,"high altitude (1,082 ft)",dome,1.0,3-3 (home-away),5.149,6.099
