@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Baltimore Orioles,Los Angeles Angels,Nan,Grayson Rodriguez,60.8,39.2,8.6,1.081,hitter,short RF; warm summers,"85°F, wind 5 mph",1.031,1-2 (home-away),4.68,3.97
+Cleveland Guardians,New York Mets,Joey Cantillo,Sean Manaea,48.9,51.1,7.08,1.009,neutral,below-average HR park,"78°F, wind 8 mph",0.972,no prior meetings,1.868,3.576
+Cincinnati Reds,Athletics,Brady Singer,J.T. Ginn,77.4,22.6,8.96,1.028,hitter,one of the top HR parks in MLB,"87°F, wind 0 mph",1.007,no prior meetings,6.208,2.52
+Philadelphia Phillies,Washington Nationals,Jesús Luzardo,Zack Littell,77.6,22.4,8.99,1.061,hitter,high HR rate historically,"83°F, wind 7 mph",0.976,6-2 (home-away),6.873,3.114
+New York Yankees,St. Louis Cardinals,Ryan Weathers,Hunter Dobbins,54.8,45.2,7.22,1.071,hitter,short porches both sides,"77°F, wind 6 mph",0.981,0-1 (home-away),3.753,3.31
+Boston Red Sox,Chicago White Sox,Patrick Sandoval,Davis Martin,59.2,40.8,7.44,1.03,hitter,Green Monster 37ft LF wall,"79°F, wind 5 mph",0.984,3-0 (home-away),3.997,3.081
+Atlanta Braves,Miami Marlins,Grant Holmes,Ryan Gusto,52.3,47.7,7.15,0.949,hitter,warm humid air; June winds boost offense,"81°F, wind 5 mph",0.985,5-2 (home-away),3.606,3.374
+Kansas City Royals,Minnesota Twins,Randy Dobnak,Joe Ryan,41.1,58.9,7.56,1.06,pitcher,large dimensions; spray park,"92°F, wind 7 mph",1.009,6-4 (home-away),2.089,4.094
+Milwaukee Brewers,Pittsburgh Pirates,Logan Henderson,Jared Jones,74.2,25.8,8.68,0.95,pitcher,large dimensions suppress HRs,dome,1.0,1-6 (home-away),5.145,3.079
+Chicago Cubs,Los Angeles Dodgers,Javier Assad,Tarik Skubal,77.6,22.4,8.98,1.05,variable,wind hugely variable; extreme hitter or pitcher park,"74°F, wind 7 mph",0.975,2-2 (home-away),7.585,2.836
+Texas Rangers,San Francisco Giants,Mackenzie Gore,Blade Tidwell,21.9,78.1,8.99,1.009,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,0-1 (home-away),2.861,6.04
+Houston Astros,Toronto Blue Jays,Hayden Wesneski,Trey Yesavage,66.4,33.6,8.06,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,2-2 (home-away),4.575,2.882
+Colorado Rockies,Tampa Bay Rays,Gabriel Hughes,Freddy Peralta,35.9,64.1,9.9,1.175,hitter,"5,200 ft altitude; most extreme hitter park","77°F, wind 12 mph",1.003,0-1 (home-away),4.404,5.899
+Arizona Diamondbacks,San Diego Padres,Eduardo Rodriguez,Randy Vásquez,38.2,61.8,10.15,1.124,hitter,"high altitude (1,082 ft)",dome,1.0,4-3 (home-away),4.684,5.689
+Seattle Mariners,Detroit Tigers,Emerson Hancock,Nan,21.8,78.2,9.0,0.931,pitcher,marine air; roof often closed,dome,1.0,1-2 (home-away),2.42,7.387
