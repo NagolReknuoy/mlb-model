@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Houston Astros,Toronto Blue Jays,Hunter Brown,Jameson Taillon,67.4,32.6,8.13,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,3-2 (home-away),4.653,2.522
+Chicago Cubs,Los Angeles Dodgers,Shota Imanaga,Eric Lauer,78.3,21.7,9.0,1.05,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,3-2 (home-away),8.853,2.24
+Texas Rangers,San Francisco Giants,Cody Bradford,Carson Whisenhunt,22.3,77.7,9.04,1.009,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,1-1 (home-away),2.974,6.282
+Colorado Rockies,Tampa Bay Rays,Tomoyuki Sugano,Nick Martinez,49.7,50.3,11.06,1.175,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,0-2 (home-away),5.544,6.429
+Baltimore Orioles,Los Angeles Angels,Trevor Rogers,Reid Detmers,52.1,47.9,7.12,1.081,hitter,short RF; warm summers,unknown,1.0,2-2 (home-away),3.613,3.493
+Cleveland Guardians,New York Mets,Tanner Bibee,Christian Scott,41.5,58.5,7.54,1.009,neutral,below-average HR park,unknown,1.0,0-1 (home-away),1.832,4.009
+Cincinnati Reds,Athletics,Rhett Lowder,Jacob Lopez,78.3,21.7,9.01,1.028,hitter,one of the top HR parks in MLB,unknown,1.0,1-0 (home-away),6.477,2.695
+Philadelphia Phillies,Washington Nationals,Andrew Painter,Jake Irvin,77.6,22.4,9.01,1.061,hitter,high HR rate historically,unknown,1.0,7-2 (home-away),8.007,3.207
+New York Yankees,St. Louis Cardinals,Will Warren,Andre Pallante,60.1,39.9,7.61,1.071,hitter,short porches both sides,unknown,1.0,1-1 (home-away),4.106,2.613
+Boston Red Sox,Chicago White Sox,Sonny Gray,Sean Burke,77.3,22.7,9.01,1.03,hitter,Green Monster 37ft LF wall,unknown,1.0,4-0 (home-away),5.548,2.496
+Atlanta Braves,Miami Marlins,Bryce Elder,Eury Pérez,49.8,50.2,7.03,0.949,hitter,warm humid air; June winds boost offense,unknown,1.0,6-2 (home-away),2.956,2.665
+Kansas City Royals,Minnesota Twins,Noah Cameron,Dean Kremer,50.5,49.5,6.97,1.06,pitcher,large dimensions; spray park,unknown,1.0,7-4 (home-away),3.237,3.323
+Milwaukee Brewers,Pittsburgh Pirates,Kyle Harrison,Paul Skenes,66.1,33.9,8.04,0.95,pitcher,large dimensions suppress HRs,dome,1.0,2-6 (home-away),4.558,2.881
+Arizona Diamondbacks,San Diego Padres,Mitch Bratt,Casey Mize,31.4,68.6,9.6,1.124,hitter,"high altitude (1,082 ft)",dome,1.0,4-4 (home-away),4.165,7.66
+Seattle Mariners,Detroit Tigers,Bryan Woo,Drew Anderson,22.2,77.8,8.95,0.931,pitcher,marine air; roof often closed,dome,1.0,1-3 (home-away),1.813,7.448

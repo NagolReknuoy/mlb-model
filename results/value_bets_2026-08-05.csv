@@ -1,0 +1,19 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Texas Rangers vs San Francisco Giants,San Francisco Giants ML,+138,40.8%,77.7%,0.368888789695192,Strong,Moneyline
+Seattle Mariners vs Detroit Tigers,Detroit Tigers ML,+137,41.2%,77.8%,0.3663967071736574,Strong,Moneyline
+Chicago Cubs vs Los Angeles Dodgers,Chicago Cubs ML,-118,52.8%,78.3%,0.25459607147492747,Strong,Moneyline
+Boston Red Sox vs Chicago White Sox,Boston Red Sox ML,-133,55.4%,77.3%,0.21855780777909517,Strong,Moneyline
+Cincinnati Reds vs Athletics,Cincinnati Reds ML,-148,58.2%,78.3%,0.20132534916672284,Strong,Moneyline
+Chicago Cubs vs Los Angeles Dodgers,Chicago Cubs -1.5,+158,37.2%,56.2%,0.19064005711027765,Strong,Run Line
+Boston Red Sox vs Chicago White Sox,Boston Red Sox -1.5,+156,37.5%,56.2%,0.18709032983723,Strong,Run Line
+Colorado Rockies vs Tampa Bay Rays,Colorado Rockies +1.5,-110,50.0%,67.7%,0.1769242946214209,Strong,Run Line
+Boston Red Sox vs Chicago White Sox,UNDER 8.5,-110,50.2%,66.5%,0.16275006076989618,Strong,Total
+Arizona Diamondbacks vs San Diego Padres,San Diego Padres ML,-125,54.0%,68.6%,0.14635805626598464,Strong,Moneyline
+Cincinnati Reds vs Athletics,Cincinnati Reds -1.5,+130,42.0%,56.2%,0.14217155409769094,Strong,Run Line
+Philadelphia Phillies vs Washington Nationals,Philadelphia Phillies ML,-192,63.7%,77.6%,0.13889520779479014,Strong,Moneyline
+Milwaukee Brewers vs Pittsburgh Pirates,Milwaukee Brewers ML,-127,54.5%,66.1%,0.11611046954569137,Good,Moneyline
+Philadelphia Phillies vs Washington Nationals,Philadelphia Phillies -1.5,+105,46.7%,56.2%,0.09568672023021868,Good,Run Line
+Cleveland Guardians vs New York Mets,New York Mets ML,-104,49.3%,58.5%,0.09177506775067745,Good,Moneyline
+Atlanta Braves vs Miami Marlins,Miami Marlins +1.5,-187,63.1%,71.9%,0.08766904152449462,Good,Run Line
+Kansas City Royals vs Minnesota Twins,Minnesota Twins +1.5,-195,63.6%,71.9%,0.08344558656719114,Good,Run Line
+Milwaukee Brewers vs Pittsburgh Pirates,Milwaukee Brewers -1.5,+170,35.7%,43.4%,0.07645453706476774,Lean,Run Line
