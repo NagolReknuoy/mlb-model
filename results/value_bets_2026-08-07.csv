@@ -1,0 +1,21 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Pittsburgh Pirates vs New York Mets,New York Mets ML,+118,44.6%,77.6%,0.32964014160381705,Strong,Moneyline
+Philadelphia Phillies vs Toronto Blue Jays,UNDER 8.0,-118,51.5%,76.0%,0.24530404360632296,Strong,Total
+Washington Nationals vs Cincinnati Reds,Cincinnati Reds ML,+104,47.4%,71.8%,0.24372765072765074,Strong,Moneyline
+Washington Nationals vs Cincinnati Reds,UNDER 9.0,-115,51.1%,74.8%,0.23701450385130451,Strong,Total
+San Francisco Giants vs Detroit Tigers,Detroit Tigers ML,-133,55.1%,77.2%,0.22098352442431834,Strong,Moneyline
+Arizona Diamondbacks vs Los Angeles Dodgers,Arizona Diamondbacks ML,+155,38.2%,58.4%,0.2017273681999579,Strong,Moneyline
+Texas Rangers vs Baltimore Orioles,UNDER 7.5,-120,52.2%,70.7%,0.18480791999517865,Strong,Total
+St. Louis Cardinals vs Colorado Rockies,UNDER 8.5,-102,48.3%,66.3%,0.18003150822225789,Strong,Total
+Chicago White Sox vs Cleveland Guardians,Chicago White Sox +1.5,-140,56.2%,72.8%,0.16604155932123343,Strong,Run Line
+Kansas City Royals vs Chicago Cubs,Chicago Cubs ML,-165,60.7%,76.8%,0.1610584396321566,Strong,Moneyline
+New York Yankees vs Atlanta Braves,Atlanta Braves +1.5,-169,61.0%,76.6%,0.156875434514138,Strong,Run Line
+Boston Red Sox vs Athletics,UNDER 8.5,-115,51.1%,66.6%,0.1552485423389377,Strong,Total
+San Francisco Giants vs Detroit Tigers,UNDER 8.5,-118,51.5%,66.6%,0.15110759454445477,Strong,Total
+Milwaukee Brewers vs Minnesota Twins,Minnesota Twins +1.5,-145,57.1%,71.8%,0.14733054565992276,Strong,Run Line
+San Francisco Giants vs Detroit Tigers,Detroit Tigers -1.5,+130,41.7%,56.2%,0.1453322623711884,Strong,Run Line
+Seattle Mariners vs Tampa Bay Rays,Tampa Bay Rays +1.5,-212,64.3%,78.2%,0.1388897988155704,Strong,Run Line
+Washington Nationals vs Cincinnati Reds,Cincinnati Reds -1.5,+155,37.4%,50.7%,0.13225809079615392,Strong,Run Line
+Miami Marlins vs Los Angeles Angels,Los Angeles Angels +1.5,-157,58.9%,71.9%,0.1297340327720813,Strong,Run Line
+Seattle Mariners vs Tampa Bay Rays,Tampa Bay Rays ML,+102,48.3%,59.8%,0.1152913928296242,Good,Moneyline
+St. Louis Cardinals vs Colorado Rockies,Colorado Rockies +1.5,-145,56.9%,68.3%,0.11375906829506677,Good,Run Line

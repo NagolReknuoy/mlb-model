@@ -1,0 +1,12 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-06,Baltimore Orioles,Los Angeles Angels,1,4,5,Los Angeles Angels,Baltimore Orioles,59.0,41.0,False,59.0,7.6,2.5999999999999996,False,HIGH,,
+2026-08-06,Cincinnati Reds,Athletics,6,5,11,Cincinnati Reds,Cincinnati Reds,77.1,22.9,True,77.1,9.01,1.9900000000000002,False,LOW,,
+2026-08-06,Cleveland Guardians,New York Mets,6,13,19,New York Mets,New York Mets,48.7,51.3,True,51.3,7.09,11.91,True,LOW,,
+2026-08-06,Milwaukee Brewers,Pittsburgh Pirates,5,2,7,Milwaukee Brewers,Milwaukee Brewers,57.5,42.5,True,57.5,7.43,0.4299999999999997,True,HIGH,,
+2026-08-06,Chicago Cubs,Toronto Blue Jays,3,2,5,Chicago Cubs,Chicago Cubs,65.4,34.6,True,65.4,8.05,3.0500000000000007,False,HIGH,,
+2026-08-06,Seattle Mariners,Detroit Tigers,0,11,11,Detroit Tigers,Detroit Tigers,23.0,77.0,True,77.0,8.94,2.0600000000000005,True,LOW,,
+2026-08-06,Philadelphia Phillies,Washington Nationals,7,3,10,Philadelphia Phillies,Philadelphia Phillies,77.2,22.8,True,77.2,9.01,0.9900000000000002,True,LOW,,
+2026-08-06,Boston Red Sox,Chicago White Sox,12,11,23,Boston Red Sox,Boston Red Sox,77.9,22.1,True,77.9,8.97,14.03,False,LOW,,
+2026-08-06,Atlanta Braves,Miami Marlins,11,3,14,Atlanta Braves,Miami Marlins,50.0,50.0,False,50.0,7.04,6.96,False,LOW,,
+2026-08-06,Kansas City Royals,Minnesota Twins,3,4,7,Minnesota Twins,Minnesota Twins,49.9,50.1,True,50.1,7.0,0.0,False,LOW,,
+2026-08-06,Arizona Diamondbacks,San Diego Padres,1,5,6,San Diego Padres,San Diego Padres,49.1,50.9,True,50.9,11.0,5.0,True,HIGH,,
