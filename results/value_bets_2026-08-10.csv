@@ -1,0 +1,14 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Francisco Giants vs Houston Astros,UNDER 8.5,-110,50.2%,69.9%,0.19654885835006164,Strong,Total
+Toronto Blue Jays vs Boston Red Sox,Boston Red Sox ML,-150,58.6%,77.5%,0.18890728476821184,Strong,Moneyline
+Athletics vs Tampa Bay Rays,Tampa Bay Rays ML,-155,59.1%,77.7%,0.18571934604904639,Strong,Moneyline
+St. Louis Cardinals vs Philadelphia Phillies,Philadelphia Phillies ML,-116,52.4%,69.7%,0.17298060819744387,Strong,Moneyline
+Los Angeles Dodgers vs Kansas City Royals,UNDER 7.5,-120,52.2%,68.9%,0.16688629733263882,Strong,Total
+San Francisco Giants vs Houston Astros,Houston Astros ML,-148,58.2%,74.5%,0.16332534916672292,Strong,Moneyline
+Los Angeles Dodgers vs Kansas City Royals,Kansas City Royals +1.5,+103,47.3%,61.4%,0.14082339872381822,Strong,Run Line
+Arizona Diamondbacks vs Colorado Rockies,Colorado Rockies +1.5,-120,52.3%,63.9%,0.11602910811922518,Good,Run Line
+Toronto Blue Jays vs Boston Red Sox,Boston Red Sox -1.5,+115,44.7%,56.2%,0.11493362418036468,Good,Run Line
+Los Angeles Angels vs Texas Rangers,Los Angeles Angels +1.5,-170,60.6%,71.9%,0.11343380911204459,Good,Run Line
+San Diego Padres vs Milwaukee Brewers,San Diego Padres +1.5,-176,61.5%,71.9%,0.1046329685126608,Good,Run Line
+Minnesota Twins vs Baltimore Orioles,Minnesota Twins +1.5,-167,60.5%,70.4%,0.09848779643203076,Good,Run Line
+Athletics vs Tampa Bay Rays,Tampa Bay Rays -1.5,-102,48.4%,56.2%,0.07872661660512709,Lean,Run Line
