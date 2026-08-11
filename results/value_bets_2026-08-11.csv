@@ -1,0 +1,19 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Toronto Blue Jays vs Boston Red Sox,Boston Red Sox ML,+125,43.4%,73.9%,0.30508933454876946,Strong,Moneyline
+Atlanta Braves vs New York Mets,UNDER 8.5,-110,50.0%,73.9%,0.23917680817436104,Strong,Total
+Detroit Tigers vs Cleveland Guardians,Detroit Tigers ML,-124,53.8%,77.6%,0.23842774566473968,Strong,Moneyline
+Detroit Tigers vs Cleveland Guardians,Detroit Tigers -1.5,+164,36.6%,56.2%,0.19599298160755285,Strong,Run Line
+Washington Nationals vs Chicago Cubs,Chicago Cubs ML,-160,60.1%,78.1%,0.17977300613496927,Strong,Moneyline
+Minnesota Twins vs Baltimore Orioles,Minnesota Twins ML,-112,51.6%,69.3%,0.17675319459656802,Strong,Moneyline
+Los Angeles Dodgers vs Kansas City Royals,Kansas City Royals +1.5,+105,47.0%,64.3%,0.1725438262441812,Strong,Run Line
+Miami Marlins vs Pittsburgh Pirates,Miami Marlins +1.5,-176,61.3%,78.3%,0.17040645759141404,Strong,Run Line
+St. Louis Cardinals vs Philadelphia Phillies,Philadelphia Phillies ML,-166,60.7%,77.3%,0.16647948285553682,Strong,Moneyline
+Athletics vs Tampa Bay Rays,Tampa Bay Rays ML,-168,60.9%,77.5%,0.16644659967282083,Strong,Moneyline
+San Francisco Giants vs Houston Astros,Houston Astros ML,-184,63.2%,76.0%,0.12806635562467594,Strong,Moneyline
+Los Angeles Angels vs Texas Rangers,Los Angeles Angels +1.5,-135,55.3%,67.5%,0.12288442210930528,Strong,Run Line
+Arizona Diamondbacks vs Colorado Rockies,Colorado Rockies +1.5,-135,55.3%,67.3%,0.120085230996815,Strong,Run Line
+San Diego Padres vs Milwaukee Brewers,San Diego Padres +1.5,-165,59.9%,71.9%,0.12006582375991603,Strong,Run Line
+Miami Marlins vs Pittsburgh Pirates,Miami Marlins ML,+102,48.4%,59.2%,0.10824680540343196,Good,Moneyline
+New York Yankees vs Seattle Mariners,Seattle Mariners +1.5,-188,62.7%,71.9%,0.09171321528705856,Good,Run Line
+St. Louis Cardinals vs Philadelphia Phillies,Philadelphia Phillies -1.5,+100,47.8%,55.9%,0.08111095745457553,Good,Run Line
+Washington Nationals vs Chicago Cubs,Chicago Cubs -1.5,-105,48.9%,56.2%,0.07317385751093058,Lean,Run Line

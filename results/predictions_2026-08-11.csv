@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Cleveland Guardians,Drew Anderson,Tanner Bibee,77.6,22.4,8.95,0.96,pitcher,very deep CF historically,unknown,1.0,0-6 (home-away),8.587,2.442
+Miami Marlins,Pittsburgh Pirates,Eury Pérez,Paul Skenes,59.2,40.8,7.6,0.96,neutral,roof often closed; average park,dome,1.0,2-1 (home-away),4.124,2.537
+Washington Nationals,Chicago Cubs,Nan,Shota Imanaga,21.9,78.1,9.02,1.06,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,2-1 (home-away),2.907,6.559
+New York Yankees,Seattle Mariners,Ryan Weathers,Bryan Woo,50.2,49.8,7.02,1.071,hitter,short porches both sides,"85°F, wind 7 mph",0.979,2-1 (home-away),2.984,1.683
+Toronto Blue Jays,Boston Red Sox,Dylan Cease,Patrick Sandoval,26.1,73.9,8.67,1.04,neutral,turf boosts groundball singles,dome,1.0,7-3 (home-away),2.613,5.162
+Atlanta Braves,New York Mets,Martín Pérez,Nolan Mclean,58.2,41.8,8.34,0.949,hitter,warm humid air; June winds boost offense,"91°F, wind 8 mph",1.009,4-7 (home-away),4.405,3.895
+Minnesota Twins,Baltimore Orioles,Bailey Ober,Brandon Young,69.3,30.7,8.21,0.99,neutral,cold Aprils suppress offense (-8 pts),"88°F, wind 3 mph",1.007,2-2 (home-away),4.754,3.276
+Chicago White Sox,Cincinnati Reds,Sean Burke,Nick Lodolo,58.8,41.2,8.18,0.959,neutral,July is extreme hitter month (+12 pts),"75°F, wind 3 mph",0.991,no prior meetings,4.38,3.835
+St. Louis Cardinals,Philadelphia Phillies,Andre Pallante,Cristopher Sánchez,22.7,77.3,8.97,0.99,neutral,natural grass; moderate dimensions,"96°F, wind 9 mph",0.975,0-1 (home-away),2.773,5.477
+Los Angeles Angels,Texas Rangers,Ryan Johnson,Cody Bradford,44.9,55.1,7.3,0.97,neutral,symmetrical; marine layer suppresses HRs,"75°F, wind 8 mph",1.043,4-3 (home-away),2.811,3.804
+Arizona Diamondbacks,Colorado Rockies,Mitch Bratt,Tomoyuki Sugano,49.6,50.4,10.93,1.124,hitter,"high altitude (1,082 ft)",dome,1.0,6-2 (home-away),10.15,5.458
+Athletics,Tampa Bay Rays,Mason Barnett,Nick Martinez,22.5,77.5,8.98,0.912,pitcher,largest foul territory in MLB,"62°F, wind 9 mph",0.997,0-1 (home-away),2.67,7.236
+San Diego Padres,Milwaukee Brewers,Walker Buehler,Kyle Harrison,50.4,49.6,7.05,0.978,pitcher,marine layer; large dimensions,"74°F, wind 6 mph",1.032,2-2 (home-away),3.082,3.434
+San Francisco Giants,Houston Astros,Nan,Hunter Brown,24.0,76.0,8.77,0.912,pitcher,marine layer; bay wind tricky in RF,"60°F, wind 13 mph",0.996,0-1 (home-away),2.035,5.231
+Los Angeles Dodgers,Kansas City Royals,Blake Snell,Michael Wacha,58.8,41.2,8.11,0.96,pitcher,marine layer suppresses carry; spacious foul territory,"73°F, wind 7 mph",0.972,1-0 (home-away),4.326,3.841
