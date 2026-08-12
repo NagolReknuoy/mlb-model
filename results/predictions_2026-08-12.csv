@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Minnesota Twins,Baltimore Orioles,Zebby Matthews,Shane Baz,53.4,46.6,7.21,0.99,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,2-3 (home-away),3.717,3.189
+St. Louis Cardinals,Philadelphia Phillies,Kyle Leahy,Zack Wheeler,43.5,56.5,7.43,0.99,neutral,natural grass; moderate dimensions,"93°F, wind 7 mph",1.009,1-1 (home-away),3.121,3.901
+Athletics,Tampa Bay Rays,Jack Perkins,Drew Rasmussen,22.3,77.7,8.99,0.912,pitcher,largest foul territory in MLB,"64°F, wind 10 mph",0.998,0-2 (home-away),2.34,8.643
+Arizona Diamondbacks,Colorado Rockies,Merrill Kelly,Ryan Feltner,60.3,39.7,10.29,1.124,hitter,"high altitude (1,082 ft)",dome,1.0,6-3 (home-away),8.071,4.786
+San Francisco Giants,Houston Astros,Nan,Bryan King,50.0,50.0,7.01,0.912,pitcher,marine layer; bay wind tricky in RF,"60°F, wind 13 mph",0.944,1-1 (home-away),1.928,3.416
+San Diego Padres,Milwaukee Brewers,Robbie Ray,Dustin May,73.6,26.4,8.64,0.978,pitcher,marine layer; large dimensions,"72°F, wind 4 mph",1.023,3-2 (home-away),5.14,2.903
+Detroit Tigers,Cleveland Guardians,Framber Valdez,Foster Griffin,78.0,22.0,8.99,0.96,pitcher,very deep CF historically,"74°F, wind 7 mph",1.002,1-6 (home-away),8.538,2.386
+Miami Marlins,Pittsburgh Pirates,Janson Junk,Carmen Mlodzinski,59.1,40.9,7.55,0.96,neutral,roof often closed; average park,dome,1.0,3-1 (home-away),4.04,1.726
+Washington Nationals,Chicago Cubs,Jackson Kent,David Peterson,30.4,69.6,9.62,1.06,neutral,cold Aprils very suppressive (-9 pts),"88°F, wind 7 mph",0.979,2-2 (home-away),4.128,7.927
+New York Yankees,Seattle Mariners,Will Warren,Bryce Miller,50.4,49.6,6.98,1.071,hitter,short porches both sides,"85°F, wind 3 mph",1.02,3-1 (home-away),3.171,1.709
+Toronto Blue Jays,Boston Red Sox,José Soriano,Ranger Suarez,22.1,77.9,8.96,1.04,neutral,turf boosts groundball singles,dome,1.0,8-3 (home-away),2.278,6.305
+Atlanta Braves,New York Mets,Tyler Mahle,Zac Thornton,67.6,32.4,8.06,0.949,hitter,warm humid air; June winds boost offense,"90°F, wind 9 mph",1.008,5-7 (home-away),4.56,3.428
+Chicago White Sox,Cincinnati Reds,Luis Castillo,Rhett Lowder,59.8,40.2,9.37,0.959,neutral,July is extreme hitter month (+12 pts),"75°F, wind 5 mph",0.983,0-1 (home-away),5.061,4.391
+Los Angeles Dodgers,Kansas City Royals,Eric Lauer,Daniel Lynch Iv,57.4,42.6,9.09,0.96,pitcher,marine layer suppresses carry; spacious foul territory,unknown,1.0,2-0 (home-away),4.8,4.265
+Los Angeles Angels,Texas Rangers,George Klassen,Cal Quantrill,49.8,50.2,7.03,0.97,neutral,symmetrical; marine layer suppresses HRs,unknown,1.0,5-3 (home-away),2.309,3.204
