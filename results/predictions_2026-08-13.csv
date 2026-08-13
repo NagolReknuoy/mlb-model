@@ -1,0 +1,10 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Cleveland Guardians,Keider Montero,Parker Messick,78.3,21.7,9.01,0.96,pitcher,very deep CF historically,unknown,1.0,1-7 (home-away),8.422,2.811
+Chicago White Sox,Cincinnati Reds,Davis Martin,Andrew Abbott,68.0,32.0,8.48,0.959,neutral,July is extreme hitter month (+12 pts),unknown,1.0,1-1 (home-away),4.873,3.676
+Miami Marlins,Pittsburgh Pirates,Tyler Phillips,Braxton Ashcraft,67.4,32.6,8.12,0.96,neutral,roof often closed; average park,dome,1.0,4-1 (home-away),4.662,1.966
+New York Yankees,Seattle Mariners,Max Fried,Logan Gilbert,57.4,42.6,7.47,1.071,hitter,short porches both sides,unknown,1.0,4-1 (home-away),3.977,1.913
+Toronto Blue Jays,Boston Red Sox,Max Scherzer,Payton Tolle,22.4,77.6,8.97,1.04,neutral,turf boosts groundball singles,dome,1.0,9-3 (home-away),2.949,6.273
+Washington Nationals,Chicago Cubs,Cade Cavalli,Kevin Gausman,36.1,63.9,10.08,1.06,neutral,cold Aprils very suppressive (-9 pts),"91°F, wind 2 mph",1.019,2-3 (home-away),4.581,8.993
+Minnesota Twins,Philadelphia Phillies,Taj Bradley,Aaron Nola,39.8,60.2,10.14,0.99,neutral,cold Aprils suppress offense (-8 pts),"77°F, wind 3 mph",1.017,no prior meetings,4.742,5.432
+Los Angeles Angels,Texas Rangers,Walbert Ureña,Jacob Degrom,50.0,50.0,7.05,0.97,neutral,symmetrical; marine layer suppresses HRs,"72°F, wind 7 mph",1.036,6-3 (home-away),2.003,2.976
+Los Angeles Dodgers,Milwaukee Brewers,Roki Sasaki,Shane Drohan,38.1,61.9,7.7,0.96,pitcher,marine layer suppresses carry; spacious foul territory,"72°F, wind 7 mph",0.972,2-1 (home-away),3.233,4.237

@@ -1,0 +1,13 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Detroit Tigers vs Cleveland Guardians,Detroit Tigers ML,-101,48.5%,78.3%,0.2975975565936039,Strong,Moneyline
+New York Yankees vs Seattle Mariners,UNDER 7.5,-105,48.9%,71.6%,0.22683631387590836,Strong,Total
+Chicago White Sox vs Cincinnati Reds,UNDER 8.5,-115,51.1%,72.4%,0.21323698454346618,Strong,Total
+Miami Marlins vs Pittsburgh Pirates,Miami Marlins ML,+109,46.5%,67.4%,0.20857168015430422,Strong,Moneyline
+Los Angeles Dodgers vs Milwaukee Brewers,Milwaukee Brewers ML,+128,42.8%,61.9%,0.19054032143365096,Strong,Moneyline
+Los Angeles Dodgers vs Milwaukee Brewers,Milwaukee Brewers +1.5,-170,60.7%,79.3%,0.18651781123357636,Strong,Run Line
+Toronto Blue Jays vs Boston Red Sox,Boston Red Sox ML,-155,59.2%,77.6%,0.1837064513550244,Strong,Moneyline
+Los Angeles Angels vs Texas Rangers,Los Angeles Angels +1.5,-132,54.4%,71.9%,0.17477476175169926,Strong,Run Line
+Chicago White Sox vs Cincinnati Reds,Chicago White Sox ML,-130,55.0%,68.0%,0.1302740798747064,Strong,Moneyline
+Minnesota Twins vs Philadelphia Phillies,Philadelphia Phillies ML,-104,49.7%,60.2%,0.10545972875726545,Good,Moneyline
+Toronto Blue Jays vs Boston Red Sox,Boston Red Sox -1.5,+105,46.6%,56.2%,0.09655527742389436,Good,Run Line
+Chicago White Sox vs Cincinnati Reds,Chicago White Sox -1.5,+157,37.5%,45.5%,0.07974060643233288,Lean,Run Line
