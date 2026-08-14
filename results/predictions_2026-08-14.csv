@@ -1,0 +1,15 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Chicago Cubs,St. Louis Cardinals,Clay Holmes,Matthew Liberatore,55.2,44.8,9.58,1.05,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,5-5 (home-away),4.996,4.627
+Cincinnati Reds,Miami Marlins,Chase Burns,Sandy Alcantara,45.8,54.2,7.81,1.028,hitter,one of the top HR parks in MLB,unknown,1.0,2-2 (home-away),3.743,4.065
+Pittsburgh Pirates,Boston Red Sox,Bubba Chandler,Jake Bennett,22.7,77.3,9.04,1.056,pitcher,high RF wall; spacious,unknown,1.0,no prior meetings,2.558,7.811
+Detroit Tigers,Chicago White Sox,Jackson Jobe,Sean Newcomb,77.5,22.5,9.05,0.96,pitcher,very deep CF historically,unknown,1.0,3-3 (home-away),8.134,3.423
+New York Mets,Washington Nationals,Robert Stock,Andrew Alvarez,50.4,49.6,10.96,0.98,pitcher,sea-level; large dimensions,"83°F, wind 5 mph",0.984,3-4 (home-away),6.196,6.095
+Cleveland Guardians,San Diego Padres,Gavin Williams,Michael King,21.8,78.2,9.0,1.009,neutral,below-average HR park,"80°F, wind 7 mph",0.977,no prior meetings,3.145,6.208
+Tampa Bay Rays,Baltimore Orioles,Steven Matz,Nan,77.6,22.4,8.96,0.98,neutral,dome; artificial turf,dome,1.0,3-3 (home-away),6.282,2.78
+Atlanta Braves,Arizona Diamondbacks,Nan,Brandon Pfaadt,50.2,49.8,7.0,0.949,hitter,warm humid air; June winds boost offense,"94°F, wind 7 mph",1.01,2-2 (home-away),3.513,2.916
+Toronto Blue Jays,New York Yankees,Shane Bieber,Gerrit Cole,50.0,50.0,7.05,1.04,neutral,turf boosts groundball singles,dome,1.0,3-4 (home-away),1.967,3.524
+Houston Astros,Seattle Mariners,Peter Lambert,George Kirby,57.4,42.6,7.37,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,1-7 (home-away),3.933,1.917
+Los Angeles Angels,Kansas City Royals,Grayson Rodriguez,Seth Lugo,51.3,48.7,7.0,0.97,neutral,symmetrical; marine layer suppresses HRs,"73°F, wind 8 mph",1.04,0-3 (home-away),3.312,3.014
+Athletics,Texas Rangers,Nan,Kumar Rocker,41.5,58.5,7.45,0.912,pitcher,largest foul territory in MLB,"63°F, wind 9 mph",0.997,4-3 (home-away),2.897,3.914
+Los Angeles Dodgers,Milwaukee Brewers,Yoshinobu Yamamoto,Robert Gasser,50.3,49.7,6.98,0.96,pitcher,marine layer suppresses carry; spacious foul territory,"71°F, wind 8 mph",0.969,2-2 (home-away),3.217,3.377
+San Francisco Giants,Colorado Rockies,Landen Roupp,Kyle Freeland,48.8,51.2,7.49,0.912,pitcher,marine layer; bay wind tricky in RF,"61°F, wind 14 mph",0.996,5-5 (home-away),3.698,3.8
