@@ -1,0 +1,15 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-14,Chicago Cubs,St. Louis Cardinals,3,0,3,Chicago Cubs,Chicago Cubs,54.2,45.8,True,54.2,9.98,6.98,True,HIGH,8.0,UNDER
+2026-08-14,Cincinnati Reds,Miami Marlins,1,0,1,Cincinnati Reds,Miami Marlins,45.8,54.2,False,54.2,8.07,7.07,False,HIGH,8.0,UNDER
+2026-08-14,Pittsburgh Pirates,Boston Red Sox,8,4,12,Pittsburgh Pirates,Boston Red Sox,22.3,77.7,False,77.7,8.99,3.01,False,LOW,8.0,OVER
+2026-08-14,Detroit Tigers,Chicago White Sox,5,9,14,Chicago White Sox,Detroit Tigers,78.6,21.4,False,78.6,8.96,5.039999999999999,False,LOW,8.5,OVER
+2026-08-14,New York Mets,Washington Nationals,4,1,5,New York Mets,Washington Nationals,49.3,50.7,False,50.7,10.96,5.960000000000001,False,HIGH,8.5,UNDER
+2026-08-14,Cleveland Guardians,San Diego Padres,5,7,12,San Diego Padres,San Diego Padres,21.9,78.1,True,78.1,8.97,3.0299999999999994,True,LOW,7.0,OVER
+2026-08-14,Tampa Bay Rays,Baltimore Orioles,5,6,11,Baltimore Orioles,Tampa Bay Rays,78.0,22.0,False,78.0,8.99,2.01,False,LOW,8.0,OVER
+2026-08-14,Atlanta Braves,Arizona Diamondbacks,0,2,2,Arizona Diamondbacks,Arizona Diamondbacks,49.4,50.6,True,50.6,7.02,5.02,True,HIGH,8.0,UNDER
+2026-08-14,Toronto Blue Jays,New York Yankees,3,1,4,Toronto Blue Jays,New York Yankees,48.4,51.6,False,51.6,7.07,3.0700000000000003,False,HIGH,7.5,UNDER
+2026-08-14,Houston Astros,Seattle Mariners,10,7,17,Houston Astros,Houston Astros,58.3,41.7,True,58.3,7.5,9.5,True,LOW,8.0,OVER
+2026-08-14,Los Angeles Angels,Kansas City Royals,6,7,13,Kansas City Royals,Kansas City Royals,49.8,50.2,True,50.2,6.98,6.02,False,LOW,8.5,OVER
+2026-08-14,Athletics,Texas Rangers,8,3,11,Athletics,Texas Rangers,40.1,59.9,False,59.9,7.62,3.38,False,LOW,9.5,OVER
+2026-08-14,Los Angeles Dodgers,Milwaukee Brewers,3,1,4,Los Angeles Dodgers,Los Angeles Dodgers,50.3,49.7,True,50.3,6.97,2.9699999999999998,True,HIGH,7.5,UNDER
+2026-08-14,San Francisco Giants,Colorado Rockies,2,5,7,Colorado Rockies,Colorado Rockies,48.0,52.0,True,52.0,7.54,0.54,True,HIGH,7.5,UNDER
