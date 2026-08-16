@@ -1,0 +1,25 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Detroit Tigers ML,-150.0,0.1934,0.5756,0.769,False,-1.0,2026-08-15,Detroit Tigers vs Chicago White Sox
+Moneyline,Chicago Cubs ML,-190.0,0.1005,0.6345,0.735,False,-1.0,2026-08-15,Chicago Cubs vs St. Louis Cardinals
+Total,UNDER 9.0,-110.0,0.2,0.5,0.8118,False,-1.0,2026-08-15,Chicago Cubs vs St. Louis Cardinals
+Run Line,Toronto Blue Jays +1.5,-110.0,0.1664,0.4979,0.6643,True,0.9091,2026-08-15,Toronto Blue Jays vs New York Yankees
+Total,UNDER 7.0,-105.0,0.2,0.4892,0.7697,True,0.9524,2026-08-15,Toronto Blue Jays vs New York Yankees
+Total,UNDER 7.5,-110.0,0.182,0.4958,0.6778,False,-1.0,2026-08-15,San Francisco Giants vs Colorado Rockies
+Run Line,New York Mets -1.5,150.0,0.1382,0.3813,0.5195,False,-1.0,2026-08-15,New York Mets vs Washington Nationals
+Total,OVER  7.5,-115.0,0.1187,0.5052,0.6239,True,0.8696,2026-08-15,New York Mets vs Washington Nationals
+Moneyline,Tampa Bay Rays ML,-160.0,0.1768,0.5912,0.768,False,-1.0,2026-08-15,Tampa Bay Rays vs Baltimore Orioles
+Moneyline,Miami Marlins ML,-106.0,0.1165,0.4955,0.612,True,0.9434,2026-08-15,Cincinnati Reds vs Miami Marlins
+Total,UNDER 9.0,-110.0,0.2,0.5,0.8899,False,-1.0,2026-08-15,Cincinnati Reds vs Miami Marlins
+Moneyline,San Diego Padres ML,-105.0,0.25,0.4892,0.768,False,-1.0,2026-08-15,Cleveland Guardians vs San Diego Padres
+Moneyline,Houston Astros ML,-122.0,0.2322,0.5298,0.762,False,-1.0,2026-08-15,Houston Astros vs Seattle Mariners
+Total,UNDER 8.5,-110.0,0.1876,0.5,0.6876,False,-1.0,2026-08-15,Houston Astros vs Seattle Mariners
+Moneyline,Philadelphia Phillies ML,-133.0,0.222,0.551,0.773,True,0.7519,2026-08-15,Minnesota Twins vs Philadelphia Phillies
+Run Line,Philadelphia Phillies -1.5,120.0,0.1712,0.431,0.6022,True,1.2,2026-08-15,Minnesota Twins vs Philadelphia Phillies
+Moneyline,Boston Red Sox ML,-125.0,0.2195,0.5325,0.752,True,0.8,2026-08-15,Pittsburgh Pirates vs Boston Red Sox
+Total,UNDER 9.0,-110.0,0.2,0.5,0.9285,False,-1.0,2026-08-15,Atlanta Braves vs Arizona Diamondbacks
+Run Line,Los Angeles Dodgers +1.5,-165.0,0.1908,0.594,0.7848,False,-1.0,2026-08-15,Los Angeles Dodgers vs Milwaukee Brewers
+Total,UNDER 7.5,-118.0,0.2,0.5138,0.7697,True,0.8475,2026-08-15,Los Angeles Dodgers vs Milwaukee Brewers
+Run Line,Kansas City Royals +1.5,-157.0,0.1053,0.5821,0.6874,True,0.6369,2026-08-15,Los Angeles Angels vs Kansas City Royals
+Total,UNDER 7.5,-105.0,0.2,0.4892,0.7563,True,0.9524,2026-08-15,Los Angeles Angels vs Kansas City Royals
+Run Line,Athletics +1.5,-115.0,0.1121,0.5108,0.623,False,-1.0,2026-08-15,Athletics vs Texas Rangers
+Total,UNDER 9.5,-122.0,0.2,0.5236,0.8366,True,0.8197,2026-08-15,Athletics vs Texas Rangers
