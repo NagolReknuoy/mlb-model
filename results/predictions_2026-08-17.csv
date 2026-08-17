@@ -1,0 +1,12 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cincinnati Reds (G1),St. Louis Cardinals,Kent Emanuel,Quinn Mathews,22.4,77.6,9.02,1.028,hitter,one of the top HR parks in MLB,unknown,1.0,3-5 (home-away),2.034,6.57
+Cincinnati Reds (G2),St. Louis Cardinals,Rhett Lowder,Andre Pallante,22.2,77.8,9.03,1.028,hitter,one of the top HR parks in MLB,unknown,1.0,3-5 (home-away),2.197,7.166
+Tampa Bay Rays,Baltimore Orioles,Shane Mcclanahan,Brandon Young,77.9,22.1,8.99,0.98,neutral,dome; artificial turf,dome,1.0,3-6 (home-away),5.883,3.481
+Philadelphia Phillies,Miami Marlins,Cristopher Sánchez,Janson Junk,60.9,39.1,8.92,1.061,hitter,high HR rate historically,unknown,1.0,5-5 (home-away),4.804,4.106
+Pittsburgh Pirates,Detroit Tigers,Carmen Mlodzinski,Framber Valdez,22.8,77.2,9.04,1.056,pitcher,high RF wall; spacious,unknown,1.0,no prior meetings,3.551,5.99
+Boston Red Sox,Arizona Diamondbacks,Nan,Mitch Bratt,50.2,49.8,7.57,1.03,hitter,Green Monster 37ft LF wall,unknown,1.0,no prior meetings,3.799,3.797
+New York Mets,San Diego Padres,Nolan Mclean,Walker Buehler,43.0,57.0,8.52,0.98,pitcher,sea-level; large dimensions,"80°F, wind 7 mph",1.04,2-1 (home-away),4.013,4.483
+Kansas City Royals,Athletics,Michael Wacha,Mason Barnett,58.1,41.9,10.46,1.06,pitcher,large dimensions; spray park,"89°F, wind 3 mph",1.022,1-2 (home-away),5.792,4.918
+Minnesota Twins,Atlanta Braves,Bailey Ober,Martín Pérez,22.0,78.0,9.03,0.99,neutral,cold Aprils suppress offense (-8 pts),"81°F, wind 9 mph",1.004,no prior meetings,3.473,5.561
+Chicago Cubs,Chicago White Sox,Shota Imanaga,Luis Castillo,50.3,49.7,11.06,1.05,variable,wind hugely variable; extreme hitter or pitcher park,"72°F, wind 2 mph",0.991,1-2 (home-away),7.443,5.88
+Colorado Rockies,Los Angeles Dodgers,Tomoyuki Sugano,Blake Snell,31.8,68.2,8.59,1.175,hitter,"5,200 ft altitude; most extreme hitter park","91°F, wind 6 mph",0.984,3-7 (home-away),3.702,4.882

@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-16,Tampa Bay Rays,Baltimore Orioles,2,10,12,Baltimore Orioles,Tampa Bay Rays,77.3,22.7,False,77.3,8.96,3.039999999999999,False,LOW,7.0,OVER
+2026-08-16,Pittsburgh Pirates,Boston Red Sox,8,3,11,Pittsburgh Pirates,Boston Red Sox,26.0,74.0,False,74.0,9.25,1.75,False,LOW,8.0,OVER
+2026-08-16,Atlanta Braves,Arizona Diamondbacks,5,3,8,Atlanta Braves,Arizona Diamondbacks,40.2,59.8,False,59.8,7.57,0.4299999999999997,False,LOW,9.0,UNDER
+2026-08-16,Toronto Blue Jays,New York Yankees,3,4,7,New York Yankees,New York Yankees,49.8,50.2,True,50.2,7.01,0.009999999999999787,False,HIGH,6.5,OVER
+2026-08-16,New York Mets,Washington Nationals,4,3,7,New York Mets,New York Mets,50.7,49.3,True,50.7,10.97,3.9700000000000006,False,HIGH,8.5,UNDER
+2026-08-16,Cleveland Guardians,San Diego Padres,0,5,5,San Diego Padres,San Diego Padres,22.6,77.4,True,77.4,8.91,3.91,True,HIGH,8.0,UNDER
+2026-08-16,Detroit Tigers,Chicago White Sox,5,7,12,Chicago White Sox,Detroit Tigers,78.3,21.7,False,78.3,9.08,2.92,False,LOW,8.0,OVER
+2026-08-16,Cincinnati Reds,Miami Marlins,1,7,8,Miami Marlins,Miami Marlins,26.5,73.5,True,73.5,8.62,0.6199999999999992,True,HIGH,8.5,UNDER
+2026-08-16,Minnesota Twins,Philadelphia Phillies,5,7,12,Philadelphia Phillies,Philadelphia Phillies,31.4,68.6,True,68.6,9.65,2.3499999999999996,True,LOW,9.5,OVER
+2026-08-16,Chicago Cubs,St. Louis Cardinals,4,11,15,St. Louis Cardinals,Chicago Cubs,63.8,36.2,False,63.8,9.01,5.99,False,LOW,9.0,OVER
+2026-08-16,San Francisco Giants,Colorado Rockies,7,13,20,Colorado Rockies,San Francisco Giants,55.9,44.1,False,55.9,7.32,12.68,False,LOW,8.0,OVER
+2026-08-16,Athletics,Texas Rangers,5,2,7,Athletics,Texas Rangers,35.2,64.8,False,64.8,8.42,1.42,False,HIGH,9.5,UNDER
+2026-08-16,Los Angeles Angels,Kansas City Royals,0,3,3,Kansas City Royals,Kansas City Royals,49.5,50.5,True,50.5,7.01,4.01,True,HIGH,8.5,UNDER
+2026-08-16,Los Angeles Dodgers,Milwaukee Brewers,2,6,8,Milwaukee Brewers,Los Angeles Dodgers,50.5,49.5,False,50.5,7.01,0.9900000000000002,False,LOW,7.0,OVER
+2026-08-16,Houston Astros,Seattle Mariners,2,3,5,Seattle Mariners,Houston Astros,71.1,28.9,False,71.1,8.44,3.4399999999999995,False,HIGH,8.0,UNDER

@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Tampa Bay Rays ML,-145.0,0.2019,0.5711,0.773,False,-1.0,2026-08-16,Tampa Bay Rays vs Baltimore Orioles
+Moneyline,Boston Red Sox ML,-110.0,0.2332,0.5068,0.74,False,-1.0,2026-08-16,Pittsburgh Pirates vs Boston Red Sox
+Moneyline,Arizona Diamondbacks ML,105.0,0.1305,0.4675,0.598,False,-1.0,2026-08-16,Atlanta Braves vs Arizona Diamondbacks
+Total,UNDER 9.0,-105.0,0.2,0.4892,0.8952,True,0.9524,2026-08-16,Atlanta Braves vs Arizona Diamondbacks
+Run Line,New York Yankees +1.5,-220.0,0.1052,0.6581,0.7634,True,0.4545,2026-08-16,Toronto Blue Jays vs New York Yankees
+Moneyline,San Diego Padres ML,-115.0,0.25,0.5132,0.774,True,0.8696,2026-08-16,Cleveland Guardians vs San Diego Padres
+Moneyline,Detroit Tigers ML,-115.0,0.25,0.5181,0.783,False,-1.0,2026-08-16,Detroit Tigers vs Chicago White Sox
+Moneyline,Miami Marlins ML,-122.0,0.2052,0.5298,0.735,True,0.8197,2026-08-16,Cincinnati Reds vs Miami Marlins
+Run Line,Miami Marlins -1.5,135.0,0.1843,0.406,0.5903,True,1.35,2026-08-16,Cincinnati Reds vs Miami Marlins
+Total,UNDER 8.5,-112.0,0.2,0.5021,0.7087,True,0.8929,2026-08-16,Cincinnati Reds vs Miami Marlins
+Moneyline,Philadelphia Phillies ML,-115.0,0.174,0.512,0.686,True,0.8696,2026-08-16,Minnesota Twins vs Philadelphia Phillies
+Total,UNDER 9.5,-115.0,0.2,0.5108,0.7154,False,-1.0,2026-08-16,Minnesota Twins vs Philadelphia Phillies
+Total,UNDER 9.0,-115.0,0.2,0.5108,0.7789,False,-1.0,2026-08-16,Chicago Cubs vs St. Louis Cardinals
+Total,UNDER 8.0,-115.0,0.2,0.5108,0.8393,False,-1.0,2026-08-16,San Francisco Giants vs Colorado Rockies
+Moneyline,Texas Rangers ML,-130.0,0.0994,0.5486,0.648,False,-1.0,2026-08-16,Athletics vs Texas Rangers
+Total,UNDER 9.5,-120.0,0.2,0.5193,0.8317,True,0.8333,2026-08-16,Athletics vs Texas Rangers
+Run Line,Los Angeles Angels +1.5,-165.0,0.1891,0.5888,0.7779,False,-1.0,2026-08-16,Los Angeles Angels vs Kansas City Royals
+Total,UNDER 8.5,-115.0,0.2,0.5052,0.8654,True,0.8696,2026-08-16,Los Angeles Angels vs Kansas City Royals
+Run Line,Milwaukee Brewers +1.5,-140.0,0.1643,0.5564,0.7207,True,0.7143,2026-08-16,Los Angeles Dodgers vs Milwaukee Brewers
+Total,UNDER 7.0,-115.0,0.2,0.5,0.7686,False,-1.0,2026-08-16,Los Angeles Dodgers vs Milwaukee Brewers
+Moneyline,Houston Astros ML,-125.0,0.1785,0.5325,0.711,False,-1.0,2026-08-16,Houston Astros vs Seattle Mariners

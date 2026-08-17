@@ -1,0 +1,17 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Pittsburgh Pirates vs Detroit Tigers,Detroit Tigers ML,-110,50.9%,77.2%,0.2628340971585701,Strong,Moneyline
+Cincinnati Reds (G2) vs St. Louis Cardinals,St. Louis Cardinals ML,-115,52.2%,77.8%,0.256202846975089,Strong,Moneyline
+Cincinnati Reds (G1) vs St. Louis Cardinals,St. Louis Cardinals ML,-115,52.2%,77.6%,0.2542028469750889,Strong,Moneyline
+Minnesota Twins vs Atlanta Braves,Atlanta Braves ML,-125,54.0%,78.0%,0.24035805626598472,Strong,Moneyline
+Tampa Bay Rays vs Baltimore Orioles,Tampa Bay Rays ML,-158,59.6%,77.9%,0.18289492470020985,Strong,Moneyline
+Pittsburgh Pirates vs Detroit Tigers,Detroit Tigers -1.5,+148,38.8%,55.5%,0.16760873082512967,Strong,Run Line
+Tampa Bay Rays vs Baltimore Orioles,Tampa Bay Rays -1.5,+135,40.9%,56.2%,0.1535345898780408,Strong,Run Line
+Cincinnati Reds (G1) vs St. Louis Cardinals,St. Louis Cardinals -1.5,+135,41.0%,56.2%,0.15236027919840972,Strong,Run Line
+Cincinnati Reds (G2) vs St. Louis Cardinals,St. Louis Cardinals -1.5,+135,41.0%,56.2%,0.15236027919840972,Strong,Run Line
+Colorado Rockies vs Los Angeles Dodgers,Colorado Rockies +1.5,+140,40.1%,54.8%,0.14675705610671896,Strong,Run Line
+Minnesota Twins vs Atlanta Braves,Atlanta Braves -1.5,+127,42.3%,56.2%,0.13918034298499427,Strong,Run Line
+Philadelphia Phillies vs Miami Marlins,Miami Marlins +1.5,-101,48.1%,61.0%,0.12817588540112473,Strong,Run Line
+New York Mets vs San Diego Padres,San Diego Padres +1.5,-195,63.7%,75.4%,0.11723226090946337,Good,Run Line
+Boston Red Sox vs Arizona Diamondbacks,Arizona Diamondbacks +1.5,-167,60.0%,71.1%,0.11050843355932616,Good,Run Line
+Chicago Cubs vs Chicago White Sox,Chicago White Sox +1.5,-150,58.0%,67.7%,0.09709236184831171,Good,Run Line
+Kansas City Royals vs Athletics,Athletics +1.5,-122,52.6%,61.5%,0.0887397821744339,Good,Run Line
