@@ -1,0 +1,16 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Texas Rangers vs Washington Nationals,Washington Nationals ML,+136,41.4%,76.0%,0.34609271523178803,Strong,Moneyline
+Cincinnati Reds vs St. Louis Cardinals,St. Louis Cardinals ML,-117,52.4%,77.6%,0.2522113764044943,Strong,Moneyline
+Pittsburgh Pirates vs Detroit Tigers,Detroit Tigers ML,+125,43.2%,67.5%,0.24329377519032697,Strong,Moneyline
+Milwaukee Brewers vs Seattle Mariners,UNDER 7.5,-105,48.9%,73.2%,0.24318440304739514,Strong,Total
+Cincinnati Reds vs St. Louis Cardinals,UNDER 8.5,+100,47.5%,66.3%,0.18718763836952712,Strong,Total
+Philadelphia Phillies vs Miami Marlins,Miami Marlins +1.5,-117,51.5%,68.1%,0.16556637245533068,Strong,Run Line
+Cincinnati Reds vs St. Louis Cardinals,St. Louis Cardinals -1.5,+138,40.5%,56.2%,0.15774390818603085,Strong,Run Line
+Colorado Rockies vs Los Angeles Dodgers,Colorado Rockies +1.5,+107,46.3%,61.7%,0.15393035314864012,Strong,Run Line
+Tampa Bay Rays vs Toronto Blue Jays,Tampa Bay Rays ML,-130,55.2%,70.0%,0.14799376704324108,Strong,Moneyline
+Baltimore Orioles vs New York Yankees,Baltimore Orioles +1.5,-170,60.6%,72.3%,0.11737007764202878,Good,Run Line
+Chicago Cubs vs Chicago White Sox,Chicago White Sox +1.5,-145,57.1%,67.7%,0.10580832087962655,Good,Run Line
+Houston Astros vs Los Angeles Angels,Los Angeles Angels +1.5,-142,56.3%,66.8%,0.10430910751279376,Good,Run Line
+Tampa Bay Rays vs Toronto Blue Jays,Tampa Bay Rays -1.5,+160,37.2%,47.0%,0.09805121509606857,Good,Run Line
+New York Mets vs San Diego Padres,New York Mets +1.5,-170,60.7%,68.9%,0.08264756005803697,Good,Run Line
+Minnesota Twins vs Atlanta Braves,Atlanta Braves ML,-122,53.6%,61.4%,0.07824090338770384,Lean,Moneyline

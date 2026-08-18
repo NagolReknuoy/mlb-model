@@ -1,0 +1,17 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,St. Louis Cardinals ML,-117.0,0.246,0.525,0.771,True,0.8547,2026-08-17,Cincinnati Reds vs St. Louis Cardinals
+Total,UNDER 9.0,-111.0,0.2,0.5011,0.7836,True,0.9009,2026-08-17,Cincinnati Reds vs St. Louis Cardinals
+Moneyline,St. Louis Cardinals ML,-117.0,0.25,0.525,0.782,False,-1.0,2026-08-17,Cincinnati Reds vs St. Louis Cardinals
+Total,UNDER 9.0,-111.0,0.2,0.5011,0.7798,False,-1.0,2026-08-17,Cincinnati Reds vs St. Louis Cardinals
+Moneyline,Tampa Bay Rays ML,-170.0,0.1742,0.6018,0.776,True,0.5882,2026-08-17,Tampa Bay Rays vs Baltimore Orioles
+Run Line,Miami Marlins +1.5,104.0,0.1418,0.4687,0.6105,True,1.04,2026-08-17,Philadelphia Phillies vs Miami Marlins
+Total,UNDER 8.5,-115.0,0.1778,0.5108,0.6887,False,-1.0,2026-08-17,Philadelphia Phillies vs Miami Marlins
+Moneyline,Detroit Tigers ML,-109.0,0.2485,0.5045,0.753,True,0.9174,2026-08-17,Pittsburgh Pirates vs Detroit Tigers
+Total,UNDER 9.0,-120.0,0.2,0.5157,0.9035,False,-1.0,2026-08-17,Boston Red Sox vs Arizona Diamondbacks
+Moneyline,San Diego Padres ML,105.0,0.1165,0.4675,0.584,False,-1.0,2026-08-17,New York Mets vs San Diego Padres
+Run Line,San Diego Padres +1.5,-190.0,0.1387,0.6256,0.7642,True,0.5263,2026-08-17,New York Mets vs San Diego Padres
+Moneyline,Atlanta Braves ML,-130.0,0.2134,0.5486,0.762,False,-1.0,2026-08-17,Minnesota Twins vs Atlanta Braves
+Run Line,Atlanta Braves -1.5,119.0,0.1266,0.4355,0.5621,False,-1.0,2026-08-17,Minnesota Twins vs Atlanta Braves
+Total,UNDER 9.0,-105.0,0.2,0.4862,0.792,True,0.9524,2026-08-17,Minnesota Twins vs Atlanta Braves
+Run Line,Chicago Cubs -1.5,125.0,0.0775,0.4242,0.5018,True,1.25,2026-08-17,Chicago Cubs vs Chicago White Sox
+Total,UNDER 11.0,-118.0,0.2,0.503,0.9422,False,-1.0,2026-08-17,Colorado Rockies vs Los Angeles Dodgers
