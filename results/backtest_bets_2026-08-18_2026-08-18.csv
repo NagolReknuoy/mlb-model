@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Baltimore Orioles +1.5,-160.5,0.1532,0.6082,0.7614,False,-1.0,2026-08-18,Baltimore Orioles vs New York Yankees
+Total,UNDER 8.5,-2.0,0.2,0.037,0.8654,True,10.0,2026-08-18,Baltimore Orioles vs New York Yankees
+Moneyline,Detroit Tigers ML,139.0,0.2462,0.4138,0.66,False,-1.0,2026-08-18,Pittsburgh Pirates vs Detroit Tigers
+Total,UNDER 8.25,-112.0,0.2,0.3568,0.7787,False,-1.0,2026-08-18,Cleveland Guardians vs San Francisco Giants
+Moneyline,St. Louis Cardinals ML,-112.0,0.25,0.523,0.777,True,0.8929,2026-08-18,Cincinnati Reds vs St. Louis Cardinals
+Total,OVER  8.75,-6.5,0.2,0.0589,0.3271,False,-1.0,2026-08-18,Cincinnati Reds vs St. Louis Cardinals
+Moneyline,Tampa Bay Rays ML,-126.5,0.1477,0.5513,0.699,False,-1.0,2026-08-18,Tampa Bay Rays vs Toronto Blue Jays
+Run Line,Tampa Bay Rays -1.5,165.0,0.1663,0.373,0.5392,False,-1.0,2026-08-18,Tampa Bay Rays vs Toronto Blue Jays
+Run Line,Miami Marlins +1.5,-111.0,0.1534,0.5207,0.6741,False,-1.0,2026-08-18,Philadelphia Phillies vs Miami Marlins
+Total,OVER  7.75,-4.0,0.2,0.0372,0.3332,True,10.0,2026-08-18,Boston Red Sox vs Arizona Diamondbacks
+Total,UNDER 8.5,-1.0,0.2,0.0189,0.8514,True,10.0,2026-08-18,New York Mets vs San Diego Padres
+Run Line,Minnesota Twins +1.5,-122.0,0.0733,0.541,0.6143,True,0.8197,2026-08-18,Minnesota Twins vs Atlanta Braves
+Total,UNDER 8.75,8.5,0.1662,0.6305,0.7966,True,0.085,2026-08-18,Minnesota Twins vs Atlanta Braves
+Run Line,Milwaukee Brewers -1.5,135.5,0.1212,0.4191,0.5403,True,1.355,2026-08-18,Milwaukee Brewers vs Seattle Mariners
+Total,UNDER 7.5,102.0,0.2,0.4898,0.7207,False,-1.0,2026-08-18,Milwaukee Brewers vs Seattle Mariners
+Moneyline,Washington Nationals ML,127.5,0.25,0.4343,0.746,False,-1.0,2026-08-18,Texas Rangers vs Washington Nationals
+Total,UNDER 9.25,-6.0,0.2,0.0538,0.9072,True,10.0,2026-08-18,Houston Astros vs Los Angeles Angels
+Run Line,Los Angeles Dodgers -2.5,119.0,0.1118,0.4516,0.5633,False,-1.0,2026-08-18,Colorado Rockies vs Los Angeles Dodgers
+Total,UNDER 11.5,102.0,0.2,0.4892,0.8372,False,-1.0,2026-08-18,Colorado Rockies vs Los Angeles Dodgers

@@ -1,0 +1,13 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Cincinnati Reds vs St. Louis Cardinals,St. Louis Cardinals ML,+131,42.0%,67.9%,0.25923567491023114,Strong,Moneyline
+Texas Rangers vs Washington Nationals,Washington Nationals ML,+120,44.3%,69.9%,0.25569710806697116,Strong,Moneyline
+Milwaukee Brewers vs Seattle Mariners,Milwaukee Brewers ML,-124,53.4%,78.2%,0.24800649080469328,Strong,Moneyline
+Cincinnati Reds vs St. Louis Cardinals,UNDER 8.5,-115,51.1%,75.3%,0.24212724865934454,Strong,Total
+Houston Astros vs Los Angeles Angels,Los Angeles Angels +1.5,-155,58.5%,71.9%,0.13406211078078445,Strong,Run Line
+Boston Red Sox vs Arizona Diamondbacks,Boston Red Sox ML,-160,59.8%,72.1%,0.12273053152039548,Strong,Moneyline
+Pittsburgh Pirates vs Detroit Tigers,Detroit Tigers +1.5,-157,58.9%,70.6%,0.11639744914615147,Good,Run Line
+Baltimore Orioles vs New York Yankees,Baltimore Orioles +1.5,-155,58.6%,68.5%,0.09931311559941702,Good,Run Line
+Minnesota Twins vs Atlanta Braves,Minnesota Twins +1.5,-168,60.6%,69.4%,0.08789957712784668,Good,Run Line
+Boston Red Sox vs Arizona Diamondbacks,Boston Red Sox -1.5,+131,41.6%,49.2%,0.07557230466063652,Lean,Run Line
+Chicago Cubs vs Chicago White Sox,OVER  8.0,-105,48.9%,56.0%,0.07110435913303897,Lean,Total
+Chicago Cubs vs Chicago White Sox,Chicago White Sox +1.5,-170,60.7%,67.7%,0.0702236391225135,Lean,Run Line
