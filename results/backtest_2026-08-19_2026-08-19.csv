@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-19,Pittsburgh Pirates,Detroit Tigers,4,3,7,Pittsburgh Pirates,Detroit Tigers,48.3,51.7,False,51.7,9.55,2.5500000000000007,False,HIGH,8.5,UNDER
+2026-08-19,New York Mets,San Diego Padres,4,2,6,New York Mets,San Diego Padres,38.4,61.6,False,61.6,7.77,1.7699999999999996,False,HIGH,8.5,UNDER
+2026-08-19,Minnesota Twins,Atlanta Braves,6,4,10,Minnesota Twins,Atlanta Braves,47.1,52.9,False,52.9,7.15,2.8499999999999996,False,LOW,9.0,OVER
+2026-08-19,Chicago Cubs,Chicago White Sox,0,3,3,Chicago White Sox,Chicago White Sox,49.4,50.6,True,50.6,10.98,7.98,True,HIGH,7.5,UNDER
+2026-08-19,Boston Red Sox,Arizona Diamondbacks,6,7,13,Arizona Diamondbacks,Boston Red Sox,71.8,28.2,False,71.8,8.34,4.66,False,LOW,8.5,OVER
+2026-08-19,Philadelphia Phillies,Miami Marlins,4,1,5,Philadelphia Phillies,Miami Marlins,49.3,50.7,False,50.7,10.07,5.07,False,HIGH,9.0,UNDER
+2026-08-19,Baltimore Orioles,New York Yankees,3,5,8,New York Yankees,New York Yankees,47.7,52.3,True,52.3,7.18,0.8200000000000003,True,LOW,9.0,UNDER
+2026-08-19,Cleveland Guardians,San Francisco Giants,0,1,1,San Francisco Giants,Cleveland Guardians,58.5,41.5,False,58.5,7.52,6.52,False,HIGH,7.5,UNDER
+2026-08-19,Cincinnati Reds,St. Louis Cardinals,5,4,9,Cincinnati Reds,St. Louis Cardinals,33.5,66.5,False,66.5,8.13,0.8699999999999992,False,LOW,8.5,OVER
+2026-08-19,Tampa Bay Rays,Toronto Blue Jays,7,6,13,Tampa Bay Rays,Tampa Bay Rays,71.6,28.4,True,71.6,9.4,3.5999999999999996,False,LOW,7.0,OVER
+2026-08-19,Kansas City Royals,Athletics,9,7,16,Kansas City Royals,Kansas City Royals,60.1,39.9,True,60.1,10.26,5.74,True,LOW,8.5,OVER
+2026-08-19,Milwaukee Brewers,Seattle Mariners,5,7,12,Seattle Mariners,Milwaukee Brewers,77.1,22.9,False,77.1,8.96,3.039999999999999,False,LOW,7.5,OVER
+2026-08-19,Texas Rangers,Washington Nationals,0,6,6,Washington Nationals,Washington Nationals,30.7,69.3,True,69.3,8.25,2.25,True,HIGH,7.5,UNDER
+2026-08-19,Houston Astros,Los Angeles Angels,3,2,5,Houston Astros,Los Angeles Angels,49.2,50.8,False,50.8,6.99,1.9900000000000002,False,HIGH,8.5,UNDER
+2026-08-19,Colorado Rockies,Los Angeles Dodgers,4,6,10,Los Angeles Dodgers,Los Angeles Dodgers,50.0,50.0,True,50.0,11.01,1.0099999999999998,True,HIGH,11.5,UNDER

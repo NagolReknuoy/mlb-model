@@ -1,0 +1,23 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Detroit Tigers +1.5,-160.0,0.1147,0.5912,0.7059,True,0.625,2026-08-19,Pittsburgh Pirates vs Detroit Tigers
+Run Line,San Diego Padres -1.5,119.0,0.0708,0.4391,0.5099,False,-1.0,2026-08-19,New York Mets vs San Diego Padres
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.7976,True,0.9524,2026-08-19,New York Mets vs San Diego Padres
+Run Line,Minnesota Twins +1.5,-173.0,0.0821,0.6082,0.6903,True,0.578,2026-08-19,Minnesota Twins vs Atlanta Braves
+Total,UNDER 9.0,-112.0,0.2,0.5055,0.9205,False,-1.0,2026-08-19,Minnesota Twins vs Atlanta Braves
+Run Line,Chicago White Sox +1.5,-170.0,0.1112,0.6067,0.7179,True,0.5882,2026-08-19,Chicago Cubs vs Chicago White Sox
+Total,OVER  7.5,-115.0,0.1784,0.5108,0.6892,False,-1.0,2026-08-19,Chicago Cubs vs Chicago White Sox
+Moneyline,Boston Red Sox ML,-160.0,0.1168,0.6012,0.718,False,-1.0,2026-08-19,Boston Red Sox vs Arizona Diamondbacks
+Run Line,Boston Red Sox -1.5,129.0,0.1479,0.4175,0.5654,False,-1.0,2026-08-19,Boston Red Sox vs Arizona Diamondbacks
+Total,UNDER 8.5,-114.0,0.2,0.5087,0.7392,False,-1.0,2026-08-19,Boston Red Sox vs Arizona Diamondbacks
+Run Line,Miami Marlins +1.5,-170.0,0.0903,0.6018,0.6921,False,-1.0,2026-08-19,Philadelphia Phillies vs Miami Marlins
+Run Line,Baltimore Orioles +1.5,-170.0,0.0781,0.6018,0.6798,False,-1.0,2026-08-19,Baltimore Orioles vs New York Yankees
+Total,UNDER 9.0,-105.0,0.2,0.4892,0.9188,True,0.9524,2026-08-19,Baltimore Orioles vs New York Yankees
+Total,UNDER 7.5,-120.0,0.1884,0.5217,0.7101,True,0.8333,2026-08-19,Cleveland Guardians vs San Francisco Giants
+Moneyline,St. Louis Cardinals ML,125.0,0.2311,0.4339,0.665,False,-1.0,2026-08-19,Cincinnati Reds vs St. Louis Cardinals
+Total,UNDER 8.5,-117.0,0.2,0.514,0.7613,False,-1.0,2026-08-19,Cincinnati Reds vs St. Louis Cardinals
+Run Line,Kansas City Royals -1.5,120.0,0.1334,0.438,0.5713,True,1.2,2026-08-19,Kansas City Royals vs Athletics
+Moneyline,Milwaukee Brewers ML,-122.0,0.2376,0.5334,0.771,False,-1.0,2026-08-19,Milwaukee Brewers vs Seattle Mariners
+Moneyline,Washington Nationals ML,108.0,0.2264,0.4666,0.693,True,1.08,2026-08-19,Texas Rangers vs Washington Nationals
+Total,UNDER 8.5,-110.0,0.2,0.5,0.867,True,0.9091,2026-08-19,Houston Astros vs Los Angeles Angels
+Run Line,Colorado Rockies +1.5,110.0,0.0884,0.4573,0.5456,False,-1.0,2026-08-19,Colorado Rockies vs Los Angeles Dodgers
+Total,UNDER 11.5,-120.0,0.2,0.5193,0.7894,True,0.8333,2026-08-19,Colorado Rockies vs Los Angeles Dodgers

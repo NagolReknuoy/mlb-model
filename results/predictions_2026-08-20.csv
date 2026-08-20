@@ -1,0 +1,10 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cincinnati Reds,St. Louis Cardinals,Brady Singer,Michael Mcgreevy,31.5,68.5,8.17,1.028,hitter,one of the top HR parks in MLB,unknown,1.0,5-7 (home-away),1.845,4.714
+Cleveland Guardians,San Francisco Giants,Gavin Williams,Landen Roupp,50.4,49.6,7.04,1.009,neutral,below-average HR park,unknown,1.0,1-1 (home-away),3.54,2.503
+Tampa Bay Rays,Toronto Blue Jays,Ian Seymour,Shane Bieber,66.3,33.7,9.81,0.98,neutral,dome; artificial turf,dome,1.0,9-3 (home-away),5.81,4.315
+Kansas City Royals,Athletics,Randy Dobnak,Gage Jump,50.3,49.7,11.06,1.06,pitcher,large dimensions; spray park,unknown,1.0,4-2 (home-away),7.075,5.469
+Chicago White Sox,Atlanta Braves,Anthony Kay,Grant Holmes,72.3,27.7,8.52,0.959,neutral,July is extreme hitter month (+12 pts),unknown,1.0,2-0 (home-away),5.017,3.028
+Milwaukee Brewers,Seattle Mariners,Robert Gasser,George Kirby,78.2,21.8,9.03,0.95,pitcher,large dimensions suppress HRs,dome,1.0,1-1 (home-away),7.321,2.422
+Baltimore Orioles,New York Yankees,Kyle Bradish,Gerrit Cole,46.7,53.3,7.19,1.081,hitter,short RF; warm summers,"76°F, wind 14 mph",0.948,2-7 (home-away),2.9,3.714
+Texas Rangers,Washington Nationals,Jacob Degrom,Andrew Alvarez,36.2,63.8,7.89,1.009,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,1-1 (home-away),2.741,4.417
+Houston Astros,Los Angeles Angels,Peter Lambert,Grayson Rodriguez,50.1,49.9,7.02,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,7-5 (home-away),2.746,2.425
