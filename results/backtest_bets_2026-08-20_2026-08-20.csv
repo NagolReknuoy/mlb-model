@@ -1,0 +1,13 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,St. Louis Cardinals ML,-108.0,0.1912,0.5058,0.697,True,0.9259,2026-08-20,Cincinnati Reds vs St. Louis Cardinals
+Total,UNDER 9.0,-115.0,0.2,0.5108,0.8464,False,-1.0,2026-08-20,Cincinnati Reds vs St. Louis Cardinals
+Total,UNDER 7.0,-125.0,0.2,0.5263,0.7664,False,-1.0,2026-08-20,Cleveland Guardians vs San Francisco Giants
+Run Line,Tampa Bay Rays -1.5,130.0,0.0769,0.414,0.4909,False,-1.0,2026-08-20,Tampa Bay Rays vs Toronto Blue Jays
+Run Line,Kansas City Royals -1.5,155.0,0.1485,0.3744,0.5229,True,1.55,2026-08-20,Kansas City Royals vs Athletics
+Moneyline,Chicago White Sox ML,-106.0,0.2411,0.4989,0.74,False,-1.0,2026-08-20,Chicago White Sox vs Atlanta Braves
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.6999,True,0.9524,2026-08-20,Chicago White Sox vs Atlanta Braves
+Moneyline,Milwaukee Brewers ML,-134.0,0.2165,0.5575,0.774,True,0.7463,2026-08-20,Milwaukee Brewers vs Seattle Mariners
+Total,UNDER 7.5,-120.0,0.2,0.5205,0.7207,True,0.8333,2026-08-20,Baltimore Orioles vs New York Yankees
+Moneyline,Washington Nationals ML,156.0,0.25,0.3775,0.645,False,-1.0,2026-08-20,Texas Rangers vs Washington Nationals
+Run Line,Los Angeles Angels +1.5,-135.0,0.1599,0.5468,0.7066,True,0.7407,2026-08-20,Houston Astros vs Los Angeles Angels
+Total,UNDER 8.0,-110.0,0.2,0.5,0.8686,False,-1.0,2026-08-20,Houston Astros vs Los Angeles Angels
