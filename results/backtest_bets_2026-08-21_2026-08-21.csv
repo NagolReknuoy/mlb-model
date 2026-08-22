@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,St. Louis Cardinals +1.5,104.0,0.1086,0.4687,0.5774,True,1.04,2026-08-21,Philadelphia Phillies vs St. Louis Cardinals
+Total,UNDER 8.0,-110.0,0.2,0.5,0.7477,False,-1.0,2026-08-21,Philadelphia Phillies vs St. Louis Cardinals
+Total,UNDER 7.0,-110.0,0.2,0.5011,0.7675,True,0.9091,2026-08-21,New York Yankees vs Toronto Blue Jays
+Moneyline,Boston Red Sox ML,-176.0,0.159,0.622,0.781,True,0.5682,2026-08-21,Boston Red Sox vs San Francisco Giants
+Total,UNDER 7.5,-104.0,0.1881,0.486,0.6741,True,0.9615,2026-08-21,Miami Marlins vs Washington Nationals
+Run Line,Tampa Bay Rays +1.5,-200.0,0.1124,0.6341,0.7465,False,-1.0,2026-08-21,Baltimore Orioles vs Tampa Bay Rays
+Total,OVER  7.5,-118.0,0.17,0.5174,0.6873,True,0.8475,2026-08-21,Baltimore Orioles vs Tampa Bay Rays
+Run Line,New York Mets +1.5,-194.0,0.19,0.6309,0.8208,False,-1.0,2026-08-21,Chicago White Sox vs New York Mets
+Total,UNDER 8.0,-115.0,0.2,0.5108,0.8437,False,-1.0,2026-08-21,Chicago White Sox vs New York Mets
+Run Line,Kansas City Royals +1.5,-190.0,0.107,0.6283,0.7353,True,0.5263,2026-08-21,Kansas City Royals vs Detroit Tigers
+Total,UNDER 8.5,112.0,0.192,0.4854,0.6774,True,1.12,2026-08-21,Kansas City Royals vs Detroit Tigers
+Run Line,Athletics +1.5,-143.0,0.1128,0.5642,0.677,False,-1.0,2026-08-21,Houston Astros vs Athletics
+Total,UNDER 7.5,-120.0,0.2,0.5217,0.7642,True,0.8333,2026-08-21,Texas Rangers vs Los Angeles Angels
+Run Line,Colorado Rockies +1.5,-120.0,0.1277,0.5217,0.6495,False,-1.0,2026-08-21,Colorado Rockies vs Cleveland Guardians
+Total,UNDER 10.5,-108.0,0.2,0.4957,0.8133,True,0.9259,2026-08-21,Colorado Rockies vs Cleveland Guardians
+Moneyline,Arizona Diamondbacks ML,-147.0,0.131,0.58,0.711,True,0.6803,2026-08-21,Arizona Diamondbacks vs Cincinnati Reds
+Moneyline,San Diego Padres ML,-116.0,0.2428,0.5252,0.768,True,0.8621,2026-08-21,San Diego Padres vs Minnesota Twins
+Moneyline,Los Angeles Dodgers ML,-230.0,0.0969,0.6801,0.777,True,0.4348,2026-08-21,Los Angeles Dodgers vs Pittsburgh Pirates
+Moneyline,Chicago Cubs ML,-103.0,0.25,0.4942,0.772,False,-1.0,2026-08-21,Seattle Mariners vs Chicago Cubs

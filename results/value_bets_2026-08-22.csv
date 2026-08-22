@@ -1,0 +1,23 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Miami Marlins vs Washington Nationals,UNDER 7.5,-105,48.9%,72.4%,0.23504353173753628,Strong,Total
+San Diego Padres vs Minnesota Twins,San Diego Padres ML,-135,56.1%,76.6%,0.2054987843650644,Strong,Moneyline
+Los Angeles Dodgers vs Pittsburgh Pirates,UNDER 7.5,-110,50.0%,70.2%,0.20179143846441772,Strong,Total
+Colorado Rockies vs Cleveland Guardians,Cleveland Guardians ML,-139,56.7%,76.4%,0.19716719528772086,Strong,Moneyline
+Kansas City Royals vs Detroit Tigers,Kansas City Royals ML,-105,50.0%,69.0%,0.18999999999999995,Strong,Moneyline
+Kansas City Royals vs Detroit Tigers,UNDER 8.5,-110,50.0%,68.3%,0.18306346638112903,Strong,Total
+San Diego Padres vs Minnesota Twins,UNDER 8.5,-115,51.1%,67.7%,0.16658800967682097,Strong,Total
+Arizona Diamondbacks vs Cincinnati Reds,Arizona Diamondbacks ML,-167,61.0%,76.9%,0.15906574141709273,Strong,Moneyline
+San Diego Padres vs Minnesota Twins,San Diego Padres -1.5,+147,39.0%,54.6%,0.1556140535283822,Strong,Run Line
+Los Angeles Dodgers vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,-105,48.9%,63.7%,0.14737628313309464,Strong,Run Line
+Texas Rangers vs Los Angeles Angels,Los Angeles Angels +1.5,-150,57.4%,71.9%,0.14469002307108214,Strong,Run Line
+Seattle Mariners vs Chicago Cubs,Chicago Cubs ML,+103,47.9%,62.1%,0.14157085516780016,Strong,Moneyline
+Seattle Mariners vs Chicago Cubs,Chicago Cubs +1.5,-209,64.2%,77.5%,0.13280357188128888,Strong,Run Line
+Arizona Diamondbacks vs Cincinnati Reds,Arizona Diamondbacks -1.5,+122,43.2%,56.2%,0.13016463455442828,Strong,Run Line
+Boston Red Sox vs San Francisco Giants,Boston Red Sox ML,-204,65.3%,78.0%,0.1273491773308959,Strong,Moneyline
+Chicago White Sox vs New York Mets,Chicago White Sox +1.5,-189,62.8%,73.9%,0.11160265450195539,Good,Run Line
+Miami Marlins vs Washington Nationals,Washington Nationals +1.5,-143,56.4%,66.4%,0.09982730418868024,Good,Run Line
+Boston Red Sox vs San Francisco Giants,Boston Red Sox -1.5,+105,46.8%,56.2%,0.09480715379211418,Good,Run Line
+Baltimore Orioles vs Tampa Bay Rays,Baltimore Orioles +1.5,-155,58.3%,67.7%,0.09393165357481426,Good,Run Line
+New York Yankees vs Toronto Blue Jays,New York Yankees +1.5,-196,63.7%,71.9%,0.0821701268186229,Good,Run Line
+Colorado Rockies vs Cleveland Guardians,Cleveland Guardians -1.5,+105,46.8%,54.0%,0.0725736289593562,Lean,Run Line
+Baltimore Orioles vs Tampa Bay Rays,OVER  8.0,-105,48.9%,55.9%,0.07002571025884224,Lean,Total
