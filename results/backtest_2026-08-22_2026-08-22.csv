@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-22,New York Yankees,Toronto Blue Jays,3,4,7,Toronto Blue Jays,New York Yankees,50.5,49.5,False,50.5,6.96,0.040000000000000036,False,LOW,6.5,OVER
+2026-08-22,Milwaukee Brewers,Atlanta Braves,4,1,5,Milwaukee Brewers,Milwaukee Brewers,65.4,34.6,True,65.4,8.03,3.0299999999999994,True,HIGH,8.0,UNDER
+2026-08-22,Miami Marlins,Washington Nationals,4,2,6,Miami Marlins,Miami Marlins,55.7,44.3,True,55.7,7.44,1.4400000000000004,True,HIGH,7.5,UNDER
+2026-08-22,Philadelphia Phillies,St. Louis Cardinals,12,3,15,Philadelphia Phillies,Philadelphia Phillies,58.6,41.4,True,58.6,10.06,4.9399999999999995,True,LOW,9.0,OVER
+2026-08-22,Baltimore Orioles,Tampa Bay Rays,3,2,5,Baltimore Orioles,Tampa Bay Rays,49.6,50.4,False,50.4,11.04,6.039999999999999,False,HIGH,8.5,UNDER
+2026-08-22,Texas Rangers,Los Angeles Angels,0,3,3,Los Angeles Angels,Texas Rangers,50.4,49.6,False,50.4,7.05,4.05,False,HIGH,8.0,UNDER
+2026-08-22,Houston Astros,Athletics,3,4,7,Athletics,Houston Astros,66.5,33.5,False,66.5,9.82,2.8200000000000003,False,HIGH,8.0,UNDER
+2026-08-22,Chicago White Sox,New York Mets,5,10,15,New York Mets,Chicago White Sox,57.7,42.3,False,57.7,7.43,7.57,False,LOW,8.5,OVER
+2026-08-22,Kansas City Royals,Detroit Tigers,3,1,4,Kansas City Royals,Kansas City Royals,69.5,30.5,True,69.5,8.82,4.82,True,HIGH,8.5,UNDER
+2026-08-22,Los Angeles Dodgers,Pittsburgh Pirates,4,3,7,Los Angeles Dodgers,Los Angeles Dodgers,61.9,38.1,True,61.9,7.97,0.9699999999999998,False,HIGH,7.5,UNDER
+2026-08-22,Seattle Mariners,Chicago Cubs,5,4,9,Seattle Mariners,Chicago Cubs,37.1,62.9,False,62.9,10.08,1.08,False,HIGH,7.5,OVER
+2026-08-22,Boston Red Sox,San Francisco Giants,3,2,5,Boston Red Sox,Boston Red Sox,77.3,22.7,True,77.3,9.05,4.050000000000001,False,HIGH,8.0,UNDER
+2026-08-22,Arizona Diamondbacks,Cincinnati Reds,5,11,16,Cincinnati Reds,Arizona Diamondbacks,77.7,22.3,False,77.7,8.98,7.02,False,LOW,8.5,OVER
+2026-08-22,Colorado Rockies,Cleveland Guardians,3,4,7,Cleveland Guardians,Cleveland Guardians,22.3,77.7,True,77.7,8.95,1.9499999999999993,False,HIGH,11.0,UNDER
+2026-08-22,San Diego Padres,Minnesota Twins,7,5,12,San Diego Padres,San Diego Padres,76.5,23.5,True,76.5,8.9,3.0999999999999996,True,LOW,8.0,OVER

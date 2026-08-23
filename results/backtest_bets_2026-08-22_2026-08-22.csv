@@ -1,0 +1,17 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,New York Yankees +1.5,-200.0,0.1124,0.6359,0.7483,True,0.5,2026-08-22,New York Yankees vs Toronto Blue Jays
+Total,UNDER 8.0,-115.0,0.2,0.5108,0.7716,True,0.8696,2026-08-22,Milwaukee Brewers vs Atlanta Braves
+Total,UNDER 7.5,-118.0,0.2,0.5162,0.7195,True,0.8475,2026-08-22,Miami Marlins vs Washington Nationals
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.8622,True,0.9524,2026-08-22,Texas Rangers vs Los Angeles Angels
+Run Line,Chicago White Sox +1.5,-185.0,0.1811,0.6187,0.7998,False,-1.0,2026-08-22,Chicago White Sox vs New York Mets
+Total,UNDER 8.5,-106.0,0.2,0.4913,0.8295,False,-1.0,2026-08-22,Chicago White Sox vs New York Mets
+Moneyline,Kansas City Royals ML,-105.0,0.195,0.5,0.695,True,0.9524,2026-08-22,Kansas City Royals vs Detroit Tigers
+Total,UNDER 8.5,-115.0,0.1744,0.512,0.6864,True,0.8696,2026-08-22,Kansas City Royals vs Detroit Tigers
+Run Line,Pittsburgh Pirates +1.5,105.0,0.1428,0.4675,0.6103,True,1.05,2026-08-22,Los Angeles Dodgers vs Pittsburgh Pirates
+Moneyline,Chicago Cubs ML,103.0,0.1486,0.4804,0.629,False,-1.0,2026-08-22,Seattle Mariners vs Chicago Cubs
+Moneyline,Boston Red Sox ML,-205.0,0.116,0.657,0.773,True,0.4878,2026-08-22,Boston Red Sox vs San Francisco Giants
+Moneyline,Arizona Diamondbacks ML,-187.0,0.1394,0.6376,0.777,False,-1.0,2026-08-22,Arizona Diamondbacks vs Cincinnati Reds
+Total,UNDER 8.5,-110.0,0.1684,0.5,0.6684,False,-1.0,2026-08-22,Arizona Diamondbacks vs Cincinnati Reds
+Moneyline,Cleveland Guardians ML,-138.0,0.2164,0.5606,0.777,True,0.7246,2026-08-22,Colorado Rockies vs Cleveland Guardians
+Total,UNDER 11.0,-115.0,0.2,0.5108,0.9249,True,0.8696,2026-08-22,Colorado Rockies vs Cleveland Guardians
+Moneyline,San Diego Padres ML,-139.0,0.1982,0.5668,0.765,True,0.7194,2026-08-22,San Diego Padres vs Minnesota Twins
