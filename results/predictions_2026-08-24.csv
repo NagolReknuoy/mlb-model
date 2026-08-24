@@ -1,0 +1,11 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Tampa Bay Rays,Framber Valdez,Drew Rasmussen,51.2,48.8,8.78,0.96,pitcher,very deep CF historically,unknown,1.0,3-0 (home-away),4.454,4.374
+Miami Marlins,Boston Red Sox,Sandy Alcantara,Ranger Suarez,23.2,76.8,9.02,0.96,neutral,roof often closed; average park,dome,1.0,no prior meetings,2.674,5.568
+Washington Nationals,Colorado Rockies,Cade Cavalli,Ryan Feltner,75.6,24.4,8.82,1.06,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,2-1 (home-away),5.307,3.282
+Chicago White Sox,Texas Rangers,Nan,Kumar Rocker,51.9,48.1,7.05,0.959,neutral,July is extreme hitter month (+12 pts),unknown,1.0,2-1 (home-away),3.558,2.359
+Los Angeles Angels,Cleveland Guardians,George Klassen,Parker Messick,49.8,50.2,7.02,0.97,neutral,symmetrical; marine layer suppresses HRs,unknown,1.0,0-3 (home-away),2.114,2.827
+Arizona Diamondbacks,Chicago Cubs,Merrill Kelly,Kevin Gausman,50.0,50.0,11.04,1.124,hitter,"high altitude (1,082 ft)",dome,1.0,0-3 (home-away),5.913,8.918
+San Diego Padres,Pittsburgh Pirates,Robbie Ray,Braxton Ashcraft,53.0,47.0,7.22,0.978,pitcher,marine layer; large dimensions,unknown,1.0,2-1 (home-away),3.71,3.02
+Athletics,Minnesota Twins,Jeffrey Springs,Zebby Matthews,60.4,39.6,9.73,0.912,pitcher,largest foul territory in MLB,"62°F, wind 7 mph",0.997,1-2 (home-away),5.252,4.52
+Seattle Mariners,Philadelphia Phillies,Logan Gilbert,Zack Wheeler,22.1,77.9,9.0,0.931,pitcher,marine air; roof often closed,dome,1.0,no prior meetings,2.551,8.218
+San Francisco Giants,Cincinnati Reds,Nan,Chase Burns,49.5,50.5,7.04,0.912,pitcher,marine layer; bay wind tricky in RF,"60°F, wind 14 mph",0.996,1-2 (home-away),3.226,3.451

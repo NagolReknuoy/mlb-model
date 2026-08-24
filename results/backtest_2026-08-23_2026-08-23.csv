@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-23,Baltimore Orioles,Tampa Bay Rays,1,3,4,Tampa Bay Rays,Baltimore Orioles,63.0,37.0,False,63.0,10.04,6.039999999999999,False,HIGH,8.5,UNDER
+2026-08-23,Philadelphia Phillies,St. Louis Cardinals,6,4,10,Philadelphia Phillies,Philadelphia Phillies,78.4,21.6,True,78.4,9.01,0.9900000000000002,True,LOW,8.0,OVER
+2026-08-23,New York Yankees,Toronto Blue Jays,8,3,11,New York Yankees,New York Yankees,50.2,49.8,True,50.2,6.98,4.02,True,LOW,8.0,OVER
+2026-08-23,Miami Marlins,Washington Nationals,6,2,8,Miami Marlins,Miami Marlins,54.8,45.2,True,54.8,7.25,0.75,True,LOW,8.0,PUSH
+2026-08-23,Kansas City Royals,Detroit Tigers,11,7,18,Kansas City Royals,Kansas City Royals,76.3,23.7,True,76.3,8.91,9.09,True,LOW,8.5,OVER
+2026-08-23,Houston Astros,Athletics,6,7,13,Athletics,Athletics,43.4,56.6,True,56.6,9.14,3.8599999999999994,False,LOW,8.5,OVER
+2026-08-23,Chicago White Sox,New York Mets,2,1,3,Chicago White Sox,New York Mets,41.7,58.3,False,58.3,8.06,5.0600000000000005,False,HIGH,8.5,UNDER
+2026-08-23,Texas Rangers,Los Angeles Angels,5,3,8,Texas Rangers,Texas Rangers,50.4,49.6,True,50.4,7.02,0.9800000000000004,True,LOW,8.0,PUSH
+2026-08-23,Colorado Rockies,Cleveland Guardians,2,7,9,Cleveland Guardians,Cleveland Guardians,23.6,76.4,True,76.4,9.07,0.07000000000000028,True,HIGH,11.0,UNDER
+2026-08-23,Boston Red Sox,San Francisco Giants,5,4,9,Boston Red Sox,Boston Red Sox,77.2,22.8,True,77.2,9.0,0.0,False,LOW,8.5,OVER
+2026-08-23,Los Angeles Dodgers,Pittsburgh Pirates,4,0,4,Los Angeles Dodgers,Los Angeles Dodgers,61.9,38.1,True,61.9,8.46,4.460000000000001,True,HIGH,8.5,UNDER
+2026-08-23,Seattle Mariners,Chicago Cubs,2,19,21,Chicago Cubs,Chicago Cubs,31.7,68.3,True,68.3,9.68,11.32,True,LOW,7.5,OVER
+2026-08-23,San Diego Padres,Minnesota Twins,8,1,9,San Diego Padres,San Diego Padres,77.9,22.1,True,77.9,8.97,0.02999999999999936,True,LOW,8.5,OVER
+2026-08-23,Arizona Diamondbacks,Cincinnati Reds,5,3,8,Arizona Diamondbacks,Arizona Diamondbacks,55.0,45.0,True,55.0,10.58,2.58,True,HIGH,8.5,UNDER
+2026-08-23,Milwaukee Brewers,Atlanta Braves,2,4,6,Atlanta Braves,Milwaukee Brewers,70.0,30.0,False,70.0,8.27,2.2699999999999996,False,HIGH,8.0,UNDER

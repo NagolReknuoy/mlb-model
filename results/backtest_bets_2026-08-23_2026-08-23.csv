@@ -1,0 +1,25 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Baltimore Orioles ML,-110.0,0.1244,0.5056,0.63,False,-1.0,2026-08-23,Baltimore Orioles vs Tampa Bay Rays
+Run Line,Baltimore Orioles +1.5,-185.0,0.1624,0.6187,0.7811,False,-1.0,2026-08-23,Baltimore Orioles vs Tampa Bay Rays
+Moneyline,Philadelphia Phillies ML,-216.0,0.1193,0.6647,0.784,True,0.463,2026-08-23,Philadelphia Phillies vs St. Louis Cardinals
+Run Line,Toronto Blue Jays +1.5,-198.0,0.1121,0.6351,0.7472,False,-1.0,2026-08-23,New York Yankees vs Toronto Blue Jays
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.8678,False,-1.0,2026-08-23,New York Yankees vs Toronto Blue Jays
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.8454,False,-1.0,2026-08-23,Miami Marlins vs Washington Nationals
+Moneyline,Kansas City Royals ML,-102.0,0.25,0.4908,0.763,True,0.9804,2026-08-23,Kansas City Royals vs Detroit Tigers
+Total,UNDER 8.5,-108.0,0.1806,0.4957,0.6763,False,-1.0,2026-08-23,Kansas City Royals vs Detroit Tigers
+Moneyline,New York Mets ML,-107.0,0.0795,0.5035,0.583,False,-1.0,2026-08-23,Chicago White Sox vs New York Mets
+Total,UNDER 8.5,100.0,0.2,0.4963,0.7685,True,1.0,2026-08-23,Chicago White Sox vs New York Mets
+Total,UNDER 8.0,-115.0,0.2,0.5108,0.8646,False,-1.0,2026-08-23,Texas Rangers vs Los Angeles Angels
+Moneyline,Cleveland Guardians ML,-165.0,0.159,0.605,0.764,True,0.6061,2026-08-23,Colorado Rockies vs Cleveland Guardians
+Total,UNDER 11.0,-120.0,0.2,0.5217,0.9191,True,0.8333,2026-08-23,Colorado Rockies vs Cleveland Guardians
+Moneyline,Boston Red Sox ML,-205.0,0.115,0.657,0.772,True,0.4878,2026-08-23,Boston Red Sox vs San Francisco Giants
+Total,UNDER 8.5,-110.0,0.1661,0.5,0.6661,False,-1.0,2026-08-23,Boston Red Sox vs San Francisco Giants
+Run Line,Pittsburgh Pirates +1.5,110.0,0.1463,0.4573,0.6036,False,-1.0,2026-08-23,Los Angeles Dodgers vs Pittsburgh Pirates
+Total,UNDER 8.5,-110.0,0.2,0.5,0.7262,True,0.9091,2026-08-23,Los Angeles Dodgers vs Pittsburgh Pirates
+Moneyline,Chicago Cubs ML,-126.0,0.1437,0.5393,0.683,True,0.7937,2026-08-23,Seattle Mariners vs Chicago Cubs
+Run Line,Chicago Cubs -1.5,135.0,0.1943,0.406,0.6003,True,1.35,2026-08-23,Seattle Mariners vs Chicago Cubs
+Moneyline,San Diego Padres ML,-150.0,0.1939,0.5851,0.779,True,0.6667,2026-08-23,San Diego Padres vs Minnesota Twins
+Total,UNDER 8.5,100.0,0.1931,0.4764,0.6695,False,-1.0,2026-08-23,San Diego Padres vs Minnesota Twins
+Run Line,Arizona Diamondbacks -1.5,138.0,0.1749,0.4029,0.5778,True,1.38,2026-08-23,Arizona Diamondbacks vs Cincinnati Reds
+Moneyline,Milwaukee Brewers ML,-113.0,0.1877,0.5123,0.7,False,-1.0,2026-08-23,Milwaukee Brewers vs Atlanta Braves
+Total,UNDER 8.0,-120.0,0.2,0.5181,0.7466,True,0.8333,2026-08-23,Milwaukee Brewers vs Atlanta Braves
