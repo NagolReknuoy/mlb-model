@@ -1,0 +1,15 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Detroit Tigers +1.5,-145.0,0.1454,0.5656,0.711,False,-1.0,2026-08-24,Detroit Tigers vs Tampa Bay Rays
+Moneyline,Boston Red Sox ML,-123.0,0.2307,0.5343,0.765,True,0.813,2026-08-24,Miami Marlins vs Boston Red Sox
+Moneyline,Washington Nationals ML,-194.0,0.119,0.648,0.767,True,0.5155,2026-08-24,Washington Nationals vs Colorado Rockies
+Run Line,Washington Nationals -1.5,108.0,0.1191,0.4596,0.5787,True,1.08,2026-08-24,Washington Nationals vs Colorado Rockies
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.8694,False,-1.0,2026-08-24,Chicago White Sox vs Texas Rangers
+Run Line,Los Angeles Angels +1.5,-131.0,0.0983,0.5376,0.6358,False,-1.0,2026-08-24,Los Angeles Angels vs Cleveland Guardians
+Total,UNDER 7.5,-105.0,0.2,0.506,0.7697,True,0.9524,2026-08-24,Los Angeles Angels vs Cleveland Guardians
+Run Line,San Diego Padres +1.5,-210.0,0.1631,0.6422,0.8053,True,0.4762,2026-08-24,San Diego Padres vs Pittsburgh Pirates
+Total,UNDER 7.5,-118.0,0.2,0.5174,0.7461,True,0.8475,2026-08-24,San Diego Padres vs Pittsburgh Pirates
+Moneyline,Athletics ML,130.0,0.156,0.427,0.583,False,-1.0,2026-08-24,Athletics vs Minnesota Twins
+Total,UNDER 11.0,-105.0,0.2,0.4892,0.8898,False,-1.0,2026-08-24,Athletics vs Minnesota Twins
+Moneyline,Philadelphia Phillies ML,-114.0,0.25,0.5183,0.784,False,-1.0,2026-08-24,Seattle Mariners vs Philadelphia Phillies
+Run Line,San Francisco Giants +1.5,-118.0,0.1141,0.5174,0.6315,True,0.8475,2026-08-24,San Francisco Giants vs Cincinnati Reds
+Total,UNDER 7.5,-110.0,0.2,0.5,0.737,True,0.9091,2026-08-24,San Francisco Giants vs Cincinnati Reds

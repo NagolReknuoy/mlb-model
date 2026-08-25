@@ -1,0 +1,11 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-24,Detroit Tigers,Tampa Bay Rays,1,4,5,Tampa Bay Rays,Detroit Tigers,50.7,49.3,False,50.7,8.51,3.51,False,HIGH,7.5,UNDER
+2026-08-24,Miami Marlins,Boston Red Sox,2,4,6,Boston Red Sox,Boston Red Sox,23.5,76.5,True,76.5,8.95,2.9499999999999993,True,HIGH,7.0,UNDER
+2026-08-24,Washington Nationals,Colorado Rockies,13,3,16,Washington Nationals,Washington Nationals,76.7,23.3,True,76.7,8.9,7.1,True,LOW,8.0,OVER
+2026-08-24,Chicago White Sox,Texas Rangers,2,11,13,Texas Rangers,Chicago White Sox,50.3,49.7,False,50.3,6.96,6.04,False,LOW,8.0,OVER
+2026-08-24,Los Angeles Angels,Cleveland Guardians,2,4,6,Cleveland Guardians,Los Angeles Angels,50.1,49.9,False,50.1,7.0,1.0,False,HIGH,7.5,UNDER
+2026-08-24,Arizona Diamondbacks,Chicago Cubs,0,7,7,Chicago Cubs,Arizona Diamondbacks,50.3,49.7,False,50.3,10.97,3.9700000000000006,False,HIGH,9.0,UNDER
+2026-08-24,San Diego Padres,Pittsburgh Pirates,2,3,5,Pittsburgh Pirates,San Diego Padres,54.7,45.3,False,54.7,7.21,2.21,False,HIGH,7.5,UNDER
+2026-08-24,Athletics,Minnesota Twins,6,9,15,Minnesota Twins,Athletics,58.3,41.7,False,58.3,9.61,5.390000000000001,False,LOW,11.0,OVER
+2026-08-24,Seattle Mariners,Philadelphia Phillies,9,2,11,Seattle Mariners,Philadelphia Phillies,21.6,78.4,False,78.4,9.03,1.9700000000000006,False,LOW,6.5,OVER
+2026-08-24,San Francisco Giants,Cincinnati Reds,5,0,5,San Francisco Giants,Cincinnati Reds,45.0,55.0,False,55.0,7.29,2.29,False,HIGH,7.5,UNDER
