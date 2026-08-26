@@ -1,0 +1,5 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Washington Nationals ML,-164.0,0.1245,0.5985,0.723,False,-1.0,2026-08-25,Washington Nationals vs Colorado Rockies
+Moneyline,New York Yankees ML,-140.0,0.1472,0.5708,0.718,False,-1.0,2026-08-25,New York Yankees vs Houston Astros
+Moneyline,Kansas City Royals ML,116.0,0.2377,0.4503,0.688,True,1.16,2026-08-25,Toronto Blue Jays vs Kansas City Royals
+Moneyline,Philadelphia Phillies ML,-102.0,0.2404,0.4866,0.727,False,-1.0,2026-08-25,Seattle Mariners vs Philadelphia Phillies
