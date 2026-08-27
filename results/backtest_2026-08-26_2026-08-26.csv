@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-26,Detroit Tigers,Tampa Bay Rays,0,3,3,Tampa Bay Rays,Detroit Tigers,65.4,34.6,False,65.4,8.19,5.1899999999999995,False,HIGH,5.5,UNDER
+2026-08-26,Arizona Diamondbacks,Chicago Cubs,2,0,2,Arizona Diamondbacks,Arizona Diamondbacks,50.4,49.6,True,50.4,10.98,8.98,True,HIGH,8.5,UNDER
+2026-08-26,San Francisco Giants,Cincinnati Reds,9,10,19,Cincinnati Reds,Cincinnati Reds,49.5,50.5,True,50.5,7.0,12.0,False,LOW,7.0,OVER
+2026-08-26,Los Angeles Angels,Cleveland Guardians,3,4,7,Cleveland Guardians,Cleveland Guardians,49.5,50.5,True,50.5,7.04,0.040000000000000036,False,HIGH,8.5,UNDER
+2026-08-26,San Diego Padres,Pittsburgh Pirates,3,0,3,San Diego Padres,San Diego Padres,50.3,49.7,True,50.3,6.94,3.9400000000000004,True,HIGH,8.5,UNDER
+2026-08-26,Seattle Mariners,Philadelphia Phillies,0,6,6,Philadelphia Phillies,Philadelphia Phillies,22.3,77.7,True,77.7,8.97,2.9700000000000006,True,HIGH,7.0,UNDER
+2026-08-26,Miami Marlins,Boston Red Sox,4,0,4,Miami Marlins,Boston Red Sox,25.6,74.4,False,74.4,8.66,4.66,False,HIGH,7.5,UNDER
+2026-08-26,Washington Nationals,Colorado Rockies,1,13,14,Colorado Rockies,Washington Nationals,60.3,39.7,False,60.3,7.97,6.03,False,LOW,9.0,OVER
+2026-08-26,New York Yankees,Houston Astros,9,3,12,New York Yankees,New York Yankees,77.0,23.0,True,77.0,8.9,3.0999999999999996,True,LOW,8.75,OVER
+2026-08-26,Toronto Blue Jays,Kansas City Royals,3,0,3,Toronto Blue Jays,Kansas City Royals,42.8,57.2,False,57.2,7.47,4.47,False,HIGH,8.5,UNDER
+2026-08-26,New York Mets,Milwaukee Brewers,1,8,9,Milwaukee Brewers,Milwaukee Brewers,44.9,55.1,True,55.1,7.23,1.7699999999999996,True,LOW,8.5,OVER
+2026-08-26,Atlanta Braves,Los Angeles Dodgers,6,5,11,Atlanta Braves,Los Angeles Dodgers,48.7,51.3,False,51.3,7.07,3.9299999999999997,False,LOW,8.5,OVER
+2026-08-26,Chicago White Sox,Texas Rangers,10,4,14,Chicago White Sox,Texas Rangers,43.5,56.5,False,56.5,7.38,6.62,False,LOW,8.0,OVER
+2026-08-26,St. Louis Cardinals,Baltimore Orioles,7,8,15,Baltimore Orioles,Baltimore Orioles,27.9,72.1,True,72.1,9.39,5.609999999999999,False,LOW,8.5,OVER
+2026-08-26,Athletics,Minnesota Twins,7,4,11,Athletics,Minnesota Twins,49.3,50.7,False,50.7,9.9,1.0999999999999996,False,LOW,10.5,OVER

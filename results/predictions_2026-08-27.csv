@@ -1,0 +1,8 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Washington Nationals,Colorado Rockies,Jake Irvin,Gabriel Hughes,44.2,55.8,10.57,1.06,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,3-3 (home-away),5.065,6.435
+St. Louis Cardinals,Baltimore Orioles,Gordon Graceffo,Trevor Rogers,25.7,74.3,9.2,0.99,neutral,natural grass; moderate dimensions,unknown,1.0,0-2 (home-away),3.701,7.404
+New York Yankees,Houston Astros,Gerrit Cole,Hayden Wesneski,77.4,22.6,9.02,1.071,hitter,short porches both sides,unknown,1.0,3-2 (home-away),7.057,2.335
+Toronto Blue Jays,Kansas City Royals,Spencer Arrighetti,Noah Cameron,32.7,67.3,8.14,1.04,neutral,turf boosts groundball singles,dome,1.0,1-1 (home-away),3.042,4.634
+New York Mets,Milwaukee Brewers,Sean Manaea,Jacob Misiorowski,32.5,67.5,8.27,0.98,pitcher,sea-level; large dimensions,unknown,1.0,2-3 (home-away),1.921,4.736
+Atlanta Braves,Los Angeles Dodgers,Chris Sale,Yoshinobu Yamamoto,49.3,50.7,7.06,0.949,hitter,warm humid air; June winds boost offense,unknown,1.0,4-1 (home-away),2.327,2.594
+San Francisco Giants,Arizona Diamondbacks,Landen Roupp,Jose Cabrera,40.8,59.2,9.32,0.912,pitcher,marine layer; bay wind tricky in RF,unknown,1.0,1-8 (home-away),4.337,4.939

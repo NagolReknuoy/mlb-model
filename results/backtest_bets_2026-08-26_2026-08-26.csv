@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Detroit Tigers ML,-119.0,0.124,0.53,0.654,False,-1.0,2026-08-26,Detroit Tigers vs Tampa Bay Rays
+Run Line,Detroit Tigers -1.5,169.5,0.0772,0.3544,0.4316,False,-1.0,2026-08-26,Detroit Tigers vs Tampa Bay Rays
+Total,UNDER 7.0,100.0,0.2,0.4773,0.7697,False,-1.0,2026-08-26,San Francisco Giants vs Cincinnati Reds
+Total,UNDER 8.5,-115.0,0.2,0.5114,0.863,True,0.8696,2026-08-26,Los Angeles Angels vs Cleveland Guardians
+Total,UNDER 8.5,-119.5,0.2,0.5188,0.871,True,0.8368,2026-08-26,San Diego Padres vs Pittsburgh Pirates
+Moneyline,Philadelphia Phillies ML,-135.5,0.2195,0.5575,0.777,True,0.738,2026-08-26,Seattle Mariners vs Philadelphia Phillies
+Moneyline,Boston Red Sox ML,-131.0,0.194,0.55,0.744,False,-1.0,2026-08-26,Miami Marlins vs Boston Red Sox
+Total,UNDER 9.0,-110.0,0.2,0.5,0.8673,False,-1.0,2026-08-26,Washington Nationals vs Colorado Rockies
+Moneyline,New York Yankees ML,-119.5,0.2384,0.5316,0.77,True,0.8368,2026-08-26,New York Yankees vs Houston Astros
+Total,OVER  8.75,-9.0,0.1869,0.1357,0.3226,True,10.0,2026-08-26,New York Yankees vs Houston Astros
+Total,UNDER 8.5,-114.5,0.2,0.5097,0.8259,True,0.8734,2026-08-26,Toronto Blue Jays vs Kansas City Royals
+Total,OVER  8.5,-1.0,0.135,0.0179,0.1529,True,10.0,2026-08-26,New York Mets vs Milwaukee Brewers
+Total,UNDER 8.5,100.0,0.2,0.4783,0.8606,False,-1.0,2026-08-26,Atlanta Braves vs Los Angeles Dodgers
+Run Line,Texas Rangers -0,-23.0,0.0989,0.4476,0.5465,False,-1.0,2026-08-26,Chicago White Sox vs Texas Rangers
+Total,UNDER 8.0,-110.0,0.2,0.5,0.834,False,-1.0,2026-08-26,Chicago White Sox vs Texas Rangers
+Moneyline,Baltimore Orioles ML,-112.5,0.2104,0.5106,0.721,True,0.8889,2026-08-26,St. Louis Cardinals vs Baltimore Orioles
+Run Line,Baltimore Orioles -1.5,145.5,0.1929,0.3865,0.5794,False,-1.0,2026-08-26,St. Louis Cardinals vs Baltimore Orioles
+Run Line,Athletics +1.5,-136.5,0.1293,0.552,0.6813,True,0.7326,2026-08-26,Athletics vs Minnesota Twins
+Total,UNDER 10.5,-115.0,0.2,0.5103,0.7938,False,-1.0,2026-08-26,Athletics vs Minnesota Twins
