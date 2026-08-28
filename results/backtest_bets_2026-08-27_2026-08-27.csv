@@ -1,0 +1,8 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Colorado Rockies +1.5,-171.0,0.1975,0.6033,0.8008,False,-1.0,2026-08-27,Washington Nationals vs Colorado Rockies
+Moneyline,Baltimore Orioles ML,-130.0,0.1889,0.5451,0.734,False,-1.0,2026-08-27,St. Louis Cardinals vs Baltimore Orioles
+Moneyline,New York Yankees ML,-162.0,0.1816,0.5964,0.778,False,-1.0,2026-08-27,New York Yankees vs Houston Astros
+Moneyline,Kansas City Royals ML,-110.0,0.1674,0.5056,0.673,True,0.9091,2026-08-27,Toronto Blue Jays vs Kansas City Royals
+Run Line,Kansas City Royals -1.5,145.0,0.1154,0.3893,0.5047,True,1.45,2026-08-27,Toronto Blue Jays vs Kansas City Royals
+Total,UNDER 8.5,-118.0,0.2,0.515,0.7582,False,-1.0,2026-08-27,Toronto Blue Jays vs Kansas City Royals
+Run Line,Milwaukee Brewers -1.5,-110.0,0.1894,0.5,0.6894,True,0.9091,2026-08-27,New York Mets vs Milwaukee Brewers

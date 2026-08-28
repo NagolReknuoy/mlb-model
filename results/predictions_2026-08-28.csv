@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Chicago Cubs,Cincinnati Reds,David Peterson,Rhett Lowder,69.9,30.1,9.62,1.05,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,6-1 (home-away),9.617,4.089
+Detroit Tigers,Los Angeles Dodgers,Drew Anderson,Tarik Skubal,36.4,63.6,7.85,0.96,pitcher,very deep CF historically,unknown,1.0,no prior meetings,2.529,4.38
+Washington Nationals,Miami Marlins,Jackson Kent,Eury Pérez,40.6,59.4,7.6,1.06,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,1-8 (home-away),2.363,4.068
+Cleveland Guardians,Kansas City Royals,Tanner Bibee,Michael Wacha,43.3,56.7,7.75,1.009,neutral,below-average HR park,unknown,1.0,4-3 (home-away),3.723,4.022
+New York Mets,Houston Astros,Christian Scott,Hunter Brown,56.8,43.2,7.8,0.98,pitcher,sea-level; large dimensions,"76°F, wind 7 mph",1.036,no prior meetings,4.11,3.692
+Tampa Bay Rays,San Diego Padres,Shane Mcclanahan,Casey Mize,49.5,50.5,7.02,0.98,neutral,dome; artificial turf,dome,1.0,no prior meetings,2.073,3.372
+Toronto Blue Jays,Seattle Mariners,Dylan Cease,Emerson Hancock,77.2,22.8,9.03,1.04,neutral,turf boosts groundball singles,dome,1.0,1-2 (home-away),5.551,3.488
+Atlanta Braves,Colorado Rockies,Grant Holmes,Tomoyuki Sugano,61.4,38.6,7.74,0.949,hitter,warm humid air; June winds boost offense,"82°F, wind 12 mph",1.005,3-0 (home-away),4.236,2.635
+New York Yankees,Boston Red Sox,Cam Schlittler,Patrick Sandoval,57.5,42.5,8.06,1.071,hitter,short porches both sides,"76°F, wind 4 mph",1.002,4-5 (home-away),4.25,3.752
+Milwaukee Brewers,Texas Rangers,Logan Henderson,Cody Bradford,73.6,26.4,8.61,0.95,pitcher,large dimensions suppress HRs,dome,1.0,no prior meetings,5.096,1.734
+Minnesota Twins,Chicago White Sox,Dean Kremer,Luis Castillo,36.5,63.5,10.12,0.99,neutral,cold Aprils suppress offense (-8 pts),"79°F, wind 3 mph",0.991,3-4 (home-away),4.554,6.125
+St. Louis Cardinals,Pittsburgh Pirates,Quinn Mathews,Jared Jones,45.2,54.8,7.53,0.99,neutral,natural grass; moderate dimensions,"82°F, wind 5 mph",1.029,5-2 (home-away),3.636,3.904
+Los Angeles Angels,Philadelphia Phillies,Reid Detmers,Andrew Painter,43.7,56.3,7.33,0.97,neutral,symmetrical; marine layer suppresses HRs,"91°F, wind 5 mph",1.036,no prior meetings,3.315,3.866
+Athletics,Baltimore Orioles,Jacob Lopez,Brandon Young,36.2,63.8,10.04,0.912,pitcher,largest foul territory in MLB,"64°F, wind 6 mph",0.998,2-1 (home-away),4.473,6.792
+San Francisco Giants,Arizona Diamondbacks,Blade Tidwell,Kohl Drake,63.8,36.2,7.86,0.912,pitcher,marine layer; bay wind tricky in RF,"62°F, wind 13 mph",0.997,2-8 (home-away),4.378,3.339

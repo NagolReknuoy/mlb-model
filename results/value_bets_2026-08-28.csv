@@ -1,0 +1,11 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+St. Louis Cardinals vs Pittsburgh Pirates,UNDER 7.5,-114,51.0%,70.9%,0.19910123926015255,Strong,Total
+Minnesota Twins vs Chicago White Sox,Chicago White Sox ML,+115,45.4%,63.5%,0.181045395460454,Strong,Moneyline
+San Francisco Giants vs Arizona Diamondbacks,San Francisco Giants ML,+104,47.8%,63.8%,0.159797153024911,Strong,Moneyline
+Athletics vs Baltimore Orioles,UNDER 9.5,-118,51.7%,67.5%,0.15715319401390038,Strong,Total
+Minnesota Twins vs Chicago White Sox,Chicago White Sox +1.5,-193,63.3%,78.3%,0.14940325334807336,Strong,Run Line
+Cleveland Guardians vs Kansas City Royals,Kansas City Royals +1.5,-177,61.4%,74.5%,0.1310169987515013,Strong,Run Line
+Athletics vs Baltimore Orioles,Baltimore Orioles ML,-109,50.8%,63.8%,0.12992357393391185,Strong,Moneyline
+Washington Nationals vs Miami Marlins,Miami Marlins ML,-108,49.8%,59.4%,0.09565190960750619,Good,Moneyline
+Milwaukee Brewers vs Texas Rangers,Milwaukee Brewers ML,-207,65.8%,73.6%,0.07827102960031218,Lean,Moneyline
+Tampa Bay Rays vs San Diego Padres,San Diego Padres +1.5,-210,64.7%,71.9%,0.07179148322012241,Lean,Run Line
