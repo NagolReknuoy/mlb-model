@@ -1,0 +1,22 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Toronto Blue Jays vs Seattle Mariners,Toronto Blue Jays ML,-108,50.6%,77.0%,0.2642327212328135,Strong,Moneyline
+Chicago Cubs vs Cincinnati Reds,UNDER 9.5,-115,51.1%,75.6%,0.24491264533181167,Strong,Total
+New York Yankees (G1) vs Boston Red Sox,UNDER 7.5,-105,48.9%,73.1%,0.24202565690873706,Strong,Total
+San Francisco Giants (G1) vs Arizona Diamondbacks,UNDER 8.5,-114,50.9%,71.6%,0.20776191528568588,Strong,Total
+San Francisco Giants (G2) vs Arizona Diamondbacks,UNDER 8.5,-114,50.9%,71.3%,0.20446776717674953,Strong,Total
+Athletics vs Baltimore Orioles,Baltimore Orioles ML,-140,56.9%,75.9%,0.19034435657800142,Strong,Moneyline
+Milwaukee Brewers vs Texas Rangers,Milwaukee Brewers ML,-162,59.9%,78.2%,0.18258712005381927,Strong,Moneyline
+Cleveland Guardians vs Kansas City Royals,Kansas City Royals +1.5,-155,58.3%,73.5%,0.15230054126795745,Strong,Run Line
+Milwaukee Brewers vs Texas Rangers,Milwaukee Brewers -1.5,+130,41.9%,56.2%,0.14345664260117746,Strong,Run Line
+Minnesota Twins vs Chicago White Sox,Chicago White Sox ML,+100,48.8%,62.2%,0.13362790697674415,Strong,Moneyline
+Washington Nationals vs Miami Marlins,Washington Nationals +1.5,-182,61.7%,74.5%,0.12729209294415256,Strong,Run Line
+New York Yankees (G1) vs Boston Red Sox,Boston Red Sox +1.5,-199,63.6%,75.7%,0.1208909021684208,Strong,Run Line
+Los Angeles Angels vs Philadelphia Phillies,Los Angeles Angels +1.5,+115,44.7%,55.9%,0.11278226217308585,Good,Run Line
+San Francisco Giants (G2) vs Arizona Diamondbacks,San Francisco Giants (G2) +1.5,-179,61.5%,72.7%,0.11183241025371671,Good,Run Line
+San Francisco Giants (G1) vs Arizona Diamondbacks,San Francisco Giants (G1) +1.5,-179,61.5%,72.7%,0.11183241025371671,Good,Run Line
+New York Mets vs Houston Astros,Houston Astros +1.5,-172,60.8%,71.8%,0.11065809020201056,Good,Run Line
+Athletics vs Baltimore Orioles,Baltimore Orioles -1.5,+110,45.7%,54.9%,0.09197457093958633,Good,Run Line
+Tampa Bay Rays vs San Diego Padres,San Diego Padres +1.5,-190,62.7%,71.9%,0.09176507207313522,Good,Run Line
+Chicago Cubs vs Cincinnati Reds,Chicago Cubs ML,-208,66.1%,75.0%,0.08878915874692006,Good,Moneyline
+New York Yankees (G2) vs Boston Red Sox,Boston Red Sox +1.5,-199,63.6%,72.1%,0.08420850701309668,Good,Run Line
+Atlanta Braves vs Colorado Rockies,Colorado Rockies +1.5,-105,48.9%,56.0%,0.07110241529227906,Lean,Run Line

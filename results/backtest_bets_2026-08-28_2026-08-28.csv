@@ -1,0 +1,23 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 9.0,-118.0,0.2,0.515,0.7175,False,-1.0,2026-08-28,Chicago Cubs vs Cincinnati Reds
+Run Line,Los Angeles Dodgers -1.5,-110.0,0.0772,0.4948,0.572,False,-1.0,2026-08-28,Detroit Tigers vs Los Angeles Dodgers
+Run Line,Miami Marlins -1.5,118.0,0.0852,0.438,0.5233,False,-1.0,2026-08-28,Washington Nationals vs Miami Marlins
+Total,UNDER 8.5,-115.0,0.2,0.5108,0.8148,False,-1.0,2026-08-28,Washington Nationals vs Miami Marlins
+Run Line,Kansas City Royals +1.5,-190.0,0.13,0.6256,0.7556,True,0.5263,2026-08-28,Cleveland Guardians vs Kansas City Royals
+Total,UNDER 7.5,-120.0,0.1978,0.5217,0.7195,True,0.8333,2026-08-28,Cleveland Guardians vs Kansas City Royals
+Run Line,New York Mets +1.5,-185.0,0.1196,0.6187,0.7383,False,-1.0,2026-08-28,New York Mets vs Houston Astros
+Total,UNDER 7.5,-104.0,0.2,0.486,0.6934,True,0.9615,2026-08-28,New York Mets vs Houston Astros
+Total,UNDER 7.5,-115.0,0.2,0.5108,0.7697,False,-1.0,2026-08-28,Tampa Bay Rays vs San Diego Padres
+Moneyline,Toronto Blue Jays ML,-145.0,0.2017,0.5733,0.775,True,0.6897,2026-08-28,Toronto Blue Jays vs Seattle Mariners
+Run Line,Toronto Blue Jays -1.5,145.0,0.1837,0.3893,0.573,True,1.45,2026-08-28,Toronto Blue Jays vs Seattle Mariners
+Total,UNDER 9.0,-112.0,0.2,0.5032,0.8817,False,-1.0,2026-08-28,Atlanta Braves vs Colorado Rockies
+Moneyline,Milwaukee Brewers ML,-215.0,0.1152,0.6628,0.778,True,0.4651,2026-08-28,Milwaukee Brewers vs Texas Rangers
+Moneyline,Chicago White Sox ML,116.0,0.1767,0.4503,0.627,True,1.16,2026-08-28,Minnesota Twins vs Chicago White Sox
+Run Line,St. Louis Cardinals +1.5,-178.0,0.095,0.6107,0.7057,True,0.5618,2026-08-28,St. Louis Cardinals vs Pittsburgh Pirates
+Total,UNDER 7.5,-120.0,0.2,0.5157,0.7461,True,0.8333,2026-08-28,St. Louis Cardinals vs Pittsburgh Pirates
+Total,UNDER 7.5,-105.0,0.2,0.4892,0.7277,False,-1.0,2026-08-28,Los Angeles Angels vs Philadelphia Phillies
+Moneyline,Baltimore Orioles ML,-111.0,0.132,0.509,0.641,True,0.9009,2026-08-28,Athletics vs Baltimore Orioles
+Run Line,Baltimore Orioles -1.5,135.0,0.1865,0.406,0.5925,False,-1.0,2026-08-28,Athletics vs Baltimore Orioles
+Total,UNDER 9.5,-118.0,0.1625,0.5174,0.6798,True,0.8475,2026-08-28,Athletics vs Baltimore Orioles
+Moneyline,San Francisco Giants ML,101.0,0.1591,0.4799,0.639,False,-1.0,2026-08-28,San Francisco Giants vs Arizona Diamondbacks
+Total,UNDER 8.0,-108.0,0.2,0.4926,0.7877,False,-1.0,2026-08-28,San Francisco Giants vs Arizona Diamondbacks
