@@ -1,0 +1,26 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Boston Red Sox +1.5,-190.0,0.1815,0.6246,0.8061,False,-1.0,2026-08-29,New York Yankees vs Boston Red Sox
+Total,UNDER 7.0,100.0,0.2,0.4802,0.7686,False,-1.0,2026-08-29,New York Yankees vs Boston Red Sox
+Moneyline,Chicago White Sox ML,-105.0,0.1326,0.4944,0.627,True,0.9524,2026-08-29,Minnesota Twins vs Chicago White Sox
+Run Line,Chicago White Sox -1.5,148.0,0.1559,0.3836,0.5395,False,-1.0,2026-08-29,Minnesota Twins vs Chicago White Sox
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.8548,False,-1.0,2026-08-29,St. Louis Cardinals vs Pittsburgh Pirates
+Moneyline,Chicago Cubs ML,-213.0,0.0852,0.6598,0.745,True,0.4695,2026-08-29,Chicago Cubs vs Cincinnati Reds
+Total,UNDER 9.5,-115.0,0.2,0.5085,0.7557,False,-1.0,2026-08-29,Chicago Cubs vs Cincinnati Reds
+Moneyline,Toronto Blue Jays ML,-110.0,0.25,0.5056,0.768,True,0.9091,2026-08-29,Toronto Blue Jays vs Seattle Mariners
+Run Line,San Francisco Giants +1.5,-157.0,0.1637,0.5842,0.7479,False,-1.0,2026-08-29,San Francisco Giants vs Arizona Diamondbacks
+Total,UNDER 8.0,-110.0,0.2,0.5,0.7327,False,-1.0,2026-08-29,San Francisco Giants vs Arizona Diamondbacks
+Run Line,San Francisco Giants +1.5,-157.0,0.0841,0.5842,0.6683,True,0.6369,2026-08-29,San Francisco Giants vs Arizona Diamondbacks
+Total,UNDER 8.0,-115.0,0.2,0.5085,0.842,False,-1.0,2026-08-29,Washington Nationals vs Miami Marlins
+Run Line,Kansas City Royals +1.5,-156.0,0.1839,0.5825,0.7665,True,0.641,2026-08-29,Cleveland Guardians vs Kansas City Royals
+Total,UNDER 8.0,-110.0,0.2,0.5,0.8522,False,-1.0,2026-08-29,Cleveland Guardians vs Kansas City Royals
+Run Line,Houston Astros +1.5,-162.0,0.1212,0.5913,0.7125,False,-1.0,2026-08-29,New York Mets vs Houston Astros
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.867,False,-1.0,2026-08-29,New York Mets vs Houston Astros
+Run Line,San Diego Padres +1.5,-193.0,0.1708,0.6296,0.8004,True,0.5181,2026-08-29,Tampa Bay Rays vs San Diego Padres
+Total,UNDER 8.0,-112.0,0.2,0.5021,0.8702,False,-1.0,2026-08-29,Tampa Bay Rays vs San Diego Padres
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.7716,True,0.9524,2026-08-29,Atlanta Braves vs Colorado Rockies
+Moneyline,Milwaukee Brewers ML,-166.0,0.1734,0.6046,0.778,True,0.6024,2026-08-29,Milwaukee Brewers vs Texas Rangers
+Moneyline,Baltimore Orioles ML,-143.0,0.2053,0.5697,0.775,True,0.6993,2026-08-29,Athletics vs Baltimore Orioles
+Run Line,Baltimore Orioles -1.5,105.0,0.1117,0.4632,0.5749,True,1.05,2026-08-29,Athletics vs Baltimore Orioles
+Total,UNDER 10.0,-115.0,0.2,0.5108,0.8634,True,0.8696,2026-08-29,Athletics vs Baltimore Orioles
+Run Line,Los Angeles Angels +2,-108.0,0.0805,0.4886,0.5691,True,0.9259,2026-08-29,Los Angeles Angels vs Philadelphia Phillies
+Total,UNDER 8.5,-115.0,0.2,0.512,0.7572,True,0.8696,2026-08-29,Los Angeles Angels vs Philadelphia Phillies

@@ -1,0 +1,15 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Washington Nationals,Miami Marlins,Andrew Alvarez,Janson Junk,51.4,48.6,7.13,1.06,neutral,cold Aprils very suppressive (-9 pts),"86°F, wind 6 mph",0.982,3-8 (home-away),3.603,3.205
+Atlanta Braves,Colorado Rockies,Tyler Mahle,Mason Adams,62.3,37.7,7.8,0.949,hitter,warm humid air; June winds boost offense,"85°F, wind 4 mph",1.006,5-0 (home-away),4.322,2.116
+New York Yankees,Boston Red Sox,Will Warren,Ranger Suarez,50.4,49.6,7.03,1.071,hitter,short porches both sides,"80°F, wind 7 mph",1.004,6-6 (home-away),3.183,3.136
+Toronto Blue Jays,Seattle Mariners,Max Scherzer,Logan Gilbert,69.6,30.4,8.93,1.04,neutral,turf boosts groundball singles,dome,1.0,3-2 (home-away),5.152,3.786
+Cleveland Guardians,Kansas City Royals,Parker Messick,Seth Lugo,46.0,54.0,7.22,1.009,neutral,below-average HR park,"77°F, wind 4 mph",1.003,4-5 (home-away),3.036,3.718
+Detroit Tigers,Los Angeles Dodgers,Framber Valdez,Tyler Glasnow,49.7,50.3,7.01,0.96,pitcher,very deep CF historically,"74°F, wind 5 mph",1.026,1-1 (home-away),2.034,2.787
+Tampa Bay Rays,San Diego Padres,Drew Rasmussen,Robbie Ray,50.2,49.8,7.02,0.98,neutral,dome; artificial turf,dome,1.0,2-0 (home-away),3.15,2.951
+Minnesota Twins,Chicago White Sox,Zebby Matthews,Jordan Hicks,30.8,69.2,9.65,0.99,neutral,cold Aprils suppress offense (-8 pts),"87°F, wind 9 mph",0.972,3-6 (home-away),4.105,6.492
+Milwaukee Brewers,Texas Rangers,Dustin May,Kumar Rocker,77.7,22.3,9.03,0.95,pitcher,large dimensions suppress HRs,dome,1.0,2-0 (home-away),5.916,1.752
+St. Louis Cardinals,Pittsburgh Pirates,Matthew Liberatore,Braxton Ashcraft,49.4,50.6,7.1,0.99,neutral,natural grass; moderate dimensions,"88°F, wind 8 mph",0.974,6-3 (home-away),2.752,3.589
+New York Mets,Houston Astros,Zac Thornton,Ethan Pecko,62.3,37.7,8.14,0.98,pitcher,sea-level; large dimensions,"79°F, wind 6 mph",0.98,1-1 (home-away),4.478,3.657
+Athletics,Baltimore Orioles,Jeffrey Springs,Chris Bassitt,23.7,76.3,9.09,0.912,pitcher,largest foul territory in MLB,"64°F, wind 5 mph",0.998,2-3 (home-away),3.576,6.488
+Los Angeles Angels,Philadelphia Phillies,Yusei Kikuchi,Zack Wheeler,28.9,71.1,8.39,0.97,neutral,symmetrical; marine layer suppresses HRs,"77°F, wind 7 mph",1.04,0-2 (home-away),2.349,4.893
+Chicago Cubs,Cincinnati Reds,Shota Imanaga,Chase Burns,68.7,31.3,9.73,1.05,variable,wind hugely variable; extreme hitter or pitcher park,"74°F, wind 6 mph",0.966,7-2 (home-away),9.337,4.215
