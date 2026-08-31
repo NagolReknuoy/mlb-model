@@ -1,0 +1,17 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Colorado Rockies vs Baltimore Orioles,Baltimore Orioles ML,-116,52.3%,77.8%,0.2552004241781548,Strong,Moneyline
+Chicago Cubs vs Milwaukee Brewers,Milwaukee Brewers ML,-103,49.4%,73.5%,0.24076727876718645,Strong,Moneyline
+Arizona Diamondbacks vs Philadelphia Phillies,Philadelphia Phillies ML,-116,52.4%,76.2%,0.23798060819744382,Strong,Moneyline
+Chicago Cubs vs Milwaukee Brewers,UNDER 9.5,-115,51.1%,74.4%,0.23303308850064253,Strong,Total
+Los Angeles Angels vs New York Yankees,New York Yankees ML,-121,53.5%,72.5%,0.190165228372974,Strong,Moneyline
+Atlanta Braves vs San Francisco Giants,San Francisco Giants +1.5,-125,53.2%,71.9%,0.18669057570993264,Strong,Run Line
+Boston Red Sox vs Seattle Mariners,Boston Red Sox ML,-157,59.5%,74.9%,0.15449069106973823,Strong,Moneyline
+Minnesota Twins vs Detroit Tigers,Detroit Tigers +1.5,-194,63.6%,77.9%,0.1430452818093486,Strong,Run Line
+Arizona Diamondbacks vs Philadelphia Phillies,Philadelphia Phillies -1.5,+135,40.8%,54.8%,0.14058777482842333,Strong,Run Line
+Colorado Rockies vs Baltimore Orioles,Baltimore Orioles -1.5,+123,43.2%,56.2%,0.13057291690782064,Strong,Run Line
+Minnesota Twins vs Detroit Tigers,Detroit Tigers ML,+105,47.4%,60.4%,0.1299839095455534,Strong,Moneyline
+Chicago Cubs vs Milwaukee Brewers,Milwaukee Brewers -1.5,+145,39.1%,51.5%,0.12440683294256916,Strong,Run Line
+Washington Nationals vs Miami Marlins,Washington Nationals +1.5,-175,61.0%,73.4%,0.12389797959584081,Strong,Run Line
+Boston Red Sox vs Seattle Mariners,Boston Red Sox -1.5,+135,41.0%,52.2%,0.11166067792630713,Good,Run Line
+Los Angeles Angels vs New York Yankees,New York Yankees -1.5,+135,40.9%,50.5%,0.09603263935526651,Good,Run Line
+Texas Rangers vs Athletics,Texas Rangers ML,-214,66.1%,73.6%,0.07507822556261068,Lean,Moneyline

@@ -1,0 +1,24 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 9.5,-120.0,0.2,0.5217,0.9227,True,0.8333,2026-08-30,Washington Nationals vs Miami Marlins
+Run Line,Atlanta Braves -1.5,-115.0,0.0986,0.5108,0.6094,False,-1.0,2026-08-30,Atlanta Braves vs Colorado Rockies
+Total,UNDER 8.5,-115.0,0.2,0.5108,0.7956,True,0.8696,2026-08-30,Atlanta Braves vs Colorado Rockies
+Run Line,New York Yankees +1.5,-142.0,0.1817,0.5612,0.743,True,0.7042,2026-08-30,New York Yankees vs Boston Red Sox
+Total,UNDER 8.0,-110.0,0.2,0.5,0.8646,False,-1.0,2026-08-30,New York Yankees vs Boston Red Sox
+Moneyline,Toronto Blue Jays ML,120.0,0.25,0.441,0.703,True,1.2,2026-08-30,Toronto Blue Jays vs Seattle Mariners
+Total,UNDER 7.5,-120.0,0.2,0.5193,0.745,False,-1.0,2026-08-30,Cleveland Guardians vs Kansas City Royals
+Run Line,Detroit Tigers +1.5,-132.0,0.0964,0.5432,0.6396,False,-1.0,2026-08-30,Detroit Tigers vs Los Angeles Dodgers
+Total,UNDER 7.5,-120.0,0.2,0.5193,0.7675,True,0.8333,2026-08-30,Detroit Tigers vs Los Angeles Dodgers
+Run Line,San Diego Padres +1.5,-166.0,0.109,0.5966,0.7056,True,0.6024,2026-08-30,Tampa Bay Rays vs San Diego Padres
+Total,UNDER 7.0,-110.0,0.2,0.4958,0.7752,False,-1.0,2026-08-30,Tampa Bay Rays vs San Diego Padres
+Moneyline,Chicago White Sox ML,101.0,0.218,0.477,0.695,False,-1.0,2026-08-30,Minnesota Twins vs Chicago White Sox
+Moneyline,Milwaukee Brewers ML,-159.0,0.1873,0.5957,0.783,False,-1.0,2026-08-30,Milwaukee Brewers vs Texas Rangers
+Total,UNDER 8.5,-110.0,0.1737,0.4958,0.6695,False,-1.0,2026-08-30,Milwaukee Brewers vs Texas Rangers
+Total,UNDER 8.0,-115.0,0.2,0.497,0.8539,False,-1.0,2026-08-30,St. Louis Cardinals vs Pittsburgh Pirates
+Moneyline,New York Mets ML,-123.0,0.1209,0.5331,0.654,False,-1.0,2026-08-30,New York Mets vs Houston Astros
+Total,UNDER 9.0,-115.0,0.2,0.5108,0.8635,False,-1.0,2026-08-30,New York Mets vs Houston Astros
+Moneyline,Baltimore Orioles ML,-150.0,0.183,0.584,0.767,True,0.6667,2026-08-30,Athletics vs Baltimore Orioles
+Run Line,Baltimore Orioles -1.5,100.0,0.1889,0.4764,0.6653,True,1.0,2026-08-30,Athletics vs Baltimore Orioles
+Total,UNDER 10.0,-112.0,0.2,0.5021,0.8569,False,-1.0,2026-08-30,Athletics vs Baltimore Orioles
+Moneyline,Philadelphia Phillies ML,-170.0,0.0954,0.6096,0.705,True,0.5882,2026-08-30,Los Angeles Angels vs Philadelphia Phillies
+Run Line,Philadelphia Phillies -1.5,-101.0,0.1645,0.4795,0.644,True,0.9901,2026-08-30,Los Angeles Angels vs Philadelphia Phillies
+Moneyline,Chicago Cubs ML,-160.0,0.0948,0.5912,0.686,False,-1.0,2026-08-30,Chicago Cubs vs Cincinnati Reds

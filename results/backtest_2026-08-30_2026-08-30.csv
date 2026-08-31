@@ -1,0 +1,15 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-30,Washington Nationals,Miami Marlins,2,6,8,Miami Marlins,Washington Nationals,53.0,47.0,False,53.0,7.11,0.8899999999999997,False,LOW,9.5,UNDER
+2026-08-30,Atlanta Braves,Colorado Rockies,3,2,5,Atlanta Braves,Atlanta Braves,62.5,37.5,True,62.5,7.79,2.79,False,HIGH,8.5,UNDER
+2026-08-30,New York Yankees,Boston Red Sox,16,1,17,New York Yankees,Boston Red Sox,49.5,50.5,False,50.5,7.02,9.98,False,LOW,8.0,OVER
+2026-08-30,Toronto Blue Jays,Seattle Mariners,7,0,7,Toronto Blue Jays,Toronto Blue Jays,70.3,29.7,True,70.3,8.98,1.9800000000000004,True,HIGH,8.0,UNDER
+2026-08-30,Cleveland Guardians,Kansas City Royals,11,1,12,Cleveland Guardians,Kansas City Royals,46.4,53.6,False,53.6,7.22,4.78,False,LOW,7.5,OVER
+2026-08-30,Detroit Tigers,Los Angeles Dodgers,1,6,7,Los Angeles Dodgers,Detroit Tigers,50.4,49.6,False,50.4,7.02,0.019999999999999574,False,HIGH,7.5,UNDER
+2026-08-30,Tampa Bay Rays,San Diego Padres,5,4,9,Tampa Bay Rays,San Diego Padres,48.7,51.3,False,51.3,6.95,2.05,False,LOW,7.0,OVER
+2026-08-30,Minnesota Twins,Chicago White Sox,5,1,6,Minnesota Twins,Chicago White Sox,30.5,69.5,False,69.5,9.66,3.66,False,HIGH,8.5,UNDER
+2026-08-30,Milwaukee Brewers,Texas Rangers,4,7,11,Texas Rangers,Milwaukee Brewers,78.3,21.7,False,78.3,8.97,2.0299999999999994,False,LOW,8.5,OVER
+2026-08-30,St. Louis Cardinals,Pittsburgh Pirates,4,5,9,Pittsburgh Pirates,Pittsburgh Pirates,48.0,52.0,True,52.0,7.15,1.8499999999999996,False,LOW,8.0,OVER
+2026-08-30,New York Mets,Houston Astros,3,6,9,Houston Astros,New York Mets,65.4,34.6,False,65.4,8.02,0.9800000000000004,False,LOW,9.0,PUSH
+2026-08-30,Athletics,Baltimore Orioles,5,8,13,Baltimore Orioles,Baltimore Orioles,23.3,76.7,True,76.7,9.11,3.8900000000000006,True,LOW,10.0,OVER
+2026-08-30,Los Angeles Angels,Philadelphia Phillies,2,5,7,Philadelphia Phillies,Philadelphia Phillies,29.5,70.5,True,70.5,8.37,1.3699999999999992,True,HIGH,7.5,UNDER
+2026-08-30,Chicago Cubs,Cincinnati Reds,5,7,12,Cincinnati Reds,Chicago Cubs,68.6,31.4,False,68.6,9.68,2.3200000000000003,False,LOW,9.0,OVER

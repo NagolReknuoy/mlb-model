@@ -1,0 +1,13 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Atlanta Braves,San Francisco Giants,Bryce Elder,Anthony Molina,50.5,49.5,6.98,0.949,hitter,warm humid air; June winds boost offense,unknown,1.0,1-5 (home-away),3.143,2.637
+Cincinnati Reds,San Diego Padres,Brady Singer,Michael King,36.3,63.7,10.1,1.028,hitter,one of the top HR parks in MLB,unknown,1.0,1-2 (home-away),4.578,6.663
+Tampa Bay Rays,New York Mets,Ian Seymour,Robert Stock,62.7,37.3,7.84,0.98,neutral,dome; artificial turf,dome,1.0,no prior meetings,4.327,2.13
+Boston Red Sox,Seattle Mariners,Payton Tolle,George Kirby,74.9,25.1,8.71,1.03,hitter,Green Monster 37ft LF wall,unknown,1.0,2-1 (home-away),5.191,2.558
+Washington Nationals,Miami Marlins,Will Dion,Ryan Gusto,52.6,47.4,7.15,1.06,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,3-9 (home-away),3.635,3.138
+Minnesota Twins,Detroit Tigers,Taj Bradley,Jackson Jobe,39.6,60.4,7.58,0.99,neutral,cold Aprils suppress offense (-8 pts),unknown,1.0,5-2 (home-away),3.5,4.083
+Chicago Cubs,Milwaukee Brewers,Clay Holmes,Kyle Harrison,26.5,73.5,9.37,1.05,variable,wind hugely variable; extreme hitter or pitcher park,"82°F, wind 6 mph",0.979,2-4 (home-away),3.855,5.646
+Texas Rangers,Athletics,Jacob Degrom,Gage Jump,73.6,26.4,8.77,1.009,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,4-6 (home-away),5.192,3.559
+Houston Astros,Chicago White Sox,Peter Lambert,Anthony Kay,48.8,51.2,10.96,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,2-1 (home-away),5.479,6.359
+Colorado Rockies,Baltimore Orioles,Tanner Gordon,Cade Povich,22.2,77.8,9.02,1.175,hitter,"5,200 ft altitude; most extreme hitter park","70°F, wind 20 mph, rain 5.0mm",0.85,no prior meetings,3.106,6.123
+Los Angeles Angels,New York Yankees,Walbert Ureña,Elmer Rodríguez,27.5,72.5,8.57,0.97,neutral,symmetrical; marine layer suppresses HRs,"75°F, wind 7 mph",1.037,2-2 (home-away),2.658,5.067
+Arizona Diamondbacks,Philadelphia Phillies,Brandon Pfaadt,Aaron Nola,23.8,76.2,9.12,1.124,hitter,"high altitude (1,082 ft)",dome,1.0,2-1 (home-away),3.605,6.294
