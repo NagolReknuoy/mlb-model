@@ -1,0 +1,13 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-08-31,Atlanta Braves,San Francisco Giants,3,7,10,San Francisco Giants,San Francisco Giants,48.9,51.1,True,51.1,7.01,2.99,True,LOW,9.0,OVER
+2026-08-31,Cincinnati Reds,San Diego Padres,0,5,5,San Diego Padres,San Diego Padres,37.9,62.1,True,62.1,10.12,5.119999999999999,True,HIGH,9.0,UNDER
+2026-08-31,Tampa Bay Rays,New York Mets,2,3,5,New York Mets,Tampa Bay Rays,63.2,36.8,False,63.2,7.83,2.83,False,HIGH,8.0,UNDER
+2026-08-31,Boston Red Sox,Seattle Mariners,9,8,17,Boston Red Sox,Boston Red Sox,75.0,25.0,True,75.0,8.76,8.24,False,LOW,7.5,OVER
+2026-08-31,Washington Nationals,Miami Marlins,6,3,9,Washington Nationals,Washington Nationals,52.7,47.3,True,52.7,7.13,1.87,True,LOW,8.5,OVER
+2026-08-31,Minnesota Twins,Detroit Tigers,11,1,12,Minnesota Twins,Detroit Tigers,39.9,60.1,False,60.1,7.81,4.19,False,LOW,9.0,OVER
+2026-08-31,Chicago Cubs,Milwaukee Brewers,17,3,20,Chicago Cubs,Milwaukee Brewers,29.1,70.9,False,70.9,9.43,10.57,False,LOW,9.5,OVER
+2026-08-31,Texas Rangers,Athletics,8,1,9,Texas Rangers,Texas Rangers,75.8,24.2,True,75.8,8.87,0.13000000000000078,True,LOW,7.5,OVER
+2026-08-31,Houston Astros,Chicago White Sox,6,3,9,Houston Astros,Houston Astros,51.3,48.7,True,51.3,11.0,2.0,True,HIGH,8.5,OVER
+2026-08-31,Colorado Rockies,Baltimore Orioles,1,2,3,Baltimore Orioles,Baltimore Orioles,24.5,75.5,True,75.5,9.18,6.18,False,HIGH,11.0,UNDER
+2026-08-31,Los Angeles Angels,New York Yankees,10,1,11,Los Angeles Angels,New York Yankees,27.9,72.1,False,72.1,8.57,2.4299999999999997,False,LOW,8.0,OVER
+2026-08-31,Arizona Diamondbacks,Philadelphia Phillies,1,2,3,Philadelphia Phillies,Philadelphia Phillies,24.9,75.1,True,75.1,9.12,6.119999999999999,False,HIGH,8.5,UNDER

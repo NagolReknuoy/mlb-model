@@ -1,0 +1,21 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,San Francisco Giants +1.5,-125.0,0.1895,0.5325,0.722,True,0.8,2026-08-31,Atlanta Braves vs San Francisco Giants
+Total,UNDER 9.0,-110.0,0.2,0.5,0.928,False,-1.0,2026-08-31,Atlanta Braves vs San Francisco Giants
+Run Line,San Diego Padres -1.5,105.0,0.0941,0.4675,0.5617,True,1.05,2026-08-31,Cincinnati Reds vs San Diego Padres
+Run Line,Tampa Bay Rays -1.5,114.0,0.1548,0.447,0.6018,False,-1.0,2026-08-31,Tampa Bay Rays vs New York Mets
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.7917,True,0.9524,2026-08-31,Tampa Bay Rays vs New York Mets
+Moneyline,Boston Red Sox ML,-157.0,0.1575,0.5925,0.75,True,0.6369,2026-08-31,Boston Red Sox vs Seattle Mariners
+Run Line,Washington Nationals +1.5,-168.0,0.1847,0.6007,0.7854,True,0.5952,2026-08-31,Washington Nationals vs Miami Marlins
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.8556,False,-1.0,2026-08-31,Washington Nationals vs Miami Marlins
+Moneyline,Detroit Tigers ML,110.0,0.1377,0.4633,0.601,False,-1.0,2026-08-31,Minnesota Twins vs Detroit Tigers
+Run Line,Detroit Tigers +1.5,-190.0,0.153,0.6256,0.7786,False,-1.0,2026-08-31,Minnesota Twins vs Detroit Tigers
+Total,UNDER 9.0,-118.0,0.2,0.5174,0.8789,False,-1.0,2026-08-31,Minnesota Twins vs Detroit Tigers
+Moneyline,Milwaukee Brewers ML,-104.0,0.2102,0.4988,0.709,False,-1.0,2026-08-31,Chicago Cubs vs Milwaukee Brewers
+Run Line,Milwaukee Brewers -1.5,140.0,0.1303,0.3947,0.525,False,-1.0,2026-08-31,Chicago Cubs vs Milwaukee Brewers
+Total,UNDER 9.5,-120.0,0.2,0.5217,0.7379,False,-1.0,2026-08-31,Chicago Cubs vs Milwaukee Brewers
+Moneyline,Texas Rangers ML,-215.0,0.0914,0.6666,0.758,True,0.4651,2026-08-31,Texas Rangers vs Athletics
+Run Line,Chicago White Sox +1.5,-190.0,0.139,0.6256,0.7645,False,-1.0,2026-08-31,Houston Astros vs Chicago White Sox
+Moneyline,Baltimore Orioles ML,-120.0,0.2211,0.5339,0.755,True,0.8333,2026-08-31,Colorado Rockies vs Baltimore Orioles
+Total,UNDER 11.0,-110.0,0.2,0.5,0.9136,True,0.9091,2026-08-31,Colorado Rockies vs Baltimore Orioles
+Moneyline,New York Yankees ML,-122.0,0.1852,0.5358,0.721,False,-1.0,2026-08-31,Los Angeles Angels vs New York Yankees
+Moneyline,Philadelphia Phillies ML,-110.0,0.2442,0.5068,0.751,True,0.9091,2026-08-31,Arizona Diamondbacks vs Philadelphia Phillies
