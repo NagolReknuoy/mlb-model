@@ -1,0 +1,23 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,San Diego Padres ML,-139.5,0.2134,0.5566,0.77,False,-1.0,2026-09-01,Cincinnati Reds vs San Diego Padres
+Total,UNDER 9.0,-105.0,0.2,0.4892,0.7808,True,0.9524,2026-09-01,Cincinnati Reds vs San Diego Padres
+Total,UNDER 7.5,-111.0,0.2,0.5022,0.7708,False,-1.0,2026-09-01,Pittsburgh Pirates vs San Francisco Giants
+Run Line,Tampa Bay Rays -1.5,155.0,0.0997,0.3766,0.4763,True,1.55,2026-09-01,Tampa Bay Rays vs New York Mets
+Total,UNDER 7.5,-103.5,0.2,0.4825,0.7473,False,-1.0,2026-09-01,Tampa Bay Rays vs New York Mets
+Total,UNDER 8.0,-114.5,0.2,0.5075,0.8402,True,0.8734,2026-09-01,Cleveland Guardians vs Toronto Blue Jays
+Moneyline,Boston Red Sox ML,-120.0,0.1583,0.5217,0.68,False,-1.0,2026-09-01,Boston Red Sox vs Seattle Mariners
+Total,UNDER 7.0,-1.5,0.2,0.0265,0.447,False,-1.0,2026-09-01,Boston Red Sox vs Seattle Mariners
+Total,UNDER 9.75,-110.0,0.2,0.4963,0.928,False,-1.0,2026-09-01,Washington Nationals vs Atlanta Braves
+Moneyline,Minnesota Twins ML,-111.5,0.1744,0.5066,0.681,True,0.8969,2026-09-01,Minnesota Twins vs Detroit Tigers
+Total,UNDER 8.5,-110.0,0.2,0.5,0.7561,False,-1.0,2026-09-01,Minnesota Twins vs Detroit Tigers
+Moneyline,Kansas City Royals ML,-109.5,0.2337,0.5033,0.737,False,-1.0,2026-09-01,Kansas City Royals vs Miami Marlins
+Total,UNDER 9.75,-108.5,0.2,0.4968,0.811,True,0.9217,2026-09-01,Kansas City Royals vs Miami Marlins
+Moneyline,Chicago Cubs ML,-125.0,0.0885,0.5325,0.621,False,-1.0,2026-09-01,Chicago Cubs vs Milwaukee Brewers
+Run Line,Chicago Cubs -1.5,150.5,0.0951,0.3808,0.4759,False,-1.0,2026-09-01,Chicago Cubs vs Milwaukee Brewers
+Total,UNDER 10.0,-110.0,0.2,0.5,0.7698,False,-1.0,2026-09-01,Chicago Cubs vs Milwaukee Brewers
+Run Line,Houston Astros +1.5,-175.0,0.1524,0.6092,0.7617,False,-1.0,2026-09-01,Houston Astros vs Chicago White Sox
+Moneyline,Baltimore Orioles ML,-155.0,0.196,0.583,0.779,False,-1.0,2026-09-01,Colorado Rockies vs Baltimore Orioles
+Total,UNDER 11.0,-105.0,0.2,0.4897,0.922,True,0.9524,2026-09-01,Colorado Rockies vs Baltimore Orioles
+Run Line,New York Yankees -1.5,-106.5,0.0984,0.4929,0.5913,True,0.939,2026-09-01,Los Angeles Angels vs New York Yankees
+Moneyline,Philadelphia Phillies ML,-132.0,0.2281,0.5479,0.776,True,0.7576,2026-09-01,Arizona Diamondbacks vs Philadelphia Phillies
+Total,UNDER 8.75,-116.5,0.2,0.5041,0.7757,False,-1.0,2026-09-01,Los Angeles Dodgers vs St. Louis Cardinals

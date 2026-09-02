@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cincinnati Reds,San Diego Padres,Brandon Williamson,Casey Mize,23.3,76.7,9.0,1.007,hitter,one of the top HR parks in MLB,unknown,1.0,2-3 (home-away),3.214,6.761
+Washington Nationals,Atlanta Braves,Brad Lord,Grant Holmes,68.6,31.4,8.26,1.02,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,4-8 (home-away),4.737,3.348
+Texas Rangers,Athletics,Cody Bradford,Jacob Lopez,50.4,49.6,11.01,1.143,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,6-6 (home-away),9.513,5.798
+Colorado Rockies,Baltimore Orioles,Tomoyuki Sugano,Trevor Rogers,22.2,77.8,8.98,1.062,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,1-1 (home-away),2.457,6.322
+Arizona Diamondbacks,Philadelphia Phillies,Taylor Clarke,Andrew Painter,26.9,73.1,8.61,1.029,hitter,"high altitude (1,082 ft)",dome,1.0,2-3 (home-away),2.402,5.082
+Boston Red Sox,Seattle Mariners,Patrick Sandoval,Bryce Miller,50.4,49.6,10.99,1.051,hitter,Green Monster 37ft LF wall,"67°F, wind 8 mph",1.039,3-2 (home-away),7.446,5.582
+Pittsburgh Pirates,San Francisco Giants,Bubba Chandler,Landen Roupp,41.7,58.3,8.9,0.874,pitcher,high RF wall; spacious,"90°F, wind 8 mph",1.008,2-2 (home-away),4.181,4.733
+Tampa Bay Rays,New York Mets,Griffin Jax,Justin Hagenman,54.5,45.5,7.28,0.96,neutral,dome; artificial turf,dome,1.0,1-1 (home-away),3.75,1.844
+Cleveland Guardians,Toronto Blue Jays,Joey Cantillo,Dylan Cease,69.3,30.7,8.25,0.96,neutral,below-average HR park,"92°F, wind 11 mph",1.065,2-2 (home-away),4.732,2.505
+Minnesota Twins,Detroit Tigers,Dean Kremer,Drew Anderson,77.1,22.9,8.99,1.01,neutral,cold Aprils suppress offense (-8 pts),"86°F, wind 3 mph",0.993,7-2 (home-away),8.114,3.161
+Kansas City Royals,Miami Marlins,Noah Cameron,Eury Pérez,67.6,32.4,8.15,1.02,pitcher,large dimensions; spray park,"97°F, wind 10 mph",0.972,0-1 (home-away),4.666,3.155
+Chicago Cubs,Milwaukee Brewers,David Peterson,Jacob Misiorowski,48.9,51.1,10.99,0.988,variable,wind hugely variable; extreme hitter or pitcher park,"88°F, wind 5 mph",0.986,3-5 (home-away),5.536,6.64
+Houston Astros,Chicago White Sox,Hayden Wesneski,Davis Martin,50.3,49.7,10.66,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,3-2 (home-away),5.31,5.349
+Los Angeles Angels,New York Yankees,Reid Detmers,Cam Schlittler,34.5,65.5,7.98,0.931,neutral,symmetrical; marine layer suppresses HRs,"75°F, wind 6 mph",1.03,3-3 (home-away),2.257,4.51
+Los Angeles Dodgers,St. Louis Cardinals,Yoshinobu Yamamoto,Nan,71.5,28.5,8.43,0.979,pitcher,marine layer suppresses carry; spacious foul territory,"73°F, wind 5 mph",0.98,1-3 (home-away),4.975,3.402
