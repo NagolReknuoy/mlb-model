@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-09-02,Cincinnati Reds,San Diego Padres,7,3,10,Cincinnati Reds,San Diego Padres,23.4,76.6,False,76.6,9.0,1.0,False,LOW,9.5,OVER
+2026-09-02,Washington Nationals,Atlanta Braves,0,9,9,Atlanta Braves,Washington Nationals,68.4,31.6,False,68.4,8.16,0.8399999999999999,False,LOW,9.5,UNDER
+2026-09-02,Texas Rangers,Athletics,2,9,11,Athletics,Texas Rangers,50.4,49.6,False,50.4,11.02,0.019999999999999574,False,HIGH,8.0,OVER
+2026-09-02,Colorado Rockies,Baltimore Orioles,6,5,11,Colorado Rockies,Baltimore Orioles,21.7,78.3,False,78.3,8.98,2.0199999999999996,False,LOW,11.5,UNDER
+2026-09-02,Arizona Diamondbacks,Philadelphia Phillies,1,0,1,Arizona Diamondbacks,Philadelphia Phillies,26.5,73.5,False,73.5,8.62,7.619999999999999,False,HIGH,8.5,UNDER
+2026-09-02,Boston Red Sox,Seattle Mariners,3,8,11,Seattle Mariners,Boston Red Sox,50.6,49.4,False,50.6,11.0,0.0,False,LOW,8.5,OVER
+2026-09-02,Pittsburgh Pirates,San Francisco Giants,4,5,9,San Francisco Giants,San Francisco Giants,40.3,59.7,True,59.7,8.93,0.07000000000000028,False,LOW,9.0,PUSH
+2026-09-02,Tampa Bay Rays,New York Mets,4,10,14,New York Mets,Tampa Bay Rays,54.7,45.3,False,54.7,7.29,6.71,False,LOW,8.0,OVER
+2026-09-02,Cleveland Guardians,Toronto Blue Jays,0,11,11,Toronto Blue Jays,Cleveland Guardians,68.5,31.5,False,68.5,8.21,2.789999999999999,False,LOW,7.5,OVER
+2026-09-02,Minnesota Twins,Detroit Tigers,6,11,17,Detroit Tigers,Minnesota Twins,77.9,22.1,False,77.9,9.06,7.9399999999999995,False,LOW,8.5,OVER
+2026-09-02,Kansas City Royals,Miami Marlins,6,9,15,Miami Marlins,Kansas City Royals,68.3,31.7,False,68.3,8.19,6.8100000000000005,False,LOW,9.0,OVER
+2026-09-02,Chicago Cubs,Milwaukee Brewers,5,9,14,Milwaukee Brewers,Milwaukee Brewers,49.8,50.2,True,50.2,10.97,3.0299999999999994,True,LOW,8.5,OVER
+2026-09-02,Houston Astros,Chicago White Sox,2,0,2,Houston Astros,Chicago White Sox,48.9,51.1,False,51.1,10.56,8.56,False,HIGH,8.5,UNDER
+2026-09-02,Los Angeles Angels,New York Yankees,3,6,9,New York Yankees,New York Yankees,35.1,64.9,True,64.9,7.91,1.0899999999999999,True,LOW,6.5,OVER
+2026-09-02,Los Angeles Dodgers,St. Louis Cardinals,6,8,14,St. Louis Cardinals,Los Angeles Dodgers,77.6,22.4,False,77.6,8.95,5.050000000000001,False,LOW,8.0,OVER

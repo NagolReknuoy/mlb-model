@@ -1,0 +1,10 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Baltimore Orioles vs Boston Red Sox,Baltimore Orioles ML,+106,46.6%,73.9%,0.27267875647668405,Strong,Moneyline
+Seattle Mariners vs Athletics,OVER  7.5,+100,47.8%,68.9%,0.21095462928401965,Strong,Total
+Houston Astros vs Chicago White Sox,UNDER 8.5,-112,50.4%,70.4%,0.19996887003849306,Strong,Total
+Kansas City Royals vs Miami Marlins,Kansas City Royals +1.5,-178,61.7%,79.0%,0.1727771315619998,Strong,Run Line
+Seattle Mariners vs Athletics,Athletics +1.5,-125,53.2%,67.7%,0.14445676215388836,Strong,Run Line
+Kansas City Royals vs Miami Marlins,Kansas City Royals ML,-116,51.5%,64.8%,0.13260320253387303,Strong,Moneyline
+Houston Astros vs Chicago White Sox,Chicago White Sox +1.5,-150,58.0%,69.6%,0.11625414719254623,Good,Run Line
+Los Angeles Dodgers vs St. Louis Cardinals,St. Louis Cardinals +1.5,+115,44.7%,53.6%,0.08897970663718857,Good,Run Line
+Texas Rangers vs Tampa Bay Rays,Tampa Bay Rays ML,-126,53.9%,62.1%,0.08166041581736638,Good,Moneyline

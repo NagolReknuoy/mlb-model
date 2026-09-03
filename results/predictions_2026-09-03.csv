@@ -1,0 +1,10 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Pittsburgh Pirates,San Francisco Giants,Lake Bachar,Blade Tidwell,40.3,59.7,8.69,0.874,pitcher,high RF wall; spacious,unknown,1.0,2-3 (home-away),4.048,4.648
+Cleveland Guardians,Toronto Blue Jays,Tanner Bibee,José Soriano,50.8,49.2,7.85,0.96,neutral,below-average HR park,unknown,1.0,2-3 (home-away),3.955,3.896
+Houston Astros,Chicago White Sox,Hunter Brown,Luis Castillo,50.6,49.4,8.66,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,4-2 (home-away),4.297,4.27
+Baltimore Orioles,Boston Red Sox,Brandon Young,Jake Bennett,73.9,26.1,9.28,0.979,hitter,short RF; warm summers,unknown,1.0,4-5 (home-away),6.054,3.794
+Chicago Cubs,Milwaukee Brewers,Kevin Gausman,Logan Henderson,49.9,50.1,11.04,0.988,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,3-6 (home-away),6.115,7.156
+Kansas City Royals,Miami Marlins,Michael Wacha,Sandy Alcantara,64.8,35.2,9.96,1.02,pitcher,large dimensions; spray park,unknown,1.0,0-2 (home-away),5.48,4.466
+Texas Rangers,Tampa Bay Rays,Cal Quantrill,Shane Mcclanahan,37.9,62.1,10.16,1.143,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,1-2 (home-away),4.667,6.68
+Seattle Mariners,Athletics,Kade Anderson,Jack Perkins,50.2,49.8,10.98,0.989,pitcher,marine air; roof often closed,dome,1.0,4-2 (home-away),6.411,8.459
+Los Angeles Dodgers,St. Louis Cardinals,Tarik Skubal,Quinn Mathews,67.8,32.2,8.95,0.979,pitcher,marine layer suppresses carry; spacious foul territory,"70°F, wind 6 mph",0.975,1-4 (home-away),5.088,3.825
