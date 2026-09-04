@@ -1,0 +1,20 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+New York Mets vs San Francisco Giants,San Francisco Giants ML,+160,37.0%,62.6%,0.2561020408163265,Strong,Moneyline
+Baltimore Orioles vs Boston Red Sox,Baltimore Orioles ML,+101,47.9%,73.4%,0.255068588250802,Strong,Moneyline
+Cleveland Guardians (G1) vs Detroit Tigers,Cleveland Guardians (G1) ML,-126,53.9%,77.9%,0.2396604158173664,Strong,Moneyline
+Kansas City Royals vs Toronto Blue Jays,UNDER 10.0,-115,51.1%,72.4%,0.21304176320582313,Strong,Total
+Cleveland Guardians (G2) vs Detroit Tigers,Cleveland Guardians (G2) ML,-126,53.9%,75.0%,0.2106604158173664,Strong,Moneyline
+Los Angeles Dodgers vs Washington Nationals,UNDER 8.5,-115,51.1%,72.0%,0.2088754103249525,Strong,Total
+Cincinnati Reds vs Milwaukee Brewers,UNDER 9.5,-110,50.0%,70.5%,0.2050828678020774,Strong,Total
+Cleveland Guardians (G1) vs Detroit Tigers,Cleveland Guardians (G1) -1.5,+156,37.8%,56.2%,0.18483411323709714,Strong,Run Line
+Seattle Mariners vs Athletics,OVER  7.0,-118,51.9%,69.0%,0.17157701401111436,Strong,Total
+San Diego Padres vs New York Yankees,UNDER 7.5,-120,52.2%,67.8%,0.15602770762102003,Strong,Total
+Seattle Mariners vs Athletics,Athletics +1.5,-120,52.2%,67.7%,0.1551851641866383,Strong,Run Line
+Cleveland Guardians (G2) vs Detroit Tigers,Cleveland Guardians (G2) -1.5,+156,37.8%,53.0%,0.15283943001348127,Strong,Run Line
+Los Angeles Dodgers vs Washington Nationals,Washington Nationals +1.5,+105,46.8%,61.8%,0.1505915101402599,Strong,Run Line
+Pittsburgh Pirates vs Los Angeles Angels,Los Angeles Angels +1.5,-131,54.4%,68.4%,0.14029606597586408,Strong,Run Line
+Colorado Rockies vs St. Louis Cardinals,Colorado Rockies +1.5,-136,55.5%,67.7%,0.1224090424317501,Strong,Run Line
+San Diego Padres vs New York Yankees,New York Yankees ML,-117,51.9%,62.5%,0.10615299334811534,Good,Moneyline
+Texas Rangers vs Tampa Bay Rays,Texas Rangers +1.5,-182,62.2%,71.3%,0.09131120214404675,Good,Run Line
+Cincinnati Reds vs Milwaukee Brewers,Milwaukee Brewers ML,-160,59.4%,68.4%,0.0897428214731586,Good,Moneyline
+Philadelphia Phillies vs Atlanta Braves,Philadelphia Phillies +1.5,-200,63.4%,71.9%,0.08501176671405064,Good,Run Line

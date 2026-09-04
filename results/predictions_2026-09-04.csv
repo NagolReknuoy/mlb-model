@@ -1,0 +1,17 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cleveland Guardians (G1),Detroit Tigers,Logan Allen,Keider Montero,77.9,22.1,8.99,0.96,neutral,below-average HR park,"76°F, wind 1 mph",1.002,7-2 (home-away),5.808,2.906
+Cleveland Guardians (G2),Detroit Tigers,Foster Griffin,Andrew Sears,75.0,25.0,8.77,0.96,neutral,below-average HR park,"76°F, wind 1 mph",1.002,7-2 (home-away),5.256,2.433
+Cincinnati Reds,Milwaukee Brewers,Rhett Lowder,Shane Drohan,31.6,68.4,9.75,1.007,hitter,one of the top HR parks in MLB,"96°F, wind 5 mph",1.036,1-6 (home-away),4.206,10.182
+Philadelphia Phillies,Atlanta Braves,Cristopher Sánchez,Chris Sale,49.7,50.3,7.03,1.04,hitter,high HR rate historically,"79°F, wind 5 mph",1.028,1-5 (home-away),2.441,2.35
+Pittsburgh Pirates,Los Angeles Angels,Jared Jones,Ryan Johnson,54.5,45.5,7.24,0.874,pitcher,high RF wall; spacious,"77°F, wind 2 mph",1.012,no prior meetings,3.746,2.334
+Baltimore Orioles,Boston Red Sox,Shane Baz,Ranger Suarez,73.4,26.6,9.34,0.979,hitter,short RF; warm summers,"86°F, wind 5 mph",0.986,4-6 (home-away),6.796,3.875
+New York Mets,San Francisco Giants,Nolan Mclean,Matt Wilkinson,37.4,62.6,9.79,1.018,pitcher,sea-level; large dimensions,"81°F, wind 8 mph",1.042,3-1 (home-away),4.451,5.334
+Miami Marlins,Chicago Cubs,Janson Junk,Shota Imanaga,38.7,61.3,10.18,1.049,neutral,roof often closed; average park,dome,1.0,no prior meetings,4.681,7.737
+Chicago White Sox,Minnesota Twins,Erick Fedde,Zebby Matthews,43.6,56.4,10.54,0.949,neutral,July is extreme hitter month (+12 pts),"89°F, wind 5 mph",1.032,6-4 (home-away),5.025,7.258
+Texas Rangers,Tampa Bay Rays,Trevor Williams,Nick Martinez,53.5,46.5,10.26,1.143,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,2-2 (home-away),5.269,4.99
+Houston Astros,Arizona Diamondbacks,Cristian Javier,Merrill Kelly,55.2,44.8,7.37,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,no prior meetings,3.86,2.723
+Kansas City Royals,Toronto Blue Jays,Daniel Lynch Iv,Jameson Taillon,50.0,50.0,10.66,1.02,pitcher,large dimensions; spray park,unknown,1.0,2-1 (home-away),5.356,5.346
+Colorado Rockies,St. Louis Cardinals,Ryan Feltner,Andre Pallante,48.6,51.4,10.96,1.062,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,1-2 (home-away),5.607,6.343
+San Diego Padres,New York Yankees,Walker Buehler,Max Fried,37.5,62.5,7.79,0.912,pitcher,marine layer; large dimensions,unknown,1.0,no prior meetings,2.585,4.314
+Los Angeles Dodgers,Washington Nationals,Blake Snell,Jackson Kent,59.1,40.9,8.52,0.979,pitcher,marine layer suppresses carry; spacious foul territory,unknown,1.0,3-0 (home-away),4.599,3.948
+Seattle Mariners,Athletics,Logan Gilbert,Kade Morris,49.2,50.8,10.99,0.989,pitcher,marine air; roof often closed,dome,1.0,4-3 (home-away),6.553,6.183
