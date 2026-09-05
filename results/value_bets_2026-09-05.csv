@@ -1,0 +1,22 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Baltimore Orioles vs Boston Red Sox,Baltimore Orioles ML,+109,46.0%,73.6%,0.2758773006134969,Strong,Moneyline
+Kansas City Royals vs Toronto Blue Jays,Toronto Blue Jays ML,-106,49.6%,73.3%,0.23745235975066792,Strong,Moneyline
+San Diego Padres vs New York Yankees,UNDER 7.5,-104,48.7%,70.7%,0.2195543345090456,Strong,Total
+Seattle Mariners vs Athletics,OVER  7.5,-110,50.0%,69.2%,0.19204933256805434,Strong,Total
+Cleveland Guardians vs Detroit Tigers,Cleveland Guardians ML,-155,58.8%,77.3%,0.18478845377472752,Strong,Moneyline
+Seattle Mariners vs Athletics,Athletics +1.5,-110,50.0%,67.7%,0.1769242946214209,Strong,Run Line
+Cleveland Guardians vs Detroit Tigers,Cleveland Guardians -1.5,+140,40.1%,56.2%,0.16143190574213084,Strong,Run Line
+Pittsburgh Pirates vs Los Angeles Angels,Los Angeles Angels +1.5,-143,56.4%,71.9%,0.15495437790486832,Strong,Run Line
+Texas Rangers vs Tampa Bay Rays,OVER  7.0,-104,48.5%,63.5%,0.15044030148421544,Strong,Total
+San Diego Padres vs New York Yankees,New York Yankees +1.5,-190,63.5%,77.6%,0.14179054853336903,Strong,Run Line
+San Diego Padres vs New York Yankees,New York Yankees ML,+110,45.9%,59.2%,0.1330628019323673,Strong,Moneyline
+Philadelphia Phillies vs Atlanta Braves,Atlanta Braves +1.5,-156,58.8%,71.9%,0.13136988197625432,Strong,Run Line
+Los Angeles Dodgers vs Washington Nationals,Washington Nationals +1.5,-122,52.9%,66.0%,0.1312811147009625,Strong,Run Line
+Cincinnati Reds vs Milwaukee Brewers,Cincinnati Reds +1.5,-125,53.1%,66.1%,0.1294075905945189,Strong,Run Line
+Kansas City Royals vs Toronto Blue Jays,Toronto Blue Jays -1.5,+138,40.2%,51.9%,0.11646487839071451,Good,Run Line
+Houston Astros vs Arizona Diamondbacks,Houston Astros +1.5,-175,60.9%,71.9%,0.10992187371920581,Good,Run Line
+Colorado Rockies vs St. Louis Cardinals,Colorado Rockies +1.5,-145,57.1%,67.7%,0.10580832087962655,Good,Run Line
+New York Mets vs San Francisco Giants,San Francisco Giants +1.5,-154,58.2%,67.7%,0.09455007561451523,Good,Run Line
+Miami Marlins vs Chicago Cubs,Miami Marlins +1.5,-155,58.3%,66.3%,0.0795331630768692,Lean,Run Line
+Texas Rangers vs Tampa Bay Rays,Tampa Bay Rays ML,-109,50.1%,58.0%,0.07889488108920528,Lean,Moneyline
+New York Mets vs San Francisco Giants,OVER  8.0,-105,48.9%,56.8%,0.07862375637300151,Lean,Total
