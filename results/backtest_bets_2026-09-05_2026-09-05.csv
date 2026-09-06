@@ -1,0 +1,18 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,San Francisco Giants +1.5,-151.0,0.0871,0.5783,0.6654,True,0.6623,2026-09-05,New York Mets vs San Francisco Giants
+Run Line,Atlanta Braves +1.5,-155.5,0.1124,0.5833,0.6957,False,-1.0,2026-09-05,Philadelphia Phillies vs Atlanta Braves
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.8638,True,0.9524,2026-09-05,Philadelphia Phillies vs Atlanta Braves
+Moneyline,Cleveland Guardians ML,-160.0,0.1863,0.5907,0.777,False,-1.0,2026-09-05,Cleveland Guardians vs Detroit Tigers
+Run Line,Pittsburgh Pirates -1.5,119.5,0.0854,0.4371,0.5225,False,-1.0,2026-09-05,Pittsburgh Pirates vs Los Angeles Angels
+Total,UNDER 7.5,-108.5,0.2,0.4962,0.7653,True,0.9217,2026-09-05,Pittsburgh Pirates vs Los Angeles Angels
+Moneyline,Baltimore Orioles ML,107.5,0.25,0.4641,0.731,False,-1.0,2026-09-05,Baltimore Orioles vs Boston Red Sox
+Total,UNDER 6.5,-1.5,0.2,0.0263,0.2373,False,-1.0,2026-09-05,Texas Rangers vs Tampa Bay Rays
+Moneyline,Toronto Blue Jays ML,-110.0,0.22,0.5,0.72,True,0.9091,2026-09-05,Kansas City Royals vs Toronto Blue Jays
+Total,UNDER 9.5,-115.0,0.2,0.5108,0.7399,True,0.8696,2026-09-05,Kansas City Royals vs Toronto Blue Jays
+Run Line,Minnesota Twins +1.5,-196.0,0.0712,0.6326,0.7038,True,0.5102,2026-09-05,Chicago White Sox vs Minnesota Twins
+Total,UNDER 8.75,-120.0,0.2,0.5054,0.8678,True,0.8333,2026-09-05,Houston Astros vs Arizona Diamondbacks
+Moneyline,New York Yankees ML,109.0,0.1196,0.4614,0.581,True,1.09,2026-09-05,San Diego Padres vs New York Yankees
+Total,UNDER 7.5,-105.0,0.2,0.4892,0.7077,True,0.9524,2026-09-05,San Diego Padres vs New York Yankees
+Run Line,Colorado Rockies +1.5,-145.0,0.1255,0.5667,0.6922,True,0.6897,2026-09-05,Colorado Rockies vs St. Louis Cardinals
+Total,OVER  11.0,-7.5,0.095,0.1164,0.2114,True,10.0,2026-09-05,Colorado Rockies vs St. Louis Cardinals
+Total,OVER  7.5,-110.0,0.1939,0.5,0.6939,True,0.9091,2026-09-05,Seattle Mariners vs Athletics

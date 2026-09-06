@@ -1,0 +1,20 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Kansas City Royals vs Toronto Blue Jays,UNDER 9.5,-117,51.5%,76.2%,0.2464280487895626,Strong,Total
+Kansas City Royals vs Toronto Blue Jays,Toronto Blue Jays ML,-121,52.9%,75.6%,0.22716512098923347,Strong,Moneyline
+Chicago White Sox vs Minnesota Twins,UNDER 8.5,-108,49.8%,70.1%,0.203163648977227,Strong,Total
+Seattle Mariners vs Athletics,OVER  7.0,-118,51.7%,68.3%,0.16517536982267012,Strong,Total
+Texas Rangers vs Tampa Bay Rays,Tampa Bay Rays ML,-108,50.0%,66.5%,0.16500000000000004,Strong,Moneyline
+Chicago White Sox vs Minnesota Twins,Minnesota Twins +1.5,-167,60.3%,75.1%,0.14846977652282844,Strong,Run Line
+Pittsburgh Pirates vs Los Angeles Angels,Los Angeles Angels +1.5,-147,57.2%,71.9%,0.1466786620502475,Strong,Run Line
+Seattle Mariners vs Athletics,Athletics +1.5,-135,54.9%,69.2%,0.142957059805094,Strong,Run Line
+Colorado Rockies vs St. Louis Cardinals,Colorado Rockies +1.5,-130,54.3%,67.7%,0.13418075585402522,Strong,Run Line
+Miami Marlins vs Chicago Cubs,Miami Marlins +1.5,-135,55.3%,67.7%,0.12433029176563792,Strong,Run Line
+Baltimore Orioles vs Boston Red Sox,Baltimore Orioles +1.5,-154,58.2%,70.4%,0.12132623382361807,Strong,Run Line
+Kansas City Royals vs Toronto Blue Jays,Toronto Blue Jays -1.5,+128,42.2%,54.0%,0.11832273027349943,Good,Run Line
+Philadelphia Phillies vs Atlanta Braves,Philadelphia Phillies +1.5,-178,61.1%,71.9%,0.10845932649422751,Good,Run Line
+Los Angeles Dodgers vs Washington Nationals,Los Angeles Dodgers ML,-198,63.9%,74.4%,0.10535228209729841,Good,Moneyline
+New York Mets vs San Francisco Giants,San Francisco Giants +1.5,-150,57.6%,67.7%,0.10137251193890817,Good,Run Line
+Houston Astros vs Arizona Diamondbacks,Houston Astros +1.5,-188,62.5%,71.9%,0.09445130598825491,Good,Run Line
+Cleveland Guardians vs Detroit Tigers,Cleveland Guardians ML,-167,60.2%,68.8%,0.08583055696277964,Good,Moneyline
+San Diego Padres vs New York Yankees,New York Yankees ML,-110,50.6%,58.7%,0.08139461883408072,Good,Moneyline
+Los Angeles Dodgers vs Washington Nationals,Los Angeles Dodgers -1.5,+110,45.7%,52.8%,0.07065733392308676,Lean,Run Line
