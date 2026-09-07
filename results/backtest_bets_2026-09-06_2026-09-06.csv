@@ -1,0 +1,19 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Philadelphia Phillies +1.5,-186.0,0.1771,0.6234,0.8005,True,0.5376,2026-09-06,Philadelphia Phillies vs Atlanta Braves
+Total,UNDER 8.0,-109.0,0.2,0.4952,0.8646,False,-1.0,2026-09-06,Philadelphia Phillies vs Atlanta Braves
+Run Line,Baltimore Orioles +1.5,-155.5,0.1094,0.5801,0.6895,False,-1.0,2026-09-06,Baltimore Orioles vs Boston Red Sox
+Total,UNDER 7.5,-122.0,0.1674,0.5236,0.691,True,0.8197,2026-09-06,Baltimore Orioles vs Boston Red Sox
+Total,UNDER 7.0,-104.0,0.2,0.4845,0.7708,True,0.9615,2026-09-06,Pittsburgh Pirates vs Los Angeles Angels
+Moneyline,Cleveland Guardians ML,-170.0,0.0867,0.6033,0.69,True,0.5882,2026-09-06,Cleveland Guardians vs Detroit Tigers
+Run Line,Cleveland Guardians -1.5,130.0,0.1642,0.4149,0.5791,False,-1.0,2026-09-06,Cleveland Guardians vs Detroit Tigers
+Total,UNDER 8.0,-110.0,0.2,0.4995,0.8646,True,0.9091,2026-09-06,Houston Astros vs Arizona Diamondbacks
+Moneyline,Toronto Blue Jays ML,-121.0,0.2046,0.5264,0.731,False,-1.0,2026-09-06,Kansas City Royals vs Toronto Blue Jays
+Total,UNDER 9.5,-117.5,0.2,0.5151,0.7528,True,0.8511,2026-09-06,Kansas City Royals vs Toronto Blue Jays
+Moneyline,Tampa Bay Rays ML,-119.5,0.1337,0.5213,0.655,False,-1.0,2026-09-06,Texas Rangers vs Tampa Bay Rays
+Total,UNDER 11.0,-105.0,0.2,0.4892,0.791,False,-1.0,2026-09-06,Colorado Rockies vs St. Louis Cardinals
+Total,OVER  7.0,-115.0,0.1591,0.5108,0.6699,False,-1.0,2026-09-06,Seattle Mariners vs Athletics
+Moneyline,New York Yankees ML,100.0,0.1227,0.4783,0.601,False,-1.0,2026-09-06,San Diego Padres vs New York Yankees
+Run Line,Minnesota Twins +1.5,-171.0,0.1429,0.6023,0.7452,False,-1.0,2026-09-06,Chicago White Sox vs Minnesota Twins
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.7021,False,-1.0,2026-09-06,Chicago White Sox vs Minnesota Twins
+Moneyline,Los Angeles Dodgers ML,-199.0,0.1021,0.6399,0.742,True,0.5025,2026-09-06,Los Angeles Dodgers vs Washington Nationals
+Run Line,Los Angeles Dodgers -1.5,109.0,0.0944,0.4601,0.5545,True,1.09,2026-09-06,Los Angeles Dodgers vs Washington Nationals

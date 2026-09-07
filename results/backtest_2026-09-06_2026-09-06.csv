@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-09-06,Cincinnati Reds,Milwaukee Brewers,12,8,20,Cincinnati Reds,Milwaukee Brewers,49.6,50.4,False,50.4,11.01,8.99,False,LOW,8.5,OVER
+2026-09-06,Philadelphia Phillies,Atlanta Braves,4,5,9,Atlanta Braves,Philadelphia Phillies,50.9,49.1,False,50.9,7.02,1.9800000000000004,False,LOW,8.0,OVER
+2026-09-06,Baltimore Orioles,Boston Red Sox,1,3,4,Boston Red Sox,Boston Red Sox,47.6,52.4,True,52.4,7.68,3.6799999999999997,True,HIGH,7.5,UNDER
+2026-09-06,Pittsburgh Pirates,Los Angeles Angels,1,0,1,Pittsburgh Pirates,Pittsburgh Pirates,51.0,49.0,True,51.0,6.99,5.99,False,HIGH,7.0,UNDER
+2026-09-06,Cleveland Guardians,Detroit Tigers,3,2,5,Cleveland Guardians,Cleveland Guardians,69.0,31.0,True,69.0,8.28,3.2799999999999994,False,HIGH,7.0,UNDER
+2026-09-06,New York Mets,San Francisco Giants,4,2,6,New York Mets,San Francisco Giants,48.9,51.1,False,51.1,10.82,4.82,False,HIGH,8.0,UNDER
+2026-09-06,Miami Marlins,Chicago Cubs,10,3,13,Miami Marlins,Chicago Cubs,49.9,50.1,False,50.1,11.02,1.9800000000000004,False,LOW,8.0,OVER
+2026-09-06,Houston Astros,Arizona Diamondbacks,2,3,5,Arizona Diamondbacks,Arizona Diamondbacks,49.3,50.7,True,50.7,7.02,2.0199999999999996,False,HIGH,8.0,UNDER
+2026-09-06,Kansas City Royals,Toronto Blue Jays,6,1,7,Kansas City Royals,Toronto Blue Jays,26.9,73.1,False,73.1,9.28,2.2799999999999994,False,HIGH,9.5,UNDER
+2026-09-06,Texas Rangers,Tampa Bay Rays,8,6,14,Texas Rangers,Tampa Bay Rays,34.5,65.5,False,65.5,9.83,4.17,False,LOW,7.5,OVER
+2026-09-06,Colorado Rockies,St. Louis Cardinals,8,10,18,St. Louis Cardinals,Colorado Rockies,50.4,49.6,False,50.4,10.99,7.01,False,LOW,11.0,OVER
+2026-09-06,Seattle Mariners,Athletics,2,0,2,Seattle Mariners,Athletics,46.3,53.7,False,53.7,10.78,8.78,False,HIGH,7.0,UNDER
+2026-09-06,San Diego Padres,New York Yankees,4,3,7,San Diego Padres,New York Yankees,39.9,60.1,False,60.1,7.62,0.6200000000000001,False,HIGH,7.0,PUSH
+2026-09-06,Chicago White Sox,Minnesota Twins,10,1,11,Chicago White Sox,Minnesota Twins,44.4,55.6,False,55.6,8.68,2.3200000000000003,False,LOW,8.5,OVER
+2026-09-06,Los Angeles Dodgers,Washington Nationals,7,5,12,Los Angeles Dodgers,Los Angeles Dodgers,74.2,25.8,True,74.2,9.3,2.6999999999999993,True,LOW,8.5,OVER
