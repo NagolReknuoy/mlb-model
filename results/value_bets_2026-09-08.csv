@@ -1,0 +1,15 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Detroit Tigers vs Minnesota Twins,Minnesota Twins ML,+116,44.5%,69.9%,0.2535152521896709,Strong,Moneyline
+Athletics vs Toronto Blue Jays,UNDER 9.5,-118,51.6%,75.0%,0.23367045609347525,Strong,Total
+Milwaukee Brewers vs Chicago Cubs,OVER  7.5,+100,47.6%,69.3%,0.21659543801092246,Strong,Total
+San Francisco Giants vs St. Louis Cardinals,OVER  7.5,-115,51.1%,69.3%,0.18215605160998127,Strong,Total
+Seattle Mariners vs Texas Rangers,Texas Rangers ML,+115,44.7%,61.9%,0.1723686601059803,Strong,Moneyline
+Milwaukee Brewers vs Chicago Cubs,Chicago Cubs +1.5,-121,52.3%,67.7%,0.15424610887628043,Strong,Run Line
+Seattle Mariners vs Texas Rangers,Texas Rangers +1.5,-183,62.1%,77.1%,0.15030595977341799,Strong,Run Line
+Athletics vs Toronto Blue Jays,Toronto Blue Jays ML,-182,62.0%,73.3%,0.1128184413975164,Good,Moneyline
+Los Angeles Dodgers vs Cincinnati Reds,Cincinnati Reds +1.5,+120,43.8%,55.0%,0.11251742101477358,Good,Run Line
+Philadelphia Phillies vs Houston Astros,Houston Astros +1.5,-170,60.7%,71.9%,0.11245745267855778,Good,Run Line
+Chicago White Sox vs Pittsburgh Pirates,Pittsburgh Pirates +1.5,-170,61.0%,71.9%,0.10955718278706605,Good,Run Line
+Boston Red Sox vs Los Angeles Angels,Los Angeles Angels +1.5,-175,61.3%,71.9%,0.1060733385678978,Good,Run Line
+Kansas City Royals vs Arizona Diamondbacks,Kansas City Royals +1.5,-160,59.1%,69.2%,0.1006033633304193,Good,Run Line
+Miami Marlins vs New York Mets,New York Mets +1.5,-194,63.5%,73.4%,0.09880684344740842,Good,Run Line

@@ -1,0 +1,13 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,UNDER 8.0,-115.0,0.2,0.5108,0.8702,True,0.8696,2026-09-07,Philadelphia Phillies vs Atlanta Braves
+Run Line,Los Angeles Angels +1.5,-144.0,0.1902,0.5643,0.7546,False,-1.0,2026-09-07,Boston Red Sox vs Los Angeles Angels
+Total,UNDER 8.5,-110.0,0.2,0.5,0.8471,True,0.9091,2026-09-07,Boston Red Sox vs Los Angeles Angels
+Total,UNDER 7.0,-102.5,0.2,0.4837,0.7653,False,-1.0,2026-09-07,Baltimore Orioles vs Cleveland Guardians
+Moneyline,Kansas City Royals ML,-114.0,0.0832,0.5098,0.593,False,-1.0,2026-09-07,Kansas City Royals vs Arizona Diamondbacks
+Run Line,Kansas City Royals +1.5,-184.5,0.187,0.6185,0.8055,True,0.542,2026-09-07,Kansas City Royals vs Arizona Diamondbacks
+Total,OVER  9.5,-0.5,0.0906,0.009,0.0996,False,-1.0,2026-09-07,Kansas City Royals vs Arizona Diamondbacks
+Moneyline,Minnesota Twins ML,100.5,0.25,0.4776,0.778,False,-1.0,2026-09-07,Detroit Tigers vs Minnesota Twins
+Run Line,Washington Nationals +1.5,-125.0,0.1215,0.5325,0.654,True,0.8,2026-09-07,San Diego Padres vs Washington Nationals
+Total,UNDER 8.25,-114.0,0.2,0.5081,0.7897,True,0.8772,2026-09-07,San Diego Padres vs Washington Nationals
+Run Line,Los Angeles Dodgers -1.5,120.0,0.0802,0.4344,0.5146,True,1.2,2026-09-07,Los Angeles Dodgers vs Cincinnati Reds
+Moneyline,Toronto Blue Jays ML,-212.5,0.1208,0.6532,0.774,False,-1.0,2026-09-07,Athletics vs Toronto Blue Jays
