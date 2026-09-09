@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Minnesota Twins,Keider Montero,Zebby Matthews,22.7,77.3,8.98,0.96,pitcher,very deep CF historically,unknown,1.0,4-8 (home-away),3.452,7.362
+Athletics,Toronto Blue Jays,Brady Basso,Braydon Fisher,22.2,77.8,8.97,1.028,pitcher,largest foul territory in MLB,unknown,1.0,1-4 (home-away),3.366,5.873
+San Francisco Giants,St. Louis Cardinals,Blade Tidwell,Andre Pallante,49.8,50.2,10.95,0.884,pitcher,marine layer; bay wind tricky in RF,"84°F, wind 11 mph",1.006,2-0 (home-away),7.268,7.951
+San Diego Padres,Washington Nationals,Walker Buehler,Jackson Kent,66.4,33.6,8.01,0.912,pitcher,marine layer; large dimensions,"82°F, wind 4 mph",1.005,3-2 (home-away),4.523,3.052
+Seattle Mariners,Texas Rangers,Kade Anderson,Cody Bradford,48.3,51.7,10.84,0.989,pitcher,marine air; roof often closed,dome,1.0,3-8 (home-away),5.366,9.423
+Baltimore Orioles,Cleveland Guardians,Shane Baz,Foster Griffin,36.5,63.5,7.87,0.979,hitter,short RF; warm summers,"84°F, wind 10 mph",1.006,2-4 (home-away),3.058,4.355
+Philadelphia Phillies,Houston Astros,Cristopher Sánchez,Hunter Brown,50.0,50.0,6.98,1.04,hitter,high HR rate historically,"80°F, wind 9 mph",0.969,0-1 (home-away),2.504,1.905
+Miami Marlins,New York Mets,Janson Junk,Robert Stock,50.3,49.7,11.03,1.049,neutral,roof often closed; average park,dome,1.0,6-6 (home-away),6.06,7.42
+Boston Red Sox,Los Angeles Angels,Jake Bennett,Ryan Johnson,51.2,48.8,7.0,1.051,hitter,Green Monster 37ft LF wall,"74°F, wind 11 mph",1.002,4-1 (home-away),2.894,3.368
+New York Yankees,Colorado Rockies,Will Warren,Tomoyuki Sugano,77.5,22.5,9.0,1.071,hitter,short porches both sides,"82°F, wind 10 mph",0.963,1-0 (home-away),7.317,3.101
+Atlanta Braves,Tampa Bay Rays,Nan,Griffin Jax,42.2,57.8,7.5,0.989,hitter,warm humid air; June winds boost offense,"89°F, wind 5 mph",1.008,0-1 (home-away),3.091,3.976
+Kansas City Royals,Arizona Diamondbacks,Daniel Lynch Iv,Zac Gallen,40.2,59.8,7.84,1.02,pitcher,large dimensions; spray park,"79°F, wind 7 mph",1.041,0-2 (home-away),3.604,4.192
+Chicago White Sox,Pittsburgh Pirates,Davis Martin,Lake Bachar,46.2,53.8,7.26,0.949,neutral,July is extreme hitter month (+12 pts),"74°F, wind 6 mph",1.002,0-1 (home-away),2.75,3.776
+Milwaukee Brewers,Chicago Cubs,Logan Henderson,Kevin Gausman,49.9,50.1,10.97,0.931,pitcher,large dimensions suppress HRs,dome,1.0,8-4 (home-away),6.696,6.691
+Los Angeles Dodgers,Cincinnati Reds,Yoshinobu Yamamoto,Rhett Lowder,69.7,30.3,9.58,0.979,pitcher,marine layer suppresses carry; spacious foul territory,"91°F, wind 4 mph",1.008,2-0 (home-away),8.882,4.073
