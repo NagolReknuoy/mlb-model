@@ -1,0 +1,6 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Atlanta Braves,Tampa Bay Rays,Martín Pérez,Nick Martinez,27.0,73.0,8.47,0.989,hitter,warm humid air; June winds boost offense,unknown,1.0,0-2 (home-away),3.137,4.984
+Philadelphia Phillies,Houston Astros,Zack Wheeler,Cristian Javier,62.2,37.8,7.7,1.04,hitter,high HR rate historically,unknown,1.0,1-1 (home-away),4.197,2.228
+Seattle Mariners,Texas Rangers,Logan Gilbert,Jacob Degrom,31.9,68.1,9.68,0.989,pitcher,marine air; roof often closed,dome,1.0,4-8 (home-away),4.187,7.235
+New York Yankees,Colorado Rockies,Max Fried,Ryan Feltner,77.6,22.4,8.99,1.071,hitter,short porches both sides,unknown,1.0,2-0 (home-away),7.551,2.785
+Chicago White Sox,Pittsburgh Pirates,Hagen Smith,Jared Jones,36.4,63.6,7.85,0.949,neutral,July is extreme hitter month (+12 pts),unknown,1.0,0-2 (home-away),2.322,4.373

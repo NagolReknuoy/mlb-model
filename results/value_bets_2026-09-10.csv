@@ -1,0 +1,6 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Seattle Mariners vs Texas Rangers,Texas Rangers ML,+108,46.5%,68.1%,0.21619256308100926,Strong,Moneyline
+Seattle Mariners vs Texas Rangers,Texas Rangers +1.5,-210,65.2%,82.0%,0.1685031545500676,Strong,Run Line
+New York Yankees vs Colorado Rockies,UNDER 8.5,-112,50.5%,66.7%,0.16176949566806775,Strong,Total
+Chicago White Sox vs Pittsburgh Pirates,Pittsburgh Pirates ML,-108,50.0%,63.6%,0.136,Strong,Moneyline
+Seattle Mariners vs Texas Rangers,OVER  7.0,+100,47.9%,55.2%,0.07261827944737798,Lean,Total

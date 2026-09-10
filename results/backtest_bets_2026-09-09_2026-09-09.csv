@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Minnesota Twins ML,105.0,0.25,0.4675,0.775,False,-1.0,2026-09-09,Detroit Tigers vs Minnesota Twins
+Total,UNDER 8.5,-110.0,0.1684,0.5,0.6684,False,-1.0,2026-09-09,Detroit Tigers vs Minnesota Twins
+Moneyline,Toronto Blue Jays ML,-163.0,0.1831,0.5929,0.776,False,-1.0,2026-09-09,Athletics vs Toronto Blue Jays
+Run Line,Toronto Blue Jays -1.5,-102.5,0.1624,0.4847,0.6471,False,-1.0,2026-09-09,Athletics vs Toronto Blue Jays
+Total,UNDER 9.5,-120.0,0.2,0.5217,0.7798,True,0.8333,2026-09-09,Athletics vs Toronto Blue Jays
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.7807,False,-1.0,2026-09-09,San Diego Padres vs Washington Nationals
+Total,OVER  8.0,-108.0,0.071,0.4957,0.5667,False,-1.0,2026-09-09,Seattle Mariners vs Texas Rangers
+Total,UNDER 8.5,-108.0,0.2,0.4951,0.7966,False,-1.0,2026-09-09,Baltimore Orioles vs Cleveland Guardians
+Run Line,Houston Astros +1.5,-160.0,0.0914,0.5912,0.6826,False,-1.0,2026-09-09,Philadelphia Phillies vs Houston Astros
+Total,UNDER 8.0,-110.0,0.2,0.5,0.8622,False,-1.0,2026-09-09,Philadelphia Phillies vs Houston Astros
+Run Line,New York Mets +1.5,-197.5,0.1524,0.6332,0.7856,True,0.5063,2026-09-09,Miami Marlins vs New York Mets
+Total,UNDER 9.0,-104.0,0.2,0.487,0.9301,False,-1.0,2026-09-09,Boston Red Sox vs Los Angeles Angels
+Moneyline,New York Yankees ML,-250.0,0.0799,0.6861,0.766,True,0.4,2026-09-09,New York Yankees vs Colorado Rockies
+Total,UNDER 9.5,-117.5,0.2,0.5163,0.7798,True,0.8511,2026-09-09,New York Yankees vs Colorado Rockies
+Moneyline,Tampa Bay Rays ML,105.0,0.1805,0.4675,0.648,True,1.05,2026-09-09,Atlanta Braves vs Tampa Bay Rays
+Total,UNDER 8.0,-111.0,0.2,0.4958,0.7848,False,-1.0,2026-09-09,Atlanta Braves vs Tampa Bay Rays
+Total,UNDER 8.5,100.0,0.2,0.4783,0.825,True,1.0,2026-09-09,Kansas City Royals vs Arizona Diamondbacks
+Total,UNDER 8.5,100.0,0.2,0.4783,0.8376,True,1.0,2026-09-09,Chicago White Sox vs Pittsburgh Pirates
+Total,OVER  7.5,-110.0,0.193,0.5,0.693,True,0.9091,2026-09-09,Milwaukee Brewers vs Chicago Cubs
