@@ -1,0 +1,11 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Tampa Bay Rays ML,110.0,0.25,0.4573,0.712,False,-1.0,2026-09-10,Atlanta Braves vs Tampa Bay Rays
+Total,UNDER 8.5,-116.0,0.2,0.5124,0.7262,True,0.8621,2026-09-10,Atlanta Braves vs Tampa Bay Rays
+Run Line,Philadelphia Phillies -1.5,109.5,0.1083,0.4578,0.5662,False,-1.0,2026-09-10,Philadelphia Phillies vs Houston Astros
+Total,UNDER 8.5,-110.0,0.2,0.5,0.8034,True,0.9091,2026-09-10,Philadelphia Phillies vs Houston Astros
+Moneyline,Texas Rangers ML,-103.0,0.1947,0.4863,0.681,False,-1.0,2026-09-10,Seattle Mariners vs Texas Rangers
+Total,OVER  6.75,-111.5,0.1884,0.4964,0.6847,True,0.8969,2026-09-10,Seattle Mariners vs Texas Rangers
+Total,UNDER 8.5,-116.0,0.1542,0.513,0.6672,False,-1.0,2026-09-10,New York Yankees vs Colorado Rockies
+Moneyline,Pittsburgh Pirates ML,-104.5,0.1324,0.4886,0.621,True,0.9569,2026-09-10,Chicago White Sox vs Pittsburgh Pirates
+Run Line,Pittsburgh Pirates -1.5,160.0,0.195,0.3659,0.5608,True,1.6,2026-09-10,Chicago White Sox vs Pittsburgh Pirates
+Total,UNDER 7.5,-105.0,0.1874,0.4892,0.6766,True,0.9524,2026-09-10,Chicago White Sox vs Pittsburgh Pirates

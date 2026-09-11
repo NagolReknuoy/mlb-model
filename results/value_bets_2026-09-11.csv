@@ -1,0 +1,20 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+San Francisco Giants vs San Diego Padres,UNDER 8.0,-115,51.1%,74.9%,0.23791207029420114,Strong,Total
+Chicago Cubs vs Pittsburgh Pirates,Pittsburgh Pirates ML,+161,36.9%,59.6%,0.22699630996309955,Strong,Moneyline
+Washington Nationals vs Los Angeles Angels,Los Angeles Angels ML,+131,41.7%,64.2%,0.22542900252566672,Strong,Moneyline
+Miami Marlins vs Los Angeles Dodgers,OVER  7.5,-104,48.8%,69.4%,0.20593290379935136,Strong,Total
+Miami Marlins vs Los Angeles Dodgers,Miami Marlins +1.5,+100,47.8%,67.7%,0.1986634250562035,Strong,Run Line
+St. Louis Cardinals vs Chicago White Sox,St. Louis Cardinals +1.5,-180,61.8%,79.4%,0.17519952226462077,Strong,Run Line
+Toronto Blue Jays vs Baltimore Orioles,Toronto Blue Jays ML,-135,55.3%,72.6%,0.173405997144217,Strong,Moneyline
+Athletics vs Seattle Mariners,Athletics +1.5,-113,50.9%,67.7%,0.168138878412328,Strong,Run Line
+Minnesota Twins vs Cleveland Guardians,Minnesota Twins +1.5,-168,60.6%,77.0%,0.16439838914249982,Strong,Run Line
+Atlanta Braves vs Philadelphia Phillies,Philadelphia Phillies +1.5,-140,56.2%,71.9%,0.15711431255702712,Strong,Run Line
+Tampa Bay Rays vs Houston Astros,Houston Astros +1.5,-145,56.8%,71.9%,0.1513330949476187,Strong,Run Line
+St. Louis Cardinals vs Chicago White Sox,St. Louis Cardinals ML,-104,49.1%,63.9%,0.1479094796863863,Strong,Moneyline
+Milwaukee Brewers vs Cincinnati Reds,Cincinnati Reds +1.5,-126,53.3%,67.7%,0.14357719571578387,Strong,Run Line
+Minnesota Twins vs Cleveland Guardians,Minnesota Twins ML,+100,48.1%,61.3%,0.1318470066518847,Strong,Moneyline
+Toronto Blue Jays vs Baltimore Orioles,Toronto Blue Jays -1.5,+155,37.7%,50.0%,0.12344017509606853,Strong,Run Line
+Detroit Tigers vs Colorado Rockies,Colorado Rockies +1.5,-140,56.1%,67.7%,0.11600223095512008,Good,Run Line
+New York Yankees vs New York Mets,New York Yankees ML,-136,55.5%,64.2%,0.08748474781032922,Good,Moneyline
+San Francisco Giants vs San Diego Padres,San Francisco Giants +1.5,-140,55.9%,64.5%,0.08614649666861462,Good,Run Line
+Boston Red Sox vs Kansas City Royals,Boston Red Sox ML,-200,64.3%,72.2%,0.07914285714285707,Lean,Moneyline
