@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Detroit Tigers,Colorado Rockies,Andrew Sears,Tanner Gordon,66.1,33.9,9.91,0.96,pitcher,very deep CF historically,unknown,1.0,1-0 (home-away),5.883,4.395
+New York Yankees,New York Mets,Gerrit Cole,Zac Thornton,72.4,27.6,9.39,1.071,hitter,short porches both sides,unknown,1.0,2-2 (home-away),7.845,3.885
+Chicago Cubs,Pittsburgh Pirates,Clay Holmes,Paul Skenes,36.9,63.1,10.05,0.988,variable,wind hugely variable; extreme hitter or pitcher park,unknown,1.0,6-5 (home-away),4.543,5.486
+Toronto Blue Jays,Baltimore Orioles,Spencer Miles,Kyle Bradish,71.2,28.8,8.46,1.0,neutral,turf boosts groundball singles,dome,1.0,4-4 (home-away),4.966,2.762
+Washington Nationals,Los Angeles Angels,Andrew Alvarez,Walbert Ureña,29.2,70.8,8.39,1.02,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,1-0 (home-away),2.656,4.906
+San Francisco Giants,San Diego Padres,Cesar Perdomo,Michael King,34.2,65.8,8.73,0.884,pitcher,marine layer; bay wind tricky in RF,unknown,1.0,4-7 (home-away),3.84,4.922
+Boston Red Sox,Kansas City Royals,Ranger Suarez,Randy Dobnak,53.1,46.9,8.1,1.051,hitter,Green Monster 37ft LF wall,"68°F, wind 4 mph",1.021,3-1 (home-away),4.147,3.953
+Minnesota Twins,Cleveland Guardians,Connor Prielipp,Daniel Espino,53.3,46.7,10.75,1.01,neutral,cold Aprils suppress offense (-8 pts),"68°F, wind 9 mph",1.043,6-5 (home-away),5.471,5.26
+Miami Marlins,Los Angeles Dodgers,Tyler Phillips,Tyler Glasnow,47.2,52.8,10.71,1.049,neutral,roof often closed; average park,dome,1.0,2-2 (home-away),5.275,10.671
+Tampa Bay Rays,Houston Astros,Ian Seymour,Peter Lambert,58.5,41.5,7.51,0.96,neutral,dome; artificial turf,dome,1.0,2-2 (home-away),3.981,2.481
+Milwaukee Brewers,Cincinnati Reds,Nan,Brady Singer,76.2,23.8,9.07,0.931,pitcher,large dimensions suppress HRs,dome,1.0,8-3 (home-away),11.22,3.598
+Atlanta Braves,Philadelphia Phillies,Tyler Mahle,Nan,50.0,50.0,7.02,0.989,hitter,warm humid air; June winds boost offense,"77°F, wind 3 mph",0.991,8-3 (home-away),2.239,3.513
+St. Louis Cardinals,Chicago White Sox,Kyle Leahy,Sean Newcomb,64.8,35.2,9.61,0.95,neutral,natural grass; moderate dimensions,"83°F, wind 4 mph",1.005,1-0 (home-away),5.328,4.285
+Arizona Diamondbacks,Texas Rangers,Brandon Pfaadt,Kumar Rocker,64.4,35.6,7.93,1.029,hitter,"high altitude (1,082 ft)",dome,1.0,2-2 (home-away),4.417,3.223
+Athletics,Seattle Mariners,Gage Jump,Bryan Woo,63.4,36.6,10.05,1.028,pitcher,largest foul territory in MLB,"63°F, wind 11 mph",0.997,6-5 (home-away),6.162,4.554

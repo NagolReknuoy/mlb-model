@@ -1,0 +1,19 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Pittsburgh Pirates ML,161.0,0.2421,0.3669,0.609,False,-1.0,2026-09-11,Chicago Cubs vs Pittsburgh Pirates
+Moneyline,Los Angeles Angels ML,132.5,0.2214,0.4126,0.634,False,-1.0,2026-09-11,Washington Nationals vs Los Angeles Angels
+Total,UNDER 7.5,-108.5,0.1888,0.4962,0.685,True,0.9217,2026-09-11,Washington Nationals vs Los Angeles Angels
+Moneyline,New York Yankees ML,-135.5,0.1091,0.5489,0.658,True,0.738,2026-09-11,New York Yankees vs New York Mets
+Moneyline,Toronto Blue Jays ML,-134.5,0.1719,0.5481,0.72,False,-1.0,2026-09-11,Toronto Blue Jays vs Baltimore Orioles
+Moneyline,Boston Red Sox ML,-202.5,0.087,0.643,0.73,False,-1.0,2026-09-11,Boston Red Sox vs Kansas City Royals
+Run Line,Houston Astros +1.5,-140.0,0.1637,0.5581,0.7218,False,-1.0,2026-09-11,Tampa Bay Rays vs Houston Astros
+Total,UNDER 7.5,-112.5,0.2,0.5054,0.7697,True,0.8889,2026-09-11,Tampa Bay Rays vs Houston Astros
+Total,OVER  7.5,-2.0,0.2,0.0348,0.656,True,10.0,2026-09-11,Miami Marlins vs Los Angeles Dodgers
+Total,UNDER 7.0,-107.5,0.2,0.4951,0.7664,False,-1.0,2026-09-11,Atlanta Braves vs Philadelphia Phillies
+Moneyline,Minnesota Twins ML,100.0,0.1377,0.4783,0.616,False,-1.0,2026-09-11,Minnesota Twins vs Cleveland Guardians
+Run Line,Minnesota Twins +1.5,-170.0,0.1701,0.6018,0.7719,False,-1.0,2026-09-11,Minnesota Twins vs Cleveland Guardians
+Moneyline,St. Louis Cardinals ML,-110.0,0.137,0.5,0.637,True,0.9091,2026-09-11,St. Louis Cardinals vs Chicago White Sox
+Run Line,St. Louis Cardinals +1.5,-190.0,0.168,0.6269,0.7949,True,0.5263,2026-09-11,St. Louis Cardinals vs Chicago White Sox
+Total,UNDER 10.5,-114.5,0.1821,0.5103,0.6925,False,-1.0,2026-09-11,Athletics vs Seattle Mariners
+Moneyline,Texas Rangers ML,-104.5,0.1254,0.4886,0.614,False,-1.0,2026-09-11,Arizona Diamondbacks vs Texas Rangers
+Total,UNDER 8.5,-102.0,0.2,0.4826,0.8072,False,-1.0,2026-09-11,Arizona Diamondbacks vs Texas Rangers
+Run Line,San Francisco Giants +1.5,-134.5,0.0861,0.5464,0.6325,False,-1.0,2026-09-11,San Francisco Giants vs San Diego Padres
