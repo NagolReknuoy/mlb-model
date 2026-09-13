@@ -1,0 +1,26 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Detroit Tigers -1.5,130.0,0.1153,0.417,0.5323,True,1.3,2026-09-12,Detroit Tigers vs Colorado Rockies
+Moneyline,New York Yankees ML,-165.0,0.1509,0.5991,0.75,False,-1.0,2026-09-12,New York Yankees vs New York Mets
+Moneyline,Pittsburgh Pirates ML,105.0,0.1525,0.4675,0.62,False,-1.0,2026-09-12,Chicago Cubs vs Pittsburgh Pirates
+Run Line,Pittsburgh Pirates +1.5,-181.5,0.1624,0.6171,0.7796,True,0.551,2026-09-12,Chicago Cubs vs Pittsburgh Pirates
+Total,UNDER 9.5,-110.0,0.1692,0.5,0.6692,True,0.9091,2026-09-12,Chicago Cubs vs Pittsburgh Pirates
+Moneyline,Toronto Blue Jays ML,-141.0,0.1535,0.5605,0.714,True,0.7092,2026-09-12,Toronto Blue Jays vs Baltimore Orioles
+Total,UNDER 8.25,-114.0,0.2,0.5042,0.7262,False,-1.0,2026-09-12,Toronto Blue Jays vs Baltimore Orioles
+Moneyline,Los Angeles Angels ML,110.0,0.2466,0.4564,0.703,False,-1.0,2026-09-12,Washington Nationals vs Los Angeles Angels
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.7424,False,-1.0,2026-09-12,Washington Nationals vs Los Angeles Angels
+Moneyline,San Diego Padres ML,-190.0,0.1051,0.6269,0.732,True,0.5263,2026-09-12,San Francisco Giants vs San Diego Padres
+Run Line,Kansas City Royals +1.5,-115.0,0.1678,0.5108,0.6786,False,-1.0,2026-09-12,Boston Red Sox vs Kansas City Royals
+Total,UNDER 8.5,-105.0,0.2,0.4892,0.7838,True,0.9524,2026-09-12,Boston Red Sox vs Kansas City Royals
+Run Line,Minnesota Twins +1.5,-183.5,0.0851,0.6181,0.7031,True,0.545,2026-09-12,Minnesota Twins vs Cleveland Guardians
+Run Line,Tampa Bay Rays -1.5,141.5,0.0923,0.3967,0.4891,False,-1.0,2026-09-12,Tampa Bay Rays vs Houston Astros
+Total,UNDER 7.5,-105.5,0.2,0.4908,0.7184,True,0.9479,2026-09-12,Tampa Bay Rays vs Houston Astros
+Moneyline,Milwaukee Brewers ML,-210.0,0.1003,0.6507,0.751,True,0.4762,2026-09-12,Milwaukee Brewers vs Cincinnati Reds
+Total,UNDER 8.75,-115.5,0.1335,0.5063,0.6398,False,-1.0,2026-09-12,Milwaukee Brewers vs Cincinnati Reds
+Total,UNDER 8.5,-115.0,0.2,0.5108,0.8686,False,-1.0,2026-09-12,Atlanta Braves vs Philadelphia Phillies
+Moneyline,St. Louis Cardinals ML,-110.0,0.155,0.5,0.655,False,-1.0,2026-09-12,St. Louis Cardinals vs Chicago White Sox
+Run Line,St. Louis Cardinals +1.5,-181.0,0.1831,0.616,0.799,True,0.5525,2026-09-12,St. Louis Cardinals vs Chicago White Sox
+Moneyline,Arizona Diamondbacks ML,-132.5,0.0984,0.5466,0.645,False,-1.0,2026-09-12,Arizona Diamondbacks vs Texas Rangers
+Run Line,Arizona Diamondbacks -1.5,154.5,0.0804,0.3755,0.4559,False,-1.0,2026-09-12,Arizona Diamondbacks vs Texas Rangers
+Total,UNDER 8.5,-116.5,0.2,0.5135,0.7818,True,0.8584,2026-09-12,Arizona Diamondbacks vs Texas Rangers
+Moneyline,Athletics ML,130.0,0.211,0.417,0.628,False,-1.0,2026-09-12,Athletics vs Seattle Mariners
+Total,UNDER 9.5,-113.0,0.1579,0.5059,0.6638,False,-1.0,2026-09-12,Athletics vs Seattle Mariners
