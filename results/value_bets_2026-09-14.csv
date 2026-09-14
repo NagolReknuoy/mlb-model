@@ -1,0 +1,11 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Minnesota Twins vs New York Yankees,New York Yankees ML,-124,53.5%,78.1%,0.24580743691899065,Strong,Moneyline
+Los Angeles Angels vs Seattle Mariners,Los Angeles Angels +1.5,-182,62.2%,81.3%,0.19078631261409862,Strong,Run Line
+Chicago Cubs vs Atlanta Braves,Chicago Cubs ML,-135,55.4%,73.1%,0.1772590201291303,Strong,Moneyline
+Los Angeles Angels vs Seattle Mariners,Los Angeles Angels ML,-106,49.6%,66.0%,0.16445235975066796,Strong,Moneyline
+Minnesota Twins vs New York Yankees,New York Yankees -1.5,+132,41.4%,56.2%,0.14856881156217666,Strong,Run Line
+Chicago Cubs vs Atlanta Braves,Chicago Cubs -1.5,+144,39.4%,51.9%,0.12440084844101262,Strong,Run Line
+Cincinnati Reds vs Los Angeles Dodgers,Los Angeles Dodgers ML,-218,65.9%,78.0%,0.12092371027917148,Strong,Moneyline
+Toronto Blue Jays vs Detroit Tigers,Detroit Tigers +1.5,-187,62.7%,74.3%,0.11590877343318551,Good,Run Line
+Colorado Rockies vs San Diego Padres,San Diego Padres ML,-200,64.2%,74.5%,0.10299522673031025,Good,Moneyline
+Arizona Diamondbacks vs Miami Marlins,Arizona Diamondbacks ML,-132,54.7%,62.8%,0.08126664582682086,Good,Moneyline

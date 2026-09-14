@@ -1,0 +1,16 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Los Angeles Angels ML,114.5,0.199,0.448,0.647,False,-1.0,2026-09-13,Washington Nationals vs Los Angeles Angels
+Total,UNDER 9.5,-117.0,0.2,0.5152,0.8717,False,-1.0,2026-09-13,Washington Nationals vs Los Angeles Angels
+Run Line,Atlanta Braves -1.5,150.0,0.1066,0.3813,0.4879,False,-1.0,2026-09-13,Atlanta Braves vs Philadelphia Phillies
+Total,UNDER 9.5,-119.0,0.2,0.5177,0.8978,False,-1.0,2026-09-13,Atlanta Braves vs Philadelphia Phillies
+Moneyline,Toronto Blue Jays ML,-152.0,0.1562,0.5768,0.733,True,0.6579,2026-09-13,Toronto Blue Jays vs Baltimore Orioles
+Total,UNDER 7.5,-110.5,0.2,0.4928,0.7664,False,-1.0,2026-09-13,Tampa Bay Rays vs Houston Astros
+Moneyline,Los Angeles Dodgers ML,-138.5,0.1307,0.5553,0.686,False,-1.0,2026-09-13,Miami Marlins vs Los Angeles Dodgers
+Moneyline,St. Louis Cardinals ML,-101.5,0.141,0.482,0.623,True,0.9852,2026-09-13,St. Louis Cardinals vs Chicago White Sox
+Moneyline,Chicago Cubs ML,-167.5,0.0916,0.6004,0.692,False,-1.0,2026-09-13,Chicago Cubs vs Pittsburgh Pirates
+Run Line,Chicago Cubs -1.5,131.5,0.0969,0.4121,0.509,False,-1.0,2026-09-13,Chicago Cubs vs Pittsburgh Pirates
+Total,UNDER 7.5,-120.0,0.2,0.5217,0.7741,True,0.8333,2026-09-13,Boston Red Sox vs Kansas City Royals
+Run Line,Seattle Mariners -1.5,121.0,0.1794,0.4333,0.6127,False,-1.0,2026-09-13,Athletics vs Seattle Mariners
+Run Line,Texas Rangers +1.5,-188.5,0.0881,0.6249,0.713,True,0.5305,2026-09-13,Arizona Diamondbacks vs Texas Rangers
+Total,UNDER 8.0,-105.0,0.2,0.4892,0.8358,False,-1.0,2026-09-13,Arizona Diamondbacks vs Texas Rangers
+Moneyline,San Diego Padres ML,-144.0,0.0961,0.5649,0.661,True,0.6944,2026-09-13,San Francisco Giants vs San Diego Padres

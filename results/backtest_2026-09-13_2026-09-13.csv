@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-09-13,Detroit Tigers,Colorado Rockies,8,1,9,Detroit Tigers,Detroit Tigers,66.4,33.6,True,66.4,9.81,0.8100000000000005,True,HIGH,9.0,PUSH
+2026-09-13,Washington Nationals,Los Angeles Angels,6,5,11,Washington Nationals,Los Angeles Angels,35.3,64.7,False,64.7,7.91,3.09,False,LOW,9.5,OVER
+2026-09-13,Atlanta Braves,Philadelphia Phillies,4,9,13,Philadelphia Phillies,Atlanta Braves,58.7,41.3,False,58.7,7.53,5.47,False,LOW,9.5,OVER
+2026-09-13,New York Yankees,New York Mets,2,0,2,New York Yankees,New York Yankees,66.0,34.0,True,66.0,9.81,7.8100000000000005,True,HIGH,8.0,UNDER
+2026-09-13,Toronto Blue Jays,Baltimore Orioles,8,1,9,Toronto Blue Jays,Toronto Blue Jays,73.3,26.7,True,73.3,8.62,0.3800000000000008,True,LOW,7.5,OVER
+2026-09-13,Tampa Bay Rays,Houston Astros,14,4,18,Tampa Bay Rays,Houston Astros,49.7,50.3,False,50.3,7.03,10.969999999999999,False,LOW,7.5,OVER
+2026-09-13,Miami Marlins,Los Angeles Dodgers,6,4,10,Miami Marlins,Los Angeles Dodgers,31.4,68.6,False,68.6,9.57,0.4299999999999997,False,LOW,8.5,OVER
+2026-09-13,Minnesota Twins,Cleveland Guardians,2,9,11,Cleveland Guardians,Minnesota Twins,50.9,49.1,False,50.9,9.23,1.7699999999999996,False,LOW,7.5,OVER
+2026-09-13,Milwaukee Brewers,Cincinnati Reds,3,4,7,Cincinnati Reds,Milwaukee Brewers,56.9,43.1,False,56.9,10.42,3.42,False,HIGH,8.0,UNDER
+2026-09-13,St. Louis Cardinals,Chicago White Sox,3,1,4,St. Louis Cardinals,St. Louis Cardinals,62.3,37.7,True,62.3,10.16,6.16,True,HIGH,8.5,UNDER
+2026-09-13,Chicago Cubs,Pittsburgh Pirates,3,4,7,Pittsburgh Pirates,Chicago Cubs,69.2,30.8,False,69.2,8.31,1.3100000000000005,False,HIGH,7.0,PUSH
+2026-09-13,Boston Red Sox,Kansas City Royals,4,1,5,Boston Red Sox,Boston Red Sox,50.5,49.5,True,50.5,6.96,1.96,True,HIGH,7.5,UNDER
+2026-09-13,Athletics,Seattle Mariners,8,7,15,Athletics,Athletics,50.8,49.2,True,50.8,10.97,4.029999999999999,False,LOW,9.0,OVER
+2026-09-13,Arizona Diamondbacks,Texas Rangers,6,7,13,Texas Rangers,Texas Rangers,49.6,50.4,True,50.4,7.36,5.64,False,LOW,8.0,OVER
+2026-09-13,San Francisco Giants,San Diego Padres,4,6,10,San Diego Padres,San Diego Padres,33.9,66.1,True,66.1,7.99,2.01,True,LOW,7.5,OVER
