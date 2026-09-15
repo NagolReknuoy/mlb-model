@@ -1,0 +1,15 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Los Angeles Dodgers ML,-225.0,0.1037,0.6633,0.767,True,0.4444,2026-09-14,Cincinnati Reds vs Los Angeles Dodgers
+Run Line,Cleveland Guardians -1.5,129.5,0.0974,0.4172,0.5146,False,-1.0,2026-09-14,Cleveland Guardians vs Chicago White Sox
+Run Line,Detroit Tigers +1.5,-185.0,0.1057,0.6234,0.7291,True,0.5405,2026-09-14,Toronto Blue Jays vs Detroit Tigers
+Moneyline,Chicago Cubs ML,-135.5,0.186,0.553,0.739,True,0.738,2026-09-14,Chicago Cubs vs Atlanta Braves
+Run Line,Chicago Cubs -1.5,141.0,0.1225,0.3967,0.5192,True,1.41,2026-09-14,Chicago Cubs vs Atlanta Braves
+Total,UNDER 9.5,-115.0,0.2,0.5108,0.7808,False,-1.0,2026-09-14,Chicago Cubs vs Atlanta Braves
+Moneyline,New York Yankees ML,-130.0,0.2283,0.5427,0.771,True,0.7692,2026-09-14,Minnesota Twins vs New York Yankees
+Run Line,St. Louis Cardinals -1.5,140.0,0.1416,0.3982,0.5399,False,-1.0,2026-09-14,St. Louis Cardinals vs San Francisco Giants
+Moneyline,San Diego Padres ML,-220.0,0.1079,0.6581,0.766,True,0.4545,2026-09-14,Colorado Rockies vs San Diego Padres
+Total,UNDER 11.0,-107.5,0.2,0.49,0.9161,False,-1.0,2026-09-14,Colorado Rockies vs San Diego Padres
+Moneyline,Los Angeles Angels ML,-110.0,0.108,0.5,0.608,True,0.9091,2026-09-14,Los Angeles Angels vs Seattle Mariners
+Run Line,Los Angeles Angels +1.5,-191.0,0.163,0.6287,0.7917,True,0.5236,2026-09-14,Los Angeles Angels vs Seattle Mariners
+Total,UNDER 7.5,-115.0,0.179,0.5108,0.6898,False,-1.0,2026-09-14,Los Angeles Angels vs Seattle Mariners
+Moneyline,Arizona Diamondbacks ML,-137.5,0.0781,0.5539,0.632,True,0.7273,2026-09-14,Arizona Diamondbacks vs Miami Marlins

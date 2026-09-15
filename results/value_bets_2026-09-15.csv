@@ -1,0 +1,23 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Chicago Cubs vs Atlanta Braves,Chicago Cubs ML,-139,56.1%,78.2%,0.2206930983847284,Strong,Moneyline
+Toronto Blue Jays vs Detroit Tigers,UNDER 8.5,-115,51.1%,71.2%,0.2011972246199255,Strong,Total
+New York Mets vs Baltimore Orioles,New York Mets ML,-132,54.8%,74.7%,0.19910070933042323,Strong,Moneyline
+Pittsburgh Pirates vs Milwaukee Brewers,UNDER 7.5,-113,50.9%,69.1%,0.1822429152974826,Strong,Total
+Cincinnati Reds vs Los Angeles Dodgers,UNDER 8.5,-105,48.9%,66.7%,0.1780541548072378,Strong,Total
+Chicago Cubs vs Atlanta Braves,Chicago Cubs -1.5,+151,38.5%,56.2%,0.1775657719799542,Strong,Run Line
+New York Mets vs Baltimore Orioles,New York Mets -1.5,+160,37.2%,54.1%,0.16870885339369712,Strong,Run Line
+Chicago Cubs vs Atlanta Braves,UNDER 8.5,-110,50.0%,66.7%,0.16721991862088892,Strong,Total
+Toronto Blue Jays vs Detroit Tigers,Detroit Tigers +1.5,-180,61.6%,77.5%,0.15851568993451326,Strong,Run Line
+Minnesota Twins vs New York Yankees,New York Yankees ML,-177,61.5%,77.3%,0.15798957609451014,Strong,Moneyline
+Houston Astros vs Kansas City Royals,Kansas City Royals +1.5,-155,58.5%,74.1%,0.15565812576978177,Strong,Run Line
+Pittsburgh Pirates vs Milwaukee Brewers,Pittsburgh Pirates +1.5,+102,47.4%,62.9%,0.1548271914413455,Strong,Run Line
+Toronto Blue Jays vs Detroit Tigers,Detroit Tigers ML,+118,44.2%,59.6%,0.15431044465889687,Strong,Moneyline
+Los Angeles Angels vs Seattle Mariners,Los Angeles Angels +1.5,-120,52.2%,67.2%,0.15074558291671647,Strong,Run Line
+Washington Nationals vs Philadelphia Phillies,Philadelphia Phillies ML,-215,65.6%,77.2%,0.11551145038167943,Good,Moneyline
+Tampa Bay Rays vs Athletics,Tampa Bay Rays ML,-230,67.2%,77.6%,0.10396660703637428,Good,Moneyline
+Colorado Rockies vs San Diego Padres,Colorado Rockies +1.5,+105,46.8%,56.3%,0.09586422547350243,Good,Run Line
+St. Louis Cardinals vs San Francisco Giants,San Francisco Giants +1.5,-155,58.3%,67.7%,0.09393165357481426,Good,Run Line
+Cincinnati Reds vs Los Angeles Dodgers,Los Angeles Dodgers ML,-235,67.6%,77.0%,0.0935777069448469,Good,Moneyline
+Arizona Diamondbacks vs Miami Marlins,Miami Marlins +1.5,-165,59.9%,67.5%,0.07591624502310823,Lean,Run Line
+Minnesota Twins vs New York Yankees,New York Yankees -1.5,-104,48.9%,56.2%,0.07375638766143072,Lean,Run Line
+Tampa Bay Rays vs Athletics,Tampa Bay Rays -1.5,-105,49.1%,56.2%,0.07112503753367455,Lean,Run Line
