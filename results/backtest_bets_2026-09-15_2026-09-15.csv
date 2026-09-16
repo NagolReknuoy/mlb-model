@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Los Angeles Dodgers ML,-247.5,0.1078,0.6812,0.789,True,0.404,2026-09-15,Cincinnati Reds vs Los Angeles Dodgers
+Total,UNDER 8.5,-110.0,0.1718,0.5,0.6718,True,0.9091,2026-09-15,Cincinnati Reds vs Los Angeles Dodgers
+Moneyline,Tampa Bay Rays ML,-234.0,0.1038,0.6702,0.774,True,0.4274,2026-09-15,Tampa Bay Rays vs Athletics
+Moneyline,Cleveland Guardians ML,-158.5,0.0719,0.5851,0.657,True,0.6309,2026-09-15,Cleveland Guardians vs Chicago White Sox
+Total,UNDER 9.0,-116.0,0.2,0.513,0.8317,False,-1.0,2026-09-15,Cleveland Guardians vs Chicago White Sox
+Total,UNDER 7.5,-115.0,0.1814,0.5108,0.6922,True,0.8696,2026-09-15,Pittsburgh Pirates vs Milwaukee Brewers
+Moneyline,Philadelphia Phillies ML,-221.0,0.1152,0.6588,0.774,False,-1.0,2026-09-15,Washington Nationals vs Philadelphia Phillies
+Run Line,Philadelphia Phillies -1.5,-127.5,0.1875,0.5346,0.7222,False,-1.0,2026-09-15,Washington Nationals vs Philadelphia Phillies
+Moneyline,Detroit Tigers ML,121.0,0.1677,0.4333,0.601,True,1.21,2026-09-15,Toronto Blue Jays vs Detroit Tigers
+Run Line,Detroit Tigers +1.5,-175.0,0.1658,0.6092,0.775,True,0.5714,2026-09-15,Toronto Blue Jays vs Detroit Tigers
+Total,UNDER 8.5,-115.0,0.1935,0.5108,0.7043,False,-1.0,2026-09-15,Toronto Blue Jays vs Detroit Tigers
+Moneyline,New York Mets ML,-132.0,0.2186,0.5444,0.763,False,-1.0,2026-09-15,New York Mets vs Baltimore Orioles
+Moneyline,Chicago Cubs ML,-142.0,0.2075,0.5635,0.771,False,-1.0,2026-09-15,Chicago Cubs vs Atlanta Braves
+Total,UNDER 8.5,-110.0,0.1672,0.5,0.6672,False,-1.0,2026-09-15,Chicago Cubs vs Atlanta Braves
+Moneyline,New York Yankees ML,-173.5,0.173,0.606,0.779,True,0.5764,2026-09-15,Minnesota Twins vs New York Yankees
+Total,UNDER 8.0,-115.0,0.2,0.5015,0.8514,True,0.8696,2026-09-15,Houston Astros vs Kansas City Royals
+Total,UNDER 11.0,-107.5,0.2,0.4915,0.875,False,-1.0,2026-09-15,Colorado Rockies vs San Diego Padres
+Run Line,Los Angeles Angels +1.5,-121.0,0.1486,0.5239,0.6725,True,0.8264,2026-09-15,Los Angeles Angels vs Seattle Mariners
+Total,UNDER 8.0,-110.0,0.2,0.5,0.7675,True,0.9091,2026-09-15,Los Angeles Angels vs Seattle Mariners
