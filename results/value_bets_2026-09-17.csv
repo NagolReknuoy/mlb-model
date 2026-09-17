@@ -1,0 +1,8 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Chicago White Sox vs Detroit Tigers,Detroit Tigers ML,-1,2.7%,77.8%,0.7509530002955956,Strong,Moneyline
+Texas Rangers vs Boston Red Sox,UNDER 7.75,-110,49.5%,72.2%,0.22659386770161305,Strong,Total
+Los Angeles Angels vs Minnesota Twins,Los Angeles Angels ML,-107,49.9%,70.8%,0.20912077467945844,Strong,Moneyline
+Chicago White Sox vs Detroit Tigers,UNDER 8.5,-114,51.0%,66.9%,0.15967539197254021,Strong,Total
+Houston Astros vs Kansas City Royals,Kansas City Royals +1.5,-160,59.3%,74.2%,0.14887075571692587,Strong,Run Line
+Texas Rangers vs Boston Red Sox,Texas Rangers +1.5,-160,59.1%,72.0%,0.12910359845453145,Strong,Run Line
+Colorado Rockies vs San Diego Padres,Colorado Rockies +1.5,+108,45.9%,57.3%,0.11320627485003837,Good,Run Line

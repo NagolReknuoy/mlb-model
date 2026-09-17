@@ -1,0 +1,22 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Cleveland Guardians ML,-162.0,0.1367,0.5923,0.729,True,0.6173,2026-09-16,Cleveland Guardians vs Chicago White Sox
+Run Line,Cleveland Guardians -1.5,140.0,0.1354,0.3982,0.5337,True,1.4,2026-09-16,Cleveland Guardians vs Chicago White Sox
+Moneyline,San Francisco Giants ML,137.0,0.1991,0.4039,0.603,True,1.37,2026-09-16,St. Louis Cardinals vs San Francisco Giants
+Moneyline,New York Yankees ML,-176.0,0.1673,0.6097,0.777,False,-1.0,2026-09-16,Minnesota Twins vs New York Yankees
+Total,OVER  8.5,-3.5,0.2,0.0584,0.3373,True,10.0,2026-09-16,Minnesota Twins vs New York Yankees
+Moneyline,Detroit Tigers ML,110.0,0.25,0.4568,0.77,False,-1.0,2026-09-16,Toronto Blue Jays vs Detroit Tigers
+Total,UNDER 8.5,-115.0,0.1541,0.512,0.6661,True,0.8696,2026-09-16,Toronto Blue Jays vs Detroit Tigers
+Moneyline,Los Angeles Dodgers ML,-225.0,0.1074,0.6636,0.771,False,-1.0,2026-09-16,Cincinnati Reds vs Los Angeles Dodgers
+Moneyline,Tampa Bay Rays ML,-186.5,0.1574,0.6236,0.781,True,0.5362,2026-09-16,Tampa Bay Rays vs Athletics
+Run Line,Milwaukee Brewers -1.5,130.0,0.1086,0.4152,0.5238,False,-1.0,2026-09-16,Pittsburgh Pirates vs Milwaukee Brewers
+Total,UNDER 7.5,-118.0,0.1981,0.5168,0.7148,False,-1.0,2026-09-16,Pittsburgh Pirates vs Milwaukee Brewers
+Moneyline,Philadelphia Phillies ML,-195.0,0.0942,0.6348,0.729,True,0.5128,2026-09-16,Washington Nationals vs Philadelphia Phillies
+Total,UNDER 9.0,-115.0,0.2,0.508,0.7369,True,0.8696,2026-09-16,Washington Nationals vs Philadelphia Phillies
+Moneyline,Chicago Cubs ML,-162.5,0.1403,0.5977,0.738,True,0.6154,2026-09-16,Chicago Cubs vs Atlanta Braves
+Moneyline,Boston Red Sox ML,-110.0,0.0794,0.5016,0.581,False,-1.0,2026-09-16,Texas Rangers vs Boston Red Sox
+Total,UNDER 8.0,-114.5,0.2,0.5103,0.825,False,-1.0,2026-09-16,Texas Rangers vs Boston Red Sox
+Total,UNDER 8.75,-7.5,0.2,0.1136,0.8597,True,10.0,2026-09-16,Houston Astros vs Kansas City Royals
+Run Line,San Diego Padres -1.5,-114.5,0.1837,0.5103,0.694,True,0.8734,2026-09-16,Colorado Rockies vs San Diego Padres
+Total,UNDER 11.0,-118.5,0.2,0.5114,0.7919,False,-1.0,2026-09-16,Colorado Rockies vs San Diego Padres
+Run Line,Los Angeles Angels +1.5,-155.0,0.1667,0.5803,0.747,False,-1.0,2026-09-16,Los Angeles Angels vs Seattle Mariners
+Total,UNDER 8.0,-112.0,0.2,0.5021,0.8322,False,-1.0,2026-09-16,Los Angeles Angels vs Seattle Mariners
