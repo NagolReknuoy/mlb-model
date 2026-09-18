@@ -1,0 +1,16 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Cincinnati Reds,Chicago Cubs,Chase Burns,Clay Holmes,26.1,73.9,9.31,1.007,hitter,one of the top HR parks in MLB,unknown,1.0,3-7 (home-away),3.78,9.085
+Pittsburgh Pirates,Kansas City Royals,Paul Skenes,Randy Dobnak,50.2,49.8,7.01,0.874,pitcher,high RF wall; spacious,unknown,1.0,no prior meetings,2.508,1.919
+Baltimore Orioles,Milwaukee Brewers,Cade Povich,Dustin May,49.0,51.0,11.01,0.979,hitter,short RF; warm summers,unknown,1.0,no prior meetings,5.451,7.661
+Cleveland Guardians,Athletics,Daniel Espino,Mason Barnett,76.9,23.1,9.05,0.96,neutral,below-average HR park,unknown,1.0,2-1 (home-away),8.398,2.539
+Tampa Bay Rays,Boston Red Sox,Ian Seymour,Ranger Suarez,59.2,40.8,7.51,0.96,neutral,dome; artificial turf,dome,1.0,5-5 (home-away),4.027,1.597
+New York Mets,Philadelphia Phillies,Zac Thornton,Nan,44.2,55.8,10.29,1.018,pitcher,sea-level; large dimensions,"75°F, wind 5 mph",1.027,4-6 (home-away),4.922,5.347
+Chicago White Sox,Detroit Tigers,David Sandlin,Andrew Sears,22.5,77.5,8.98,0.949,neutral,July is extreme hitter month (+12 pts),unknown,1.0,7-3 (home-away),2.239,5.888
+Texas Rangers,Toronto Blue Jays,Kumar Rocker,Dylan Cease,52.6,47.4,10.09,1.143,hitter,"1,200-ft altitude; September roof open adds runs",dome,1.0,4-0 (home-away),5.142,5.0
+Colorado Rockies,Seattle Mariners,Nan,Bryan Woo,22.9,77.1,9.0,1.062,hitter,"5,200 ft altitude; most extreme hitter park",unknown,1.0,no prior meetings,3.243,9.495
+Houston Astros,Atlanta Braves,Peter Lambert,Tyler Mahle,38.6,61.4,7.97,0.97,pitcher,deepest CF in MLB; short LF porch,dome,1.0,no prior meetings,3.616,4.322
+St. Louis Cardinals,Washington Nationals,Kyle Leahy,Cade Cavalli,51.3,48.7,9.27,0.95,neutral,natural grass; moderate dimensions,"92°F, wind 5 mph",1.009,2-1 (home-away),4.703,4.554
+Los Angeles Angels,Minnesota Twins,Grayson Rodriguez,Connor Prielipp,77.5,22.5,8.91,0.931,neutral,symmetrical; marine layer suppresses HRs,"72°F, wind 6 mph",1.031,2-2 (home-away),5.444,2.793
+San Diego Padres,Miami Marlins,Nick Pivetta,Tyler Phillips,59.6,40.4,10.36,0.912,pitcher,marine layer; large dimensions,"71°F, wind 7 mph",1.035,3-0 (home-away),8.975,4.848
+Arizona Diamondbacks,New York Yankees,Eduardo Rodriguez,Gerrit Cole,22.2,77.8,9.01,1.029,hitter,"high altitude (1,082 ft)",dome,1.0,no prior meetings,2.746,6.164
+Los Angeles Dodgers,San Francisco Giants,Tyler Glasnow,Cesar Perdomo,77.1,22.9,8.99,0.979,pitcher,marine layer suppresses carry; spacious foul territory,"69°F, wind 6 mph",0.976,3-4 (home-away),6.463,2.875

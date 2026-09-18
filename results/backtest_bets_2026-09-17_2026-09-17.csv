@@ -1,0 +1,13 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Milwaukee Brewers ML,-136.5,0.1565,0.5555,0.712,False,-1.0,2026-09-17,Pittsburgh Pirates vs Milwaukee Brewers
+Total,UNDER 8.5,-1.0,0.2,0.0178,0.7381,False,-1.0,2026-09-17,Pittsburgh Pirates vs Milwaukee Brewers
+Moneyline,Los Angeles Dodgers ML,-165.5,0.1771,0.5989,0.776,True,0.6042,2026-09-17,Cincinnati Reds vs Los Angeles Dodgers
+Total,UNDER 9.75,-110.0,0.2,0.4908,0.7827,False,-1.0,2026-09-17,Cincinnati Reds vs Los Angeles Dodgers
+Moneyline,Tampa Bay Rays ML,-275.0,0.0738,0.7022,0.776,True,0.3636,2026-09-17,Tampa Bay Rays vs Athletics
+Total,UNDER 10.5,-104.0,0.2,0.4845,0.7788,False,-1.0,2026-09-17,Colorado Rockies vs San Diego Padres
+Total,UNDER 8.75,-116.5,0.2,0.5051,0.8304,True,0.8584,2026-09-17,Houston Astros vs Kansas City Royals
+Moneyline,Detroit Tigers ML,-105.0,0.25,0.4892,0.776,False,-1.0,2026-09-17,Chicago White Sox vs Detroit Tigers
+Total,UNDER 8.5,-113.5,0.1557,0.507,0.6627,True,0.8811,2026-09-17,Chicago White Sox vs Detroit Tigers
+Run Line,Texas Rangers +1.5,-156.0,0.1397,0.5799,0.7195,True,0.641,2026-09-17,Texas Rangers vs Boston Red Sox
+Total,UNDER 7.75,-110.0,0.2,0.4933,0.7219,True,0.9091,2026-09-17,Texas Rangers vs Boston Red Sox
+Moneyline,Los Angeles Angels ML,-110.0,0.1999,0.5011,0.701,True,0.9091,2026-09-17,Los Angeles Angels vs Minnesota Twins
