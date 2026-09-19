@@ -1,0 +1,17 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Chicago Cubs ML,-150.0,0.1645,0.5745,0.739,False,-1.0,2026-09-18,Cincinnati Reds vs Chicago Cubs
+Run Line,Kansas City Royals +1.5,-135.0,0.1177,0.552,0.6697,False,-1.0,2026-09-18,Pittsburgh Pirates vs Kansas City Royals
+Total,UNDER 8.5,-115.5,0.2,0.5119,0.8702,False,-1.0,2026-09-18,Pittsburgh Pirates vs Kansas City Royals
+Run Line,Milwaukee Brewers -1.5,111.0,0.1366,0.4521,0.5887,False,-1.0,2026-09-18,Baltimore Orioles vs Milwaukee Brewers
+Moneyline,Cleveland Guardians ML,-237.5,0.1009,0.6741,0.775,True,0.4211,2026-09-18,Cleveland Guardians vs Athletics
+Moneyline,Philadelphia Phillies ML,105.0,0.144,0.468,0.612,False,-1.0,2026-09-18,New York Mets vs Philadelphia Phillies
+Run Line,Philadelphia Phillies +1.5,-200.0,0.1342,0.6368,0.771,False,-1.0,2026-09-18,New York Mets vs Philadelphia Phillies
+Moneyline,Detroit Tigers ML,110.0,0.25,0.4564,0.777,True,1.1,2026-09-18,Chicago White Sox vs Detroit Tigers
+Run Line,Texas Rangers +1.5,-151.0,0.1311,0.5751,0.7062,True,0.6623,2026-09-18,Texas Rangers vs Toronto Blue Jays
+Moneyline,Seattle Mariners ML,-190.0,0.1485,0.6265,0.775,True,0.5263,2026-09-18,Colorado Rockies vs Seattle Mariners
+Total,UNDER 10.5,-105.0,0.2,0.4892,0.8641,True,0.9524,2026-09-18,Colorado Rockies vs Seattle Mariners
+Moneyline,Atlanta Braves ML,-120.0,0.1023,0.5217,0.624,True,0.8333,2026-09-18,Houston Astros vs Atlanta Braves
+Total,UNDER 8.25,-114.0,0.2,0.5031,0.8044,True,0.8772,2026-09-18,Houston Astros vs Atlanta Braves
+Run Line,St. Louis Cardinals +1.5,-185.0,0.0762,0.6211,0.6972,False,-1.0,2026-09-18,St. Louis Cardinals vs Washington Nationals
+Moneyline,Los Angeles Angels ML,-104.0,0.25,0.488,0.754,False,-1.0,2026-09-18,Los Angeles Angels vs Minnesota Twins
+Moneyline,New York Yankees ML,-105.0,0.25,0.4897,0.775,True,0.9524,2026-09-18,Arizona Diamondbacks vs New York Yankees

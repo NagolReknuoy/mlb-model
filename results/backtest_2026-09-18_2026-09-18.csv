@@ -1,0 +1,16 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-09-18,Cincinnati Reds,Chicago Cubs,6,4,10,Cincinnati Reds,Chicago Cubs,26.1,73.9,False,73.9,9.25,0.75,False,LOW,8.5,OVER
+2026-09-18,Pittsburgh Pirates,Kansas City Royals,8,5,13,Pittsburgh Pirates,Pittsburgh Pirates,51.3,48.7,True,51.3,6.95,6.05,True,LOW,8.5,OVER
+2026-09-18,Baltimore Orioles,Milwaukee Brewers,5,6,11,Milwaukee Brewers,Milwaukee Brewers,47.6,52.4,True,52.4,10.85,0.15000000000000036,False,LOW,8.5,OVER
+2026-09-18,Cleveland Guardians,Athletics,5,3,8,Cleveland Guardians,Cleveland Guardians,77.5,22.5,True,77.5,8.99,0.9900000000000002,True,HIGH,8.0,PUSH
+2026-09-18,Tampa Bay Rays,Boston Red Sox,2,4,6,Boston Red Sox,Tampa Bay Rays,59.3,40.7,False,59.3,7.54,1.54,False,HIGH,7.0,UNDER
+2026-09-18,New York Mets,Philadelphia Phillies,6,3,9,New York Mets,Philadelphia Phillies,38.8,61.2,False,61.2,9.73,0.7300000000000004,False,HIGH,8.5,OVER
+2026-09-18,Chicago White Sox,Detroit Tigers,8,11,19,Detroit Tigers,Detroit Tigers,22.3,77.7,True,77.7,9.01,9.99,True,LOW,8.0,OVER
+2026-09-18,Texas Rangers,Toronto Blue Jays,7,1,8,Texas Rangers,Texas Rangers,52.5,47.5,True,52.5,10.08,2.08,True,HIGH,7.5,OVER
+2026-09-18,Colorado Rockies,Seattle Mariners,4,5,9,Seattle Mariners,Seattle Mariners,22.5,77.5,True,77.5,9.01,0.009999999999999787,False,HIGH,10.5,UNDER
+2026-09-18,Houston Astros,Atlanta Braves,2,6,8,Atlanta Braves,Atlanta Braves,37.6,62.4,True,62.4,7.7,0.2999999999999998,True,LOW,8.25,UNDER
+2026-09-18,St. Louis Cardinals,Washington Nationals,1,9,10,Washington Nationals,St. Louis Cardinals,50.3,49.7,False,50.3,8.94,1.0600000000000005,False,LOW,7.5,OVER
+2026-09-18,Los Angeles Angels,Minnesota Twins,0,3,3,Minnesota Twins,Los Angeles Angels,75.4,24.6,False,75.4,8.79,5.789999999999999,False,HIGH,8.0,UNDER
+2026-09-18,San Diego Padres,Miami Marlins,8,2,10,San Diego Padres,San Diego Padres,59.1,40.9,True,59.1,10.24,0.2400000000000002,True,HIGH,7.5,OVER
+2026-09-18,Arizona Diamondbacks,New York Yankees,2,9,11,New York Yankees,New York Yankees,22.5,77.5,True,77.5,8.97,2.0299999999999994,True,LOW,7.5,OVER
+2026-09-18,Los Angeles Dodgers,San Francisco Giants,8,2,10,Los Angeles Dodgers,Los Angeles Dodgers,78.1,21.9,True,78.1,9.01,0.9900000000000002,True,LOW,8.0,OVER
