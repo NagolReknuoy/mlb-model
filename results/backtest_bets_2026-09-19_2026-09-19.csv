@@ -1,0 +1,20 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Detroit Tigers ML,110.0,0.25,0.4573,0.769,False,-1.0,2026-09-19,Chicago White Sox vs Detroit Tigers
+Run Line,Milwaukee Brewers -1.5,150.0,0.1517,0.3813,0.533,False,-1.0,2026-09-19,Baltimore Orioles vs Milwaukee Brewers
+Total,OVER  7.5,-111.0,0.1442,0.5016,0.6458,False,-1.0,2026-09-19,Baltimore Orioles vs Milwaukee Brewers
+Total,UNDER 7.5,-115.0,0.2,0.5108,0.7207,True,0.8696,2026-09-19,Tampa Bay Rays vs Boston Red Sox
+Moneyline,Cleveland Guardians ML,-189.0,0.1508,0.6242,0.775,True,0.5291,2026-09-19,Cleveland Guardians vs Athletics
+Moneyline,Chicago Cubs ML,-147.0,0.2091,0.5719,0.781,True,0.6803,2026-09-19,Cincinnati Reds vs Chicago Cubs
+Total,UNDER 9.0,-105.0,0.2,0.4882,0.7798,True,0.9524,2026-09-19,Cincinnati Reds vs Chicago Cubs
+Run Line,Pittsburgh Pirates +1.5,-200.0,0.1809,0.6386,0.8194,True,0.5,2026-09-19,Pittsburgh Pirates vs Kansas City Royals
+Total,UNDER 8.0,-115.0,0.2,0.5063,0.8638,False,-1.0,2026-09-19,Pittsburgh Pirates vs Kansas City Royals
+Moneyline,Texas Rangers ML,-113.0,0.2268,0.5082,0.735,True,0.885,2026-09-19,Texas Rangers vs Toronto Blue Jays
+Moneyline,Atlanta Braves ML,114.0,0.25,0.4474,0.725,True,1.14,2026-09-19,Houston Astros vs Atlanta Braves
+Total,UNDER 8.5,100.0,0.1855,0.4783,0.6638,False,-1.0,2026-09-19,Houston Astros vs Atlanta Braves
+Moneyline,Washington Nationals ML,-110.0,0.2306,0.4984,0.729,True,0.9091,2026-09-19,St. Louis Cardinals vs Washington Nationals
+Run Line,Washington Nationals -1.5,150.0,0.1333,0.3813,0.5146,True,1.5,2026-09-19,St. Louis Cardinals vs Washington Nationals
+Moneyline,Seattle Mariners ML,-152.0,0.1222,0.5758,0.698,False,-1.0,2026-09-19,Colorado Rockies vs Seattle Mariners
+Total,UNDER 10.5,-102.0,0.2,0.4798,0.8207,True,0.9804,2026-09-19,Colorado Rockies vs Seattle Mariners
+Moneyline,New York Yankees ML,-165.0,0.184,0.594,0.778,False,-1.0,2026-09-19,Arizona Diamondbacks vs New York Yankees
+Run Line,Los Angeles Angels -1.5,160.0,0.1696,0.3647,0.5343,False,-1.0,2026-09-19,Los Angeles Angels vs Minnesota Twins
+Total,UNDER 7.25,-112.5,0.2,0.5037,0.7324,False,-1.0,2026-09-19,Los Angeles Angels vs Minnesota Twins
