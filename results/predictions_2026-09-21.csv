@@ -1,0 +1,4 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Baltimore Orioles,Toronto Blue Jays,Shane Baz,Trey Yesavage,53.5,46.5,7.2,0.979,hitter,short RF; warm summers,unknown,1.0,4-6 (home-away),3.691,3.171
+Detroit Tigers,Washington Nationals,River Ryan,Dj Herz,69.8,30.2,9.58,0.96,pitcher,very deep CF historically,unknown,1.0,no prior meetings,6.025,4.057
+San Francisco Giants,Minnesota Twins,Blade Tidwell,Zebby Matthews,46.2,53.8,9.39,0.884,pitcher,marine layer; bay wind tricky in RF,unknown,1.0,no prior meetings,4.6,4.811

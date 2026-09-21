@@ -1,0 +1,5 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Baltimore Orioles vs Toronto Blue Jays,UNDER 7.5,-115,51.1%,74.7%,0.23644311058639433,Strong,Total
+Detroit Tigers vs Washington Nationals,Detroit Tigers ML,-133,55.0%,69.8%,0.14813716626096363,Strong,Moneyline
+Baltimore Orioles vs Toronto Blue Jays,Baltimore Orioles +1.5,-185,62.5%,74.0%,0.11489442019033302,Good,Run Line
+Detroit Tigers vs Washington Nationals,Detroit Tigers -1.5,+155,37.9%,48.9%,0.11014879656356902,Good,Run Line

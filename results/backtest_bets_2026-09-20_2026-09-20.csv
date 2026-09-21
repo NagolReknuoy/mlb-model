@@ -1,0 +1,21 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Total,OVER  7.5,-114.0,0.1345,0.5092,0.6437,True,0.8772,2026-09-20,New York Mets vs Philadelphia Phillies
+Run Line,Pittsburgh Pirates +1.5,-196.0,0.1851,0.6326,0.8177,True,0.5102,2026-09-20,Pittsburgh Pirates vs Kansas City Royals
+Total,UNDER 8.5,-115.0,0.2,0.5108,0.8686,True,0.8696,2026-09-20,Pittsburgh Pirates vs Kansas City Royals
+Moneyline,Chicago Cubs ML,-163.5,0.1853,0.5947,0.78,True,0.6116,2026-09-20,Cincinnati Reds vs Chicago Cubs
+Total,UNDER 9.5,-110.0,0.2,0.5,0.7789,False,-1.0,2026-09-20,Cincinnati Reds vs Chicago Cubs
+Moneyline,Cleveland Guardians ML,-250.0,0.0982,0.6818,0.78,True,0.4,2026-09-20,Cleveland Guardians vs Athletics
+Total,UNDER 7.5,-115.0,0.2,0.512,0.73,True,0.8696,2026-09-20,Tampa Bay Rays vs Boston Red Sox
+Moneyline,Atlanta Braves ML,130.0,0.25,0.4158,0.768,True,1.3,2026-09-20,Houston Astros vs Atlanta Braves
+Moneyline,Detroit Tigers ML,100.0,0.25,0.4783,0.775,False,-1.0,2026-09-20,Chicago White Sox vs Detroit Tigers
+Moneyline,Washington Nationals ML,109.0,0.25,0.4584,0.713,False,-1.0,2026-09-20,St. Louis Cardinals vs Washington Nationals
+Moneyline,Texas Rangers ML,-174.5,0.0725,0.6095,0.682,False,-1.0,2026-09-20,Texas Rangers vs Toronto Blue Jays
+Run Line,Texas Rangers -1.5,128.5,0.131,0.4198,0.5508,False,-1.0,2026-09-20,Texas Rangers vs Toronto Blue Jays
+Moneyline,Seattle Mariners ML,-165.0,0.1304,0.5956,0.726,True,0.6061,2026-09-20,Colorado Rockies vs Seattle Mariners
+Total,UNDER 11.0,-111.0,0.2,0.4953,0.9051,True,0.9009,2026-09-20,Colorado Rockies vs Seattle Mariners
+Moneyline,Los Angeles Angels ML,-104.5,0.1864,0.4886,0.675,False,-1.0,2026-09-20,Los Angeles Angels vs Minnesota Twins
+Total,UNDER 8.0,-109.0,0.2,0.4978,0.7665,False,-1.0,2026-09-20,Los Angeles Angels vs Minnesota Twins
+Moneyline,Los Angeles Dodgers ML,-276.5,0.0783,0.7047,0.783,True,0.3617,2026-09-20,Los Angeles Dodgers vs San Francisco Giants
+Total,UNDER 8.5,-114.5,0.1535,0.5103,0.6638,True,0.8734,2026-09-20,Los Angeles Dodgers vs San Francisco Giants
+Moneyline,New York Yankees ML,102.5,0.25,0.4742,0.778,False,-1.0,2026-09-20,Arizona Diamondbacks vs New York Yankees
+Moneyline,Milwaukee Brewers ML,-220.0,0.1119,0.6581,0.77,True,0.4545,2026-09-20,Baltimore Orioles vs Milwaukee Brewers
