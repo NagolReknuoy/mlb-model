@@ -1,0 +1,6 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Baltimore Orioles +1.5,-190.0,0.1484,0.6283,0.7767,True,0.5263,2026-09-21,Baltimore Orioles vs Toronto Blue Jays
+Total,UNDER 7.5,-116.5,0.2,0.5141,0.7393,True,0.8584,2026-09-21,Baltimore Orioles vs Toronto Blue Jays
+Moneyline,Detroit Tigers ML,-135.0,0.1536,0.5514,0.705,True,0.7407,2026-09-21,Detroit Tigers vs Washington Nationals
+Run Line,Detroit Tigers -1.5,149.5,0.1708,0.3833,0.5542,True,1.495,2026-09-21,Detroit Tigers vs Washington Nationals
+Run Line,San Francisco Giants +1.5,-155.5,0.0881,0.5833,0.6714,True,0.6431,2026-09-21,San Francisco Giants vs Minnesota Twins

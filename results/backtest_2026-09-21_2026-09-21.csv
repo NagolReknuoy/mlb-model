@@ -1,0 +1,4 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-09-21,Baltimore Orioles,Toronto Blue Jays,4,3,7,Baltimore Orioles,Baltimore Orioles,55.4,44.6,True,55.4,7.27,0.2699999999999996,False,HIGH,7.5,UNDER
+2026-09-21,Detroit Tigers,Washington Nationals,9,2,11,Detroit Tigers,Detroit Tigers,70.5,29.5,True,70.5,9.57,1.4299999999999997,True,LOW,8.5,OVER
+2026-09-21,San Francisco Giants,Minnesota Twins,5,2,7,San Francisco Giants,Minnesota Twins,48.0,52.0,False,52.0,9.04,2.039999999999999,False,HIGH,8.0,UNDER

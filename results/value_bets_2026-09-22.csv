@@ -1,0 +1,21 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Philadelphia Phillies vs Milwaukee Brewers,Milwaukee Brewers ML,+120,43.8%,78.3%,0.34504379562043785,Strong,Moneyline
+Seattle Mariners vs Houston Astros,Seattle Mariners ML,-135,55.4%,77.6%,0.22225902012913024,Strong,Moneyline
+Kansas City Royals vs Chicago White Sox,Chicago White Sox ML,-118,52.0%,73.9%,0.21917621145374466,Strong,Moneyline
+San Francisco Giants vs Minnesota Twins,San Francisco Giants ML,+114,44.9%,66.2%,0.21265673246793154,Strong,Moneyline
+Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers ML,-130,54.5%,75.3%,0.20790506329113922,Strong,Moneyline
+Seattle Mariners vs Houston Astros,Seattle Mariners -1.5,+156,37.7%,56.2%,0.18574942597673483,Strong,Run Line
+Chicago Cubs vs Miami Marlins,OVER  6.5,-118,51.7%,68.0%,0.1622626060107244,Strong,Total
+Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers -1.5,+158,37.4%,53.4%,0.16012900724743184,Strong,Run Line
+New York Yankees (G1) vs Tampa Bay Rays,Tampa Bay Rays ML,+113,45.1%,60.6%,0.15549751646066756,Strong,Moneyline
+Atlanta Braves vs Cincinnati Reds,Atlanta Braves ML,-189,62.9%,77.1%,0.1422219496217132,Strong,Moneyline
+New York Yankees (G2) vs Tampa Bay Rays,Tampa Bay Rays ML,+113,45.1%,58.9%,0.13849751646066755,Strong,Moneyline
+New York Yankees (G2) vs Tampa Bay Rays,Tampa Bay Rays +1.5,-200,64.2%,77.5%,0.1331532239880665,Strong,Run Line
+New York Yankees (G1) vs Tampa Bay Rays,Tampa Bay Rays +1.5,-200,64.2%,77.1%,0.1294885676249703,Strong,Run Line
+Pittsburgh Pirates vs St. Louis Cardinals,Pittsburgh Pirates ML,-172,60.8%,73.4%,0.12626997404095774,Strong,Moneyline
+Kansas City Royals vs Chicago White Sox,Chicago White Sox -1.5,+144,39.4%,51.9%,0.124951877634989,Strong,Run Line
+Boston Red Sox vs Cleveland Guardians,Cleveland Guardians +1.5,-205,64.6%,76.7%,0.12124964243987091,Strong,Run Line
+Pittsburgh Pirates vs St. Louis Cardinals,Pittsburgh Pirates -1.5,+135,40.9%,52.1%,0.11189322069807606,Good,Run Line
+Atlanta Braves vs Cincinnati Reds,Atlanta Braves -1.5,+110,45.6%,56.2%,0.10590808605487223,Good,Run Line
+New York Yankees (G1) vs Tampa Bay Rays,OVER  6.0,-110,50.3%,59.7%,0.09357165349960994,Good,Total
+Colorado Rockies vs Arizona Diamondbacks,Arizona Diamondbacks ML,-194,63.6%,70.9%,0.07281635936146524,Lean,Moneyline
