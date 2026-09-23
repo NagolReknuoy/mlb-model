@@ -1,0 +1,21 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,Tampa Bay Rays ML,107.5,0.1401,0.4619,0.602,False,-1.0,2026-09-22,New York Yankees vs Tampa Bay Rays
+Run Line,Tampa Bay Rays +1.5,-216.5,0.117,0.6508,0.7679,False,-1.0,2026-09-22,New York Yankees vs Tampa Bay Rays
+Total,OVER  6.0,-107.5,0.0959,0.4915,0.5874,False,-1.0,2026-09-22,New York Yankees vs Tampa Bay Rays
+Moneyline,Tampa Bay Rays ML,107.5,0.1411,0.4619,0.603,True,1.075,2026-09-22,New York Yankees vs Tampa Bay Rays
+Run Line,Tampa Bay Rays +1.5,-216.5,0.1277,0.6508,0.7785,True,0.4619,2026-09-22,New York Yankees vs Tampa Bay Rays
+Moneyline,Pittsburgh Pirates ML,-170.0,0.1342,0.6018,0.736,True,0.5882,2026-09-22,Pittsburgh Pirates vs St. Louis Cardinals
+Run Line,Pittsburgh Pirates -1.5,134.5,0.1462,0.4087,0.5549,True,1.345,2026-09-22,Pittsburgh Pirates vs St. Louis Cardinals
+Moneyline,Milwaukee Brewers ML,130.0,0.25,0.417,0.774,False,-1.0,2026-09-22,Philadelphia Phillies vs Milwaukee Brewers
+Moneyline,Atlanta Braves ML,-235.0,0.1036,0.6704,0.774,False,-1.0,2026-09-22,Atlanta Braves vs Cincinnati Reds
+Total,UNDER 9.5,-120.0,0.2,0.5217,0.7779,True,0.8333,2026-09-22,Atlanta Braves vs Cincinnati Reds
+Moneyline,Chicago White Sox ML,-120.0,0.2333,0.5217,0.755,True,0.8333,2026-09-22,Kansas City Royals vs Chicago White Sox
+Run Line,Chicago White Sox -1.5,141.5,0.1329,0.3967,0.5296,True,1.415,2026-09-22,Kansas City Royals vs Chicago White Sox
+Total,OVER  6.5,-116.5,0.1614,0.5141,0.6755,True,0.8584,2026-09-22,Chicago Cubs vs Miami Marlins
+Moneyline,Arizona Diamondbacks ML,-185.0,0.1351,0.6229,0.758,True,0.5405,2026-09-22,Colorado Rockies vs Arizona Diamondbacks
+Total,UNDER 11.0,-115.0,0.2,0.5026,0.9206,True,0.8696,2026-09-22,Colorado Rockies vs Arizona Diamondbacks
+Moneyline,Los Angeles Angels ML,-110.0,0.1045,0.5005,0.605,False,-1.0,2026-09-22,Athletics vs Los Angeles Angels
+Total,UNDER 9.5,-115.0,0.2,0.5108,0.8739,False,-1.0,2026-09-22,Athletics vs Los Angeles Angels
+Moneyline,Seattle Mariners ML,-134.5,0.2255,0.5505,0.776,False,-1.0,2026-09-22,Seattle Mariners vs Houston Astros
+Moneyline,San Francisco Giants ML,120.0,0.2371,0.4369,0.674,False,-1.0,2026-09-22,San Francisco Giants vs Minnesota Twins
+Moneyline,Los Angeles Dodgers ML,-128.0,0.2239,0.5351,0.759,True,0.7812,2026-09-22,Los Angeles Dodgers vs San Diego Padres

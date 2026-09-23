@@ -1,0 +1,21 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Seattle Mariners vs Houston Astros,Seattle Mariners ML,-126,53.7%,78.3%,0.24603884609080473,Strong,Moneyline
+Philadelphia Phillies vs Milwaukee Brewers,Milwaukee Brewers ML,-126,53.6%,76.8%,0.23223729509880442,Strong,Moneyline
+San Francisco Giants vs Minnesota Twins,UNDER 8.0,-115,51.1%,73.3%,0.22190023255934022,Strong,Total
+Seattle Mariners vs Houston Astros,Seattle Mariners -1.5,+155,37.8%,56.2%,0.18437420113961994,Strong,Run Line
+San Francisco Giants vs Minnesota Twins,San Francisco Giants +1.5,-125,53.6%,71.4%,0.1779540658543427,Strong,Run Line
+Pittsburgh Pirates vs St. Louis Cardinals,UNDER 7.5,-120,52.2%,69.7%,0.1752791118311987,Strong,Total
+Philadelphia Phillies vs Milwaukee Brewers,Milwaukee Brewers -1.5,+140,40.1%,56.2%,0.16143190574213084,Strong,Run Line
+Baltimore Orioles (G2) vs Toronto Blue Jays,Toronto Blue Jays +1,-148,56.5%,72.1%,0.15568533703498322,Strong,Run Line
+Kansas City Royals vs Chicago White Sox,Chicago White Sox ML,-116,51.9%,67.1%,0.15189767566123424,Strong,Moneyline
+New York Yankees vs Tampa Bay Rays,Tampa Bay Rays ML,+119,44.1%,58.9%,0.14843874717707595,Strong,Moneyline
+Baltimore Orioles (G1) vs Toronto Blue Jays,Toronto Blue Jays +1,-148,56.5%,69.6%,0.1307516265148312,Strong,Run Line
+Chicago Cubs vs Miami Marlins,Chicago Cubs ML,-174,61.3%,74.3%,0.1304105703701608,Strong,Moneyline
+New York Yankees vs Tampa Bay Rays,Tampa Bay Rays +1.5,-200,64.0%,77.0%,0.12973840628514854,Strong,Run Line
+Chicago Cubs vs Miami Marlins,OVER  6.5,-120,52.2%,64.9%,0.12720606217877894,Strong,Total
+Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers ML,-220,66.1%,77.1%,0.11048652662847436,Good,Moneyline
+Chicago Cubs vs Miami Marlins,Chicago Cubs -1.5,+130,42.0%,51.9%,0.09853757848486094,Good,Run Line
+Boston Red Sox vs Cleveland Guardians,Cleveland Guardians +1.5,-199,63.8%,73.4%,0.09604398717005258,Good,Run Line
+Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers -1.5,-102,48.4%,56.2%,0.07872661660512709,Lean,Run Line
+Colorado Rockies vs Arizona Diamondbacks,Arizona Diamondbacks ML,-158,59.1%,66.3%,0.07195257418209478,Lean,Moneyline
+Atlanta Braves vs Cincinnati Reds,Atlanta Braves ML,-270,70.2%,77.4%,0.07188261814668717,Lean,Moneyline
