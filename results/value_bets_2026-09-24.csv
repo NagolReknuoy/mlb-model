@@ -1,0 +1,10 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+Philadelphia Phillies vs Milwaukee Brewers,Milwaukee Brewers ML,+114,44.9%,77.5%,0.326441114716549,Strong,Moneyline
+Los Angeles Dodgers vs San Diego Padres,UNDER 8.0,-118,51.7%,74.1%,0.22394918281617648,Strong,Total
+Seattle Mariners vs Los Angeles Angels,Seattle Mariners ML,-218,66.2%,77.9%,0.11676607044228238,Good,Moneyline
+Atlanta Braves vs Cincinnati Reds,Atlanta Braves ML,-225,66.8%,77.7%,0.10948081841432233,Good,Moneyline
+New York Yankees vs Tampa Bay Rays,Tampa Bay Rays +1.5,-183,62.3%,71.9%,0.09574830352531216,Good,Run Line
+Seattle Mariners vs Los Angeles Angels,Seattle Mariners -1.5,+100,47.8%,56.2%,0.0840787517593643,Good,Run Line
+Boston Red Sox vs Cleveland Guardians,Cleveland Guardians +1.5,-200,64.1%,71.9%,0.0780097828186136,Lean,Run Line
+Los Angeles Dodgers vs San Diego Padres,Los Angeles Dodgers ML,-174,61.0%,68.7%,0.07729115150133903,Lean,Moneyline
+Atlanta Braves vs Cincinnati Reds,Atlanta Braves -1.5,-104,48.8%,56.2%,0.07434311324950538,Lean,Run Line
