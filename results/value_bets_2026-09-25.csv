@@ -1,0 +1,17 @@
+Game,Bet,Odds,Book_Prob,Model_Prob,Edge,Rating,Type
+New York Yankees (G2) vs Baltimore Orioles,New York Yankees (G2) ML,-119,52.2%,75.6%,0.23396765533948782,Strong,Moneyline
+Milwaukee Brewers vs St. Louis Cardinals,UNDER 8.0,-118,51.5%,74.8%,0.2327136113592425,Strong,Total
+Kansas City Royals vs Cleveland Guardians,Cleveland Guardians ML,-142,56.5%,77.4%,0.2093927530495484,Strong,Moneyline
+New York Yankees (G2) vs Baltimore Orioles,New York Yankees (G2) -1.5,+163,36.3%,53.7%,0.17419186964492034,Strong,Run Line
+Washington Nationals vs New York Mets,Washington Nationals +1.5,-180,61.6%,76.3%,0.1461120984786468,Strong,Run Line
+Philadelphia Phillies vs Tampa Bay Rays,Tampa Bay Rays +1.5,-152,58.3%,71.9%,0.13593503328992873,Strong,Run Line
+Kansas City Royals vs Cleveland Guardians,Cleveland Guardians -1.5,+122,43.4%,56.2%,0.12876719867176079,Strong,Run Line
+San Diego Padres vs Arizona Diamondbacks,OVER  7.5,-112,50.8%,63.7%,0.12876630209546647,Strong,Total
+Athletics vs Houston Astros,Athletics +1.5,-110,50.0%,60.4%,0.10392163103470375,Good,Run Line
+Washington Nationals vs New York Mets,Washington Nationals ML,-108,49.8%,59.4%,0.0961949078138718,Good,Moneyline
+New York Yankees (G1) vs Baltimore Orioles,New York Yankees (G1) ML,-119,52.2%,61.8%,0.09596765533948792,Good,Moneyline
+Minnesota Twins vs Texas Rangers,Minnesota Twins +1.5,-184,62.5%,71.5%,0.09053680729069069,Good,Run Line
+Miami Marlins vs Atlanta Braves,Miami Marlins +1.5,-175,60.9%,68.9%,0.07980440220974927,Lean,Run Line
+Toronto Blue Jays vs Cincinnati Reds,Toronto Blue Jays ML,-136,55.5%,63.1%,0.07648474781032921,Lean,Moneyline
+Milwaukee Brewers vs St. Louis Cardinals,Milwaukee Brewers ML,-187,62.6%,70.0%,0.07389752341744937,Lean,Moneyline
+Detroit Tigers vs Pittsburgh Pirates,Detroit Tigers +1.5,-185,62.8%,70.0%,0.07206034097498226,Lean,Run Line

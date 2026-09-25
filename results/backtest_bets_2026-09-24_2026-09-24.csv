@@ -1,0 +1,12 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Run Line,Pittsburgh Pirates -1.5,143.0,0.1043,0.3953,0.4995,False,-1.0,2026-09-24,Pittsburgh Pirates vs St. Louis Cardinals
+Total,UNDER 7.0,-110.0,0.2,0.4973,0.7529,True,0.9091,2026-09-24,Pittsburgh Pirates vs St. Louis Cardinals
+Run Line,Chicago Cubs -1.5,105.0,0.1214,0.4675,0.589,False,-1.0,2026-09-24,Chicago Cubs vs Miami Marlins
+Total,OVER  7.0,-110.0,0.1046,0.5,0.6046,False,-1.0,2026-09-24,Chicago Cubs vs Miami Marlins
+Run Line,Arizona Diamondbacks -1.5,-122.5,0.0891,0.5265,0.6156,True,0.8163,2026-09-24,Colorado Rockies vs Arizona Diamondbacks
+Total,UNDER 10.0,-110.0,0.2,0.5,0.8279,False,-1.0,2026-09-24,Colorado Rockies vs Arizona Diamondbacks
+Moneyline,Milwaukee Brewers ML,112.0,0.25,0.4525,0.777,True,1.12,2026-09-24,Philadelphia Phillies vs Milwaukee Brewers
+Moneyline,Atlanta Braves ML,-230.0,0.1038,0.6682,0.772,False,-1.0,2026-09-24,Atlanta Braves vs Cincinnati Reds
+Total,UNDER 11.0,-110.0,0.2,0.5,0.8645,False,-1.0,2026-09-24,Athletics vs Houston Astros
+Moneyline,Seattle Mariners ML,-200.0,0.1344,0.6386,0.773,False,-1.0,2026-09-24,Seattle Mariners vs Los Angeles Angels
+Moneyline,Los Angeles Dodgers ML,-175.0,0.0828,0.6092,0.692,False,-1.0,2026-09-24,Los Angeles Dodgers vs San Diego Padres

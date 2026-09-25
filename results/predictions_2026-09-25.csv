@@ -1,0 +1,18 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Boston Red Sox (G1),Chicago Cubs,Alec Gamboa,Clay Holmes,43.6,56.4,7.41,1.051,hitter,Green Monster 37ft LF wall,"61°F, wind 14 mph",1.065,no prior meetings,2.941,3.899
+Boston Red Sox (G2),Chicago Cubs,Brayan Bello,David Peterson,43.5,56.5,7.4,1.051,hitter,Green Monster 37ft LF wall,"61°F, wind 14 mph",1.065,no prior meetings,2.9,3.901
+New York Yankees (G1),Baltimore Orioles,Brendan Beck,Trevor Rogers,61.8,38.2,7.72,1.071,hitter,short porches both sides,"68°F, wind 16 mph",1.082,8-2 (home-away),4.253,2.949
+New York Yankees (G2),Baltimore Orioles,Nan,Brandon Young,75.6,24.4,8.84,1.071,hitter,short porches both sides,"68°F, wind 16 mph",1.082,8-2 (home-away),5.309,2.658
+Detroit Tigers,Pittsburgh Pirates,Jackson Jobe,Bubba Chandler,47.1,52.9,7.17,0.96,pitcher,very deep CF historically,"65°F, wind 4 mph",0.998,1-2 (home-away),3.452,3.634
+Philadelphia Phillies,Tampa Bay Rays,Cristopher Sánchez,Freddy Peralta,50.3,49.7,7.0,1.04,hitter,high HR rate historically,"68°F, wind 13 mph",1.065,no prior meetings,2.563,3.06
+Washington Nationals,New York Mets,Andrew Alvarez,Nan,59.4,40.6,9.05,1.02,neutral,cold Aprils very suppressive (-9 pts),"66°F, wind 9 mph",1.043,4-6 (home-away),4.824,4.207
+Toronto Blue Jays,Cincinnati Reds,Nan,Nick Lodolo,63.1,36.9,7.86,1.0,neutral,turf boosts groundball singles,dome,1.0,no prior meetings,4.309,2.885
+Miami Marlins,Atlanta Braves,Eury Pérez,Nan,49.1,50.9,9.63,1.049,neutral,roof often closed; average park,dome,1.0,2-8 (home-away),4.808,4.805
+Kansas City Royals,Cleveland Guardians,Noah Cameron,Gavin Williams,22.6,77.4,9.01,1.02,pitcher,large dimensions; spray park,"68°F, wind 6 mph",1.029,5-5 (home-away),2.553,6.648
+Chicago White Sox,Colorado Rockies,Sean Burke,Tomoyuki Sugano,69.2,30.8,9.62,0.949,neutral,July is extreme hitter month (+12 pts),"58°F, wind 7 mph",0.995,no prior meetings,8.932,4.144
+Milwaukee Brewers,St. Louis Cardinals,Robert Gasser,Michael Mcgreevy,70.0,30.0,8.26,0.931,pitcher,large dimensions suppress HRs,dome,1.0,8-2 (home-away),4.767,2.062
+Minnesota Twins,Texas Rangers,Joe Ryan,Jacob Degrom,49.6,50.4,7.05,1.01,neutral,cold Aprils suppress offense (-8 pts),"67°F, wind 4 mph",0.981,3-0 (home-away),2.9,3.527
+Athletics,Houston Astros,Jacob Lopez,Hunter Brown,41.7,58.3,10.26,1.028,pitcher,largest foul territory in MLB,"66°F, wind 4 mph",0.998,5-5 (home-away),4.822,6.532
+San Diego Padres,Arizona Diamondbacks,Nan,Brandon Pfaadt,57.0,43.0,10.45,0.912,pitcher,marine layer; large dimensions,"72°F, wind 6 mph",1.032,5-5 (home-away),6.15,4.948
+Seattle Mariners,Los Angeles Angels,Bryce Miller,Reid Detmers,55.5,44.5,7.6,0.989,pitcher,marine air; roof often closed,dome,1.0,5-5 (home-away),3.956,3.628
+San Francisco Giants,Los Angeles Dodgers,Yunior Marte,Tarik Skubal,22.1,77.9,8.97,0.884,pitcher,marine layer; bay wind tricky in RF,"64°F, wind 14 mph",0.997,4-6 (home-away),1.874,6.15
