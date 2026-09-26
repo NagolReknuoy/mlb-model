@@ -1,0 +1,18 @@
+date,home,away,home_score,away_score,actual_total,actual_winner,model_pick,home_win_pct,away_win_pct,ml_correct,confidence,xTotal_Runs,runs_error,rl_cover,model_bias,ou_line,ou_result
+2026-09-25,Boston Red Sox (DH-1),Chicago Cubs,4,3,7,Boston Red Sox,Chicago Cubs,46.0,54.0,False,54.0,7.26,0.2599999999999998,False,HIGH,6.5,OVER
+2026-09-25,Boston Red Sox (DH-2),Chicago Cubs,2,0,2,Boston Red Sox,Chicago Cubs,47.2,52.8,False,52.8,7.15,5.15,False,HIGH,6.5,UNDER
+2026-09-25,New York Yankees (DH-1),Baltimore Orioles,2,10,12,Baltimore Orioles,New York Yankees,61.3,38.7,False,61.3,7.69,4.31,False,LOW,6.5,OVER
+2026-09-25,New York Yankees (DH-2),Baltimore Orioles,6,3,9,New York Yankees,New York Yankees,75.2,24.8,True,75.2,8.8,0.1999999999999993,True,LOW,6.5,OVER
+2026-09-25,Detroit Tigers,Pittsburgh Pirates,8,7,15,Detroit Tigers,Pittsburgh Pirates,49.3,50.7,False,50.7,7.13,7.87,False,LOW,8.0,OVER
+2026-09-25,Philadelphia Phillies,Tampa Bay Rays,0,2,2,Tampa Bay Rays,Philadelphia Phillies,50.1,49.9,False,50.1,7.02,5.02,False,HIGH,6.5,UNDER
+2026-09-25,Washington Nationals,New York Mets,7,6,13,Washington Nationals,Washington Nationals,65.7,34.3,True,65.7,9.59,3.41,False,LOW,8.5,OVER
+2026-09-25,Toronto Blue Jays,Cincinnati Reds,6,5,11,Toronto Blue Jays,Toronto Blue Jays,63.4,36.6,True,63.4,7.79,3.21,False,LOW,7.5,OVER
+2026-09-25,Miami Marlins,Atlanta Braves,3,0,3,Miami Marlins,Atlanta Braves,40.7,59.3,False,59.3,8.97,5.970000000000001,False,HIGH,8.0,UNDER
+2026-09-25,Kansas City Royals,Cleveland Guardians,9,12,21,Cleveland Guardians,Cleveland Guardians,22.5,77.5,True,77.5,8.99,12.01,True,LOW,7.0,OVER
+2026-09-25,Chicago White Sox,Colorado Rockies,6,1,7,Chicago White Sox,Chicago White Sox,69.6,30.4,True,69.6,9.62,2.619999999999999,True,HIGH,8.0,UNDER
+2026-09-25,Milwaukee Brewers,St. Louis Cardinals,8,4,12,Milwaukee Brewers,Milwaukee Brewers,69.8,30.2,True,69.8,8.27,3.7300000000000004,True,LOW,7.5,OVER
+2026-09-25,Minnesota Twins,Texas Rangers,10,2,12,Minnesota Twins,Texas Rangers,48.2,51.8,False,51.8,7.0,5.0,False,LOW,7.0,OVER
+2026-09-25,Athletics,Houston Astros,6,5,11,Athletics,Houston Astros,41.6,58.4,False,58.4,10.34,0.6600000000000001,False,LOW,9.5,OVER
+2026-09-25,San Diego Padres,Arizona Diamondbacks,4,11,15,Arizona Diamondbacks,San Diego Padres,57.4,42.6,False,57.4,10.41,4.59,False,LOW,7.5,OVER
+2026-09-25,Seattle Mariners,Los Angeles Angels,5,7,12,Los Angeles Angels,Seattle Mariners,55.4,44.6,False,55.4,7.59,4.41,False,LOW,6.5,OVER
+2026-09-25,San Francisco Giants,Los Angeles Dodgers,0,2,2,Los Angeles Dodgers,Los Angeles Dodgers,22.4,77.6,True,77.6,9.0,7.0,True,HIGH,7.5,UNDER

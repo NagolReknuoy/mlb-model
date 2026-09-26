@@ -1,0 +1,14 @@
+Home,Away,Home_SP,Away_SP,Home_Win_Pct,Away_Win_Pct,xTotal_Runs,Park_Factor,Park_Type,Park_Note,Weather,Wx_Mult,H2H,Home_lambda,Away_lambda
+Washington Nationals,New York Mets,Connelly Early,Jonah Tong,68.5,31.5,9.74,1.02,neutral,cold Aprils very suppressive (-9 pts),unknown,1.0,5-6 (home-away),5.613,4.206
+Detroit Tigers,Pittsburgh Pirates,Justin Verlander,Kirby Yates,49.6,50.4,7.82,0.96,pitcher,very deep CF historically,unknown,1.0,2-2 (home-away),3.899,3.889
+Toronto Blue Jays,Cincinnati Reds,Trey Yesavage,Rhett Lowder,64.5,35.5,8.35,1.0,neutral,turf boosts groundball singles,dome,1.0,1-0 (home-away),4.652,3.7
+San Francisco Giants,Los Angeles Dodgers,Matt Wilkinson,Blake Snell,39.3,60.7,7.64,0.884,pitcher,marine layer; bay wind tricky in RF,"60°F, wind 13 mph",0.996,4-7 (home-away),1.641,4.119
+Minnesota Twins,Texas Rangers,Bailey Ober,Nathan Eovaldi,57.1,42.9,7.39,1.01,neutral,cold Aprils suppress offense (-8 pts),"60°F, wind 5 mph",0.978,4-0 (home-away),3.892,2.978
+Miami Marlins,Atlanta Braves,Jack Ralston,Brent Suter,45.4,54.6,7.78,1.049,neutral,roof often closed; average park,dome,1.0,3-8 (home-away),3.75,4.047
+Kansas City Royals,Cleveland Guardians,Michael Wacha,Tanner Bibee,30.8,69.2,9.55,1.02,pitcher,large dimensions; spray park,"73°F, wind 3 mph",1.017,5-6 (home-away),4.062,7.392
+Chicago White Sox,Colorado Rockies,Davis Martin,Jose Quintana,78.0,22.0,9.0,0.949,neutral,July is extreme hitter month (+12 pts),"57°F, wind 7 mph",0.995,1-0 (home-away),9.29,3.145
+Milwaukee Brewers,St. Louis Cardinals,Dustin May,Quinn Mathews,77.4,22.6,9.01,0.931,pitcher,large dimensions suppress HRs,dome,1.0,9-2 (home-away),6.322,2.023
+Philadelphia Phillies,Tampa Bay Rays,Nan,Griffin Jax,49.7,50.3,6.96,1.04,hitter,high HR rate historically,"57°F, wind 13 mph",1.058,0-1 (home-away),1.713,3.34
+San Diego Padres,Arizona Diamondbacks,Walker Buehler,Nan,49.5,50.5,10.98,0.912,pitcher,marine layer; large dimensions,"72°F, wind 4 mph",1.02,5-6 (home-away),5.862,6.487
+Athletics,Houston Astros,Jack Perkins,Hayden Wesneski,29.6,70.4,9.49,1.028,pitcher,largest foul territory in MLB,"62°F, wind 4 mph",0.997,6-5 (home-away),3.98,6.015
+Seattle Mariners,Los Angeles Angels,Kade Anderson,Ryan Johnson,69.4,30.6,8.26,0.989,pitcher,marine air; roof often closed,dome,1.0,5-6 (home-away),4.761,3.426

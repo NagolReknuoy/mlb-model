@@ -1,0 +1,14 @@
+type,bet,odds,edge,book_prob,model_prob,won,profit,date,game
+Moneyline,New York Yankees ML,-113.0,0.1042,0.5088,0.613,False,-1.0,2026-09-25,New York Yankees vs Baltimore Orioles
+Moneyline,New York Yankees ML,-113.0,0.2432,0.5088,0.752,True,0.885,2026-09-25,New York Yankees vs Baltimore Orioles
+Total,UNDER 8.0,-112.5,0.2,0.5027,0.8556,False,-1.0,2026-09-25,Detroit Tigers vs Pittsburgh Pirates
+Moneyline,Washington Nationals ML,-110.0,0.1559,0.5011,0.657,True,0.9091,2026-09-25,Washington Nationals vs New York Mets
+Run Line,Washington Nationals +1.5,-181.0,0.1877,0.615,0.8027,True,0.5525,2026-09-25,Washington Nationals vs New York Mets
+Total,UNDER 7.5,-105.0,0.1886,0.4892,0.6778,False,-1.0,2026-09-25,Toronto Blue Jays vs Cincinnati Reds
+Moneyline,Atlanta Braves ML,-116.0,0.08,0.513,0.593,False,-1.0,2026-09-25,Miami Marlins vs Atlanta Braves
+Moneyline,Cleveland Guardians ML,-140.5,0.2148,0.5602,0.775,True,0.7117,2026-09-25,Kansas City Royals vs Cleveland Guardians
+Moneyline,Milwaukee Brewers ML,-190.0,0.0724,0.6256,0.698,True,0.5263,2026-09-25,Milwaukee Brewers vs St. Louis Cardinals
+Total,UNDER 7.0,-109.5,0.2,0.4968,0.7697,False,-1.0,2026-09-25,Minnesota Twins vs Texas Rangers
+Run Line,San Diego Padres +1.5,-193.5,0.1631,0.6316,0.7946,False,-1.0,2026-09-25,San Diego Padres vs Arizona Diamondbacks
+Total,OVER  7.5,-115.0,0.1215,0.5108,0.6323,True,0.8696,2026-09-25,San Diego Padres vs Arizona Diamondbacks
+Run Line,Seattle Mariners +1.5,-215.5,0.0978,0.6522,0.75,False,-1.0,2026-09-25,Seattle Mariners vs Los Angeles Angels
